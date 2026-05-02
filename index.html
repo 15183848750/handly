@@ -106,7 +106,7 @@
       <p style="text-transform: uppercase;font-size:0.75rem;color:var(--muted);letter-spacing:2px;margin-bottom:12px;">一次购买 · 永久使用</p>
       <p class="price"><span class="currency">¥</span>29<span class="currency">.99</span></p>
       <p class="one-time">无需订阅，一次付款，永久有效</p>
-      <a href="https://buy.paddle.com/checkout/TODO" class="btn" id="buy-btn">立即购买</a>
+      <a href="#" class="btn" id="buy-btn">立即购买</a>
     </div>
 
     <div class="guarantee">
@@ -122,9 +122,23 @@
   <!-- Paddle.js -->
   <script src="https://cdn.paddle.com/paddle/v2/paddle.js"></script>
   <script>
-    // Paddle sandbox init — 替换为你的 sandbox token
-    // Paddle.Environment.set("sandbox");
-    // Paddle.Initialize({ token: "test_xxx", eventCallback: ... });
+    Paddle.Environment.set("production");
+    Paddle.Initialize({
+      token: "live_62bda3817bcc62f4848af4945ec",
+      checkout: { settings: { displayMode: "overlay" } },
+      eventCallback: function(data) {
+        if (data.name === "checkout.completed") {
+          alert("购买成功！请查收邮件获取下载链接。");
+        }
+      }
+    });
+
+    document.getElementById("buy-btn").addEventListener("click", function(e) {
+      e.preventDefault();
+      Paddle.Checkout.open({
+        items: [{ priceId: "pri_01kqn3rz80gzc7w41j6wtdfkzn", quantity: 1 }]
+      });
+    });
   </script>
 </body>
 </html>
