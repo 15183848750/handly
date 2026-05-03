@@ -65,6 +65,15 @@
       cursor: pointer;
     }
     .btn:hover { background: #1d4ed8; }
+    .payment-methods { text-align: center; margin-bottom: 24px; }
+    .payment-methods .label { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; }
+    .payment-methods .badges { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; }
+    .badge {
+      display: inline-flex; align-items: center; gap: 6px;
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: 8px; padding: 8px 16px; font-size: 0.875rem; font-weight: 500;
+    }
+    .badge.paypal { background: #ffc439; border-color: #e6a817; color: #003087; font-weight: 700; }
     .guarantee { text-align: center; margin-bottom: 64px; }
     .guarantee p { color: var(--muted); font-size: 0.875rem; }
     .guarantee .icons { font-size: 1.25rem; margin-bottom: 8px; }
@@ -109,9 +118,19 @@
       <a href="#" class="btn" id="buy-btn">立即购买</a>
     </div>
 
+    <div class="payment-methods">
+      <p class="label">支持的支付方式</p>
+      <div class="badges">
+        <span class="badge paypal">🅿️ PayPal</span>
+        <span class="badge">💳 信用卡/借记卡</span>
+        <span class="badge">💚 支付宝</span>
+        <span class="badge">💬 微信支付</span>
+      </div>
+    </div>
+
     <div class="guarantee">
       <div class="icons">🛡️ 🔒</div>
-      <p>安全支付 · Paddle 全球税务代缴 · 支付宝 / 微信支付</p>
+      <p>安全支付 · Paddle 全球税务代缴 · PayPal / 支付宝 / 微信支付 / 信用卡</p>
     </div>
 
     <footer>
