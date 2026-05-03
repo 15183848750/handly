@@ -8,24 +8,50 @@
     :root { --bg: #fafafa; --card: #fff; --text: #1a1a1a; --muted: #666; --accent: #2563eb; --border: #e5e5e5; --radius: 12px; }
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
-    .container { max-width: 600px; margin: 0 auto; padding: 120px 24px; text-align: center; }
+    .container { max-width: 600px; margin: 0 auto; padding: 80px 24px; text-align: center; }
     .icon { font-size: 5rem; margin-bottom: 24px; }
     h1 { font-size: 2rem; margin-bottom: 12px; }
     p { color: var(--muted); margin-bottom: 32px; font-size: 1.05rem; }
+    .download-box {
+      background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: var(--radius);
+      padding: 24px; margin-bottom: 24px; text-align: left;
+    }
+    .download-box h3 { color: #065f46; font-size: 1rem; margin-bottom: 12px; }
+    .download-box ol { color: var(--muted); font-size: 0.9rem; padding-left: 20px; line-height: 1.8; }
     .btn {
       display: inline-block; background: var(--accent); color: #fff;
-      padding: 12px 32px; border-radius: 8px; text-decoration: none;
-      font-weight: 600; transition: background 0.2s;
+      padding: 14px 40px; border-radius: 8px; text-decoration: none;
+      font-weight: 600; font-size: 1.05rem; transition: background 0.2s;
+      margin: 8px;
     }
     .btn:hover { background: #1d4ed8; }
+    .btn-outline {
+      background: transparent; color: var(--accent); border: 1.5px solid var(--accent);
+    }
+    .btn-outline:hover { background: #f0f5ff; }
   </style>
 </head>
 <body>
   <div class="container">
     <div class="icon">✅</div>
     <h1>购买成功！</h1>
-    <p>感谢你购买 Handly Pro！<br>下载链接和 License Key 将在 24 小时内发送到你的 PayPal 邮箱。</p>
-    <a href="/" class="btn">返回首页</a>
+    <p>感谢你购买 Handly Pro！</p>
+
+    <div class="download-box">
+      <h3>📥 安装步骤</h3>
+      <ol>
+        <li>点击下方按钮下载 Handly 扩展文件（.zip）</li>
+        <li>解压 zip 文件到一个文件夹</li>
+        <li>打开 Chrome，地址栏输入 <code>chrome://extensions</code></li>
+        <li>右上角开启 <strong>「开发者模式」</strong></li>
+        <li>点击 <strong>「加载已解压的扩展程序」</strong></li>
+        <li>选择解压后的文件夹，完成！</li>
+      </ol>
+    </div>
+
+    <a href="/download/handly-v1.0.0.zip" class="btn">⬇ 下载 Handly v1.0.0</a>
+    <br>
+    <a href="/" class="btn btn-outline" style="margin-top:12px;">返回首页</a>
   </div>
 </body>
 </html>

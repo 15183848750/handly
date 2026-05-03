@@ -91,6 +91,25 @@
     .guarantee p { color: var(--muted); font-size: 0.875rem; }
     .guarantee .icons { font-size: 1.25rem; margin-bottom: 8px; }
 
+    /* === Product Details === */
+    .product-details {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 40px; margin-bottom: 48px;
+    }
+    .product-details h3 { font-size: 1.2rem; margin-bottom: 24px; text-align: center; }
+    .product-details .includes { list-style: none; display: flex; flex-direction: column; gap: 16px; }
+    .product-details .includes li {
+      display: flex; align-items: flex-start; gap: 12px;
+      padding: 16px; background: var(--bg); border-radius: 10px;
+    }
+    .product-details .includes .check { color: #16a34a; font-size: 1.2rem; flex-shrink: 0; margin-top: 2px; }
+    .product-details .includes strong { font-size: 0.95rem; }
+    .product-details .includes span { color: var(--muted); font-size: 0.85rem; display: block; margin-top: 2px; }
+
+    .guarantee { text-align: center; margin-bottom: 48px; }
+    .guarantee p { color: var(--muted); font-size: 0.875rem; }
+    .guarantee .icons { font-size: 1.25rem; margin-bottom: 8px; }
+
     footer { text-align: center; color: var(--muted); font-size: 0.8rem; padding: 24px 0; border-top: 1px solid var(--border); margin-top: 64px; }
     @media (max-width: 600px) {
       .payment-options { grid-template-columns: 1fr; }
@@ -127,6 +146,28 @@
         <h3>更多工具</h3>
         <p>持续更新，买断用户免费获取所有新工具</p>
       </div>
+    </div>
+
+    <div class="product-details">
+      <h3>📦 购买后你将获得</h3>
+      <ul class="includes">
+        <li>
+          <span class="check">✅</span>
+          <div><strong>Handly Chrome 扩展 v1.0.0</strong><span>一键安装到 Chrome 浏览器，即装即用</span></div>
+        </li>
+        <li>
+          <span class="check">✅</span>
+          <div><strong>截图美化工具</strong><span>截取网页 → 自动加圆角、阴影、背景。支持白底/暗色/渐变 3 种风格</span></div>
+        </li>
+        <li>
+          <span class="check">✅</span>
+          <div><strong>数据导出工具</strong><span>智能识别网页表格 → 一键导出为 CSV / Excel 格式</span></div>
+        </li>
+        <li>
+          <span class="check">✅</span>
+          <div><strong>永久更新</strong><span>一次购买，后续所有新工具免费获取。不订阅，不月费</span></div>
+        </li>
+      </ul>
     </div>
 
     <div class="pricing">
