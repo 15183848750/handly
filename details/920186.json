@@ -1,0 +1,128 @@
+{
+  "code": "920186",
+  "signal": {
+    "code": "920186",
+    "name": "中科仪",
+    "price": 86.25,
+    "change_pct": 12.01,
+    "pe": 28.13,
+    "pb": 5.64,
+    "turnover": 28.31,
+    "total_mv": 19306122375.0,
+    "change_60d": 432.08,
+    "change_ytd": 432.08
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.72亿",
+      "net_profit_yoy": "938.68%",
+      "revenue": "2.56亿",
+      "revenue_yoy": "38.90%",
+      "eps": "0.9985",
+      "roe": "6.70%",
+      "net_margin": "66.98%",
+      "debt_ratio": "32.13%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "5.74亿",
+        "net_profit": "1.38亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "8.45亿",
+        "net_profit": "5.49亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "12.91亿",
+        "net_profit": "8.44亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.56亿",
+        "net_profit": "1.72亿"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2026-04-29",
+      "open": 61.0,
+      "close": 71.98,
+      "high": 79.0,
+      "low": 60.0,
+      "volume": 533276.0,
+      "turnover": 3453749390.85
+    },
+    {
+      "date": "2026-04-30",
+      "open": 69.8,
+      "close": 76.4,
+      "high": 78.67,
+      "low": 69.2,
+      "volume": 332636.0,
+      "turnover": 2488752730.76
+    },
+    {
+      "date": "2026-05-06",
+      "open": 78.8,
+      "close": 77.0,
+      "high": 82.66,
+      "low": 76.17,
+      "volume": 300325.0,
+      "turnover": 2360655359.85
+    },
+    {
+      "date": "2026-05-07",
+      "open": 75.96,
+      "close": 86.25,
+      "high": 88.0,
+      "low": 74.5,
+      "volume": 270451.0,
+      "turnover": 2179163504.94
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 16:35:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:34:52",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 17:36:11",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 22:50:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 10:57:33",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {
+    "pe_percentile": "估值合理",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日强势上涨；年内大幅跑赢",
+    "risk_level": "中风险",
+    "risk_reasons": [
+      "换手率极高"
+    ],
+    "volatility": 0,
+    "ai_summary": "中科仪：当前PE处于估值合理区间，利润增长，营收增长。技术面：近60日强势上涨；年内大幅跑赢。风险等级中风险。"
+  },
+  "update_time": "2026-05-08 05:10:34"
+}

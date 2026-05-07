@@ -1,0 +1,211 @@
+{
+  "code": "301666",
+  "signal": {
+    "code": "301666",
+    "name": "大普微-UW",
+    "price": 432.28,
+    "change_pct": 14.06,
+    "pe": 127.45,
+    "pb": 211.59,
+    "turnover": 37.95,
+    "total_mv": 188567608101.0,
+    "change_60d": 838.11,
+    "change_ytd": 838.11
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3.70亿",
+      "net_profit_yoy": "398.88%",
+      "revenue": "13.10亿",
+      "revenue_yoy": "340.95%",
+      "eps": "0.9400",
+      "roe": "60.71%",
+      "net_margin": "28.23%",
+      "debt_ratio": "78.44%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "7.48亿",
+        "net_profit": "-3.54亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "False",
+        "net_profit": "-4.41亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "22.89亿",
+        "net_profit": "-4.81亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "13.10亿",
+        "net_profit": "3.70亿"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2026-04-16",
+      "open": 207.23,
+      "close": 244.55,
+      "high": 255.0,
+      "low": 199.99,
+      "volume": 219933.0,
+      "turnover": 4863699476.0
+    },
+    {
+      "date": "2026-04-17",
+      "open": 262.0,
+      "close": 231.5,
+      "high": 266.0,
+      "low": 229.8,
+      "volume": 177908.0,
+      "turnover": 4434999898.0
+    },
+    {
+      "date": "2026-04-20",
+      "open": 224.67,
+      "close": 237.99,
+      "high": 242.34,
+      "low": 222.22,
+      "volume": 110245.0,
+      "turnover": 2566009091.0
+    },
+    {
+      "date": "2026-04-21",
+      "open": 233.4,
+      "close": 214.55,
+      "high": 233.5,
+      "low": 211.11,
+      "volume": 99998.0,
+      "turnover": 2178330284.0
+    },
+    {
+      "date": "2026-04-22",
+      "open": 213.0,
+      "close": 224.9,
+      "high": 228.99,
+      "low": 212.66,
+      "volume": 82074.0,
+      "turnover": 1818686636.0
+    },
+    {
+      "date": "2026-04-23",
+      "open": 232.0,
+      "close": 221.99,
+      "high": 248.4,
+      "low": 221.0,
+      "volume": 89222.0,
+      "turnover": 2075202794.0
+    },
+    {
+      "date": "2026-04-24",
+      "open": 220.03,
+      "close": 234.5,
+      "high": 252.0,
+      "low": 220.0,
+      "volume": 109510.0,
+      "turnover": 2605584742.0
+    },
+    {
+      "date": "2026-04-27",
+      "open": 245.06,
+      "close": 239.71,
+      "high": 248.88,
+      "low": 234.91,
+      "volume": 86773.0,
+      "turnover": 2091554614.0
+    },
+    {
+      "date": "2026-04-28",
+      "open": 238.01,
+      "close": 252.81,
+      "high": 258.2,
+      "low": 234.5,
+      "volume": 89843.0,
+      "turnover": 2217649387.0
+    },
+    {
+      "date": "2026-04-29",
+      "open": 275.0,
+      "close": 296.0,
+      "high": 302.88,
+      "low": 262.0,
+      "volume": 102850.0,
+      "turnover": 2871068114.0
+    },
+    {
+      "date": "2026-04-30",
+      "open": 285.0,
+      "close": 318.0,
+      "high": 338.5,
+      "low": 282.0,
+      "volume": 92276.0,
+      "turnover": 2799610688.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 351.11,
+      "close": 379.0,
+      "high": 381.6,
+      "low": 351.11,
+      "volume": 89544.0,
+      "turnover": 3351697235.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 380.6,
+      "close": 432.28,
+      "high": 439.56,
+      "low": 371.0,
+      "volume": 100629.0,
+      "turnover": 4069553534.91
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 16:29:13",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:27:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:29:18",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 16:27:23",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 11:22:43",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日强势上涨；年内大幅跑赢",
+    "risk_level": "高风险",
+    "risk_reasons": [
+      "资产负债率较高(78.4%)",
+      "换手率极高",
+      "波动率大"
+    ],
+    "volatility": 7.93,
+    "ai_summary": "大普微-UW：当前PE处于高估值区间，利润增长，营收增长。技术面：近60日强势上涨；年内大幅跑赢。风险等级高风险。"
+  },
+  "update_time": "2026-05-08 05:10:16"
+}

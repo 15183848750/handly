@@ -1,0 +1,183 @@
+{
+  "code": "688820",
+  "signal": {
+    "code": "688820",
+    "name": "盛合晶微",
+    "price": 119.0,
+    "change_pct": 11.11,
+    "pe": 289.65,
+    "pb": 11.52,
+    "turnover": 30.55,
+    "total_mv": 221670117543.0,
+    "change_60d": 504.67,
+    "change_ytd": 504.67
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.91亿",
+      "net_profit_yoy": "51.55%",
+      "revenue": "16.98亿",
+      "revenue_yoy": "13.14%",
+      "eps": "0.1200",
+      "roe": "1.32%",
+      "net_margin": "11.27%",
+      "debt_ratio": "33.76%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-03-31",
+        "revenue": "15.01亿",
+        "net_profit": "1.26亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "31.78亿",
+        "net_profit": "4.35亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "65.21亿",
+        "net_profit": "9.21亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "16.98亿",
+        "net_profit": "1.91亿"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2026-04-21",
+      "open": 99.72,
+      "close": 76.65,
+      "high": 100.99,
+      "low": 75.0,
+      "volume": 1299284.0,
+      "turnover": 10371848465.0
+    },
+    {
+      "date": "2026-04-22",
+      "open": 76.01,
+      "close": 95.0,
+      "high": 96.22,
+      "low": 75.02,
+      "volume": 942851.0,
+      "turnover": 7908642405.0
+    },
+    {
+      "date": "2026-04-23",
+      "open": 94.5,
+      "close": 88.6,
+      "high": 102.5,
+      "low": 88.6,
+      "volume": 663851.0,
+      "turnover": 6158118895.0
+    },
+    {
+      "date": "2026-04-24",
+      "open": 90.5,
+      "close": 93.82,
+      "high": 103.0,
+      "low": 86.1,
+      "volume": 668417.0,
+      "turnover": 6265992953.0
+    },
+    {
+      "date": "2026-04-27",
+      "open": 96.5,
+      "close": 101.1,
+      "high": 102.33,
+      "low": 96.5,
+      "volume": 552289.0,
+      "turnover": 5489651778.0
+    },
+    {
+      "date": "2026-04-28",
+      "open": 100.0,
+      "close": 93.0,
+      "high": 100.0,
+      "low": 91.72,
+      "volume": 550015.0,
+      "turnover": 5236491570.0
+    },
+    {
+      "date": "2026-04-29",
+      "open": 91.07,
+      "close": 92.5,
+      "high": 94.33,
+      "low": 86.87,
+      "volume": 409844.0,
+      "turnover": 3727740265.0
+    },
+    {
+      "date": "2026-04-30",
+      "open": 93.79,
+      "close": 103.0,
+      "high": 107.0,
+      "low": 91.0,
+      "volume": 598629.0,
+      "turnover": 5936871893.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 108.13,
+      "close": 107.1,
+      "high": 115.4,
+      "low": 103.7,
+      "volume": 665399.0,
+      "turnover": 7315511545.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 106.2,
+      "close": 119.0,
+      "high": 122.9,
+      "low": 105.01,
+      "volume": 528214.0,
+      "turnover": 6094705691.0
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 16:55:22",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:55:58",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:55:40",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 10:32:37",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 16:55:44",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日强势上涨；年内大幅跑赢",
+    "risk_level": "高风险",
+    "risk_reasons": [
+      "换手率极高",
+      "波动率大"
+    ],
+    "volatility": 8.81,
+    "ai_summary": "盛合晶微：当前PE处于高估值区间，利润增长，营收增长。技术面：近60日强势上涨；年内大幅跑赢。风险等级高风险。"
+  },
+  "update_time": "2026-05-08 05:10:50"
+}

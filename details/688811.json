@@ -1,0 +1,246 @@
+{
+  "code": "688811",
+  "signal": {
+    "code": "688811",
+    "name": "有研复材",
+    "price": 27.89,
+    "change_pct": 6.69,
+    "pe": 13150.38,
+    "pb": 8.89,
+    "turnover": 37.46,
+    "total_mv": 13991676843.0,
+    "change_60d": 335.1,
+    "change_ytd": 335.1
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "26.60万",
+      "net_profit_yoy": "110.57%",
+      "revenue": "1.07亿",
+      "revenue_yoy": "62.22%",
+      "eps": "0.0007",
+      "roe": "0.03%",
+      "net_margin": "1.16%",
+      "debt_ratio": "22.99%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.40亿",
+        "net_profit": "1440.66万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "False",
+        "net_profit": "2313.17万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "5.75亿",
+        "net_profit": "6890.03万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.07亿",
+        "net_profit": "26.60万"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2026-04-10",
+      "open": 20.01,
+      "close": 17.12,
+      "high": 20.5,
+      "low": 16.8,
+      "volume": 714208.0,
+      "turnover": 1298815020.0
+    },
+    {
+      "date": "2026-04-13",
+      "open": 16.61,
+      "close": 18.06,
+      "high": 18.93,
+      "low": 16.5,
+      "volume": 525076.0,
+      "turnover": 931885600.0
+    },
+    {
+      "date": "2026-04-14",
+      "open": 17.85,
+      "close": 18.32,
+      "high": 19.22,
+      "low": 17.51,
+      "volume": 392203.0,
+      "turnover": 709106564.0
+    },
+    {
+      "date": "2026-04-15",
+      "open": 18.32,
+      "close": 19.8,
+      "high": 21.49,
+      "low": 18.17,
+      "volume": 522964.0,
+      "turnover": 1042251782.0
+    },
+    {
+      "date": "2026-04-16",
+      "open": 19.3,
+      "close": 18.89,
+      "high": 19.8,
+      "low": 18.41,
+      "volume": 401588.0,
+      "turnover": 758289643.0
+    },
+    {
+      "date": "2026-04-17",
+      "open": 18.59,
+      "close": 19.85,
+      "high": 21.45,
+      "low": 17.99,
+      "volume": 435864.0,
+      "turnover": 853108628.0
+    },
+    {
+      "date": "2026-04-20",
+      "open": 19.7,
+      "close": 23.82,
+      "high": 23.82,
+      "low": 19.7,
+      "volume": 486446.0,
+      "turnover": 1111598106.0
+    },
+    {
+      "date": "2026-04-21",
+      "open": 24.4,
+      "close": 25.97,
+      "high": 26.58,
+      "low": 23.66,
+      "volume": 560667.0,
+      "turnover": 1426905070.0
+    },
+    {
+      "date": "2026-04-22",
+      "open": 24.6,
+      "close": 25.07,
+      "high": 25.54,
+      "low": 24.3,
+      "volume": 425830.0,
+      "turnover": 1057247587.0
+    },
+    {
+      "date": "2026-04-23",
+      "open": 25.17,
+      "close": 23.97,
+      "high": 25.24,
+      "low": 23.67,
+      "volume": 295500.0,
+      "turnover": 715163967.0
+    },
+    {
+      "date": "2026-04-24",
+      "open": 23.8,
+      "close": 22.33,
+      "high": 23.8,
+      "low": 22.13,
+      "volume": 252033.0,
+      "turnover": 567907213.0
+    },
+    {
+      "date": "2026-04-27",
+      "open": 22.03,
+      "close": 22.6,
+      "high": 23.09,
+      "low": 21.83,
+      "volume": 197469.0,
+      "turnover": 445804777.0
+    },
+    {
+      "date": "2026-04-28",
+      "open": 22.03,
+      "close": 21.49,
+      "high": 22.29,
+      "low": 21.39,
+      "volume": 169234.0,
+      "turnover": 368590067.0
+    },
+    {
+      "date": "2026-04-29",
+      "open": 21.11,
+      "close": 21.49,
+      "high": 21.88,
+      "low": 20.84,
+      "volume": 140306.0,
+      "turnover": 301018121.0
+    },
+    {
+      "date": "2026-04-30",
+      "open": 21.48,
+      "close": 24.08,
+      "high": 24.8,
+      "low": 21.46,
+      "volume": 315385.0,
+      "turnover": 730651842.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 23.5,
+      "close": 26.14,
+      "high": 27.9,
+      "low": 23.5,
+      "volume": 361076.0,
+      "turnover": 946660317.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 26.15,
+      "close": 27.89,
+      "high": 29.62,
+      "low": 26.11,
+      "volume": 345069.0,
+      "turnover": 952653485.0
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 16:55:29",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:56:02",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:55:27",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 10:32:14",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:56:03",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日强势上涨；年内大幅跑赢",
+    "risk_level": "高风险",
+    "risk_reasons": [
+      "换手率极高",
+      "波动率大"
+    ],
+    "volatility": 6.36,
+    "ai_summary": "有研复材：当前PE处于高估值区间，利润增长，营收增长。技术面：近60日强势上涨；年内大幅跑赢。风险等级高风险。"
+  },
+  "update_time": "2026-05-08 05:15:24"
+}

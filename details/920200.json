@@ -1,0 +1,101 @@
+{
+  "code": "920200",
+  "signal": {
+    "code": "920200",
+    "name": "N振宏",
+    "price": 94.02,
+    "change_pct": 356.85,
+    "pe": 65.62,
+    "pb": 8.33,
+    "turnover": 94.22,
+    "total_mv": 9548671200.0,
+    "change_60d": 356.85,
+    "change_ytd": 356.85
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.46亿",
+      "net_profit_yoy": "40.50%",
+      "revenue": "13.27亿",
+      "revenue_yoy": "16.81%",
+      "eps": "1.8500",
+      "roe": "22.56%",
+      "net_margin": "10.96%",
+      "debt_ratio": "46.67%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-03-31",
+        "revenue": "2.81亿",
+        "net_profit": "2677.84万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "6.33亿",
+        "net_profit": "5929.04万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "9.97亿",
+        "net_profit": "1.05亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "13.27亿",
+        "net_profit": "1.46亿"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2026-05-07",
+      "open": 45.0,
+      "close": 94.02,
+      "high": 130.0,
+      "low": 45.0,
+      "volume": 228203.0,
+      "turnover": 1225350455.34
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 07:43:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 09:49:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 11:45:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 09:25:17",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日强势上涨；年内大幅跑赢",
+    "risk_level": "中风险",
+    "risk_reasons": [
+      "换手率极高"
+    ],
+    "volatility": 0,
+    "ai_summary": "N振宏：当前PE处于高估值区间，利润增长，营收增长。技术面：近60日强势上涨；年内大幅跑赢。风险等级中风险。"
+  },
+  "update_time": "2026-05-08 05:09:55"
+}

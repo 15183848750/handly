@@ -1,0 +1,246 @@
+{
+  "code": "301696",
+  "signal": {
+    "code": "301696",
+    "name": "三瑞智能",
+    "price": 113.35,
+    "change_pct": 16.78,
+    "pe": 87.0,
+    "pb": 31.56,
+    "turnover": 41.1,
+    "total_mv": 45341133500.0,
+    "change_60d": 359.28,
+    "change_ytd": 359.28
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.30亿",
+      "net_profit_yoy": "57.53%",
+      "revenue": "3.34亿",
+      "revenue_yoy": "72.63%",
+      "eps": "0.3600",
+      "roe": "10.06%",
+      "net_margin": "39.27%",
+      "debt_ratio": "15.67%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4.36亿",
+        "net_profit": "1.60亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "False",
+        "net_profit": "3.18亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "10.75亿",
+        "net_profit": "4.21亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.34亿",
+        "net_profit": "1.30亿"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2026-04-10",
+      "open": 90.0,
+      "close": 92.0,
+      "high": 102.5,
+      "low": 85.73,
+      "volume": 246174.0,
+      "turnover": 2311228249.0
+    },
+    {
+      "date": "2026-04-13",
+      "open": 104.4,
+      "close": 118.5,
+      "high": 121.0,
+      "low": 102.0,
+      "volume": 213445.0,
+      "turnover": 2374357188.0
+    },
+    {
+      "date": "2026-04-14",
+      "open": 114.0,
+      "close": 120.19,
+      "high": 122.49,
+      "low": 110.38,
+      "volume": 153921.0,
+      "turnover": 1785431459.0
+    },
+    {
+      "date": "2026-04-15",
+      "open": 116.18,
+      "close": 113.99,
+      "high": 124.0,
+      "low": 113.33,
+      "volume": 146032.0,
+      "turnover": 1709488925.0
+    },
+    {
+      "date": "2026-04-16",
+      "open": 112.34,
+      "close": 114.99,
+      "high": 115.96,
+      "low": 108.0,
+      "volume": 134737.0,
+      "turnover": 1505608902.0
+    },
+    {
+      "date": "2026-04-17",
+      "open": 112.99,
+      "close": 105.28,
+      "high": 112.99,
+      "low": 103.7,
+      "volume": 139433.0,
+      "turnover": 1480545444.0
+    },
+    {
+      "date": "2026-04-20",
+      "open": 102.13,
+      "close": 102.0,
+      "high": 105.77,
+      "low": 99.5,
+      "volume": 118107.0,
+      "turnover": 1204857727.0
+    },
+    {
+      "date": "2026-04-21",
+      "open": 103.0,
+      "close": 96.75,
+      "high": 103.5,
+      "low": 94.61,
+      "volume": 93426.0,
+      "turnover": 907468431.0
+    },
+    {
+      "date": "2026-04-22",
+      "open": 94.04,
+      "close": 97.53,
+      "high": 98.58,
+      "low": 94.04,
+      "volume": 82095.0,
+      "turnover": 788360773.0
+    },
+    {
+      "date": "2026-04-23",
+      "open": 96.57,
+      "close": 94.58,
+      "high": 97.95,
+      "low": 93.64,
+      "volume": 65819.0,
+      "turnover": 626118884.0
+    },
+    {
+      "date": "2026-04-24",
+      "open": 93.88,
+      "close": 93.04,
+      "high": 96.98,
+      "low": 92.72,
+      "volume": 58282.0,
+      "turnover": 550411817.0
+    },
+    {
+      "date": "2026-04-27",
+      "open": 92.04,
+      "close": 94.92,
+      "high": 95.58,
+      "low": 89.87,
+      "volume": 69256.0,
+      "turnover": 646105049.0
+    },
+    {
+      "date": "2026-04-28",
+      "open": 94.89,
+      "close": 92.97,
+      "high": 94.95,
+      "low": 91.03,
+      "volume": 56255.0,
+      "turnover": 522080457.0
+    },
+    {
+      "date": "2026-04-29",
+      "open": 94.47,
+      "close": 96.2,
+      "high": 96.94,
+      "low": 93.72,
+      "volume": 67354.0,
+      "turnover": 643427732.0
+    },
+    {
+      "date": "2026-04-30",
+      "open": 94.25,
+      "close": 94.7,
+      "high": 95.7,
+      "low": 93.32,
+      "volume": 52370.0,
+      "turnover": 494879741.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 94.72,
+      "close": 97.06,
+      "high": 98.17,
+      "low": 94.72,
+      "volume": 64822.0,
+      "turnover": 628798521.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 96.9,
+      "close": 113.35,
+      "high": 115.02,
+      "low": 96.4,
+      "volume": 123649.0,
+      "turnover": 1289971944.82
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 16:29:13",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 13:12:23",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 09:26:30",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 20:36:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日强势上涨；年内大幅跑赢",
+    "risk_level": "高风险",
+    "risk_reasons": [
+      "换手率极高",
+      "波动率大"
+    ],
+    "volatility": 5.43,
+    "ai_summary": "三瑞智能：当前PE处于高估值区间，利润增长，营收增长。技术面：近60日强势上涨；年内大幅跑赢。风险等级高风险。"
+  },
+  "update_time": "2026-05-08 05:10:09"
+}

@@ -1,0 +1,156 @@
+{
+  "code": "688808",
+  "signal": {
+    "code": "688808",
+    "name": "联讯仪器",
+    "price": 1130.0,
+    "change_pct": 11.0,
+    "pe": 243.92,
+    "pb": 39.55,
+    "turnover": 25.06,
+    "total_mv": 116013333710.0,
+    "change_60d": 1280.07,
+    "change_ytd": 1280.07
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.19亿",
+      "net_profit_yoy": "515.17%",
+      "revenue": "4.88亿",
+      "revenue_yoy": "142.52%",
+      "eps": "1.5400",
+      "roe": "12.43%",
+      "net_margin": "24.34%",
+      "debt_ratio": "55.34%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-03-31",
+        "revenue": "2.01亿",
+        "net_profit": "1932.87万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "8.06亿",
+        "net_profit": "9664.30万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "11.94亿",
+        "net_profit": "1.74亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "4.88亿",
+        "net_profit": "1.19亿"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2026-04-24",
+      "open": 736.92,
+      "close": 799.0,
+      "high": 859.88,
+      "low": 688.99,
+      "volume": 151785.0,
+      "turnover": 11413259860.0
+    },
+    {
+      "date": "2026-04-27",
+      "open": 820.0,
+      "close": 880.0,
+      "high": 900.0,
+      "low": 810.02,
+      "volume": 72594.0,
+      "turnover": 6148825521.0
+    },
+    {
+      "date": "2026-04-28",
+      "open": 869.88,
+      "close": 864.99,
+      "high": 890.0,
+      "low": 836.0,
+      "volume": 43939.0,
+      "turnover": 3801158287.0
+    },
+    {
+      "date": "2026-04-29",
+      "open": 851.0,
+      "close": 928.0,
+      "high": 940.0,
+      "low": 825.0,
+      "volume": 54781.0,
+      "turnover": 4836732876.0
+    },
+    {
+      "date": "2026-04-30",
+      "open": 911.0,
+      "close": 1033.33,
+      "high": 1060.0,
+      "low": 911.0,
+      "volume": 48872.0,
+      "turnover": 4791010067.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 1018.0,
+      "close": 1018.0,
+      "high": 1053.0,
+      "low": 978.0,
+      "volume": 47870.0,
+      "turnover": 4822192646.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 1000.03,
+      "close": 1130.0,
+      "high": 1166.66,
+      "low": 993.0,
+      "volume": 48359.0,
+      "turnover": 5157546228.0
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-27 10:53:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 13:08:46",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 18:18:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 10:48:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 13:29:57",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日强势上涨；年内大幅跑赢",
+    "risk_level": "高风险",
+    "risk_reasons": [
+      "换手率极高",
+      "波动率大"
+    ],
+    "volatility": 7.16,
+    "ai_summary": "联讯仪器：当前PE处于高估值区间，利润增长，营收增长。技术面：近60日强势上涨；年内大幅跑赢。风险等级高风险。"
+  },
+  "update_time": "2026-05-08 05:10:51"
+}
