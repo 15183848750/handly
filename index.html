@@ -11,6 +11,10 @@
 <header class="topbar">
   <div class="topbar-inner">
     <a href="/" class="logo">Handly<span>Stock</span></a>
+    <div class="search-wrap">
+      <input type="text" class="search-input" id="searchInput" placeholder="搜索股票代码或名称..." autocomplete="off">
+      <div class="search-dropdown" id="searchDropdown"></div>
+    </div>
     <div class="update-time" id="updateTime">数据加载中...</div>
   </div>
 </header>
@@ -84,10 +88,64 @@
   </section>
 </main>
 
+<!-- 股票详情弹窗 -->
+<div class="modal-overlay" id="detailOverlay">
+  <div class="modal-container" id="detailModal">
+    <div class="modal-header">
+      <div class="modal-title-area">
+        <span class="modal-stock-code" id="detailCode"></span>
+        <span class="modal-stock-name" id="detailName"></span>
+        <span class="modal-stock-price" id="detailPrice"></span>
+        <span class="modal-stock-change" id="detailChange"></span>
+      </div>
+      <button class="modal-close" id="detailClose">&times;</button>
+    </div>
+    <div class="modal-tabs" id="detailTabs">
+      <button class="modal-tab active" data-dtab="finance">财务</button>
+      <button class="modal-tab" data-dtab="kline">K线图</button>
+      <button class="modal-tab" data-dtab="ai">AI分析</button>
+      <button class="modal-tab" data-dtab="backtest">回测</button>
+    </div>
+    <div class="modal-body">
+      <!-- 财务 Tab -->
+      <div class="detail-panel active" id="panel-finance">
+        <div class="finance-grid" id="financeGrid"></div>
+      </div>
+      <!-- K线图 Tab -->
+      <div class="detail-panel" id="panel-kline">
+        <div class="chart-container" id="klineChart"></div>
+        <div class="chart-container chart-volume" id="volumeChart"></div>
+      </div>
+      <!-- AI分析 Tab -->
+      <div class="detail-panel" id="panel-ai">
+        <div class="ai-cards" id="aiCards"></div>
+      </div>
+      <!-- 回测 Tab -->
+      <div class="detail-panel" id="panel-backtest">
+        <div class="backtest-controls">
+          <label class="bt-label">策略：</label>
+          <select class="bt-select" id="btStrategy">
+            <option value="default">默认策略：评分>40买入，跌破止损卖出</option>
+            <option value="ma_cross">均线金叉买入，均线死叉卖出</option>
+          </select>
+          <label class="bt-label">阈值：</label>
+          <input type="number" class="bt-input" id="btThreshold" value="40" min="0" max="100">
+          <button class="bt-run" id="btRun">运行回测</button>
+        </div>
+        <div class="backtest-results" id="btResults">
+          <div class="bt-metrics" id="btMetrics"></div>
+          <div class="chart-container" id="btChart"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 <footer>
   <p>数据来源：东方财富 ｜ 更新时间：<span id="footerTime">--</span> ｜ 仅供参考，不构成投资建议</p>
 </footer>
 
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
 <script src="js/data.js"></script>
 <script src="js/app.js"></script>
 </body>

@@ -1,0 +1,39 @@
+name: Daily Stock Update
+
+on:
+  schedule:
+    - cron: '30 7 * * 1-5'  # BJT 15:30
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install akshare pandas
+
+      - name: Run daily update
+        run: python scripts/update_daily.py
+        continue-on-error: true
+
+      - name: Commit changes
+        run: |
+          git config user.name "Handly Bot"
+          git config user.email "bot@handly.cc"
+          git add js/data.js js/signals.json details/ scripts/
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "📊 数据更新 $(TZ='Asia/Shanghai' date +'%m-%d %H:%M')"
+            git push
+          fi
