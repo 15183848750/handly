@@ -1,0 +1,172 @@
+/* === Handly Stock — 样式 === */
+:root {
+  --bg: #0f1117;
+  --card: #1a1d27;
+  --card-hover: #1e2130;
+  --border: #2a2d38;
+  --text: #d1d4dc;
+  --text-dim: #787b86;
+  --green: #22c55e;
+  --red: #ef4444;
+  --yellow: #f59e0b;
+  --blue: #3b82f6;
+  --strong: #f97316;
+  --buy: #22c55e;
+  --watch: #a78bfa;
+  --radius: 8px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  background: var(--bg); color: var(--text); line-height: 1.5;
+  min-height: 100vh;
+}
+
+/* === Top Bar === */
+.topbar {
+  background: var(--card); border-bottom: 1px solid var(--border);
+  position: sticky; top: 0; z-index: 100;
+}
+.topbar-inner {
+  max-width: 1200px; margin: 0 auto; padding: 12px 20px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.logo {
+  font-size: 1.3rem; font-weight: 800; color: var(--strong);
+  text-decoration: none; letter-spacing: -0.5px;
+}
+.logo span { color: var(--text); font-weight: 400; margin-left: 2px; }
+.update-time { font-size: 0.8rem; color: var(--text-dim); }
+
+/* === Tabs === */
+.tabs { background: var(--card); border-bottom: 1px solid var(--border); }
+.tabs-inner {
+  max-width: 1200px; margin: 0 auto; padding: 0 20px;
+  display: flex; gap: 0;
+}
+.tab {
+  background: none; border: none; color: var(--text-dim);
+  padding: 12px 20px; font-size: 0.88rem; cursor: pointer;
+  border-bottom: 2px solid transparent; transition: all .15s;
+}
+.tab:hover { color: var(--text); }
+.tab.active { color: var(--strong); border-bottom-color: var(--strong); }
+
+/* === Main === */
+main { max-width: 1200px; margin: 0 auto; padding: 20px; }
+
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
+.section-header {
+  display: flex; align-items: center; gap: 10px;
+  margin: 24px 0 12px;
+}
+.section-header h2 { font-size: 1.1rem; font-weight: 700; color: var(--text); }
+
+.badge {
+  background: var(--border); color: var(--text-dim);
+  padding: 2px 10px; border-radius: 12px; font-size: 0.75rem; font-weight: 600;
+}
+.badge.strong { background: rgba(249,115,22,.15); color: var(--strong); }
+.badge.buy { background: rgba(34,197,94,.15); color: var(--buy); }
+.badge.watch { background: rgba(167,139,250,.15); color: var(--watch); }
+
+/* === Signal Cards === */
+.signal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.signal-card {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 14px 16px;
+  transition: border-color .15s;
+}
+.signal-card:hover { border-color: var(--blue); }
+.signal-card.strong { border-left: 3px solid var(--strong); }
+.signal-card.buy { border-left: 3px solid var(--buy); }
+.signal-card.watch { border-left: 3px solid var(--watch); }
+
+.card-head {
+  display: flex; align-items: baseline; justify-content: space-between;
+  margin-bottom: 8px;
+}
+.stock-code { font-size: 0.75rem; color: var(--text-dim); font-family: monospace; }
+.stock-name { font-size: 1rem; font-weight: 700; }
+.score-tag {
+  font-size: 0.8rem; font-weight: 800; padding: 2px 8px; border-radius: 4px;
+}
+.score-tag.strong { background: var(--strong); color: #fff; }
+.score-tag.buy { background: var(--buy); color: #000; }
+.score-tag.watch { background: var(--watch); color: #fff; }
+
+.price-row {
+  display: flex; align-items: baseline; gap: 8px; margin-bottom: 6px;
+}
+.price { font-size: 1.25rem; font-weight: 800; }
+.change-pct { font-size: 0.85rem; font-weight: 600; }
+.change-up { color: var(--red); }
+.change-down { color: var(--green); }
+
+.meta-row {
+  display: flex; gap: 16px; font-size: 0.75rem; color: var(--text-dim);
+  margin-bottom: 8px;
+}
+.meta-row span b { color: var(--text); }
+
+.reasons {
+  display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 8px;
+}
+.reason-tag {
+  font-size: 0.7rem; padding: 2px 6px; border-radius: 3px;
+  background: rgba(59,130,246,.12); color: var(--blue);
+}
+
+.zones {
+  display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 6px;
+  font-size: 0.72rem; margin-top: 8px; padding-top: 8px;
+  border-top: 1px solid var(--border);
+}
+.zone-item { text-align: center; }
+.zone-label { color: var(--text-dim); margin-bottom: 2px; }
+.zone-val { font-weight: 700; font-family: monospace; }
+.zone-buy { color: var(--green); }
+.zone-sell { color: var(--red); }
+.zone-stop { color: var(--yellow); }
+
+/* === Table === */
+.table-wrap { overflow-x: auto; }
+.data-table {
+  width: 100%; border-collapse: collapse; font-size: 0.82rem;
+}
+.data-table th {
+  text-align: left; padding: 10px 12px; color: var(--text-dim);
+  background: var(--card); border-bottom: 2px solid var(--border);
+  font-weight: 600; font-size: 0.75rem; text-transform: uppercase;
+  white-space: nowrap; position: sticky; top: 0;
+}
+.data-table td {
+  padding: 10px 12px; border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+.data-table tbody tr:hover { background: var(--card-hover); }
+
+/* === Footer === */
+footer {
+  text-align: center; padding: 40px 20px;
+  color: var(--text-dim); font-size: 0.75rem;
+}
+
+/* === Responsive === */
+@media (max-width: 680px) {
+  .signal-grid { grid-template-columns: 1fr; }
+  .topbar-inner { padding: 10px 12px; }
+  main { padding: 12px; }
+  .data-table { font-size: 0.75rem; }
+  .data-table th, .data-table td { padding: 6px 8px; }
+}
