@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>支付说明 — Handly Store</title>
+  <style>
+    :root { --bg: #f5f5f5; --text: #1a1a1a; --muted: #777; --accent: #e53935; --border: #e0e0e0; --green: #2e7d32; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; background: var(--bg); color: var(--text); line-height: 1.8; }
+    .container { max-width: 800px; margin: 0 auto; padding: 48px 24px; }
+    h1 { font-size: 1.75rem; margin-bottom: 4px; color: var(--accent); }
+    h2 { font-size: 1.15rem; margin-top: 36px; margin-bottom: 14px; border-left: 3px solid var(--accent); padding-left: 12px; }
+    h3 { font-size: 1rem; margin-top: 20px; margin-bottom: 8px; }
+    p, li { color: var(--muted); font-size: 0.9rem; margin-bottom: 12px; }
+    ul, ol { padding-left: 20px; margin-bottom: 16px; }
+    .updated { color: var(--muted); font-size: 0.8rem; margin-bottom: 32px; }
+    .flow-steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin: 20px 0; }
+    .flow-step {
+      background: #fff; border: 1px solid var(--border); border-radius: 10px; padding: 20px 16px; text-align: center;
+    }
+    .flow-step .num { display: inline-block; width: 30px; height: 30px; background: var(--accent); color: #fff; border-radius: 50%; font-weight: 700; font-size: 0.9rem; line-height: 30px; margin-bottom: 8px; }
+    .flow-step h4 { font-size: 0.9rem; margin-bottom: 4px; }
+    .flow-step p { font-size: 0.78rem; margin-bottom: 0; }
+    table { width: 100%; border-collapse: collapse; margin: 16px 0 24px; font-size: 0.9rem; }
+    th { background: #fafafa; text-align: left; padding: 10px 14px; border-bottom: 2px solid var(--border); font-weight: 600; }
+    td { padding: 10px 14px; border-bottom: 1px solid #f0f0f0; color: var(--muted); }
+    .highlight { background: #fff5f5; border-left: 3px solid var(--accent); padding: 16px 20px; margin: 24px 0; border-radius: 0 6px 6px 0; }
+    footer { text-align: center; color: var(--muted); font-size: 0.8rem; padding: 24px 0; border-top: 1px solid var(--border); margin-top: 48px; }
+    footer a { color: var(--accent); text-decoration: none; }
+    .screenshot-figure { text-align: center; background: #fff; border: 1px solid var(--border); border-radius: 10px; padding: 16px; margin: 20px 0; }
+    .screenshot-figure img { max-width: 100%; border-radius: 6px; border: 1px solid #eee; }
+    .screenshot-figure .caption { font-size: 0.8rem; color: var(--muted); margin-top: 8px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>💳 支付方式说明</h1>
+    <p class="updated">最后更新：2025 年 5 月 7 日</p>
+
+    <h2>概述</h2>
+    <p>
+      Handly Store 使用 <strong>PayPal</strong> 作为主要支付处理平台，为全球买家提供安全、便捷的支付体验。
+      PayPal 是全球最受信赖的在线支付平台之一，成立于 1998 年，服务超过 4 亿用户，符合 PCI DSS 安全标准。
+    </p>
+
+    <h2>支持的支付方式</h2>
+    <table>
+      <tr>
+        <th>支付方式</th>
+        <th>通道</th>
+        <th>买家端支持</th>
+        <th>状态</th>
+      </tr>
+      <tr>
+        <td>PayPal</td>
+        <td>PayPal Standard Checkout</td>
+        <td>PayPal 余额、Visa、Mastercard、Amex、银联</td>
+        <td style="color:var(--green);">✅ 已上线</td>
+      </tr>
+      <tr>
+        <td>信用卡/借记卡</td>
+        <td>PayPal 访客结账</td>
+        <td>Visa、Mastercard、Amex、Discover（无需 PayPal 账号）</td>
+        <td style="color:var(--green);">✅ 已上线</td>
+      </tr>
+    </table>
+
+    <h2>买家支付流程</h2>
+    <div class="flow-steps">
+      <div class="flow-step">
+        <div class="num">1</div>
+        <h4>选择商品</h4>
+        <p>浏览商品，点击「加入购物车」</p>
+      </div>
+      <div class="flow-step">
+        <div class="num">2</div>
+        <h4>查看购物车</h4>
+        <p>点击右上角购物车图标查看</p>
+      </div>
+      <div class="flow-step">
+        <div class="num">3</div>
+        <h4>点击结算</h4>
+        <p>购物车内点击「去结算」按钮</p>
+      </div>
+      <div class="flow-step">
+        <div class="num">4</div>
+        <h4>跳转 PayPal</h4>
+        <p>自动跳转 PayPal 官方付款页</p>
+      </div>
+      <div class="flow-step">
+        <div class="num">5</div>
+        <h4>完成付款</h4>
+        <p>登录 PayPal 或使用信用卡直接付款</p>
+      </div>
+    </div>
+
+    <p>
+      买家点击结算后，页面将跳转至 PayPal 官方安全付款页面（paypal.com）。
+      买家可选择使用 PayPal 余额付款，或使用信用卡/借记卡以访客身份完成付款<strong>（无需注册 PayPal 账号）</strong>。
+    </p>
+
+    <h2>PayPal 集成详情</h2>
+    <p>
+      本站通过以下方式集成 PayPal 支付：
+    </p>
+    <ol>
+      <li><strong>购物车结算按钮</strong> — 点击「去结算」将商品信息和金额通过 PayPal Standard Checkout 发送至 PayPal</li>
+      <li><strong>金额自动计算</strong> — 根据购物车内商品数量及单价自动汇总订单金额</li>
+      <li><strong>支付确认</strong> — 付款成功后买家跳转至本站支付成功页面（success.html）</li>
+      <li><strong>订单记录</strong> — 订单信息和交易 ID 通过 PayPal 后台可查</li>
+    </ol>
+
+    <h2>PayPal 为买家提供的服务</h2>
+    <ul>
+      <li><strong>买家保护计划</strong> — 符合条件的交易享受 PayPal 买家保护，未收到货或货不对板可申请退款</li>
+      <li><strong>无需透露财务信息</strong> — 买家付款时，卖家不会接触到买家的信用卡号或银行账户信息</li>
+      <li><strong>多币种支持</strong> — 支持全球多种货币结算，汇款以交易时汇率为准</li>
+      <li><strong>争议解决</strong> — 如遇交易纠纷，可通过 PayPal 争议中心协商或升级为争议索赔</li>
+    </ul>
+
+    <h2>商家信息</h2>
+    <div class="highlight">
+      <p>
+        <strong>商家邮箱：</strong>support@handly.cc<br>
+        <strong>PayPal 账户：</strong>已认证 PayPal 商业账户<br>
+        <strong>收款币种：</strong>人民币（CNY）/ 美元（USD）<br>
+        <strong>手续费：</strong>按 PayPal 商业账户标准费率收取<br>
+        <strong>退款处理：</strong>通过 PayPal 原路退回，3-10 个工作日到账
+      </p>
+    </div>
+
+    <h2>支付安全</h2>
+    <ul>
+      <li>PayPal 符合 <strong>PCI DSS Level 1</strong> 安全标准（支付行业最高级别）</li>
+      <li>所有支付页面均通过 <strong>HTTPS/TLS</strong> 加密传输</li>
+      <li>本站<strong>不接触、不存储</strong>买家信用卡号或支付凭证</li>
+      <li>PayPal 提供 <strong>欺诈检测和风控</strong> 机制，保障交易安全</li>
+    </ul>
+
+    <h2>关于 PayPal 审核说明</h2>
+    <p>
+      本页面旨在向 PayPal 商户审核团队清晰展示 handly.cc 网站如何通过 PayPal 收取买家款项。
+      网站购物流程完整可操作：商品浏览 → 加入购物车 → 购物车结算 → 跳转 PayPal 付款 → 支付成功确认。
+      所有支付处理均由 PayPal 官方安全页面完成，符合 PayPal 可接受使用政策（Acceptable Use Policy）。
+    </p>
+
+    <h2>网站截图位置</h2>
+    <p>PayPal 审核人员可在以下位置验证 PayPal 支付集成：</p>
+    <ol>
+      <li><strong>首页商品区</strong> — 任一商品卡片底部"加入购物车"按钮</li>
+      <li><strong>购物车侧栏</strong> — 右上角购物车图标 → 底部"去结算"按钮</li>
+      <li><strong>支付成功页</strong> — 结算完成后的 success.html 确认页面</li>
+      <li><strong>页脚</strong> — 底部"支付说明"链接（即本页面）</li>
+    </ol>
+
+    <footer>
+      <p>
+        <a href="/">← 返回首页</a>
+        · <a href="/payment.html">支付说明</a>
+        · <a href="/terms.html">服务条款</a>
+        · <a href="/privacy.html">隐私政策</a>
+        · <a href="/refund.html">退款政策</a>
+      </p>
+    </footer>
+  </div>
+</body>
+</html>
