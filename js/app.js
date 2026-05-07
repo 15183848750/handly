@@ -149,24 +149,80 @@
   var klineChart = null;
   var volumeChart = null;
   var btEquityChart = null;
+  var detailCache = {};   // 按需加载的 detail 缓存
+  var detailLoading = false;
+
+  function getDetailData(callback) {
+    var code = currentDetailCode;
+    if (!code) { callback({}); return; }
+
+    // 从缓存返回
+    if (detailCache[code]) {
+      callback(detailCache[code]);
+      return;
+    }
+
+    // 检查旧版 bundled 数据（兼容）
+    if (D.details && D.details[code]) {
+      detailCache[code] = D.details[code];
+      callback(detailCache[code]);
+      return;
+    }
+
+    // 按需加载
+    if (detailLoading) { callback({}); return; }
+    detailLoading = true;
+    showDetailLoading();
+
+    fetch('details/' + code + '.json')
+      .then(function(r) {
+        if (r.ok) return r.json();
+        throw new Error('Not found');
+      })
+      .then(function(data) {
+        detailCache[code] = data;
+        detailLoading = false;
+        hideDetailLoading();
+        callback(data);
+      })
+      .catch(function() {
+        detailLoading = false;
+        hideDetailLoading();
+        callback({});
+      });
+  }
+
+  function showDetailLoading() {
+    var panels = document.querySelectorAll('.detail-panel');
+    panels.forEach(function(p) { p.innerHTML = '<div class="no-data">加载中...</div>'; });
+  }
+
+  function hideDetailLoading() {
+    // 清空加载提示，重新渲染当前 tab
+    var activeTab = document.querySelector('#detailTabs .modal-tab.active');
+    if (activeTab) switchDetailTab(activeTab.getAttribute('data-dtab'));
+  }
 
   function openDetail(code, name) {
     currentDetailCode = code;
     var overlay = document.getElementById('detailOverlay');
-    var detailData = (D.details && D.details[code]) || {};
 
     // Header
     var priceStr = '-';
     var changeStr = '';
     var changeCls = '';
-    // 从搜索索引获取价格
-    var idxEntry = searchIndex.filter(function(s) { return s.code === code; })[0];
-    if (idxEntry && idxEntry.price) {
-      priceStr = idxEntry.price.toFixed(2);
-      if (idxEntry.change_pct !== undefined && idxEntry.change_pct !== null) {
-        var pct = +idxEntry.change_pct;
-        changeStr = (pct >= 0 ? '+' : '') + pct.toFixed(2) + '%';
-        changeCls = pct >= 0 ? 'change-up' : 'change-down';
+    if (searchIndex) {
+      var idxEntry = null;
+      for (var i = 0; i < searchIndex.length; i++) {
+        if (searchIndex[i].code === code) { idxEntry = searchIndex[i]; break; }
+      }
+      if (idxEntry && idxEntry.price) {
+        priceStr = idxEntry.price.toFixed(2);
+        if (idxEntry.change_pct !== undefined && idxEntry.change_pct !== null) {
+          var pct = +idxEntry.change_pct;
+          changeStr = (pct >= 0 ? '+' : '') + pct.toFixed(2) + '%';
+          changeCls = pct >= 0 ? 'change-up' : 'change-down';
+        }
       }
     }
 
@@ -179,9 +235,24 @@
 
     overlay.classList.add('active');
 
-    // 切换到第一个 tab
+    // 显示加载状态 + 切换到第一个 tab
+    showDetailLoading();
+    document.querySelectorAll('#detailTabs .modal-tab').forEach(function(b) { b.classList.remove('active'); });
+    document.querySelectorAll('.detail-panel').forEach(function(p) { p.classList.remove('active'); });
     var firstTab = document.querySelector('#detailTabs .modal-tab');
-    if (firstTab) switchDetailTab(firstTab.getAttribute('data-dtab'));
+    if (firstTab) {
+      firstTab.classList.add('active');
+      document.getElementById('panel-' + firstTab.getAttribute('data-dtab')).classList.add('active');
+    }
+
+    // 异步加载 detail 数据
+    getDetailData(function(data) {
+      if (data && Object.keys(data).length > 0) {
+        // 重新渲染当前 tab
+        var activeTab = document.querySelector('#detailTabs .modal-tab.active');
+        if (activeTab) switchDetailTab(activeTab.getAttribute('data-dtab'));
+      }
+    });
   }
 
   function closeDetail() {
@@ -201,27 +272,30 @@
     var panel = document.getElementById('panel-' + tabName);
     if (panel) panel.classList.add('active');
 
-    // 释放当前tab的图表
+    // 释放图表
     if (tabName !== 'kline' && klineChart) { klineChart.dispose(); klineChart = null; }
     if (tabName !== 'kline' && volumeChart) { volumeChart.dispose(); volumeChart = null; }
 
-    // 渲染对应面板
-    if (tabName === 'finance') renderFinanceTab();
-    else if (tabName === 'kline') renderKlineTab();
-    else if (tabName === 'ai') renderAITab();
-    else if (tabName === 'backtest') renderBacktestTab();
+    // 异步加载数据后渲染
+    getDetailData(function(data) {
+      if (tabName === 'finance') renderFinanceTab();
+      else if (tabName === 'kline') renderKlineTab();
+      else if (tabName === 'ai') renderAITab();
+      else if (tabName === 'backtest') renderBacktestTab();
+    });
   }
 
-  function getDetailData() {
+  function getCacheDetail() {
     var code = currentDetailCode;
     if (!code) return {};
+    if (detailCache[code]) return detailCache[code];
     return (D.details && D.details[code]) || {};
   }
 
   // === 财务 Tab ===
   function renderFinanceTab() {
     var grid = document.getElementById('financeGrid');
-    var detail = getDetailData();
+    var detail = getCacheDetail();
     var fin = detail.financials || {};
 
     var items = [
@@ -279,7 +353,7 @@
     if (klineChart) { klineChart.dispose(); klineChart = null; }
     if (volumeChart) { volumeChart.dispose(); volumeChart = null; }
 
-    var detail = getDetailData();
+    var detail = getCacheDetail();
     var klineData = detail.kline || [];
     if (!klineData || klineData.length === 0) {
       document.getElementById('klineChart').innerHTML = '<div class="no-data">暂无K线数据</div>';
@@ -374,7 +448,7 @@
   // === AI 分析 Tab ===
   function renderAITab() {
     var container = document.getElementById('aiCards');
-    var detail = getDetailData();
+    var detail = getCacheDetail();
     var ai = detail.ai_analysis || {};
 
     if (!ai || Object.keys(ai).length === 0) {
@@ -455,7 +529,7 @@
   }
 
   function runBacktest() {
-    var detail = getDetailData();
+    var detail = getCacheDetail();
     var klineData = detail.kline || [];
     if (!klineData || klineData.length < 30) {
       document.getElementById('btMetrics').innerHTML = '<div class="no-data">K线数据不足，至少需要30个交易日</div>';
