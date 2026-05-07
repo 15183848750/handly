@@ -3,43 +3,27 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Handly — 截图美化 · 一键出图</title>
-<meta name="description" content="Handly 截图美化工具，粘贴或拖入截图，一键加边框、阴影、圆角、背景。小红书/公众号/抖音创作者必备。免费使用，无需注册。">
-<meta name="keywords" content="截图美化,截图加边框,小红书截图,公众号排版,在线截图工具,图片加阴影,截图圆角,自媒体工具">
+<title>Handly Store — 品质生活百货</title>
+<meta name="description" content="Handly Store 品质生活百货，数码配件、家居用品、日用百货一站购齐。正品保障，7天退换。">
+<meta name="keywords" content="百货商店,数码配件,家居用品,日用百货,在线购物">
 <link rel="canonical" href="https://handly.cc/">
-<meta property="og:title" content="Handly — 截图美化，一键出图">
-<meta property="og:description" content="粘贴截图，一键加边框阴影圆角，小红书/公众号/抖音创作者必备。">
+<meta property="og:title" content="Handly Store — 品质生活百货">
+<meta property="og:description" content="数码配件、家居用品、日用百货一站购齐。正品保障，7天退换。">
 <meta property="og:url" content="https://handly.cc/">
 <meta property="og:type" content="website">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebApplication",
-  "name": "Handly 截图美化",
-  "description": "粘贴或拖入截图，一键加边框、阴影、圆角、背景。小红书/公众号/抖音创作者必备。",
-  "url": "https://handly.cc/",
-  "applicationCategory": "Multimedia",
-  "operatingSystem": "All",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "CNY"
-  },
-  "author": { "@type": "Organization", "name": "Handly" }
-}
-</script>
 
 <style>
 :root {
-  --bg: #fefcf9;
+  --bg: #f5f5f5;
   --card: #fff;
-  --text: #1b1b1b;
-  --muted: #6b7280;
-  --accent: #ff5e5b;
-  --accent-hover: #e84a47;
-  --border: #e8e3dc;
-  --radius: 14px;
-  --shadow: 0 2px 12px rgba(0,0,0,.06);
+  --text: #1a1a1a;
+  --muted: #777;
+  --accent: #e53935;
+  --accent2: #ff6f00;
+  --green: #2e7d32;
+  --border: #e0e0e0;
+  --radius: 8px;
+  --shadow: 0 2px 8px rgba(0,0,0,.08);
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; }
@@ -47,551 +31,570 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   background: var(--bg); color: var(--text); line-height: 1.6;
 }
-.container { max-width: 860px; margin: 0 auto; padding: 40px 24px 80px; }
+
+/* Top Banner */
+.top-banner {
+  background: linear-gradient(135deg, #e53935, #ff6f00);
+  color: #fff; text-align: center; padding: 6px 16px;
+  font-size: 0.85rem; letter-spacing: 0.5px;
+}
 
 /* Header */
-header { text-align: center; padding: 32px 0 8px; }
-.logo { font-size: 2rem; font-weight: 800; letter-spacing: -1px; color: var(--text); }
-.logo span { color: var(--accent); }
-.tagline { color: var(--muted); font-size: 0.95rem; margin-top: 4px; }
+header {
+  background: var(--card); border-bottom: 1px solid var(--border);
+  position: sticky; top: 0; z-index: 100;
+}
+.header-inner {
+  max-width: 1200px; margin: 0 auto; padding: 12px 20px;
+  display: flex; align-items: center; justify-content: space-between; gap: 16px;
+}
+.logo { font-size: 1.5rem; font-weight: 800; color: var(--accent); text-decoration: none; white-space: nowrap; }
+.logo span { color: var(--text); font-weight: 400; font-size: 0.85rem; margin-left: 6px; }
+.search-bar {
+  flex: 1; max-width: 480px; display: flex; border: 2px solid var(--accent); border-radius: 24px; overflow: hidden;
+}
+.search-bar input {
+  flex: 1; border: none; padding: 10px 16px; font-size: 0.9rem; outline: none;
+}
+.search-bar button {
+  background: var(--accent); color: #fff; border: none; padding: 10px 24px;
+  cursor: pointer; font-size: 0.9rem; font-weight: 600;
+}
+.header-actions { display: flex; gap: 16px; align-items: center; white-space: nowrap; }
+.header-actions a { color: var(--text); text-decoration: none; font-size: 0.85rem; }
+.header-actions .cart-btn {
+  display: flex; align-items: center; gap: 4px; cursor: pointer;
+  background: none; border: none; font-size: 0.85rem; color: var(--text);
+  position: relative;
+}
+.cart-count {
+  background: var(--accent); color: #fff; border-radius: 50%;
+  width: 20px; height: 20px; display: flex; align-items: center; justify-content: center;
+  font-size: 0.7rem; font-weight: 700;
+}
 
-/* Tool Section */
-.tool-section { margin-top: 40px; }
-.upload-zone {
-  background: var(--card); border: 2px dashed var(--border);
-  border-radius: var(--radius); padding: 48px 24px; text-align: center;
-  cursor: pointer; transition: border-color .2s, background .2s;
-  position: relative; min-height: 180px;
-  display: flex; flex-direction: column; align-items: center; justify-content: center;
-  gap: 12px;
+/* Nav */
+nav {
+  background: var(--card); border-bottom: 1px solid var(--border);
+  overflow-x: auto;
 }
-.upload-zone:hover, .upload-zone.drag-over { border-color: var(--accent); background: #fff8f7; }
-.upload-zone.has-image { border-style: solid; padding: 0; min-height: auto; }
-.upload-icon { font-size: 3rem; }
-.upload-title { font-size: 1.15rem; font-weight: 600; }
-.upload-hint { font-size: 0.85rem; color: var(--muted); max-width: 360px; }
-.upload-hint kbd {
-  background: #f3f4f6; border: 1px solid #d1d5db; border-radius: 5px;
-  padding: 1px 7px; font-size: 0.8rem; font-family: inherit; color: var(--text);
+.nav-inner {
+  max-width: 1200px; margin: 0 auto; padding: 0 20px;
+  display: flex; gap: 0; white-space: nowrap;
+}
+.nav-inner a {
+  display: block; padding: 12px 20px; color: var(--text); text-decoration: none;
+  font-size: 0.9rem; border-bottom: 3px solid transparent; transition: all .15s;
+}
+.nav-inner a:hover, .nav-inner a.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+/* Main */
+main { max-width: 1200px; margin: 0 auto; padding: 24px 20px 60px; }
+
+/* Hero */
+.hero {
+  background: linear-gradient(135deg, #ff6f00, #e53935);
+  border-radius: 12px; padding: 48px 40px; color: #fff; margin-bottom: 32px;
+  display: flex; align-items: center; justify-content: space-between; gap: 24px;
+}
+.hero h1 { font-size: 2rem; margin-bottom: 8px; }
+.hero p { font-size: 0.95rem; opacity: 0.9; margin-bottom: 24px; }
+.hero .btn-hero {
+  display: inline-block; background: #fff; color: var(--accent);
+  padding: 12px 32px; border-radius: 24px; text-decoration: none;
+  font-weight: 700; font-size: 1rem; transition: transform .15s;
+}
+.hero .btn-hero:hover { transform: scale(1.05); }
+.hero-emoji { font-size: 5rem; flex-shrink: 0; }
+
+/* Category Pills */
+.categories { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 32px; }
+.cat-pill {
+  padding: 8px 20px; border-radius: 20px; border: 1.5px solid var(--border);
+  background: var(--card); cursor: pointer; font-size: 0.9rem; transition: all .15s;
+  text-decoration: none; color: var(--text);
+}
+.cat-pill:hover, .cat-pill.active { border-color: var(--accent); color: var(--accent); background: #fff5f5; }
+
+/* Section Title */
+.section-title {
+  font-size: 1.3rem; font-weight: 700; margin-bottom: 20px;
+  display: flex; align-items: center; gap: 8px;
+}
+.section-title::after {
+  content: ''; flex: 1; height: 1px; background: var(--border);
 }
 
-/* Preview */
-.preview-wrap {
-  width: 100%; display: flex; flex-direction: column; align-items: center; gap: 20px;
-  padding: 24px;
+/* Product Grid */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px; margin-bottom: 40px;
 }
-.preview-container {
-  max-width: 100%; overflow: auto; border-radius: 8px;
-  background: repeating-conic-gradient(#f0f0f0 0% 25%, #fff 0% 50%) 50% / 20px 20px;
+.product-card {
+  background: var(--card); border-radius: var(--radius); overflow: hidden;
+  box-shadow: var(--shadow); transition: transform .2s, box-shadow .2s;
+  cursor: pointer;
+}
+.product-card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(0,0,0,.12); }
+.product-img {
+  width: 100%; height: 200px; object-fit: cover; display: block;
+  background: linear-gradient(135deg, #f0f0f0, #e8e8e8);
   display: flex; align-items: center; justify-content: center;
-  min-height: 160px;
+  font-size: 4rem;
 }
-.preview-container img { display: block; max-width: 100%; height: auto; }
-
-/* Presets */
-.presets { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; padding: 0 8px; }
-.preset-btn {
-  padding: 10px 20px; border: 1.5px solid var(--border); border-radius: 24px;
-  background: var(--card); cursor: pointer; font-size: 0.9rem; font-weight: 500;
-  transition: all .15s; color: var(--text); white-space: nowrap;
-  display: flex; align-items: center; gap: 6px;
+.product-info { padding: 16px; }
+.product-name { font-size: 0.95rem; font-weight: 600; margin-bottom: 4px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.product-desc { font-size: 0.8rem; color: var(--muted); margin-bottom: 12px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.product-price-row { display: flex; align-items: baseline; justify-content: space-between; }
+.product-price { font-size: 1.3rem; font-weight: 800; color: var(--accent); }
+.product-price .yuan { font-size: 0.8rem; }
+.product-price .old { font-size: 0.75rem; color: var(--muted); text-decoration: line-through; margin-left: 6px; font-weight: 400; }
+.product-sold { font-size: 0.75rem; color: var(--muted); }
+.add-to-cart {
+  width: 100%; margin-top: 12px; padding: 10px; background: var(--accent);
+  color: #fff; border: none; border-radius: 6px; font-size: 0.9rem;
+  font-weight: 600; cursor: pointer; transition: background .15s;
 }
-.preset-btn:hover { border-color: var(--accent); color: var(--accent); }
-.preset-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
-.preset-btn .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
+.add-to-cart:hover { background: #c62828; }
 
-/* Actions */
-.actions { display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; }
-.btn {
-  display: inline-flex; align-items: center; gap: 6px; padding: 12px 28px;
-  border-radius: 10px; font-size: 0.95rem; font-weight: 600; cursor: pointer;
-  border: none; transition: all .15s; text-decoration: none;
+/* Cart Sidebar */
+.cart-overlay {
+  position: fixed; inset: 0; background: rgba(0,0,0,.4);
+  z-index: 200; display: none;
 }
-.btn-primary { background: var(--accent); color: #fff; }
-.btn-primary:hover { background: var(--accent-hover); transform: translateY(-1px); }
-.btn-secondary { background: var(--card); color: var(--text); border: 1.5px solid var(--border); }
-.btn-secondary:hover { border-color: var(--accent); color: var(--accent); }
-.btn-outline { background: transparent; border: 1.5px solid var(--border); color: var(--text); }
-.btn-outline:hover { border-color: var(--accent); }
-
-/* Divider */
-.divider { border: none; border-top: 1px solid var(--border); margin: 56px 0; }
-
-/* Features */
-.features { text-align: center; }
-.features h2 { font-size: 1.5rem; margin-bottom: 8px; }
-.features .sub { color: var(--muted); margin-bottom: 40px; }
-.feature-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; }
-.feature-card {
-  background: var(--card); border: 1px solid var(--border);
-  border-radius: var(--radius); padding: 28px 24px; text-align: left;
+.cart-overlay.show { display: block; }
+.cart-sidebar {
+  position: fixed; top: 0; right: 0; width: 400px; max-width: 100vw; height: 100vh;
+  background: #fff; z-index: 201; box-shadow: -4px 0 20px rgba(0,0,0,.15);
+  display: flex; flex-direction: column; transform: translateX(100%);
+  transition: transform .25s;
 }
-.feature-card .icon { font-size: 1.75rem; margin-bottom: 12px; }
-.feature-card h3 { font-size: 1rem; margin-bottom: 4px; }
-.feature-card p { font-size: 0.85rem; color: var(--muted); line-height: 1.6; }
-
-/* CTA */
-.cta {
-  background: var(--card); border: 1px solid var(--border);
-  border-radius: var(--radius); padding: 40px; text-align: center; margin-top: 48px;
+.cart-sidebar.show { transform: translateX(0); }
+.cart-header {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 20px 24px; border-bottom: 1px solid var(--border);
 }
-.cta h3 { font-size: 1.2rem; margin-bottom: 8px; }
-.cta p { color: var(--muted); margin-bottom: 24px; }
+.cart-header h3 { font-size: 1.1rem; }
+.cart-close { background: none; border: none; font-size: 1.5rem; cursor: pointer; color: var(--muted); }
+.cart-items { flex: 1; overflow-y: auto; padding: 16px 24px; }
+.cart-empty { text-align: center; color: var(--muted); padding: 48px 0; font-size: 0.9rem; }
+.cart-item {
+  display: flex; gap: 12px; padding: 12px 0; border-bottom: 1px solid #f0f0f0;
+  align-items: center;
+}
+.cart-item-img {
+  width: 64px; height: 64px; border-radius: 6px; background: #f0f0f0;
+  display: flex; align-items: center; justify-content: center; font-size: 2rem; flex-shrink: 0;
+}
+.cart-item-info { flex: 1; min-width: 0; }
+.cart-item-name { font-size: 0.85rem; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.cart-item-price { font-size: 0.9rem; color: var(--accent); font-weight: 700; }
+.cart-item-qty { display: flex; align-items: center; gap: 8px; margin-top: 4px; }
+.qty-btn {
+  width: 26px; height: 26px; border-radius: 50%; border: 1px solid var(--border);
+  background: #fff; cursor: pointer; font-size: 0.9rem; display: flex; align-items: center; justify-content: center;
+}
+.qty-num { font-size: 0.85rem; min-width: 20px; text-align: center; }
+.cart-item-remove { background: none; border: none; color: var(--muted); cursor: pointer; font-size: 0.8rem; }
+.cart-footer {
+  border-top: 1px solid var(--border); padding: 20px 24px;
+}
+.cart-total { display: flex; justify-content: space-between; font-size: 1.05rem; font-weight: 700; margin-bottom: 16px; }
+.cart-total .amount { color: var(--accent); font-size: 1.3rem; }
+.cart-checkout {
+  width: 100%; padding: 14px; background: var(--accent); color: #fff;
+  border: none; border-radius: 8px; font-size: 1rem; font-weight: 700;
+  cursor: pointer; transition: background .15s;
+}
+.cart-checkout:hover { background: #c62828; }
+
+/* Trust Badges */
+.trust-section {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px; margin: 40px 0;
+}
+.trust-card {
+  background: var(--card); border-radius: var(--radius); padding: 24px;
+  text-align: center; box-shadow: var(--shadow);
+}
+.trust-card .icon { font-size: 2rem; margin-bottom: 8px; }
+.trust-card h4 { font-size: 0.95rem; margin-bottom: 4px; }
+.trust-card p { font-size: 0.8rem; color: var(--muted); }
 
 /* Footer */
-footer { text-align: center; color: var(--muted); font-size: 0.8rem; padding: 32px 0; border-top: 1px solid var(--border); margin-top: 64px; }
-footer a { color: var(--muted); text-decoration: none; }
-footer a:hover { color: var(--accent); }
+footer { background: #1a1a1a; color: #aaa; padding: 40px 20px 24px; margin-top: 48px; }
+.footer-inner { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 32px; }
+.footer-col h4 { color: #fff; font-size: 1rem; margin-bottom: 16px; }
+.footer-col a, .footer-col p { display: block; color: #aaa; text-decoration: none; font-size: 0.85rem; margin-bottom: 8px; }
+.footer-col a:hover { color: #fff; }
+.footer-bottom { max-width: 1200px; margin: 24px auto 0; padding-top: 20px; border-top: 1px solid #333; text-align: center; font-size: 0.8rem; }
 
 /* Toast */
 .toast {
   position: fixed; bottom: 32px; left: 50%; transform: translateX(-50%);
-  background: #1b1b1b; color: #fff; padding: 12px 28px; border-radius: 10px;
-  font-size: 0.9rem; z-index: 999; opacity: 0; transition: opacity .3s;
-  pointer-events: none;
+  background: #1a1a1a; color: #fff; padding: 12px 28px; border-radius: 8px;
+  font-size: 0.9rem; z-index: 300; opacity: 0; transition: opacity .3s; pointer-events: none;
 }
 .toast.show { opacity: 1; }
 
 /* Responsive */
 @media (max-width: 640px) {
-  .container { padding: 20px 16px 60px; }
-  .upload-zone { padding: 32px 16px; }
-  .presets { gap: 8px; }
-  .preset-btn { padding: 8px 16px; font-size: 0.82rem; }
-  .preview-wrap { padding: 16px 8px; }
-  .cta { padding: 28px 20px; }
+  .hero { flex-direction: column; text-align: center; padding: 32px 24px; }
+  .hero h1 { font-size: 1.5rem; }
+  .header-inner { flex-wrap: wrap; gap: 8px; }
+  .search-bar { order: 3; max-width: 100%; flex: 100%; }
+  .product-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .product-img { height: 150px; font-size: 3rem; }
+  .cart-sidebar { width: 100vw; }
+  .nav-inner { gap: 0; }
+  .nav-inner a { padding: 10px 14px; font-size: 0.8rem; }
 }
-
-/* Hidden file input */
-#file-input { display: none; }
 </style>
 </head>
 <body>
 
-<div class="container">
+<!-- Top Banner -->
+<div class="top-banner">🎉 新店开业 · 全场满99包邮 · 7天无理由退换</div>
 
-  <!-- Header -->
-  <header>
-    <div class="logo">Hand<span>ly</span></div>
-    <p class="tagline">截图美化 · 一键出图 · 免费使用</p>
-  </header>
-
-  <!-- Tool -->
-  <section class="tool-section" id="tool">
-    <!-- Upload Zone -->
-    <div class="upload-zone" id="upload-zone">
-      <div class="upload-icon">📸</div>
-      <div class="upload-title">粘贴或拖入截图</div>
-      <div class="upload-hint">
-        支持 <kbd>Ctrl+V</kbd> 粘贴 · 拖拽图片 · 点击上传<br>
-        支持 PNG / JPG / WebP，完全在浏览器本地处理，不上传服务器
-      </div>
+<!-- Header -->
+<header>
+  <div class="header-inner">
+    <a href="/" class="logo">🏬 Handly<span>品质百货</span></a>
+    <div class="search-bar">
+      <input type="text" placeholder="搜索商品..." id="search-input">
+      <button onclick="searchProducts()">搜索</button>
     </div>
-
-    <!-- Preview (hidden initially) -->
-    <div class="upload-zone has-image" id="preview-section" style="display:none;">
-      <div class="preview-wrap">
-        <div class="preview-container" id="preview-container">
-          <img id="preview-img" alt="截图预览">
-        </div>
-
-        <!-- Presets -->
-        <div class="presets" id="presets"></div>
-
-        <!-- Actions -->
-        <div class="actions">
-          <button class="btn btn-primary" id="btn-download">⬇ 下载图片</button>
-          <button class="btn btn-secondary" id="btn-copy">📋 复制到剪贴板</button>
-          <button class="btn btn-outline" id="btn-reset">🔄 重新上传</button>
-        </div>
-      </div>
+    <div class="header-actions">
+      <a href="/terms.html">帮助中心</a>
+      <button class="cart-btn" onclick="toggleCart()">
+        🛒 购物车 <span class="cart-count" id="cart-count">0</span>
+      </button>
     </div>
+  </div>
+</header>
+
+<!-- Nav -->
+<nav>
+  <div class="nav-inner">
+    <a href="#all" class="active" onclick="filterCategory('all', this)">全部商品</a>
+    <a href="#digital" onclick="filterCategory('digital', this)">📱 数码配件</a>
+    <a href="#home" onclick="filterCategory('home', this)">🏠 家居用品</a>
+    <a href="#kitchen" onclick="filterCategory('kitchen', this)">🍳 厨房用具</a>
+    <a href="#office" onclick="filterCategory('office', this)">💼 办公文具</a>
+    <a href="#sports" onclick="filterCategory('sports', this)">⚽ 运动户外</a>
+    <a href="#beauty" onclick="filterCategory('beauty', this)">💄 个护美妆</a>
+  </div>
+</nav>
+
+<main>
+  <!-- Hero -->
+  <section class="hero">
+    <div>
+      <h1>品质生活，一站购齐</h1>
+      <p>精选数千款好物 · 正品保障 · 7天无理由退换 · 闪电发货</p>
+      <a href="#all" class="btn-hero">🔥 立即选购</a>
+    </div>
+    <div class="hero-emoji">🛍️</div>
   </section>
 
-  <hr class="divider">
+  <!-- Category Pills -->
+  <div class="categories">
+    <span class="cat-pill active" onclick="filterCategory('all', this)">全部</span>
+    <span class="cat-pill" onclick="filterCategory('digital', this)">📱 数码配件</span>
+    <span class="cat-pill" onclick="filterCategory('home', this)">🏠 家居用品</span>
+    <span class="cat-pill" onclick="filterCategory('kitchen', this)">🍳 厨房用具</span>
+    <span class="cat-pill" onclick="filterCategory('office', this)">💼 办公文具</span>
+    <span class="cat-pill" onclick="filterCategory('sports', this)">⚽ 运动户外</span>
+    <span class="cat-pill" onclick="filterCategory('beauty', this)">💄 个护美妆</span>
+  </div>
 
-  <!-- Features -->
-  <section class="features" id="features">
-    <h2>为什么创作者用 Handly？</h2>
-    <p class="sub">专为小红书、公众号、抖音创作者打造的截图美化工具</p>
-    <div class="feature-grid">
-      <div class="feature-card">
-        <div class="icon">⚡</div>
-        <h3>一键出图</h3>
-        <p>粘贴截图 → 选风格 → 下载。三秒搞定，不用学任何操作。</p>
-      </div>
-      <div class="feature-card">
-        <div class="icon">🔒</div>
-        <h3>纯本地处理</h3>
-        <p>所有处理在浏览器本地完成，你的截图不会上传到任何服务器。</p>
-      </div>
-      <div class="feature-card">
-        <div class="icon">🎨</div>
-        <h3>多种风格</h3>
-        <p>小红书白底、暗色高级感、渐变吸睛、奶油暖调，总有一款适合你的内容风格。</p>
-      </div>
-      <div class="feature-card">
-        <div class="icon">🆓</div>
-        <h3>完全免费</h3>
-        <p>基础功能永久免费，无水印，无次数限制。高级功能买断 ¥29.99。</p>
-      </div>
-      <div class="feature-card">
-        <div class="icon">📱</div>
-        <h3>高清输出</h3>
-        <p>保留原始分辨率，支持 2x/3x Retina 截图，输出清晰无水印。</p>
-      </div>
-      <div class="feature-card">
-        <div class="icon">🌐</div>
-        <h3>全平台通用</h3>
-        <p>网页版随时随地使用。另提供 Chrome 扩展，截取网页更方便。</p>
-      </div>
+  <!-- Product Grid -->
+  <h2 class="section-title">🔥 热销推荐</h2>
+  <div class="product-grid" id="product-grid"></div>
+
+  <!-- Trust Section -->
+  <section class="trust-section">
+    <div class="trust-card">
+      <div class="icon">🛡️</div>
+      <h4>正品保障</h4>
+      <p>所有商品均为正品，假一赔十</p>
+    </div>
+    <div class="trust-card">
+      <div class="icon">🔄</div>
+      <h4>7天退换</h4>
+      <p>不满意7天内无理由退换货</p>
+    </div>
+    <div class="trust-card">
+      <div class="icon">🚚</div>
+      <h4>满99包邮</h4>
+      <p>全国包邮，偏远地区3-5天到达</p>
+    </div>
+    <div class="trust-card">
+      <div class="icon">💳</div>
+      <h4>安全支付</h4>
+      <p>PayPal 安全支付，支持多种支付方式</p>
     </div>
   </section>
+</main>
 
-  <!-- CTA -->
-  <section class="cta" id="pro">
-    <h3>🚀 Handly Pro — 解锁更多风格</h3>
-    <p>¥29.99 一次性买断，永久使用，后续新功能免费更新</p>
-    <div class="actions" style="justify-content:center;">
-      <a href="https://paypal.me/1285901545/29.99" target="_blank" class="btn btn-primary">PayPal 购买 Pro</a>
+<!-- Footer -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-col">
+      <h4>购物指南</h4>
+      <a href="/terms.html">新手指南</a>
+      <a href="/terms.html">下单流程</a>
+      <a href="/terms.html">配送说明</a>
+      <a href="/terms.html">支付方式</a>
     </div>
-    <p style="font-size:0.8rem;color:var(--muted);margin-top:12px;">
-      支持 PayPal · 信用卡 · 支付宝 · 微信支付
-    </p>
-  </section>
+    <div class="footer-col">
+      <h4>售后服务</h4>
+      <a href="/refund.html">退换货政策</a>
+      <a href="/refund.html">退款说明</a>
+      <a href="/terms.html">保修政策</a>
+      <a href="/terms.html">投诉建议</a>
+    </div>
+    <div class="footer-col">
+      <h4>关于我们</h4>
+      <a href="/terms.html">公司介绍</a>
+      <a href="/privacy.html">隐私政策</a>
+      <a href="/terms.html">服务条款</a>
+      <a href="/terms.html">联系我们</a>
+    </div>
+    <div class="footer-col">
+      <h4>联系方式</h4>
+      <p>📧 support@handly.cc</p>
+      <p>⏰ 客服时间: 9:00-21:00</p>
+      <p>📍 中国 · 广东省深圳市</p>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; 2025 Handly Store. All rights reserved. | handly.cc | 品质生活百货</p>
+  </div>
+</footer>
 
-  <!-- Footer -->
-  <footer>
-    <p>
-      <a href="/terms.html">服务条款</a> · <a href="/privacy.html">隐私政策</a> · <a href="/refund.html">退款政策</a>
-    </p>
-    <p style="margin-top:8px;">&copy; 2025 Handly · handly.cc · 截图美化，一键出图</p>
-  </footer>
-
-  <input type="file" id="file-input" accept="image/png,image/jpeg,image/webp">
-
-  <!-- Toast -->
-  <div class="toast" id="toast"></div>
+<!-- Cart Overlay -->
+<div class="cart-overlay" id="cart-overlay" onclick="toggleCart()"></div>
+<div class="cart-sidebar" id="cart-sidebar">
+  <div class="cart-header">
+    <h3>🛒 购物车</h3>
+    <button class="cart-close" onclick="toggleCart()">✕</button>
+  </div>
+  <div class="cart-items" id="cart-items"></div>
+  <div class="cart-footer">
+    <div class="cart-total">
+      <span>合计：</span>
+      <span class="amount" id="cart-total">¥0.00</span>
+    </div>
+    <button class="cart-checkout" id="checkout-btn" onclick="checkout()">💳 去结算</button>
+  </div>
 </div>
 
-<script>
-// ========== Handly Screenshot Beautifier — Web Version ==========
+<!-- Toast -->
+<div class="toast" id="toast"></div>
 
-const PRESETS = [
-  {
-    id: 'clean',
-    name: '小红书白底',
-    dotColor: '#fff',
-    bg: '#ffffff',
-    radius: 20,
-    shadow: true, shadowColor: 'rgba(0,0,0,0.10)', shadowBlur: 30, shadowY: 8,
-    padding: 40
-  },
-  {
-    id: 'dark',
-    name: '暗色高级感',
-    dotColor: '#1a1a2e',
-    bg: '#1a1a2e',
-    radius: 22,
-    shadow: true, shadowColor: 'rgba(0,0,0,0.35)', shadowBlur: 40, shadowY: 12,
-    padding: 48
-  },
-  {
-    id: 'gradient',
-    name: '渐变吸睛',
-    dotColor: '#667eea',
-    bgType: 'gradient', bg: ['#667eea', '#764ba2'], bgAngle: 135,
-    radius: 24,
-    shadow: true, shadowColor: 'rgba(102,126,234,0.30)', shadowBlur: 36, shadowY: 10,
-    padding: 52
-  },
-  {
-    id: 'cream',
-    name: '奶油暖调',
-    dotColor: '#ffe4c4',
-    bg: '#fef9f0',
-    radius: 20,
-    shadow: true, shadowColor: 'rgba(180,160,140,0.18)', shadowBlur: 28, shadowY: 6,
-    padding: 40
-  },
-  {
-    id: 'raw',
-    name: '原图无边框',
-    dotColor: '#ccc',
-    bg: null,
-    radius: 0,
-    shadow: false,
-    padding: 0
-  }
+<script>
+// ========== PRODUCTS ==========
+const PRODUCTS = [
+  // 数码配件
+  { id: 1, name: 'USB-C 快充数据线 1.5米', desc: '100W PD快充，编织线材，兼容iPhone 15/安卓', price: 29.90, oldPrice: 49.90, sold: 3267, cat: 'digital', emoji: '🔌' },
+  { id: 2, name: '无线蓝牙耳机 Pro 降噪版', desc: '主动降噪，30小时续航，IPX5防水，低延迟', price: 169.00, oldPrice: 299.00, sold: 1892, cat: 'digital', emoji: '🎧' },
+  { id: 3, name: '手机支架 铝合金折叠款', desc: '铝合金材质，可折叠便携，多角度调节，稳固防滑', price: 39.90, oldPrice: 69.90, sold: 4501, cat: 'digital', emoji: '📱' },
+  { id: 4, name: '65W GaN氮化镓充电器', desc: '双口输出，支持笔记本快充，小巧便携', price: 89.00, oldPrice: 149.00, sold: 2134, cat: 'digital', emoji: '⚡' },
+  // 家居用品
+  { id: 5, name: '记忆棉护颈枕头', desc: '慢回弹记忆棉，人体工学设计，透气面料', price: 79.00, oldPrice: 159.00, sold: 5678, cat: 'home', emoji: '🛏️' },
+  { id: 6, name: 'LED护眼台灯 三档调光', desc: '无频闪，三档色温，USB充电，触摸开关', price: 59.90, oldPrice: 99.90, sold: 3321, cat: 'home', emoji: '💡' },
+  { id: 7, name: '北欧风收纳盒 三件套', desc: '布艺收纳，可折叠，大容量，家居整理必备', price: 45.00, oldPrice: 79.00, sold: 2876, cat: 'home', emoji: '📦' },
+  { id: 8, name: '超声波香薰加湿器', desc: '静音加湿，七彩夜灯，定时关闭，500ml大容量', price: 99.00, oldPrice: 169.00, sold: 1654, cat: 'home', emoji: '💧' },
+  // 厨房用具
+  { id: 9, name: '不锈钢保温杯 500ml', desc: '316不锈钢内胆，12小时保温，真空双层', price: 69.00, oldPrice: 129.00, sold: 4230, cat: 'kitchen', emoji: '☕' },
+  { id: 10, name: '陶瓷刀具套装 5件套', desc: '氧化锆陶瓷刀，锋利耐用，不生锈，轻便易用', price: 129.00, oldPrice: 229.00, sold: 1432, cat: 'kitchen', emoji: '🔪' },
+  { id: 11, name: '便携榨汁杯 无线充电款', desc: '磁吸充电，40秒快速榨汁，IPX6防水，400ml', price: 79.90, oldPrice: 139.90, sold: 2765, cat: 'kitchen', emoji: '🧃' },
+  { id: 12, name: '硅胶折叠饭盒 1000ml', desc: '食品级硅胶，可折叠收纳，微波炉可用', price: 35.00, oldPrice: 59.00, sold: 1988, cat: 'kitchen', emoji: '🍱' },
+  // 办公文具
+  { id: 13, name: 'A5活页笔记本 皮革封面', desc: 'PU皮革封面，6孔活页，可替换内芯，180°平摊', price: 49.00, oldPrice: 89.00, sold: 3542, cat: 'office', emoji: '📓' },
+  { id: 14, name: '无线静音鼠标 双模连接', desc: '蓝牙+2.4G双模，静音按键，人体工学，6键设计', price: 59.90, oldPrice: 99.90, sold: 2109, cat: 'office', emoji: '🖱️' },
+  { id: 15, name: '彩色记号笔套装 12色', desc: '双头设计，速干墨水，不透纸，办公学习必备', price: 19.90, oldPrice: 35.00, sold: 6123, cat: 'office', emoji: '🖊️' },
+  // 运动户外
+  { id: 16, name: '瑜伽垫 加厚防滑款', desc: 'TPE环保材质，6mm加厚，双面防滑，附绑带', price: 59.00, oldPrice: 99.00, sold: 2890, cat: 'sports', emoji: '🧘' },
+  { id: 17, name: '运动水壶 750ml 刻度款', desc: 'Tritan材质，弹盖设计，带刻度，防漏', price: 39.00, oldPrice: 69.00, sold: 3456, cat: 'sports', emoji: '🏃' },
+  { id: 18, name: '阻力带套装 5条装', desc: '天然乳胶，5种阻力，附收纳袋，居家健身', price: 29.90, oldPrice: 55.00, sold: 1789, cat: 'sports', emoji: '💪' },
+  // 个护美妆
+  { id: 19, name: '电动牙刷 声波款 IPX7防水', desc: '5种清洁模式，USB充电，2分钟计时，配4刷头', price: 89.00, oldPrice: 169.00, sold: 2345, cat: 'beauty', emoji: '🪥' },
+  { id: 20, name: '负离子吹风机 2000W', desc: '蓝光负离子护发，恒温不伤发，磁吸风嘴', price: 129.00, oldPrice: 219.00, sold: 1567, cat: 'beauty', emoji: '💨' },
+  { id: 21, name: '补水喷雾仪 纳米级', desc: 'USB充电，纳米雾化，60ml水箱，随身补水', price: 49.90, oldPrice: 89.90, sold: 3120, cat: 'beauty', emoji: '✨' },
+  { id: 22, name: '旅行洗漱包 防水款', desc: '防水面料，大容量分区，挂钩设计，干湿分离', price: 39.00, oldPrice: 69.00, sold: 2891, cat: 'beauty', emoji: '🧳' },
 ];
 
-let currentImage = null;
-let currentPreset = PRESETS[0];
+// ========== STATE ==========
+let cart = JSON.parse(localStorage.getItem('handly_cart') || '[]');
+let currentCat = 'all';
 
-// DOM refs
-const uploadZone = document.getElementById('upload-zone');
-const previewSection = document.getElementById('preview-section');
-const previewContainer = document.getElementById('preview-container');
-const previewImg = document.getElementById('preview-img');
-const presetsEl = document.getElementById('presets');
-const fileInput = document.getElementById('file-input');
-const toast = document.getElementById('toast');
-
-// ========== Init ==========
-function initPresets() {
-  presetsEl.innerHTML = PRESETS.map((p, i) => `
-    <button class="preset-btn${i === 0 ? ' active' : ''}" data-index="${i}">
-      <span class="dot" style="background:${p.bgType === 'gradient' ? p.bg[0] : (p.bg || '#fff')};${p.bgType === 'gradient' ? 'border:1px solid #ddd;' : ''}"></span>
-      ${p.name}
-    </button>
+// ========== INIT ==========
+function renderProducts() {
+  const grid = document.getElementById('product-grid');
+  const filtered = currentCat === 'all' ? PRODUCTS : PRODUCTS.filter(p => p.cat === currentCat);
+  
+  grid.innerHTML = filtered.map(p => `
+    <div class="product-card">
+      <div class="product-img">${p.emoji}</div>
+      <div class="product-info">
+        <div class="product-name">${p.name}</div>
+        <div class="product-desc">${p.desc}</div>
+        <div class="product-price-row">
+          <div class="product-price"><span class="yuan">¥</span>${p.price.toFixed(2)}<span class="old">¥${p.oldPrice.toFixed(2)}</span></div>
+          <div class="product-sold">已售 ${p.sold}</div>
+        </div>
+        <button class="add-to-cart" onclick="addToCart(${p.id})">加入购物车</button>
+      </div>
+    </div>
   `).join('');
+}
 
-  presetsEl.addEventListener('click', (e) => {
-    const btn = e.target.closest('.preset-btn');
-    if (!btn || !currentImage) return;
-    const idx = parseInt(btn.dataset.index);
-    currentPreset = PRESETS[idx];
-    document.querySelectorAll('.preset-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    render();
+function filterCategory(cat, el) {
+  currentCat = cat;
+  document.querySelectorAll('.cat-pill, .nav-inner a').forEach(e => e.classList.remove('active'));
+  if (el) el.classList.add('active');
+  // Also highlight corresponding nav link
+  document.querySelectorAll('.nav-inner a').forEach(a => {
+    if (a.getAttribute('href') === '#' + cat) a.classList.add('active');
   });
+  document.querySelectorAll('.cat-pill').forEach(a => {
+    if (a.textContent.includes(getCatName(cat))) a.classList.add('active');
+  });
+  renderProducts();
+  document.getElementById('product-grid').scrollIntoView({ behavior: 'smooth' });
 }
 
-// ========== Upload ==========
-uploadZone.addEventListener('click', () => fileInput.click());
-fileInput.addEventListener('change', (e) => {
-  if (e.target.files[0]) loadImageFromFile(e.target.files[0]);
-});
-
-uploadZone.addEventListener('dragover', (e) => {
-  e.preventDefault();
-  uploadZone.classList.add('drag-over');
-});
-uploadZone.addEventListener('dragleave', () => {
-  uploadZone.classList.remove('drag-over');
-});
-uploadZone.addEventListener('drop', (e) => {
-  e.preventDefault();
-  uploadZone.classList.remove('drag-over');
-  const file = e.dataTransfer.files[0];
-  if (file) loadImageFromFile(file);
-});
-
-document.addEventListener('paste', (e) => {
-  const items = e.clipboardData?.items;
-  if (!items) return;
-  for (const item of items) {
-    if (item.type.startsWith('image/')) {
-      e.preventDefault();
-      loadImageFromFile(item.getAsFile());
-      return;
-    }
-  }
-});
-
-function loadImageFromFile(file) {
-  if (!file.type.startsWith('image/')) {
-    showToast('请上传图片文件（PNG / JPG / WebP）');
-    return;
-  }
-  const reader = new FileReader();
-  reader.onload = () => {
-    const img = new Image();
-    img.onload = () => {
-      currentImage = img;
-      currentPreset = PRESETS[0];
-      document.querySelectorAll('.preset-btn').forEach((b, i) => b.classList.toggle('active', i === 0));
-      showPreview();
-      render();
-    };
-    img.src = reader.result;
-  };
-  reader.readAsDataURL(file);
+function getCatName(cat) {
+  const map = { all: '全部', digital: '数码', home: '家居', kitchen: '厨房', office: '办公', sports: '运动', beauty: '个护' };
+  return map[cat] || '';
 }
 
-function showPreview() {
-  uploadZone.style.display = 'none';
-  previewSection.style.display = 'block';
-  // Scroll to preview
-  previewSection.scrollIntoView({ behavior: 'smooth', block: 'center' });
+// ========== CART ==========
+function addToCart(id) {
+  const existing = cart.find(i => i.id === id);
+  if (existing) {
+    existing.qty++;
+  } else {
+    const p = PRODUCTS.find(p => p.id === id);
+    cart.push({ id, qty: 1, price: p.price, name: p.name, emoji: p.emoji });
+  }
+  saveCart();
+  updateCartUI();
+  showToast('已加入购物车 ✅');
 }
 
-// ========== Render ==========
-function render() {
-  if (!currentImage) return;
-
-  const p = currentPreset;
-  const P = p.padding;
-  const R = p.radius;
-  const W = currentImage.width + P * 2;
-  const H = currentImage.height + P * 2;
-
-  const canvas = document.createElement('canvas');
-  canvas.width = W;
-  canvas.height = H;
-  const ctx = canvas.getContext('2d');
-
-  // Background
-  if (p.bg) {
-    if (p.bgType === 'gradient') {
-      const grad = ctx.createLinearGradient(
-        W / 2 - Math.cos(p.bgAngle * Math.PI / 180) * W / 2,
-        H / 2 - Math.sin(p.bgAngle * Math.PI / 180) * H / 2,
-        W / 2 + Math.cos(p.bgAngle * Math.PI / 180) * W / 2,
-        H / 2 + Math.sin(p.bgAngle * Math.PI / 180) * H / 2
-      );
-      p.bg.forEach((c, i) => grad.addColorStop(i / (p.bg.length - 1), c));
-      ctx.fillStyle = grad;
-    } else {
-      ctx.fillStyle = p.bg;
-    }
-    ctx.fillRect(0, 0, W, H);
-  }
-
-  // Shadow (separate layer before clip — avoids toDataURL() exception)
-  if (R > 0 && p.shadow) {
-    ctx.save();
-    ctx.shadowColor = p.shadowColor;
-    ctx.shadowBlur = p.shadowBlur;
-    ctx.shadowOffsetX = 0;
-    ctx.shadowOffsetY = p.shadowY;
-    ctx.fillStyle = '#000';
-    ctx.beginPath();
-    roundRect(ctx, P, P, currentImage.width, currentImage.height, R);
-    ctx.fill();
-    ctx.restore();
-  }
-
-  // Clip + draw image
-  ctx.save();
-  if (R > 0) {
-    ctx.beginPath();
-    roundRect(ctx, P, P, currentImage.width, currentImage.height, R);
-    ctx.clip();
-  }
-  ctx.drawImage(currentImage, P, P, currentImage.width, currentImage.height);
-  ctx.restore();
-
-  // Update preview
-  previewImg.src = canvas.toDataURL('image/png');
+function removeFromCart(id) {
+  cart = cart.filter(i => i.id !== id);
+  saveCart();
+  updateCartUI();
 }
 
-function roundRect(ctx, x, y, w, h, r) {
-  ctx.moveTo(x + r, y);
-  ctx.lineTo(x + w - r, y);
-  ctx.quadraticCurveTo(x + w, y, x + w, y + r);
-  ctx.lineTo(x + w, y + h - r);
-  ctx.quadraticCurveTo(x + w, y + h, x + w - r, y + h);
-  ctx.lineTo(x + r, y + h);
-  ctx.quadraticCurveTo(x, y + h, x, y + h - r);
-  ctx.lineTo(x, y + r);
-  ctx.quadraticCurveTo(x, y, x + r, y);
+function changeQty(id, delta) {
+  const item = cart.find(i => i.id === id);
+  if (!item) return;
+  item.qty += delta;
+  if (item.qty <= 0) { removeFromCart(id); return; }
+  saveCart();
+  updateCartUI();
 }
 
-// ========== Actions ==========
-function getResultDataUrl() {
-  if (!currentImage) return null;
-  const p = currentPreset;
-  const P = p.padding, R = p.radius;
-  const W = currentImage.width + P * 2, H = currentImage.height + P * 2;
-
-  const canvas = document.createElement('canvas');
-  canvas.width = W; canvas.height = H;
-  const ctx = canvas.getContext('2d');
-
-  if (p.bg) {
-    if (p.bgType === 'gradient') {
-      const grad = ctx.createLinearGradient(
-        W / 2 - Math.cos(p.bgAngle * Math.PI / 180) * W / 2,
-        H / 2 - Math.sin(p.bgAngle * Math.PI / 180) * H / 2,
-        W / 2 + Math.cos(p.bgAngle * Math.PI / 180) * W / 2,
-        H / 2 + Math.sin(p.bgAngle * Math.PI / 180) * H / 2
-      );
-      p.bg.forEach((c, i) => grad.addColorStop(i / (p.bg.length - 1), c));
-      ctx.fillStyle = grad;
-    } else {
-      ctx.fillStyle = p.bg;
-    }
-    ctx.fillRect(0, 0, W, H);
-  }
-
-  if (R > 0 && p.shadow) {
-    ctx.save();
-    ctx.shadowColor = p.shadowColor;
-    ctx.shadowBlur = p.shadowBlur;
-    ctx.shadowOffsetX = 0;
-    ctx.shadowOffsetY = p.shadowY;
-    ctx.fillStyle = '#000';
-    ctx.beginPath();
-    roundRect(ctx, P, P, currentImage.width, currentImage.height, R);
-    ctx.fill();
-    ctx.restore();
-  }
-
-  ctx.save();
-  if (R > 0) {
-    ctx.beginPath();
-    roundRect(ctx, P, P, currentImage.width, currentImage.height, R);
-    ctx.clip();
-  }
-  ctx.drawImage(currentImage, P, P, currentImage.width, currentImage.height);
-  ctx.restore();
-
-  return canvas.toDataURL('image/png');
+function saveCart() {
+  localStorage.setItem('handly_cart', JSON.stringify(cart));
 }
 
-document.getElementById('btn-download').addEventListener('click', () => {
-  if (!currentImage) return;
-  const dataUrl = getResultDataUrl();
-  const a = document.createElement('a');
-  a.download = `handly-${currentPreset.name}-${Date.now()}.png`;
-  a.href = dataUrl;
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-  showToast('✅ 下载成功！');
-});
-
-document.getElementById('btn-copy').addEventListener('click', async () => {
-  if (!currentImage) return;
-  try {
-    const dataUrl = getResultDataUrl();
-    const blob = await (await fetch(dataUrl)).blob();
-    await navigator.clipboard.write([new ClipboardItem({ 'image/png': blob })]);
-    showToast('✅ 已复制到剪贴板！');
-  } catch (err) {
-    // Fallback for browsers without ClipboardItem support
-    showToast('⚠️ 当前浏览器不支持复制图片，请使用下载按钮');
+function updateCartUI() {
+  // Count badge
+  const count = cart.reduce((sum, i) => sum + i.qty, 0);
+  document.getElementById('cart-count').textContent = count;
+  
+  // Sidebar items
+  const itemsEl = document.getElementById('cart-items');
+  if (cart.length === 0) {
+    itemsEl.innerHTML = '<div class="cart-empty">🛒 购物车是空的<br><span style="font-size:0.8rem;">快去挑选心仪的商品吧</span></div>';
+  } else {
+    itemsEl.innerHTML = cart.map(i => `
+      <div class="cart-item">
+        <div class="cart-item-img">${i.emoji}</div>
+        <div class="cart-item-info">
+          <div class="cart-item-name">${i.name}</div>
+          <div class="cart-item-price">¥${(i.price * i.qty).toFixed(2)}</div>
+          <div class="cart-item-qty">
+            <button class="qty-btn" onclick="changeQty(${i.id}, -1)">−</button>
+            <span class="qty-num">${i.qty}</span>
+            <button class="qty-btn" onclick="changeQty(${i.id}, 1)">+</button>
+            <button class="cart-item-remove" onclick="removeFromCart(${i.id})">删除</button>
+          </div>
+        </div>
+      </div>
+    `).join('');
   }
-});
+  
+  // Total
+  const total = cart.reduce((sum, i) => sum + i.price * i.qty, 0);
+  document.getElementById('cart-total').textContent = '¥' + total.toFixed(2);
+  document.getElementById('checkout-btn').disabled = cart.length === 0;
+}
 
-document.getElementById('btn-reset').addEventListener('click', () => {
-  currentImage = null;
-  previewSection.style.display = 'none';
-  uploadZone.style.display = '';
-  fileInput.value = '';
-  uploadZone.scrollIntoView({ behavior: 'smooth', block: 'center' });
-});
+function toggleCart() {
+  document.getElementById('cart-sidebar').classList.toggle('show');
+  document.getElementById('cart-overlay').classList.toggle('show');
+}
 
-// ========== Toast ==========
-let toastTimer;
+function checkout() {
+  const total = cart.reduce((sum, i) => sum + i.price * i.qty, 0);
+  if (total <= 0) return showToast('购物车为空');
+  // PayPal checkout — redirect to PayPal payment
+  const items = cart.map(i => `${i.name} x${i.qty}`).join(', ');
+  const paypalUrl = `https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=support@handly.cc&item_name=${encodeURIComponent(items)}&amount=${total.toFixed(2)}&currency_code=USD&return=https://handly.cc/success.html&cancel_return=https://handly.cc/`;
+  window.open(paypalUrl, '_blank');
+}
+
+function searchProducts() {
+  const q = document.getElementById('search-input').value.trim().toLowerCase();
+  if (!q) return renderProducts();
+  currentCat = 'all';
+  document.querySelectorAll('.cat-pill, .nav-inner a').forEach(e => e.classList.remove('active'));
+  
+  const grid = document.getElementById('product-grid');
+  const results = PRODUCTS.filter(p => p.name.toLowerCase().includes(q) || p.desc.toLowerCase().includes(q));
+  if (results.length === 0) {
+    grid.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:48px;color:var(--muted);">未找到相关商品，试试其他关键词吧 🔍</div>';
+  } else {
+    grid.innerHTML = results.map(p => `
+      <div class="product-card">
+        <div class="product-img">${p.emoji}</div>
+        <div class="product-info">
+          <div class="product-name">${p.name}</div>
+          <div class="product-desc">${p.desc}</div>
+          <div class="product-price-row">
+            <div class="product-price"><span class="yuan">¥</span>${p.price.toFixed(2)}<span class="old">¥${p.oldPrice.toFixed(2)}</span></div>
+            <div class="product-sold">已售 ${p.sold}</div>
+          </div>
+          <button class="add-to-cart" onclick="addToCart(${p.id})">加入购物车</button>
+        </div>
+      </div>
+    `).join('');
+  }
+}
+
 function showToast(msg) {
-  toast.textContent = msg;
-  toast.classList.add('show');
-  clearTimeout(toastTimer);
-  toastTimer = setTimeout(() => toast.classList.remove('show'), 2000);
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2000);
 }
 
-// ========== Keyboard shortcuts ==========
-document.addEventListener('keydown', (e) => {
-  if ((e.ctrlKey || e.metaKey) && e.key === 's' && currentImage) {
-    e.preventDefault();
-    document.getElementById('btn-download').click();
-  }
+// Search on Enter
+document.getElementById('search-input').addEventListener('keydown', e => {
+  if (e.key === 'Enter') searchProducts();
 });
 
-// ========== Init ==========
-initPresets();
+// ========== START ==========
+renderProducts();
+updateCartUI();
 </script>
 
 </body>
