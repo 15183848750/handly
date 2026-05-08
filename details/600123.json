@@ -1,0 +1,80 @@
+{
+  "code": "600123",
+  "signal": {
+    "code": "600123",
+    "name": "兰花科创",
+    "price": 6.68,
+    "change_pct": -0.45,
+    "pe": -89.6,
+    "pb": 0.65,
+    "turnover": 1.46,
+    "total_mv": 9841243340.0,
+    "change_60d": 6.37,
+    "change_ytd": 13.03
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2745.92万",
+      "net_profit_yoy": "-182.28%",
+      "revenue": "24.10亿",
+      "revenue_yoy": "9.94%",
+      "eps": "-0.0186",
+      "roe": "-0.18%",
+      "net_margin": "-3.18%",
+      "debt_ratio": "60.54%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "40.50亿",
+        "net_profit": "5747.78万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "58.86亿",
+        "net_profit": "1051.39万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "81.42亿",
+        "net_profit": "-5.40亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "24.10亿",
+        "net_profit": "-2745.92万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-24 09:32:25",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 10:46:03",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:41:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:41:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:58"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "603196",
+  "signal": {
+    "code": "603196",
+    "name": "璞源材料",
+    "price": 28.71,
+    "change_pct": -0.62,
+    "pe": 126.95,
+    "pb": 6.03,
+    "turnover": 1.29,
+    "total_mv": 12020516402.0,
+    "change_60d": 9.0,
+    "change_ytd": 12.46
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2367.25万",
+      "net_profit_yoy": "214.86%",
+      "revenue": "3.79亿",
+      "revenue_yoy": "95.84%",
+      "eps": "0.0575",
+      "roe": "1.22%",
+      "net_margin": "8.73%",
+      "debt_ratio": "23.47%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3.78亿",
+        "net_profit": "3828.76万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "5.80亿",
+        "net_profit": "4335.64万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "8.16亿",
+        "net_profit": "1798.88万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.79亿",
+        "net_profit": "2367.25万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 09:25:02",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 16:57:04",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:48:26",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:07:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 18:50:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:58"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "600328",
+  "signal": {
+    "code": "600328",
+    "name": "中盐化工",
+    "price": 8.09,
+    "change_pct": -0.49,
+    "pe": -19.21,
+    "pb": 1.0,
+    "turnover": 1.96,
+    "total_mv": 11862444122.0,
+    "change_60d": -12.35,
+    "change_ytd": -1.82
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.54亿",
+      "net_profit_yoy": "-993.49%",
+      "revenue": "24.26亿",
+      "revenue_yoy": "-12.37%",
+      "eps": "-0.1053",
+      "roe": "-1.29%",
+      "net_margin": "-6.93%",
+      "debt_ratio": "37.45%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "59.98亿",
+        "net_profit": "5271.55万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "87.73亿",
+        "net_profit": "5783.48万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "113.43亿",
+        "net_profit": "7394.94万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "24.26亿",
+        "net_profit": "-1.54亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 09:40:57",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 10:41:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 20:14:08",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 15:57:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:34"
+}

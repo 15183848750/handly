@@ -1,0 +1,54 @@
+{
+  "code": "002260",
+  "signal": {
+    "code": "002260",
+    "name": "德奥退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2010.99万",
+      "net_profit_yoy": "-213.22%",
+      "revenue": "1.29亿",
+      "revenue_yoy": "-6.08%",
+      "eps": "-0.0400",
+      "roe": "False",
+      "net_margin": "-15.64%",
+      "debt_ratio": "190.85%",
+      "report_period": "2025-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-12-31",
+        "revenue": "2.35亿",
+        "net_profit": "-4.19亿"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1.37亿",
+        "net_profit": "-642.04万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "2.95亿",
+        "net_profit": "-1981.67万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1.29亿",
+        "net_profit": "-2010.99万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:57"
+}

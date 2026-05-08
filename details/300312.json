@@ -1,0 +1,54 @@
+{
+  "code": "300312",
+  "signal": {
+    "code": "300312",
+    "name": "邦讯退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-7578.54万",
+      "net_profit_yoy": "12.04%",
+      "revenue": "1004.45万",
+      "revenue_yoy": "-40.81%",
+      "eps": "-0.2368",
+      "roe": "False",
+      "net_margin": "-783.86%",
+      "debt_ratio": "180.88%",
+      "report_period": "2021-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2020-12-31",
+        "revenue": "1930.99万",
+        "net_profit": "-2.43亿"
+      },
+      {
+        "report_period": "2021-03-31",
+        "revenue": "159.23万",
+        "net_profit": "-2055.60万"
+      },
+      {
+        "report_period": "2021-06-30",
+        "revenue": "651.48万",
+        "net_profit": "-3884.63万"
+      },
+      {
+        "report_period": "2021-09-30",
+        "revenue": "1004.45万",
+        "net_profit": "-7578.54万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:39"
+}

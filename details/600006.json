@@ -1,0 +1,80 @@
+{
+  "code": "600006",
+  "signal": {
+    "code": "600006",
+    "name": "东风股份",
+    "price": 6.91,
+    "change_pct": -0.58,
+    "pe": 16.81,
+    "pb": 1.73,
+    "turnover": 0.73,
+    "total_mv": 13820000000.0,
+    "change_60d": -0.29,
+    "change_ytd": -3.76
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.06亿",
+      "net_profit_yoy": "35.91%",
+      "revenue": "24.47亿",
+      "revenue_yoy": "-6.89%",
+      "eps": "0.1028",
+      "roe": "2.60%",
+      "net_margin": "8.37%",
+      "debt_ratio": "49.02%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "50.31亿",
+        "net_profit": "9720.61万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "70.11亿",
+        "net_profit": "1.02亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "88.58亿",
+        "net_profit": "-4.80亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "24.47亿",
+        "net_profit": "2.06亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 12:12:23",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 18:18:36",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 09:53:33",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 17:26:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 12:22:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:41"
+}

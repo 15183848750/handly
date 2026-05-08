@@ -1,0 +1,80 @@
+{
+  "code": "002267",
+  "signal": {
+    "code": "002267",
+    "name": "陕天然气",
+    "price": 7.95,
+    "change_pct": -0.5,
+    "pe": 5.95,
+    "pb": 1.26,
+    "turnover": 0.5,
+    "total_mv": 8840999788.0,
+    "change_60d": -0.63,
+    "change_ytd": 5.58
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3.71亿",
+      "net_profit_yoy": "-19.10%",
+      "revenue": "31.60亿",
+      "revenue_yoy": "-11.00%",
+      "eps": "0.3338",
+      "roe": "5.45%",
+      "net_margin": "12.12%",
+      "debt_ratio": "48.70%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "48.50亿",
+        "net_profit": "5.09亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "59.57亿",
+        "net_profit": "4.74亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "85.95亿",
+        "net_profit": "5.84亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "31.60亿",
+        "net_profit": "3.71亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 08:57:51",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:42:04",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 21:28:49",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-21 16:06:36",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:34:45",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:43"
+}

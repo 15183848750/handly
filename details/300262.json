@@ -1,0 +1,346 @@
+{
+  "code": "300262",
+  "signal": {
+    "code": "300262",
+    "name": "*ST巴安",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2.30亿",
+      "net_profit_yoy": "25.92%",
+      "revenue": "1.64亿",
+      "revenue_yoy": "3.78%",
+      "eps": "-0.3741",
+      "roe": "False",
+      "net_margin": "-153.10%",
+      "debt_ratio": "128.03%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-09-30",
+        "revenue": "1.13亿",
+        "net_profit": "-2.15亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1.58亿",
+        "net_profit": "-3.10亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "7124.94万",
+        "net_profit": "-518.71万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1.64亿",
+        "net_profit": "-2.30亿"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2024-05-06",
+      "open": 1.64,
+      "close": 1.64,
+      "high": 1.64,
+      "low": 1.64,
+      "volume": 10691.0,
+      "turnover": 1753324.0
+    },
+    {
+      "date": "2024-05-07",
+      "open": 1.31,
+      "close": 1.31,
+      "high": 1.31,
+      "low": 1.31,
+      "volume": 83164.0,
+      "turnover": 10894484.0
+    },
+    {
+      "date": "2024-05-08",
+      "open": 1.16,
+      "close": 1.09,
+      "high": 1.21,
+      "low": 1.07,
+      "volume": 1071721.0,
+      "turnover": 121645128.0
+    },
+    {
+      "date": "2024-05-09",
+      "open": 1.05,
+      "close": 1.05,
+      "high": 1.13,
+      "low": 1.03,
+      "volume": 560645.0,
+      "turnover": 60451131.0
+    },
+    {
+      "date": "2024-05-10",
+      "open": 0.98,
+      "close": 0.84,
+      "high": 0.99,
+      "low": 0.84,
+      "volume": 872582.0,
+      "turnover": 77216143.0
+    },
+    {
+      "date": "2024-05-13",
+      "open": 0.79,
+      "close": 0.83,
+      "high": 0.88,
+      "low": 0.73,
+      "volume": 576143.0,
+      "turnover": 46920168.0
+    },
+    {
+      "date": "2024-05-14",
+      "open": 0.88,
+      "close": 1.0,
+      "high": 1.0,
+      "low": 0.86,
+      "volume": 743463.0,
+      "turnover": 70189942.0
+    },
+    {
+      "date": "2024-05-15",
+      "open": 1.08,
+      "close": 1.12,
+      "high": 1.19,
+      "low": 1.03,
+      "volume": 1126558.0,
+      "turnover": 124563025.0
+    },
+    {
+      "date": "2024-05-16",
+      "open": 1.05,
+      "close": 1.14,
+      "high": 1.22,
+      "low": 1.02,
+      "volume": 805031.0,
+      "turnover": 88476466.0
+    },
+    {
+      "date": "2024-05-17",
+      "open": 1.11,
+      "close": 1.04,
+      "high": 1.14,
+      "low": 1.04,
+      "volume": 560175.0,
+      "turnover": 60365200.0
+    },
+    {
+      "date": "2024-05-20",
+      "open": 1.01,
+      "close": 1.05,
+      "high": 1.11,
+      "low": 1.01,
+      "volume": 451659.0,
+      "turnover": 47946097.0
+    },
+    {
+      "date": "2024-05-21",
+      "open": 1.05,
+      "close": 0.99,
+      "high": 1.05,
+      "low": 0.95,
+      "volume": 436776.0,
+      "turnover": 43685876.0
+    },
+    {
+      "date": "2024-05-22",
+      "open": 0.92,
+      "close": 0.9,
+      "high": 0.97,
+      "low": 0.87,
+      "volume": 560471.0,
+      "turnover": 51005114.0
+    },
+    {
+      "date": "2024-05-23",
+      "open": 0.87,
+      "close": 0.82,
+      "high": 0.89,
+      "low": 0.8,
+      "volume": 514428.0,
+      "turnover": 43348188.0
+    },
+    {
+      "date": "2024-05-24",
+      "open": 0.81,
+      "close": 0.98,
+      "high": 0.98,
+      "low": 0.81,
+      "volume": 746443.0,
+      "turnover": 69304825.0
+    },
+    {
+      "date": "2024-05-27",
+      "open": 0.98,
+      "close": 0.94,
+      "high": 1.02,
+      "low": 0.9,
+      "volume": 682886.0,
+      "turnover": 65232486.0
+    },
+    {
+      "date": "2024-05-28",
+      "open": 0.9,
+      "close": 0.95,
+      "high": 1.01,
+      "low": 0.9,
+      "volume": 506766.0,
+      "turnover": 48549929.0
+    },
+    {
+      "date": "2024-05-29",
+      "open": 0.85,
+      "close": 0.86,
+      "high": 0.92,
+      "low": 0.83,
+      "volume": 589814.0,
+      "turnover": 51377208.0
+    },
+    {
+      "date": "2024-05-30",
+      "open": 0.84,
+      "close": 0.85,
+      "high": 0.91,
+      "low": 0.83,
+      "volume": 426104.0,
+      "turnover": 36886282.0
+    },
+    {
+      "date": "2024-05-31",
+      "open": 0.82,
+      "close": 0.71,
+      "high": 0.85,
+      "low": 0.68,
+      "volume": 775431.0,
+      "turnover": 59337107.0
+    },
+    {
+      "date": "2024-06-03",
+      "open": 0.57,
+      "close": 0.57,
+      "high": 0.63,
+      "low": 0.57,
+      "volume": 549568.0,
+      "turnover": 32004505.0
+    },
+    {
+      "date": "2024-06-04",
+      "open": 0.54,
+      "close": 0.48,
+      "high": 0.58,
+      "low": 0.46,
+      "volume": 764754.0,
+      "turnover": 37722718.0
+    },
+    {
+      "date": "2024-06-05",
+      "open": 0.48,
+      "close": 0.58,
+      "high": 0.58,
+      "low": 0.42,
+      "volume": 723798.0,
+      "turnover": 37791044.0
+    },
+    {
+      "date": "2024-06-06",
+      "open": 0.55,
+      "close": 0.7,
+      "high": 0.7,
+      "low": 0.52,
+      "volume": 699842.0,
+      "turnover": 45883276.0
+    },
+    {
+      "date": "2024-06-07",
+      "open": 0.78,
+      "close": 0.84,
+      "high": 0.84,
+      "low": 0.76,
+      "volume": 420072.0,
+      "turnover": 34461880.0
+    },
+    {
+      "date": "2024-06-11",
+      "open": 0.91,
+      "close": 0.97,
+      "high": 1.0,
+      "low": 0.88,
+      "volume": 1148952.0,
+      "turnover": 110729645.0
+    },
+    {
+      "date": "2024-06-12",
+      "open": 0.92,
+      "close": 0.92,
+      "high": 0.96,
+      "low": 0.78,
+      "volume": 976527.0,
+      "turnover": 86743340.0
+    },
+    {
+      "date": "2024-06-13",
+      "open": 0.89,
+      "close": 0.89,
+      "high": 1.0,
+      "low": 0.87,
+      "volume": 773816.0,
+      "turnover": 72296708.0
+    },
+    {
+      "date": "2024-06-14",
+      "open": 0.8,
+      "close": 0.71,
+      "high": 0.94,
+      "low": 0.71,
+      "volume": 990797.0,
+      "turnover": 81650602.0
+    },
+    {
+      "date": "2024-06-17",
+      "open": 0.61,
+      "close": 0.85,
+      "high": 0.85,
+      "low": 0.61,
+      "volume": 1158507.0,
+      "turnover": 91506077.0
+    },
+    {
+      "date": "2024-06-18",
+      "open": 0.9,
+      "close": 0.68,
+      "high": 0.99,
+      "low": 0.68,
+      "volume": 1333283.0,
+      "turnover": 116696610.0
+    }
+  ],
+  "news": [],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日弱势整理",
+    "risk_level": "高风险",
+    "risk_reasons": [
+      "资产负债率较高(128.0%)",
+      "波动率大"
+    ],
+    "volatility": 13.19,
+    "ai_summary": "*ST巴安：当前PE处于高估值区间，利润增长，营收增长。技术面：近60日弱势整理。风险等级高风险。"
+  },
+  "update_time": "2026-05-08 15:44:46"
+}

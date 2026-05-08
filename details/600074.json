@@ -1,0 +1,54 @@
+{
+  "code": "600074",
+  "signal": {
+    "code": "600074",
+    "name": "退市保千",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.31亿",
+      "net_profit_yoy": "89.60%",
+      "revenue": "2785.69万",
+      "revenue_yoy": "-60.47%",
+      "eps": "-0.0500",
+      "roe": "False",
+      "net_margin": "-485.43%",
+      "debt_ratio": "2326.95%",
+      "report_period": "2022-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2021-06-30",
+        "revenue": "7047.71万",
+        "net_profit": "-12.63亿"
+      },
+      {
+        "report_period": "2021-09-30",
+        "revenue": "9843.67万",
+        "net_profit": "-13.31亿"
+      },
+      {
+        "report_period": "2021-12-31",
+        "revenue": "1.10亿",
+        "net_profit": "-14.29亿"
+      },
+      {
+        "report_period": "2022-06-30",
+        "revenue": "2785.69万",
+        "net_profit": "-1.31亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:05"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "600813",
+  "signal": {
+    "code": "600813",
+    "name": "ST鞍一工",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "941.38万",
+      "net_profit_yoy": "-8.47%",
+      "revenue": "6148.82万",
+      "revenue_yoy": "-15.34%",
+      "eps": "0.0300",
+      "roe": "92.00%",
+      "net_margin": "15.31%",
+      "debt_ratio": "78.70%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "3031.98万",
+        "net_profit": "331.24万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "7263.02万",
+        "net_profit": "1028.54万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "291.44万",
+        "net_profit": "-46.35万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "6148.82万",
+        "net_profit": "941.38万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:07"
+}

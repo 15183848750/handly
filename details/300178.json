@@ -1,0 +1,60 @@
+{
+  "code": "300178",
+  "signal": {
+    "code": "300178",
+    "name": "腾邦退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.46亿",
+      "net_profit_yoy": "-96.46%",
+      "revenue": "6466.84万",
+      "revenue_yoy": "-86.44%",
+      "eps": "-0.2376",
+      "roe": "False",
+      "net_margin": "-232.14%",
+      "debt_ratio": "136.49%",
+      "report_period": "2022-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2021-06-30",
+        "revenue": "9.74亿",
+        "net_profit": "-2.16亿"
+      },
+      {
+        "report_period": "2021-09-30",
+        "revenue": "13.94亿",
+        "net_profit": "-3.48亿"
+      },
+      {
+        "report_period": "2021-12-31",
+        "revenue": "17.17亿",
+        "net_profit": "-14.73亿"
+      },
+      {
+        "report_period": "2022-03-31",
+        "revenue": "6466.84万",
+        "net_profit": "-1.46亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-03-18 20:10:23",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:51"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "601038",
+  "signal": {
+    "code": "601038",
+    "name": "一拖股份",
+    "price": 13.64,
+    "change_pct": -0.44,
+    "pe": 6.81,
+    "pb": 1.86,
+    "turnover": 0.7,
+    "total_mv": 15326521551.0,
+    "change_60d": -9.13,
+    "change_ytd": -3.74
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "5.63亿",
+      "net_profit_yoy": "6.23%",
+      "revenue": "46.69亿",
+      "revenue_yoy": "2.47%",
+      "eps": "0.5006",
+      "roe": "7.08%",
+      "net_margin": "12.16%",
+      "debt_ratio": "48.40%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "69.28亿",
+        "net_profit": "7.69亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "97.03亿",
+        "net_profit": "9.94亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "108.23亿",
+        "net_profit": "8.12亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "46.69亿",
+        "net_profit": "5.63亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:09:47",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 23:49:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 23:26:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 15:50:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-15 09:30:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:43"
+}

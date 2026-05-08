@@ -1,0 +1,54 @@
+{
+  "code": "600485",
+  "signal": {
+    "code": "600485",
+    "name": "*ST信威",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-6.68亿",
+      "net_profit_yoy": "37.78%",
+      "revenue": "2321.15万",
+      "revenue_yoy": "-67.91%",
+      "eps": "-0.2300",
+      "roe": "False",
+      "net_margin": "-2904.49%",
+      "debt_ratio": "1196.25%",
+      "report_period": "2021-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2020-09-30",
+        "revenue": "1.35亿",
+        "net_profit": "-12.06亿"
+      },
+      {
+        "report_period": "2020-12-31",
+        "revenue": "2.02亿",
+        "net_profit": "-33.84亿"
+      },
+      {
+        "report_period": "2021-03-31",
+        "revenue": "2321.15万",
+        "net_profit": "-3.46亿"
+      },
+      {
+        "report_period": "2021-06-30",
+        "revenue": "2321.15万",
+        "net_profit": "-6.68亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:01"
+}

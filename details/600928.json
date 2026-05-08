@@ -1,0 +1,80 @@
+{
+  "code": "600928",
+  "signal": {
+    "code": "600928",
+    "name": "西安银行",
+    "price": 3.64,
+    "change_pct": -0.55,
+    "pe": 5.35,
+    "pb": 0.45,
+    "turnover": 0.43,
+    "total_mv": 16177777780.0,
+    "change_60d": -2.93,
+    "change_ytd": -1.62
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7.56亿",
+      "net_profit_yoy": "6.16%",
+      "revenue": "28.86亿",
+      "revenue_yoy": "41.54%",
+      "eps": "0.1700",
+      "roe": "2.13%",
+      "net_margin": "26.19%",
+      "debt_ratio": "92.51%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "52.05亿",
+        "net_profit": "14.52亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "76.91亿",
+        "net_profit": "20.33亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "99.66亿",
+        "net_profit": "26.50亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "28.86亿",
+        "net_profit": "7.56亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 09:36:03",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 10:14:35",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 13:59:39",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-02 02:21:55",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:23"
+}

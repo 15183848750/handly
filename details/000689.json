@@ -1,0 +1,65 @@
+{
+  "code": "000689",
+  "signal": {
+    "code": "000689",
+    "name": "ST宏业",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.06亿",
+      "net_profit_yoy": "-7.76%",
+      "revenue": "0.0000",
+      "revenue_yoy": "False",
+      "eps": "-0.9500",
+      "roe": "False",
+      "net_margin": "False",
+      "debt_ratio": "7893.66%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-4808.48万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-9796.58万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-5181.56万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-1.06亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 11:49:20",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-11 18:02:59",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:54"
+}

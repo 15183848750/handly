@@ -1,0 +1,54 @@
+{
+  "code": "600852",
+  "signal": {
+    "code": "600852",
+    "name": "*ST中川",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "97.48万",
+      "net_profit_yoy": "108.06%",
+      "revenue": "2564.57万",
+      "revenue_yoy": "-47.08%",
+      "eps": "0.0100",
+      "roe": "False",
+      "net_margin": "3.80%",
+      "debt_ratio": "40890.44%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "2751.95万",
+        "net_profit": "48.77万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "4845.80万",
+        "net_profit": "-1209.19万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1120.74万",
+        "net_profit": "-417.00万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "2564.57万",
+        "net_profit": "97.48万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:57"
+}

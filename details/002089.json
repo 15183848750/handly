@@ -1,0 +1,54 @@
+{
+  "code": "002089",
+  "signal": {
+    "code": "002089",
+    "name": "新海退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4.81亿",
+      "net_profit_yoy": "-68.11%",
+      "revenue": "4129.26万",
+      "revenue_yoy": "-28.01%",
+      "eps": "-0.3500",
+      "roe": "False",
+      "net_margin": "-1150.40%",
+      "debt_ratio": "131.58%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "2490.89万",
+        "net_profit": "-5611.99万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "5736.25万",
+        "net_profit": "-2.86亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1851.53万",
+        "net_profit": "-2.81亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "4129.26万",
+        "net_profit": "-4.81亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:06"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "002143",
+  "signal": {
+    "code": "002143",
+    "name": "印纪退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.03亿",
+      "net_profit_yoy": "84.06%",
+      "revenue": "5980.31万",
+      "revenue_yoy": "-80.19%",
+      "eps": "-0.0600",
+      "roe": "-8.22%",
+      "net_margin": "-180.90%",
+      "debt_ratio": "52.47%",
+      "report_period": "2019-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2018-12-31",
+        "revenue": "3.62亿",
+        "net_profit": "-17.86亿"
+      },
+      {
+        "report_period": "2019-03-31",
+        "revenue": "4251.37万",
+        "net_profit": "-2871.00万"
+      },
+      {
+        "report_period": "2019-06-30",
+        "revenue": "5980.31万",
+        "net_profit": "-9200.46万"
+      },
+      {
+        "report_period": "2019-09-30",
+        "revenue": "5980.31万",
+        "net_profit": "-1.03亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:03"
+}

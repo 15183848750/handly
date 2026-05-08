@@ -1,0 +1,54 @@
+{
+  "code": "000760",
+  "signal": {
+    "code": "000760",
+    "name": "斯太退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-992.59万",
+      "net_profit_yoy": "-111.49%",
+      "revenue": "5.66万",
+      "revenue_yoy": "-79.77%",
+      "eps": "-0.0100",
+      "roe": "False",
+      "net_margin": "-17525.38%",
+      "debt_ratio": "105.57%",
+      "report_period": "2021-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2020-06-30",
+        "revenue": "99.66万",
+        "net_profit": "2777.65万"
+      },
+      {
+        "report_period": "2020-09-30",
+        "revenue": "162.08万",
+        "net_profit": "1404.75万"
+      },
+      {
+        "report_period": "2020-12-31",
+        "revenue": "841.48万",
+        "net_profit": "-6350.10万"
+      },
+      {
+        "report_period": "2021-03-31",
+        "revenue": "5.66万",
+        "net_profit": "-992.59万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:47"
+}

@@ -1,0 +1,70 @@
+{
+  "code": "000832",
+  "signal": {
+    "code": "000832",
+    "name": "*ST龙涤",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-16.89万",
+      "net_profit_yoy": "-27.82%",
+      "revenue": "0.0000",
+      "revenue_yoy": "False",
+      "eps": "-0.0005",
+      "roe": "False",
+      "net_margin": "False",
+      "debt_ratio": "45069.11%",
+      "report_period": "2023-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-13.21万"
+      },
+      {
+        "report_period": "2022-09-30",
+        "revenue": "0.0000",
+        "net_profit": "-28.56万"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-74.12万"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-16.89万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-02-06 17:00:49",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-02-06 16:26:31",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-11-10 08:07:59",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:33"
+}

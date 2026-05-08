@@ -1,0 +1,54 @@
+{
+  "code": "600870",
+  "signal": {
+    "code": "600870",
+    "name": "退市厦华",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "165.68万",
+      "net_profit_yoy": "230.61%",
+      "revenue": "1.35亿",
+      "revenue_yoy": "12415.50%",
+      "eps": "0.0032",
+      "roe": "20.17%",
+      "net_margin": "2.70%",
+      "debt_ratio": "93.23%",
+      "report_period": "2022-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2021-06-30",
+        "revenue": "129.95万",
+        "net_profit": "-303.83万"
+      },
+      {
+        "report_period": "2021-09-30",
+        "revenue": "5120.47万",
+        "net_profit": "-320.06万"
+      },
+      {
+        "report_period": "2021-12-31",
+        "revenue": "1.52亿",
+        "net_profit": "-473.76万"
+      },
+      {
+        "report_period": "2022-03-31",
+        "revenue": "1.35亿",
+        "net_profit": "165.68万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:54"
+}

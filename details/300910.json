@@ -1,0 +1,80 @@
+{
+  "code": "300910",
+  "signal": {
+    "code": "300910",
+    "name": "瑞丰新材",
+    "price": 48.62,
+    "change_pct": -0.55,
+    "pe": 25.71,
+    "pb": 3.63,
+    "turnover": 1.31,
+    "total_mv": 14388373216.0,
+    "change_60d": -19.62,
+    "change_ytd": -14.02
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.40亿",
+      "net_profit_yoy": "-28.22%",
+      "revenue": "8.77亿",
+      "revenue_yoy": "3.24%",
+      "eps": "0.4700",
+      "roe": "3.60%",
+      "net_margin": "15.96%",
+      "debt_ratio": "26.02%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "16.62亿",
+        "net_profit": "3.70亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "25.51亿",
+        "net_profit": "5.74亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "35.08亿",
+        "net_profit": "7.36亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "8.77亿",
+        "net_profit": "1.40亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-06 10:07:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 09:34:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:48:10",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:07:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 10:14:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:27"
+}

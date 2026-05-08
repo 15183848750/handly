@@ -1,0 +1,54 @@
+{
+  "code": "600093",
+  "signal": {
+    "code": "600093",
+    "name": "退市易见",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-6.56亿",
+      "net_profit_yoy": "-38.40%",
+      "revenue": "151.32万",
+      "revenue_yoy": "-86.76%",
+      "eps": "-0.5800",
+      "roe": "False",
+      "net_margin": "-46659.82%",
+      "debt_ratio": "893.18%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1727.36万",
+        "net_profit": "-2.39亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1142.81万",
+        "net_profit": "-4.74亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "79.19万",
+        "net_profit": "-2.16亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "151.32万",
+        "net_profit": "-6.56亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:55"
+}

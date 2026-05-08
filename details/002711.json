@@ -1,0 +1,54 @@
+{
+  "code": "002711",
+  "signal": {
+    "code": "002711",
+    "name": "欧浦退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1102.48万",
+      "net_profit_yoy": "-8.32%",
+      "revenue": "2282.01万",
+      "revenue_yoy": "0.67%",
+      "eps": "0.0100",
+      "roe": "False",
+      "net_margin": "48.31%",
+      "debt_ratio": "683.95%",
+      "report_period": "2025-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-12-31",
+        "revenue": "4337.74万",
+        "net_profit": "-2.67亿"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "2266.72万",
+        "net_profit": "1202.58万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "4572.48万",
+        "net_profit": "2177.05万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2282.01万",
+        "net_profit": "1102.48万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:18"
+}

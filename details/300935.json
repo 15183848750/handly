@@ -1,0 +1,80 @@
+{
+  "code": "300935",
+  "signal": {
+    "code": "300935",
+    "name": "盈建科",
+    "price": 34.18,
+    "change_pct": -0.55,
+    "pe": -26.78,
+    "pb": 3.69,
+    "turnover": 1.44,
+    "total_mv": 2714940642.0,
+    "change_60d": -11.34,
+    "change_ytd": 12.66
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2534.58万",
+      "net_profit_yoy": "-41.77%",
+      "revenue": "1212.63万",
+      "revenue_yoy": "-23.31%",
+      "eps": "-0.3200",
+      "roe": "-3.39%",
+      "net_margin": "-209.02%",
+      "debt_ratio": "5.62%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4844.90万",
+        "net_profit": "-3237.64万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "7258.41万",
+        "net_profit": "-4740.07万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1.27亿",
+        "net_profit": "-7867.19万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1212.63万",
+        "net_profit": "-2534.58万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-24 17:29:56",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 09:31:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 15:57:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 14:07:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:48:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:26"
+}

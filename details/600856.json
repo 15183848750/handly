@@ -1,0 +1,54 @@
+{
+  "code": "600856",
+  "signal": {
+    "code": "600856",
+    "name": "退市中天",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2.56亿",
+      "net_profit_yoy": "-711.83%",
+      "revenue": "190.48万",
+      "revenue_yoy": "0.0000%",
+      "eps": "-0.1873",
+      "roe": "False",
+      "net_margin": "-13597.30%",
+      "debt_ratio": "181.33%",
+      "report_period": "2023-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-09-30",
+        "revenue": "285.71万",
+        "net_profit": "-7149.94万"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "380.95万",
+        "net_profit": "-27.69亿"
+      },
+      {
+        "report_period": "2023-03-31",
+        "revenue": "95.24万",
+        "net_profit": "-2116.00万"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "190.48万",
+        "net_profit": "-2.56亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:56"
+}

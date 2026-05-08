@@ -1,0 +1,80 @@
+{
+  "code": "002310",
+  "signal": {
+    "code": "002310",
+    "name": "东方新能",
+    "price": 3.24,
+    "change_pct": -0.61,
+    "pe": -351.34,
+    "pb": 8.11,
+    "turnover": 6.06,
+    "total_mv": 19437803659.0,
+    "change_60d": 37.87,
+    "change_ytd": 44.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1383.13万",
+      "net_profit_yoy": "-183.55%",
+      "revenue": "3155.27万",
+      "revenue_yoy": "338.74%",
+      "eps": "-0.0023",
+      "roe": "-0.58%",
+      "net_margin": "-43.84%",
+      "debt_ratio": "43.12%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "6921.83万",
+        "net_profit": "-143.51万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "1.56亿",
+        "net_profit": "-206.59万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "3.42亿",
+        "net_profit": "-7587.24万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3155.27万",
+        "net_profit": "-1383.13万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 09:47:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 09:46:42",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 21:02:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:57"
+}

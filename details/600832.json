@@ -1,0 +1,54 @@
+{
+  "code": "600832",
+  "signal": {
+    "code": "600832",
+    "name": "东方明珠",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.67亿",
+      "net_profit_yoy": "62.83%",
+      "revenue": "17.88亿",
+      "revenue_yoy": "72.79%",
+      "eps": "0.0840",
+      "roe": "2.80%",
+      "net_margin": "19.60%",
+      "debt_ratio": "36.97%",
+      "report_period": "2015-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2014-06-30",
+        "revenue": "18.89亿",
+        "net_profit": "6.07亿"
+      },
+      {
+        "report_period": "2014-09-30",
+        "revenue": "33.10亿",
+        "net_profit": "9.64亿"
+      },
+      {
+        "report_period": "2014-12-31",
+        "revenue": "45.96亿",
+        "net_profit": "11.77亿"
+      },
+      {
+        "report_period": "2015-03-31",
+        "revenue": "17.88亿",
+        "net_profit": "2.67亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:04"
+}

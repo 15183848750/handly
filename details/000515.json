@@ -1,0 +1,54 @@
+{
+  "code": "000515",
+  "signal": {
+    "code": "000515",
+    "name": "攀渝钛业",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1412.18万",
+      "net_profit_yoy": "3.65%",
+      "revenue": "1.49亿",
+      "revenue_yoy": "17.84%",
+      "eps": "-0.0750",
+      "roe": "0.0000%",
+      "net_margin": "-10.18%",
+      "debt_ratio": "59.87%",
+      "report_period": "2009-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2008-06-30",
+        "revenue": "3.22亿",
+        "net_profit": "-4632.23万"
+      },
+      {
+        "report_period": "2008-09-30",
+        "revenue": "4.87亿",
+        "net_profit": "-7236.19万"
+      },
+      {
+        "report_period": "2008-12-31",
+        "revenue": "6.54亿",
+        "net_profit": "-1.00亿"
+      },
+      {
+        "report_period": "2009-03-31",
+        "revenue": "1.49亿",
+        "net_profit": "-1412.18万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:36"
+}

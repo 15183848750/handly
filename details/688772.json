@@ -1,0 +1,80 @@
+{
+  "code": "688772",
+  "signal": {
+    "code": "688772",
+    "name": "珠海冠宇",
+    "price": 16.62,
+    "change_pct": -0.48,
+    "pe": -55.53,
+    "pb": 2.61,
+    "turnover": 2.49,
+    "total_mv": 18816926400.0,
+    "change_60d": -14.06,
+    "change_ytd": -22.81
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-8471.97万",
+      "net_profit_yoy": "-257.46%",
+      "revenue": "36.35亿",
+      "revenue_yoy": "45.51%",
+      "eps": "-0.0800",
+      "roe": "-1.10%",
+      "net_margin": "-2.18%",
+      "debt_ratio": "68.06%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "60.98亿",
+        "net_profit": "1.17亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "103.21亿",
+        "net_profit": "3.87亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "144.10亿",
+        "net_profit": "4.72亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "36.35亿",
+        "net_profit": "-8471.97万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 17:37:20",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:07:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 21:28:09",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 18:19:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:41:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:22"
+}

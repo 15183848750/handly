@@ -1,0 +1,54 @@
+{
+  "code": "300309",
+  "signal": {
+    "code": "300309",
+    "name": "吉艾退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.65亿",
+      "net_profit_yoy": "26.37%",
+      "revenue": "3830.75万",
+      "revenue_yoy": "-13.92%",
+      "eps": "-0.1900",
+      "roe": "False",
+      "net_margin": "-437.57%",
+      "debt_ratio": "269.34%",
+      "report_period": "2023-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-09-30",
+        "revenue": "4960.65万",
+        "net_profit": "-3.84亿"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "5149.46万",
+        "net_profit": "-10.40亿"
+      },
+      {
+        "report_period": "2023-03-31",
+        "revenue": "51.51万",
+        "net_profit": "-8456.44万"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "3830.75万",
+        "net_profit": "-1.65亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:40"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "000047",
+  "signal": {
+    "code": "000047",
+    "name": "ST中侨",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-277.38万",
+      "net_profit_yoy": "27.19%",
+      "revenue": "0.0000",
+      "revenue_yoy": "False",
+      "eps": "-0.0150",
+      "roe": "",
+      "net_margin": "False",
+      "debt_ratio": "2091.78%",
+      "report_period": "2019-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2018-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-519.87万"
+      },
+      {
+        "report_period": "2019-03-31",
+        "revenue": "0.0000",
+        "net_profit": "-115.83万"
+      },
+      {
+        "report_period": "2019-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-225.63万"
+      },
+      {
+        "report_period": "2019-09-30",
+        "revenue": "0.0000",
+        "net_profit": "-277.38万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:48"
+}

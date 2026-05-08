@@ -1,0 +1,54 @@
+{
+  "code": "600896",
+  "signal": {
+    "code": "600896",
+    "name": "退市海医",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-7616.04万",
+      "net_profit_yoy": "23.64%",
+      "revenue": "9790.21万",
+      "revenue_yoy": "155.96%",
+      "eps": "-0.0700",
+      "roe": "-4.41%",
+      "net_margin": "-82.27%",
+      "debt_ratio": "27.96%",
+      "report_period": "2023-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-03-31",
+        "revenue": "2423.85万",
+        "net_profit": "-4566.73万"
+      },
+      {
+        "report_period": "2022-06-30",
+        "revenue": "3824.83万",
+        "net_profit": "-9974.25万"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "1.40亿",
+        "net_profit": "-1.98亿"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "9790.21万",
+        "net_profit": "-7616.04万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:50"
+}

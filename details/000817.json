@@ -1,0 +1,60 @@
+{
+  "code": "000817",
+  "signal": {
+    "code": "000817",
+    "name": "辽河油田",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "5.59亿",
+      "net_profit_yoy": "30.43%",
+      "revenue": "12.09亿",
+      "revenue_yoy": "15.15%",
+      "eps": "False",
+      "roe": "False",
+      "net_margin": "46.28%",
+      "debt_ratio": "9.77%",
+      "report_period": "2005-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2004-12-31",
+        "revenue": "14.36亿",
+        "net_profit": "6.19亿"
+      },
+      {
+        "report_period": "2005-03-31",
+        "revenue": "3.91亿",
+        "net_profit": "1.75亿"
+      },
+      {
+        "report_period": "2005-06-30",
+        "revenue": "7.95亿",
+        "net_profit": "3.68亿"
+      },
+      {
+        "report_period": "2005-09-30",
+        "revenue": "12.09亿",
+        "net_profit": "5.59亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2025-12-24 12:33:30",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:36"
+}

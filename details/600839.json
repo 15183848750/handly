@@ -1,0 +1,80 @@
+{
+  "code": "600839",
+  "signal": {
+    "code": "600839",
+    "name": "四川长虹",
+    "price": 8.79,
+    "change_pct": -0.57,
+    "pe": 103.01,
+    "pb": 2.64,
+    "turnover": 1.21,
+    "total_mv": 40576786711.0,
+    "change_60d": -9.94,
+    "change_ytd": -3.41
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "9847.83万",
+      "net_profit_yoy": "-71.50%",
+      "revenue": "272.76亿",
+      "revenue_yoy": "1.64%",
+      "eps": "0.0214",
+      "roe": "0.64%",
+      "net_margin": "1.04%",
+      "debt_ratio": "73.71%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "567.05亿",
+        "net_profit": "5.01亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "818.89亿",
+        "net_profit": "10.08亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1088.16亿",
+        "net_profit": "9.89亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "272.76亿",
+        "net_profit": "9847.83万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-25 10:13:01",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-25 11:29:28",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 20:53:56",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 19:13:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 14:15:43",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:34"
+}

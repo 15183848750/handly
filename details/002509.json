@@ -1,0 +1,54 @@
+{
+  "code": "002509",
+  "signal": {
+    "code": "002509",
+    "name": "天茂退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2.09亿",
+      "net_profit_yoy": "-141.70%",
+      "revenue": "2.75亿",
+      "revenue_yoy": "-39.85%",
+      "eps": "-0.0800",
+      "roe": "-14.25%",
+      "net_margin": "-74.98%",
+      "debt_ratio": "76.35%",
+      "report_period": "2020-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2019-09-30",
+        "revenue": "7.60亿",
+        "net_profit": "-1.66亿"
+      },
+      {
+        "report_period": "2019-12-31",
+        "revenue": "10.37亿",
+        "net_profit": "-29.64亿"
+      },
+      {
+        "report_period": "2020-03-31",
+        "revenue": "1.41亿",
+        "net_profit": "-5881.74万"
+      },
+      {
+        "report_period": "2020-06-30",
+        "revenue": "2.75亿",
+        "net_profit": "-2.09亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:30"
+}

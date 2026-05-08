@@ -1,0 +1,80 @@
+{
+  "code": "002746",
+  "signal": {
+    "code": "002746",
+    "name": "仙坛股份",
+    "price": 6.4,
+    "change_pct": -0.62,
+    "pe": 20.77,
+    "pb": 1.18,
+    "turnover": 1.61,
+    "total_mv": 5507447853.0,
+    "change_60d": -1.23,
+    "change_ytd": 5.44
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "6628.34万",
+      "net_profit_yoy": "38.02%",
+      "revenue": "13.12亿",
+      "revenue_yoy": "18.38%",
+      "eps": "0.0800",
+      "roe": "1.43%",
+      "net_margin": "5.60%",
+      "debt_ratio": "42.29%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "25.40亿",
+        "net_profit": "1.37亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "41.39亿",
+        "net_profit": "1.93亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "57.72亿",
+        "net_profit": "2.43亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "13.12亿",
+        "net_profit": "6628.34万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 10:45:18",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:57:55",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 11:23:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 11:15:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 17:32:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:59"
+}

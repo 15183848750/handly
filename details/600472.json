@@ -1,0 +1,54 @@
+{
+  "code": "600472",
+  "signal": {
+    "code": "600472",
+    "name": "包头铝业",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "5.29亿",
+      "net_profit_yoy": "100.62%",
+      "revenue": "43.46亿",
+      "revenue_yoy": "19.71%",
+      "eps": "1.2269",
+      "roe": "0.0000%",
+      "net_margin": "12.17%",
+      "debt_ratio": "46.57%",
+      "report_period": "2007-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2006-12-31",
+        "revenue": "48.22亿",
+        "net_profit": "4.03亿"
+      },
+      {
+        "report_period": "2007-03-31",
+        "revenue": "14.21亿",
+        "net_profit": "1.35亿"
+      },
+      {
+        "report_period": "2007-06-30",
+        "revenue": "29.25亿",
+        "net_profit": "4.01亿"
+      },
+      {
+        "report_period": "2007-09-30",
+        "revenue": "43.46亿",
+        "net_profit": "5.29亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:02"
+}

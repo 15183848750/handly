@@ -1,0 +1,80 @@
+{
+  "code": "600867",
+  "signal": {
+    "code": "600867",
+    "name": "通化东宝",
+    "price": 9.16,
+    "change_pct": -0.43,
+    "pe": 35.37,
+    "pb": 2.48,
+    "turnover": 1.27,
+    "total_mv": 17940252314.0,
+    "change_60d": 1.22,
+    "change_ytd": 12.12
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.27亿",
+      "net_profit_yoy": "16.15%",
+      "revenue": "7.48亿",
+      "revenue_yoy": "14.76%",
+      "eps": "0.0600",
+      "roe": "1.77%",
+      "net_margin": "16.24%",
+      "debt_ratio": "12.27%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "13.73亿",
+        "net_profit": "2.18亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "21.80亿",
+        "net_profit": "12.02亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "29.47亿",
+        "net_profit": "12.19亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "7.48亿",
+        "net_profit": "1.27亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 17:13:50",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 09:06:13",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 08:57:48",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 10:29:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:28"
+}

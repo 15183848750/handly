@@ -1,0 +1,80 @@
+{
+  "code": "600285",
+  "signal": {
+    "code": "600285",
+    "name": "羚锐制药",
+    "price": 22.06,
+    "change_pct": -0.59,
+    "pe": 12.7,
+    "pb": 3.43,
+    "turnover": 0.76,
+    "total_mv": 12510567621.0,
+    "change_60d": 0.46,
+    "change_ytd": 6.52
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.46亿",
+      "net_profit_yoy": "13.61%",
+      "revenue": "11.26亿",
+      "revenue_yoy": "10.32%",
+      "eps": "0.4350",
+      "roe": "6.99%",
+      "net_margin": "21.97%",
+      "debt_ratio": "38.22%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "20.99亿",
+        "net_profit": "4.74亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "30.41亿",
+        "net_profit": "6.51亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "38.53亿",
+        "net_profit": "7.60亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "11.26亿",
+        "net_profit": "2.46亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 09:48:26",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:35:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:53:09",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 09:27:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:43"
+}

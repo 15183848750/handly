@@ -1,0 +1,80 @@
+{
+  "code": "001393",
+  "signal": {
+    "code": "001393",
+    "name": "维通利",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": 18.86,
+    "pb": 3.1,
+    "turnover": 0.0,
+    "total_mv": 5681060000.0,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3.01亿",
+      "net_profit_yoy": "11.14%",
+      "revenue": "31.26亿",
+      "revenue_yoy": "30.78%",
+      "eps": "1.6100",
+      "roe": "17.99%",
+      "net_margin": "9.63%",
+      "debt_ratio": "40.54%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-03-31",
+        "revenue": "False",
+        "net_profit": "5475.48万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "14.10亿",
+        "net_profit": "1.39亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "False",
+        "net_profit": "2.16亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "31.26亿",
+        "net_profit": "3.01亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-06 09:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 08:42:58",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 09:30:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 07:23:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 07:58:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:14"
+}

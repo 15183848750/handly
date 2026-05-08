@@ -1,0 +1,80 @@
+{
+  "code": "002215",
+  "signal": {
+    "code": "002215",
+    "name": "诺 普 信",
+    "price": 10.69,
+    "change_pct": -0.65,
+    "pe": 3.57,
+    "pb": 2.2,
+    "turnover": 1.63,
+    "total_mv": 10739535429.0,
+    "change_60d": -7.61,
+    "change_ytd": 0.94
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7.53亿",
+      "net_profit_yoy": "20.04%",
+      "revenue": "26.31亿",
+      "revenue_yoy": "25.19%",
+      "eps": "0.7630",
+      "roe": "16.58%",
+      "net_margin": "28.53%",
+      "debt_ratio": "59.18%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "36.79亿",
+        "net_profit": "6.48亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "40.86亿",
+        "net_profit": "5.76亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "57.83亿",
+        "net_profit": "6.50亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "26.31亿",
+        "net_profit": "7.53亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 09:58:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:19:52",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 16:22:19",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 22:25:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:25"
+}

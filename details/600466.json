@@ -1,0 +1,60 @@
+{
+  "code": "600466",
+  "signal": {
+    "code": "600466",
+    "name": "*ST蓝光",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-9.40亿",
+      "net_profit_yoy": "10.29%",
+      "revenue": "3.02亿",
+      "revenue_yoy": "-56.91%",
+      "eps": "-0.3099",
+      "roe": "False",
+      "net_margin": "-317.60%",
+      "debt_ratio": "170.54%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "28.32亿",
+        "net_profit": "-23.97亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "41.17亿",
+        "net_profit": "-34.16亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "54.46亿",
+        "net_profit": "-115.47亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.02亿",
+        "net_profit": "-9.40亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2025-12-07 16:38:03",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:03"
+}

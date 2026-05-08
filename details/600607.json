@@ -1,0 +1,54 @@
+{
+  "code": "600607",
+  "signal": {
+    "code": "600607",
+    "name": "上实医药",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4.67亿",
+      "net_profit_yoy": "258.03%",
+      "revenue": "26.94亿",
+      "revenue_yoy": "9.01%",
+      "eps": "1.2705",
+      "roe": "0.0000%",
+      "net_margin": "21.39%",
+      "debt_ratio": "28.36%",
+      "report_period": "2009-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2008-12-31",
+        "revenue": "32.08亿",
+        "net_profit": "1.97亿"
+      },
+      {
+        "report_period": "2009-03-31",
+        "revenue": "8.50亿",
+        "net_profit": "3.98亿"
+      },
+      {
+        "report_period": "2009-06-30",
+        "revenue": "17.52亿",
+        "net_profit": "4.32亿"
+      },
+      {
+        "report_period": "2009-09-30",
+        "revenue": "26.94亿",
+        "net_profit": "4.67亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:52"
+}

@@ -1,0 +1,70 @@
+{
+  "code": "002018",
+  "signal": {
+    "code": "002018",
+    "name": "华信退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-7678.89万",
+      "net_profit_yoy": "-18.05%",
+      "revenue": "5000.24万",
+      "revenue_yoy": "-47.42%",
+      "eps": "-0.0300",
+      "roe": "False",
+      "net_margin": "-132.57%",
+      "debt_ratio": "431.35%",
+      "report_period": "2020-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2019-12-31",
+        "revenue": "1.24亿",
+        "net_profit": "-1.91亿"
+      },
+      {
+        "report_period": "2020-03-31",
+        "revenue": "2415.33万",
+        "net_profit": "-2029.83万"
+      },
+      {
+        "report_period": "2020-06-30",
+        "revenue": "4194.54万",
+        "net_profit": "-5319.54万"
+      },
+      {
+        "report_period": "2020-09-30",
+        "revenue": "5000.24万",
+        "net_profit": "-7678.89万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-21 12:14:30",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-11 17:58:33",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-21 09:39:17",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:11"
+}

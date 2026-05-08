@@ -1,0 +1,54 @@
+{
+  "code": "002002",
+  "signal": {
+    "code": "002002",
+    "name": "ST鸿达",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-8.14亿",
+      "net_profit_yoy": "-383.34%",
+      "revenue": "22.20亿",
+      "revenue_yoy": "-42.04%",
+      "eps": "-0.2606",
+      "roe": "-8.25%",
+      "net_margin": "-36.92%",
+      "debt_ratio": "48.58%",
+      "report_period": "2023-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-12-31",
+        "revenue": "48.22亿",
+        "net_profit": "3.00亿"
+      },
+      {
+        "report_period": "2023-03-31",
+        "revenue": "8.34亿",
+        "net_profit": "195.70万"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "19.49亿",
+        "net_profit": "-4.76亿"
+      },
+      {
+        "report_period": "2023-09-30",
+        "revenue": "22.20亿",
+        "net_profit": "-8.14亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:13"
+}

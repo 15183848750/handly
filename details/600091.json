@@ -1,0 +1,54 @@
+{
+  "code": "600091",
+  "signal": {
+    "code": "600091",
+    "name": "退市明科",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4713.79万",
+      "net_profit_yoy": "2.73%",
+      "revenue": "75.66万",
+      "revenue_yoy": "-25.76%",
+      "eps": "-0.1078",
+      "roe": "-13.07%",
+      "net_margin": "-6230.55%",
+      "debt_ratio": "44.76%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "36.76万",
+        "net_profit": "-1613.06万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "101.91万",
+        "net_profit": "-4845.98万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "21.25万",
+        "net_profit": "-2095.09万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "75.66万",
+        "net_profit": "-4713.79万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:58"
+}

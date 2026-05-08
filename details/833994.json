@@ -1,0 +1,54 @@
+{
+  "code": "833994",
+  "signal": {
+    "code": "833994",
+    "name": "翰博高新",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "461.10万",
+      "net_profit_yoy": "112.81%",
+      "revenue": "9.27亿",
+      "revenue_yoy": "27.19%",
+      "eps": "0.0269",
+      "roe": "0.50%",
+      "net_margin": "0.50%",
+      "debt_ratio": "81.85%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "15.54亿",
+        "net_profit": "-2644.94万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "24.24亿",
+        "net_profit": "-878.69万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "32.77亿",
+        "net_profit": "-9679.60万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "9.27亿",
+        "net_profit": "461.10万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:06"
+}

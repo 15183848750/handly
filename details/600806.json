@@ -1,0 +1,54 @@
+{
+  "code": "600806",
+  "signal": {
+    "code": "600806",
+    "name": "退市昆机",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1024.63万",
+      "net_profit_yoy": "44.59%",
+      "revenue": "5.92亿",
+      "revenue_yoy": "17.10%",
+      "eps": "0.0300",
+      "roe": "38.46%",
+      "net_margin": "1.73%",
+      "debt_ratio": "97.90%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "2.00亿",
+        "net_profit": "251.27万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "5.05亿",
+        "net_profit": "708.63万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.71亿",
+        "net_profit": "1135.47万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "5.92亿",
+        "net_profit": "1024.63万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:09"
+}

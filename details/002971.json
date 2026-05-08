@@ -1,0 +1,80 @@
+{
+  "code": "002971",
+  "signal": {
+    "code": "002971",
+    "name": "和远气体",
+    "price": 31.22,
+    "change_pct": -0.45,
+    "pe": 91.59,
+    "pb": 3.66,
+    "turnover": 2.23,
+    "total_mv": 6610991100.0,
+    "change_60d": -0.03,
+    "change_ytd": 4.48
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1804.41万",
+      "net_profit_yoy": "-28.39%",
+      "revenue": "3.92亿",
+      "revenue_yoy": "10.54%",
+      "eps": "0.0900",
+      "roe": "1.06%",
+      "net_margin": "4.75%",
+      "debt_ratio": "68.60%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "8.06亿",
+        "net_profit": "4917.29万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "12.32亿",
+        "net_profit": "5770.37万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "16.64亿",
+        "net_profit": "6033.07万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.92亿",
+        "net_profit": "1804.41万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-16 09:46:40",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:12:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:04:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 15:13:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 14:09:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:54"
+}

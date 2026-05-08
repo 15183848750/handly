@@ -1,0 +1,80 @@
+{
+  "code": "300712",
+  "signal": {
+    "code": "300712",
+    "name": "永福股份",
+    "price": 27.1,
+    "change_pct": -0.44,
+    "pe": 506.18,
+    "pb": 3.97,
+    "turnover": 1.22,
+    "total_mv": 5082497549.0,
+    "change_60d": -2.97,
+    "change_ytd": 2.92
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "251.02万",
+      "net_profit_yoy": "-86.87%",
+      "revenue": "3.31亿",
+      "revenue_yoy": "-22.07%",
+      "eps": "0.0136",
+      "roe": "0.21%",
+      "net_margin": "-2.23%",
+      "debt_ratio": "65.21%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "9.77亿",
+        "net_profit": "3126.06万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "12.66亿",
+        "net_profit": "3709.24万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "16.99亿",
+        "net_profit": "2356.38万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.31亿",
+        "net_profit": "251.02万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 16:09:11",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 10:48:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:20:41",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 17:09:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:41:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:44"
+}

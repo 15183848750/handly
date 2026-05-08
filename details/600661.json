@@ -1,0 +1,80 @@
+{
+  "code": "600661",
+  "signal": {
+    "code": "600661",
+    "name": "昂立教育",
+    "price": 10.2,
+    "change_pct": -0.58,
+    "pe": 29.7,
+    "pb": 11.47,
+    "turnover": 1.2,
+    "total_mv": 2922798066.0,
+    "change_60d": -4.58,
+    "change_ytd": -0.49
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2460.48万",
+      "net_profit_yoy": "84.71%",
+      "revenue": "3.34亿",
+      "revenue_yoy": "8.15%",
+      "eps": "0.0886",
+      "roe": "10.32%",
+      "net_margin": "8.30%",
+      "debt_ratio": "77.19%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "6.32亿",
+        "net_profit": "288.83万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "10.81亿",
+        "net_profit": "4593.09万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "13.73亿",
+        "net_profit": "8657.02万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.34亿",
+        "net_profit": "2460.48万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 09:33:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 10:07:39",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 09:06:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 20:20:48",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:38"
+}

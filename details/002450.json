@@ -1,0 +1,65 @@
+{
+  "code": "002450",
+  "signal": {
+    "code": "002450",
+    "name": "康得退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "8629.87万",
+      "net_profit_yoy": "116.78%",
+      "revenue": "114.32万",
+      "revenue_yoy": "17.54%",
+      "eps": "0.0200",
+      "roe": "False",
+      "net_margin": "7549.05%",
+      "debt_ratio": "1092.55%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "43.35万",
+        "net_profit": "-2206.28万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "97.26万",
+        "net_profit": "-5.14亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "57.16万",
+        "net_profit": "-78.75万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "114.32万",
+        "net_profit": "8629.87万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-08 21:05:49",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-24 17:41:12",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:41"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "601616",
+  "signal": {
+    "code": "601616",
+    "name": "广电电气",
+    "price": 4.73,
+    "change_pct": -0.42,
+    "pe": -42.91,
+    "pb": 1.69,
+    "turnover": 2.38,
+    "total_mv": 4037884259.0,
+    "change_60d": -3.47,
+    "change_ytd": 22.54
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2352.62万",
+      "net_profit_yoy": "-5664.20%",
+      "revenue": "2.13亿",
+      "revenue_yoy": "26.00%",
+      "eps": "-0.0406",
+      "roe": "-0.98%",
+      "net_margin": "-12.42%",
+      "debt_ratio": "16.69%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3.97亿",
+        "net_profit": "234.25万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "5.82亿",
+        "net_profit": "-765.56万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "7.66亿",
+        "net_profit": "-3469.05万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.13亿",
+        "net_profit": "-2352.62万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-27 17:20:06",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-26 15:07:07",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 17:37:47",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 21:14:26",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-03-09 17:09:58",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:20"
+}

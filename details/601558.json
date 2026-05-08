@@ -1,0 +1,54 @@
+{
+  "code": "601558",
+  "signal": {
+    "code": "601558",
+    "name": "退市锐电",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4230.64万",
+      "net_profit_yoy": "-1272.98%",
+      "revenue": "2.40亿",
+      "revenue_yoy": "-43.77%",
+      "eps": "-0.0070",
+      "roe": "-2.40%",
+      "net_margin": "-15.57%",
+      "debt_ratio": "68.48%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "8.60亿",
+        "net_profit": "1175.36万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "13.64亿",
+        "net_profit": "102.49万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "19.33亿",
+        "net_profit": "575.27万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.40亿",
+        "net_profit": "-4230.64万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:37"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "601515",
+  "signal": {
+    "code": "601515",
+    "name": "衢州东峰",
+    "price": 4.51,
+    "change_pct": -0.44,
+    "pe": -205.06,
+    "pb": 1.77,
+    "turnover": 1.26,
+    "total_mv": 8679362726.0,
+    "change_60d": 8.15,
+    "change_ytd": 4.88
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1058.16万",
+      "net_profit_yoy": "-7.43%",
+      "revenue": "3.55亿",
+      "revenue_yoy": "20.14%",
+      "eps": "-0.0100",
+      "roe": "-0.22%",
+      "net_margin": "-6.49%",
+      "debt_ratio": "20.49%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "6.04亿",
+        "net_profit": "-6130.53万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "9.16亿",
+        "net_profit": "-9549.71万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "12.70亿",
+        "net_profit": "-4.46亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.55亿",
+        "net_profit": "-1058.16万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 10:23:09",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-25 10:28:17",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 17:06:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 17:09:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:39"
+}

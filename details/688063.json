@@ -1,0 +1,80 @@
+{
+  "code": "688063",
+  "signal": {
+    "code": "688063",
+    "name": "派能科技",
+    "price": 78.78,
+    "change_pct": -0.59,
+    "pe": 216.81,
+    "pb": 2.09,
+    "turnover": 4.61,
+    "total_mv": 19329401636.0,
+    "change_60d": 29.76,
+    "change_ytd": 38.65
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2228.84万",
+      "net_profit_yoy": "158.39%",
+      "revenue": "9.72亿",
+      "revenue_yoy": "147.89%",
+      "eps": "0.0900",
+      "roe": "0.24%",
+      "net_margin": "2.09%",
+      "debt_ratio": "31.63%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "11.49亿",
+        "net_profit": "1391.17万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "20.13亿",
+        "net_profit": "4785.15万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "31.64亿",
+        "net_profit": "8472.88万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "9.72亿",
+        "net_profit": "2228.84万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 09:30:17",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 09:05:35",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 17:55:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-21 17:39:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:45"
+}

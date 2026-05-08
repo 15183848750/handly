@@ -1,0 +1,80 @@
+{
+  "code": "002077",
+  "signal": {
+    "code": "002077",
+    "name": "大港股份",
+    "price": 17.04,
+    "change_pct": -0.58,
+    "pe": 64.38,
+    "pb": 2.92,
+    "turnover": 2.99,
+    "total_mv": 9889138662.0,
+    "change_60d": -2.63,
+    "change_ytd": 14.59
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3840.30万",
+      "net_profit_yoy": "145.63%",
+      "revenue": "1.05亿",
+      "revenue_yoy": "60.21%",
+      "eps": "0.0700",
+      "roe": "1.14%",
+      "net_margin": "37.58%",
+      "debt_ratio": "17.17%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1.60亿",
+        "net_profit": "3175.89万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "2.70亿",
+        "net_profit": "6047.96万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "3.55亿",
+        "net_profit": "5313.95万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.05亿",
+        "net_profit": "3840.30万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 10:06:22",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 09:49:18",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 16:12:18",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 19:56:01",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:39"
+}

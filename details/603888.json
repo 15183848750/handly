@@ -1,0 +1,80 @@
+{
+  "code": "603888",
+  "signal": {
+    "code": "603888",
+    "name": "新华网",
+    "price": 20.87,
+    "change_pct": -0.52,
+    "pe": 89.42,
+    "pb": 3.7,
+    "turnover": 1.4,
+    "total_mv": 14081785566.0,
+    "change_60d": -16.52,
+    "change_ytd": 7.41
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3937.20万",
+      "net_profit_yoy": "1.85%",
+      "revenue": "3.55亿",
+      "revenue_yoy": "6.54%",
+      "eps": "0.0584",
+      "roe": "1.04%",
+      "net_margin": "11.10%",
+      "debt_ratio": "21.62%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "8.11亿",
+        "net_profit": "1.54亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "13.06亿",
+        "net_profit": "2.03亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "22.32亿",
+        "net_profit": "3.29亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.55亿",
+        "net_profit": "3937.20万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 11:05:56",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 10:27:31",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 19:09:51",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 21:23:59",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-03-19 12:00:48",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:05"
+}

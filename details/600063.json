@@ -1,0 +1,80 @@
+{
+  "code": "600063",
+  "signal": {
+    "code": "600063",
+    "name": "皖维高新",
+    "price": 6.73,
+    "change_pct": -0.44,
+    "pe": 25.57,
+    "pb": 1.65,
+    "turnover": 1.1,
+    "total_mv": 13925086402.0,
+    "change_60d": -4.27,
+    "change_ytd": 14.26
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.36亿",
+      "net_profit_yoy": "15.68%",
+      "revenue": "19.45亿",
+      "revenue_yoy": "-2.84%",
+      "eps": "0.0660",
+      "roe": "1.62%",
+      "net_margin": "6.99%",
+      "debt_ratio": "44.27%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "40.61亿",
+        "net_profit": "2.56亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "59.58亿",
+        "net_profit": "3.80亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "80.12亿",
+        "net_profit": "4.34亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "19.45亿",
+        "net_profit": "1.36亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 11:45:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 10:48:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 09:17:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 11:26:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:41"
+}

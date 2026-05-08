@@ -1,0 +1,80 @@
+{
+  "code": "603123",
+  "signal": {
+    "code": "603123",
+    "name": "翠微股份",
+    "price": 11.88,
+    "change_pct": -0.42,
+    "pe": -78.1,
+    "pb": 5.83,
+    "turnover": 1.85,
+    "total_mv": 9488991580.0,
+    "change_60d": -5.94,
+    "change_ytd": -29.33
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3037.53万",
+      "net_profit_yoy": "62.92%",
+      "revenue": "5.43亿",
+      "revenue_yoy": "-4.00%",
+      "eps": "-0.0400",
+      "roe": "-1.85%",
+      "net_margin": "-5.65%",
+      "debt_ratio": "73.47%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "11.20亿",
+        "net_profit": "-2.03亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "17.10亿",
+        "net_profit": "-3.11亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "23.20亿",
+        "net_profit": "-4.81亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "5.43亿",
+        "net_profit": "-3037.53万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-20 17:20:05",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 17:10:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 20:41:34",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:58:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 17:57:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:22"
+}

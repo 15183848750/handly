@@ -1,0 +1,80 @@
+{
+  "code": "601369",
+  "signal": {
+    "code": "601369",
+    "name": "陕鼓动力",
+    "price": 9.29,
+    "change_pct": -0.64,
+    "pe": 20.88,
+    "pb": 1.76,
+    "turnover": 0.38,
+    "total_mv": 16011078031.0,
+    "change_60d": -12.85,
+    "change_ytd": -7.19
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.92亿",
+      "net_profit_yoy": "-22.61%",
+      "revenue": "25.88亿",
+      "revenue_yoy": "1.13%",
+      "eps": "0.1100",
+      "roe": "2.13%",
+      "net_margin": "8.66%",
+      "debt_ratio": "58.28%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "48.69亿",
+        "net_profit": "4.14亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "71.86亿",
+        "net_profit": "6.17亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "94.22亿",
+        "net_profit": "7.48亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "25.88亿",
+        "net_profit": "1.92亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 09:58:18",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 16:28:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:41:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:01:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-19 12:16:08",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:15"
+}

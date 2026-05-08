@@ -1,0 +1,54 @@
+{
+  "code": "300325",
+  "signal": {
+    "code": "300325",
+    "name": "德威退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4474.91万",
+      "net_profit_yoy": "-97.44%",
+      "revenue": "3.31亿",
+      "revenue_yoy": "-4.83%",
+      "eps": "0.0400",
+      "roe": "22.76%",
+      "net_margin": "13.53%",
+      "debt_ratio": "55.80%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1.68亿",
+        "net_profit": "-1509.22万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "3.48亿",
+        "net_profit": "17.49亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1.53亿",
+        "net_profit": "3170.26万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "3.31亿",
+        "net_profit": "4474.91万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:37"
+}

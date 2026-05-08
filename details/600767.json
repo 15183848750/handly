@@ -1,0 +1,54 @@
+{
+  "code": "600767",
+  "signal": {
+    "code": "600767",
+    "name": "退市运盛",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-339.01万",
+      "net_profit_yoy": "26.00%",
+      "revenue": "2994.31万",
+      "revenue_yoy": "4.55%",
+      "eps": "-0.0100",
+      "roe": "-2.17%",
+      "net_margin": "-12.50%",
+      "debt_ratio": "23.68%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1543.49万",
+        "net_profit": "47.45万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "2863.87万",
+        "net_profit": "-458.10万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "931.30万",
+        "net_profit": "-249.36万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "2994.31万",
+        "net_profit": "-339.01万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:17"
+}

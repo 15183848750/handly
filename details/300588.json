@@ -1,0 +1,80 @@
+{
+  "code": "300588",
+  "signal": {
+    "code": "300588",
+    "name": "熙菱信息",
+    "price": 23.69,
+    "change_pct": -0.46,
+    "pe": -52.54,
+    "pb": 17.71,
+    "turnover": 1.42,
+    "total_mv": 4535948701.0,
+    "change_60d": -8.5,
+    "change_ytd": -12.26
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2158.49万",
+      "net_profit_yoy": "-43.72%",
+      "revenue": "2903.07万",
+      "revenue_yoy": "-33.23%",
+      "eps": "-0.1136",
+      "roe": "-8.09%",
+      "net_margin": "-82.34%",
+      "debt_ratio": "54.18%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "7456.94万",
+        "net_profit": "-3034.19万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "1.33亿",
+        "net_profit": "-4036.57万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "2.25亿",
+        "net_profit": "-3855.34万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2903.07万",
+        "net_profit": "-2158.49万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 10:02:05",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 12:58:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 18:16:11",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 23:33:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-21 16:22:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:02"
+}

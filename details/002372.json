@@ -1,0 +1,80 @@
+{
+  "code": "002372",
+  "signal": {
+    "code": "002372",
+    "name": "伟星新材",
+    "price": 10.46,
+    "change_pct": -0.48,
+    "pe": 34.84,
+    "pb": 3.33,
+    "turnover": 0.4,
+    "total_mv": 16652717354.0,
+    "change_60d": -13.55,
+    "change_ytd": 3.77
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.19亿",
+      "net_profit_yoy": "5.08%",
+      "revenue": "8.13亿",
+      "revenue_yoy": "-9.20%",
+      "eps": "0.0800",
+      "roe": "2.42%",
+      "net_margin": "14.74%",
+      "debt_ratio": "21.59%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "20.78亿",
+        "net_profit": "2.71亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "33.67亿",
+        "net_profit": "5.40亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "53.82亿",
+        "net_profit": "7.41亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "8.13亿",
+        "net_profit": "1.19亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 09:46:07",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 08:57:14",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 09:27:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 22:34:47",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:14"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "600991",
+  "signal": {
+    "code": "600991",
+    "name": "广汽长丰",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.02亿",
+      "net_profit_yoy": "-162.03%",
+      "revenue": "36.13亿",
+      "revenue_yoy": "-24.08%",
+      "eps": "-0.2000",
+      "roe": "-4.27%",
+      "net_margin": "-3.02%",
+      "debt_ratio": "61.29%",
+      "report_period": "2011-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2010-12-31",
+        "revenue": "61.99亿",
+        "net_profit": "1.55亿"
+      },
+      {
+        "report_period": "2011-03-31",
+        "revenue": "12.69亿",
+        "net_profit": "-1751.62万"
+      },
+      {
+        "report_period": "2011-06-30",
+        "revenue": "25.93亿",
+        "net_profit": "-2146.63万"
+      },
+      {
+        "report_period": "2011-09-30",
+        "revenue": "36.13亿",
+        "net_profit": "-1.02亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:45"
+}

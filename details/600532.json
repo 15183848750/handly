@@ -1,0 +1,54 @@
+{
+  "code": "600532",
+  "signal": {
+    "code": "600532",
+    "name": "退市未来",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.15亿",
+      "net_profit_yoy": "17.49%",
+      "revenue": "1426.59万",
+      "revenue_yoy": "-83.89%",
+      "eps": "-0.2200",
+      "roe": "-16.94%",
+      "net_margin": "-753.16%",
+      "debt_ratio": "62.20%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "4507.02万",
+        "net_profit": "-9366.33万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "8857.29万",
+        "net_profit": "-1.40亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1426.59万",
+        "net_profit": "-4254.78万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1426.59万",
+        "net_profit": "-1.15亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:59"
+}

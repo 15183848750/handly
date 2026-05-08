@@ -1,0 +1,60 @@
+{
+  "code": "600286",
+  "signal": {
+    "code": "600286",
+    "name": "S*ST国瓷",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1067.92万",
+      "net_profit_yoy": "87.04%",
+      "revenue": "1.04亿",
+      "revenue_yoy": "-13.51%",
+      "eps": "-0.0100",
+      "roe": "-14.22%",
+      "net_margin": "-10.29%",
+      "debt_ratio": "52.50%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "5171.43万",
+        "net_profit": "362.83万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1.20亿",
+        "net_profit": "-8242.79万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "5916.21万",
+        "net_profit": "191.07万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1.04亿",
+        "net_profit": "-1067.92万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-08 11:35:44",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:25"
+}

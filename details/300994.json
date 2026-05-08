@@ -1,0 +1,80 @@
+{
+  "code": "300994",
+  "signal": {
+    "code": "300994",
+    "name": "久祺股份",
+    "price": 14.81,
+    "change_pct": -0.4,
+    "pe": 50.57,
+    "pb": 2.8,
+    "turnover": 2.36,
+    "total_mv": 3452033280.0,
+    "change_60d": -12.11,
+    "change_ytd": -6.21
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1706.61万",
+      "net_profit_yoy": "-58.21%",
+      "revenue": "7.47亿",
+      "revenue_yoy": "8.28%",
+      "eps": "0.0600",
+      "roe": "1.39%",
+      "net_margin": "1.97%",
+      "debt_ratio": "42.56%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "14.99亿",
+        "net_profit": "8709.76万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "23.69亿",
+        "net_profit": "1.29亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "33.61亿",
+        "net_profit": "1.48亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "7.47亿",
+        "net_profit": "1706.61万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:48:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 16:15:54",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 09:22:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 14:03:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-17 13:49:06",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:03"
+}

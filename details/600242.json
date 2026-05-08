@@ -1,0 +1,54 @@
+{
+  "code": "600242",
+  "signal": {
+    "code": "600242",
+    "name": "退市中昌",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1357.12万",
+      "net_profit_yoy": "59.42%",
+      "revenue": "3374.37万",
+      "revenue_yoy": "903.98%",
+      "eps": "-0.0300",
+      "roe": "False",
+      "net_margin": "-40.22%",
+      "debt_ratio": "192.20%",
+      "report_period": "2023-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-06-30",
+        "revenue": "483.66万",
+        "net_profit": "-6138.78万"
+      },
+      {
+        "report_period": "2022-09-30",
+        "revenue": "799.93万",
+        "net_profit": "-8644.76万"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "1117.53万",
+        "net_profit": "-5.99亿"
+      },
+      {
+        "report_period": "2023-03-31",
+        "revenue": "3374.37万",
+        "net_profit": "-1357.12万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:36"
+}

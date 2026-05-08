@@ -1,0 +1,246 @@
+{
+  "code": "920012",
+  "signal": {
+    "code": "920012",
+    "name": "创达新材",
+    "price": 68.75,
+    "change_pct": 2.98,
+    "pe": 52.87,
+    "pb": 4.1,
+    "turnover": 29.52,
+    "total_mv": 3390569875.0,
+    "change_60d": 251.12,
+    "change_ytd": 251.12
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1603.40万",
+      "net_profit_yoy": "2.76%",
+      "revenue": "1.03亿",
+      "revenue_yoy": "3.11%",
+      "eps": "0.4300",
+      "roe": "2.65%",
+      "net_margin": "15.60%",
+      "debt_ratio": "15.64%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.11亿",
+        "net_profit": "3318.13万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "3.23亿",
+        "net_profit": "5275.40万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "4.32亿",
+        "net_profit": "6559.72万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.03亿",
+        "net_profit": "1603.40万"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2026-04-13",
+      "open": 43.06,
+      "close": 51.67,
+      "high": 54.93,
+      "low": 42.0,
+      "volume": 116990.0,
+      "turnover": 542425603.97
+    },
+    {
+      "date": "2026-04-14",
+      "open": 47.0,
+      "close": 50.71,
+      "high": 52.56,
+      "low": 46.02,
+      "volume": 82953.0,
+      "turnover": 410228639.88
+    },
+    {
+      "date": "2026-04-15",
+      "open": 53.0,
+      "close": 51.88,
+      "high": 59.8,
+      "low": 51.45,
+      "volume": 80539.0,
+      "turnover": 437080977.32
+    },
+    {
+      "date": "2026-04-16",
+      "open": 50.5,
+      "close": 49.1,
+      "high": 50.9,
+      "low": 48.34,
+      "volume": 54283.0,
+      "turnover": 268968532.73
+    },
+    {
+      "date": "2026-04-17",
+      "open": 49.5,
+      "close": 63.83,
+      "high": 63.83,
+      "low": 48.2,
+      "volume": 68415.0,
+      "turnover": 367331874.78
+    },
+    {
+      "date": "2026-04-20",
+      "open": 61.0,
+      "close": 62.9,
+      "high": 73.52,
+      "low": 60.01,
+      "volume": 72112.0,
+      "turnover": 477959458.7
+    },
+    {
+      "date": "2026-04-21",
+      "open": 59.88,
+      "close": 64.82,
+      "high": 65.97,
+      "low": 58.14,
+      "volume": 53693.0,
+      "turnover": 329280200.22
+    },
+    {
+      "date": "2026-04-22",
+      "open": 63.98,
+      "close": 64.83,
+      "high": 67.89,
+      "low": 62.5,
+      "volume": 53889.0,
+      "turnover": 352138113.33
+    },
+    {
+      "date": "2026-04-23",
+      "open": 63.5,
+      "close": 60.18,
+      "high": 66.13,
+      "low": 59.56,
+      "volume": 46014.0,
+      "turnover": 285440290.25
+    },
+    {
+      "date": "2026-04-24",
+      "open": 60.31,
+      "close": 56.5,
+      "high": 62.0,
+      "low": 56.4,
+      "volume": 39763.0,
+      "turnover": 234557739.87
+    },
+    {
+      "date": "2026-04-27",
+      "open": 56.76,
+      "close": 58.69,
+      "high": 60.92,
+      "low": 56.02,
+      "volume": 33936.0,
+      "turnover": 197518620.76
+    },
+    {
+      "date": "2026-04-28",
+      "open": 58.02,
+      "close": 54.28,
+      "high": 58.82,
+      "low": 53.73,
+      "volume": 31078.0,
+      "turnover": 173253852.34
+    },
+    {
+      "date": "2026-04-29",
+      "open": 54.04,
+      "close": 55.66,
+      "high": 57.49,
+      "low": 53.09,
+      "volume": 26978.0,
+      "turnover": 150159307.18
+    },
+    {
+      "date": "2026-04-30",
+      "open": 55.16,
+      "close": 59.0,
+      "high": 60.5,
+      "low": 55.15,
+      "volume": 34942.0,
+      "turnover": 203933160.83
+    },
+    {
+      "date": "2026-05-06",
+      "open": 59.11,
+      "close": 64.15,
+      "high": 68.99,
+      "low": 59.11,
+      "volume": 57137.0,
+      "turnover": 366749737.98
+    },
+    {
+      "date": "2026-05-07",
+      "open": 65.0,
+      "close": 66.76,
+      "high": 67.88,
+      "low": 62.01,
+      "volume": 47385.0,
+      "turnover": 309982622.86
+    },
+    {
+      "date": "2026-05-08",
+      "open": 64.08,
+      "close": 67.8,
+      "high": 69.6,
+      "low": 63.0,
+      "volume": 40589.0,
+      "turnover": 269915240.28
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 16:35:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:34:52",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 16:35:09",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 16:35:30",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 16:34:57",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日强势上涨；年内大幅跑赢",
+    "risk_level": "高风险",
+    "risk_reasons": [
+      "换手率极高",
+      "波动率大"
+    ],
+    "volatility": 5.73,
+    "ai_summary": "创达新材：当前PE处于高估值区间，利润增长，营收增长。技术面：近60日强势上涨；年内大幅跑赢。风险等级高风险。"
+  },
+  "update_time": "2026-05-08 14:09:12"
+}

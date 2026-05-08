@@ -1,0 +1,54 @@
+{
+  "code": "000602",
+  "signal": {
+    "code": "000602",
+    "name": "金马集团",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.84亿",
+      "net_profit_yoy": "-54.15%",
+      "revenue": "11.35亿",
+      "revenue_yoy": "-8.31%",
+      "eps": "0.1830",
+      "roe": "5.03%",
+      "net_margin": "21.97%",
+      "debt_ratio": "59.89%",
+      "report_period": "2013-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2012-06-30",
+        "revenue": "23.79亿",
+        "net_profit": "4.25亿"
+      },
+      {
+        "report_period": "2012-09-30",
+        "revenue": "35.62亿",
+        "net_profit": "4.94亿"
+      },
+      {
+        "report_period": "2012-12-31",
+        "revenue": "47.92亿",
+        "net_profit": "6.42亿"
+      },
+      {
+        "report_period": "2013-03-31",
+        "revenue": "11.35亿",
+        "net_profit": "1.84亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:16"
+}

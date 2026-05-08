@@ -1,0 +1,80 @@
+{
+  "code": "001287",
+  "signal": {
+    "code": "001287",
+    "name": "中电港",
+    "price": 28.94,
+    "change_pct": -0.48,
+    "pe": 34.7,
+    "pb": 3.97,
+    "turnover": 7.87,
+    "total_mv": 21991508807.0,
+    "change_60d": 9.7,
+    "change_ytd": 27.71
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.58亿",
+      "net_profit_yoy": "87.38%",
+      "revenue": "298.62亿",
+      "revenue_yoy": "144.36%",
+      "eps": "0.2085",
+      "roe": "2.90%",
+      "net_margin": "0.53%",
+      "debt_ratio": "88.01%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "278.42亿",
+        "net_profit": "1.81亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "447.50亿",
+        "net_profit": "2.58亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "655.25亿",
+        "net_profit": "2.84亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "298.62亿",
+        "net_profit": "1.58亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 09:55:37",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:19:39",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:11:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 12:18:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:20"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "600077",
+  "signal": {
+    "code": "600077",
+    "name": "*ST宋都",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-6.45亿",
+      "net_profit_yoy": "-698.96%",
+      "revenue": "13.49亿",
+      "revenue_yoy": "-63.78%",
+      "eps": "-0.4800",
+      "roe": "-88.67%",
+      "net_margin": "-60.32%",
+      "debt_ratio": "90.54%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "25.21亿",
+        "net_profit": "1.41亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "37.24亿",
+        "net_profit": "1.08亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "9.15亿",
+        "net_profit": "-1.45亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "13.49亿",
+        "net_profit": "-6.45亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:04"
+}

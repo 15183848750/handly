@@ -1,0 +1,54 @@
+{
+  "code": "600890",
+  "signal": {
+    "code": "600890",
+    "name": "退市中房",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1907.76万",
+      "net_profit_yoy": "32.57%",
+      "revenue": "256.55万",
+      "revenue_yoy": "-31.15%",
+      "eps": "-0.0329",
+      "roe": "-18.36%",
+      "net_margin": "-743.63%",
+      "debt_ratio": "19.76%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "207.55万",
+        "net_profit": "-1243.95万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "372.64万",
+        "net_profit": "-2829.44万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "198.11万",
+        "net_profit": "-896.18万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "256.55万",
+        "net_profit": "-1907.76万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:52"
+}

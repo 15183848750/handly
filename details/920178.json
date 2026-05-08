@@ -1,0 +1,80 @@
+{
+  "code": "920178",
+  "signal": {
+    "code": "920178",
+    "name": "锐翔智能",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.31亿",
+      "net_profit_yoy": "8.42%",
+      "revenue": "5.98亿",
+      "revenue_yoy": "9.57%",
+      "eps": "2.5000",
+      "roe": "25.74%",
+      "net_margin": "21.60%",
+      "debt_ratio": "32.35%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-03-31",
+        "revenue": "1.66亿",
+        "net_profit": "3893.54万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.65亿",
+        "net_profit": "5780.55万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "4.16亿",
+        "net_profit": "9073.78万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "5.98亿",
+        "net_profit": "1.31亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:11:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 08:54:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 07:09:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 08:54:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:04"
+}

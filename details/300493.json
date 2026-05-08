@@ -1,0 +1,80 @@
+{
+  "code": "300493",
+  "signal": {
+    "code": "300493",
+    "name": "润欣科技",
+    "price": 16.8,
+    "change_pct": -0.47,
+    "pe": 127.75,
+    "pb": 7.43,
+    "turnover": 2.11,
+    "total_mv": 8610353590.0,
+    "change_60d": -13.89,
+    "change_ytd": -16.38
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1685.05万",
+      "net_profit_yoy": "32.69%",
+      "revenue": "5.94亿",
+      "revenue_yoy": "1.38%",
+      "eps": "0.0300",
+      "roe": "1.46%",
+      "net_margin": "2.80%",
+      "debt_ratio": "37.29%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "13.58亿",
+        "net_profit": "2993.36万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "21.47亿",
+        "net_profit": "4607.74万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "28.88亿",
+        "net_profit": "5522.75万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "5.94亿",
+        "net_profit": "1685.05万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 09:42:16",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:50:26",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:59:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 12:17:10",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 12:14:42",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:10"
+}

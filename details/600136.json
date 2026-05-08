@@ -1,0 +1,80 @@
+{
+  "code": "600136",
+  "signal": {
+    "code": "600136",
+    "name": "ST明诚",
+    "price": 1.75,
+    "change_pct": -0.57,
+    "pe": -423.56,
+    "pb": 15.78,
+    "turnover": 0.66,
+    "total_mv": 3571445379.0,
+    "change_60d": 1.74,
+    "change_ytd": 3.55
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-210.80万",
+      "net_profit_yoy": "-140.70%",
+      "revenue": "1.23亿",
+      "revenue_yoy": "-9.00%",
+      "eps": "0.0000",
+      "roe": "-0.93%",
+      "net_margin": "-2.20%",
+      "debt_ratio": "69.48%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.79亿",
+        "net_profit": "99.90万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "4.19亿",
+        "net_profit": "-644.01万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "5.02亿",
+        "net_profit": "-1579.89万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.23亿",
+        "net_profit": "-210.80万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 09:45:22",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 09:14:14",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:58:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:32"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "001365",
+  "signal": {
+    "code": "001365",
+    "name": "天海电子",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": 18.91,
+    "pb": 2.35,
+    "turnover": 0.0,
+    "total_mv": 12126740000.0,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "6.41亿",
+      "net_profit_yoy": "4.37%",
+      "revenue": "159.69亿",
+      "revenue_yoy": "27.51%",
+      "eps": "1.4400",
+      "roe": "13.08%",
+      "net_margin": "4.27%",
+      "debt_ratio": "65.74%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-03-31",
+        "revenue": "False",
+        "net_profit": "1.03亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "65.57亿",
+        "net_profit": "3.15亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "False",
+        "net_profit": "5.37亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "159.69亿",
+        "net_profit": "6.41亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 09:27:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 08:30:49",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 09:25:17",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 07:43:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-05 22:05:29",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:15"
+}

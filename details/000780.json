@@ -1,0 +1,60 @@
+{
+  "code": "000780",
+  "signal": {
+    "code": "000780",
+    "name": "ST平能",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3.51亿",
+      "net_profit_yoy": "-53.87%",
+      "revenue": "16.37亿",
+      "revenue_yoy": "26.42%",
+      "eps": "-0.3500",
+      "roe": "-12.14%",
+      "net_margin": "-21.44%",
+      "debt_ratio": "37.94%",
+      "report_period": "2021-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2020-12-31",
+        "revenue": "18.42亿",
+        "net_profit": "-7.61亿"
+      },
+      {
+        "report_period": "2021-03-31",
+        "revenue": "4.63亿",
+        "net_profit": "-1.08亿"
+      },
+      {
+        "report_period": "2021-06-30",
+        "revenue": "10.11亿",
+        "net_profit": "-3.47亿"
+      },
+      {
+        "report_period": "2021-09-30",
+        "revenue": "16.37亿",
+        "net_profit": "-3.51亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-09 08:28:54",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:43"
+}

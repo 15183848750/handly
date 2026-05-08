@@ -1,0 +1,54 @@
+{
+  "code": "000956",
+  "signal": {
+    "code": "000956",
+    "name": "中原油气",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.07亿",
+      "net_profit_yoy": "46.96%",
+      "revenue": "6.33亿",
+      "revenue_yoy": "25.21%",
+      "eps": "False",
+      "roe": "False",
+      "net_margin": "32.64%",
+      "debt_ratio": "8.62%",
+      "report_period": "2006-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2005-06-30",
+        "revenue": "11.31亿",
+        "net_profit": "3.29亿"
+      },
+      {
+        "report_period": "2005-09-30",
+        "revenue": "17.84亿",
+        "net_profit": "5.54亿"
+      },
+      {
+        "report_period": "2005-12-31",
+        "revenue": "24.36亿",
+        "net_profit": "7.40亿"
+      },
+      {
+        "report_period": "2006-03-31",
+        "revenue": "6.33亿",
+        "net_profit": "2.07亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:23"
+}

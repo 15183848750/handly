@@ -1,0 +1,54 @@
+{
+  "code": "600891",
+  "signal": {
+    "code": "600891",
+    "name": "退市秋林",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1218.93万",
+      "net_profit_yoy": "-0.21%",
+      "revenue": "5050.39万",
+      "revenue_yoy": "-3.25%",
+      "eps": "-0.0200",
+      "roe": "False",
+      "net_margin": "-24.30%",
+      "debt_ratio": "327.22%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "8470.99万",
+        "net_profit": "-4860.93万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "1.33亿",
+        "net_profit": "-5851.97万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1.72亿",
+        "net_profit": "-7603.87万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "5050.39万",
+        "net_profit": "-1218.93万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:51"
+}

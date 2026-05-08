@@ -1,0 +1,80 @@
+{
+  "code": "603638",
+  "signal": {
+    "code": "603638",
+    "name": "艾迪精密",
+    "price": 24.71,
+    "change_pct": -0.48,
+    "pe": 33.9,
+    "pb": 5.64,
+    "turnover": 0.9,
+    "total_mv": 20536204495.0,
+    "change_60d": 11.51,
+    "change_ytd": 30.53
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.51亿",
+      "net_profit_yoy": "48.39%",
+      "revenue": "11.68亿",
+      "revenue_yoy": "51.58%",
+      "eps": "0.1800",
+      "roe": "4.02%",
+      "net_margin": "13.68%",
+      "debt_ratio": "45.98%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "15.69亿",
+        "net_profit": "2.07亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "23.74亿",
+        "net_profit": "3.16亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "31.96亿",
+        "net_profit": "3.94亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "11.68亿",
+        "net_profit": "1.51亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-22 09:18:26",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 09:40:01",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 08:55:27",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:13:30",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:09:20",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:21"
+}

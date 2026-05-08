@@ -1,0 +1,54 @@
+{
+  "code": "300023",
+  "signal": {
+    "code": "300023",
+    "name": "宝德退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-406.62万",
+      "net_profit_yoy": "51.92%",
+      "revenue": "1004.69万",
+      "revenue_yoy": "-29.46%",
+      "eps": "-0.0100",
+      "roe": "-0.73%",
+      "net_margin": "-40.47%",
+      "debt_ratio": "1.73%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "726.69万",
+        "net_profit": "350.59万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1424.37万",
+        "net_profit": "-845.72万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "592.24万",
+        "net_profit": "-383.62万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1004.69万",
+        "net_profit": "-406.62万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:06"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "600102",
+  "signal": {
+    "code": "600102",
+    "name": "莱钢股份",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.49亿",
+      "net_profit_yoy": "544.43%",
+      "revenue": "346.08亿",
+      "revenue_yoy": "20.86%",
+      "eps": "0.2700",
+      "roe": "4.10%",
+      "net_margin": "0.72%",
+      "debt_ratio": "62.58%",
+      "report_period": "2011-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2010-12-31",
+        "revenue": "402.91亿",
+        "net_profit": "1.24亿"
+      },
+      {
+        "report_period": "2011-03-31",
+        "revenue": "108.73亿",
+        "net_profit": "2494.19万"
+      },
+      {
+        "report_period": "2011-06-30",
+        "revenue": "228.19亿",
+        "net_profit": "1.98亿"
+      },
+      {
+        "report_period": "2011-09-30",
+        "revenue": "346.08亿",
+        "net_profit": "2.49亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:54"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "000732",
+  "signal": {
+    "code": "000732",
+    "name": "ST泰禾",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-7.11亿",
+      "net_profit_yoy": "29.96%",
+      "revenue": "3.25亿",
+      "revenue_yoy": "-28.90%",
+      "eps": "-0.2900",
+      "roe": "False",
+      "net_margin": "-220.49%",
+      "debt_ratio": "140.27%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "11.71亿",
+        "net_profit": "-31.86亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "22.98亿",
+        "net_profit": "-48.73亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "110.21亿",
+        "net_profit": "-254.02亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.25亿",
+        "net_profit": "-7.11亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:50"
+}

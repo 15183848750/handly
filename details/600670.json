@@ -1,0 +1,54 @@
+{
+  "code": "600670",
+  "signal": {
+    "code": "600670",
+    "name": "*ST斯达",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "83.94万",
+      "net_profit_yoy": "125.01%",
+      "revenue": "7184.16万",
+      "revenue_yoy": "64329.35%",
+      "eps": "0.0020",
+      "roe": "0.24%",
+      "net_margin": "1.15%",
+      "debt_ratio": "24.55%",
+      "report_period": "2023-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-03-31",
+        "revenue": "0.0000",
+        "net_profit": "-164.12万"
+      },
+      {
+        "report_period": "2022-06-30",
+        "revenue": "11.15万",
+        "net_profit": "-335.57万"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "1.09亿",
+        "net_profit": "-1970.48万"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "7184.16万",
+        "net_profit": "83.94万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:35"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "600357",
+  "signal": {
+    "code": "600357",
+    "name": "承德钒钛",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1334.36万",
+      "net_profit_yoy": "-94.98%",
+      "revenue": "127.82亿",
+      "revenue_yoy": "-18.21%",
+      "eps": "0.0100",
+      "roe": "0.0000%",
+      "net_margin": "0.15%",
+      "debt_ratio": "86.24%",
+      "report_period": "2009-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2008-12-31",
+        "revenue": "183.05亿",
+        "net_profit": "2808.45万"
+      },
+      {
+        "report_period": "2009-03-31",
+        "revenue": "34.42亿",
+        "net_profit": "-8158.92万"
+      },
+      {
+        "report_period": "2009-06-30",
+        "revenue": "71.06亿",
+        "net_profit": "-9598.88万"
+      },
+      {
+        "report_period": "2009-09-30",
+        "revenue": "127.82亿",
+        "net_profit": "1334.36万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:13"
+}

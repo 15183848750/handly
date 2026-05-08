@@ -1,0 +1,80 @@
+{
+  "code": "603163",
+  "signal": {
+    "code": "603163",
+    "name": "圣晖集成",
+    "price": 103.36,
+    "change_pct": -0.5,
+    "pe": 66.78,
+    "pb": 8.65,
+    "turnover": 1.63,
+    "total_mv": 10336000000.0,
+    "change_60d": -6.76,
+    "change_ytd": 50.67
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3869.56万",
+      "net_profit_yoy": "33.66%",
+      "revenue": "5.41亿",
+      "revenue_yoy": "-5.85%",
+      "eps": "0.3900",
+      "roe": "3.27%",
+      "net_margin": "7.22%",
+      "debt_ratio": "48.01%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "12.95亿",
+        "net_profit": "6246.43万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "21.16亿",
+        "net_profit": "9564.69万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "29.89亿",
+        "net_profit": "1.55亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "5.41亿",
+        "net_profit": "3869.56万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 09:26:59",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 09:15:43",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 09:21:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:41"
+}

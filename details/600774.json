@@ -1,0 +1,80 @@
+{
+  "code": "600774",
+  "signal": {
+    "code": "600774",
+    "name": "汉商集团",
+    "price": 8.73,
+    "change_pct": -0.57,
+    "pe": -117.94,
+    "pb": 1.74,
+    "turnover": 1.44,
+    "total_mv": 2575632869.0,
+    "change_60d": -15.57,
+    "change_ytd": -4.49
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-545.99万",
+      "net_profit_yoy": "-297.72%",
+      "revenue": "2.28亿",
+      "revenue_yoy": "-11.48%",
+      "eps": "-0.0185",
+      "roe": "-0.37%",
+      "net_margin": "-3.66%",
+      "debt_ratio": "50.60%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "5.13亿",
+        "net_profit": "162.15万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "7.64亿",
+        "net_profit": "932.54万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "10.32亿",
+        "net_profit": "-1.75亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.28亿",
+        "net_profit": "-545.99万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 17:26:49",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-21 23:48:32",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 20:07:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 12:57:03",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 16:10:33",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:37"
+}

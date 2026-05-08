@@ -1,0 +1,54 @@
+{
+  "code": "600631",
+  "signal": {
+    "code": "600631",
+    "name": "百联股份",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.16亿",
+      "net_profit_yoy": "-122.76%",
+      "revenue": "171.09亿",
+      "revenue_yoy": "-7.06%",
+      "eps": "-0.0700",
+      "roe": "-0.66%",
+      "net_margin": "-0.53%",
+      "debt_ratio": "65.01%",
+      "report_period": "2022-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2021-09-30",
+        "revenue": "False",
+        "net_profit": "False"
+      },
+      {
+        "report_period": "2021-12-31",
+        "revenue": "346.50亿",
+        "net_profit": "7.53亿"
+      },
+      {
+        "report_period": "2022-03-31",
+        "revenue": "102.86亿",
+        "net_profit": "1.55亿"
+      },
+      {
+        "report_period": "2022-06-30",
+        "revenue": "171.09亿",
+        "net_profit": "-1.16亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:47"
+}

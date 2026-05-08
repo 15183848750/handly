@@ -1,0 +1,65 @@
+{
+  "code": "002776",
+  "signal": {
+    "code": "002776",
+    "name": "*ST柏龙",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.05亿",
+      "net_profit_yoy": "48.70%",
+      "revenue": "1918.84万",
+      "revenue_yoy": "-72.34%",
+      "eps": "-0.2000",
+      "roe": "False",
+      "net_margin": "-548.09%",
+      "debt_ratio": "523.93%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "821.91万",
+        "net_profit": "-3610.23万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "6937.12万",
+        "net_profit": "-2.05亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "603.39万",
+        "net_profit": "-4129.55万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1918.84万",
+        "net_profit": "-1.05亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 11:26:28",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-22 20:54:31",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:11"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "601500",
+  "signal": {
+    "code": "601500",
+    "name": "通用股份",
+    "price": 4.65,
+    "change_pct": -0.43,
+    "pe": 14.6,
+    "pb": 1.2,
+    "turnover": 0.8,
+    "total_mv": 7390318168.0,
+    "change_60d": -0.85,
+    "change_ytd": -3.53
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.27亿",
+      "net_profit_yoy": "23.24%",
+      "revenue": "21.37亿",
+      "revenue_yoy": "0.71%",
+      "eps": "0.0800",
+      "roe": "2.05%",
+      "net_margin": "5.92%",
+      "debt_ratio": "57.76%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "40.00亿",
+        "net_profit": "6428.89万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "62.15亿",
+        "net_profit": "1.10亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "84.97亿",
+        "net_profit": "2.01亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "21.37亿",
+        "net_profit": "1.27亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 09:53:13",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 10:41:45",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 15:42:35",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 09:41:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 21:01:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:27"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "301531",
+  "signal": {
+    "code": "301531",
+    "name": "春光集团",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": 24.61,
+    "pb": 2.72,
+    "turnover": 0.0,
+    "total_mv": 2922453422.0,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2968.48万",
+      "net_profit_yoy": "45.59%",
+      "revenue": "3.31亿",
+      "revenue_yoy": "35.91%",
+      "eps": "0.1800",
+      "roe": "3.75%",
+      "net_margin": "8.98%",
+      "debt_ratio": "50.34%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-03-31",
+        "revenue": "2.43亿",
+        "net_profit": "2038.96万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "5.46亿",
+        "net_profit": "5851.25万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "11.54亿",
+        "net_profit": "1.24亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.31亿",
+        "net_profit": "2968.48万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:11:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 09:24:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 07:33:58",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 07:13:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:16"
+}

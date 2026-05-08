@@ -1,0 +1,54 @@
+{
+  "code": "600723",
+  "signal": {
+    "code": "600723",
+    "name": "首商股份",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.72亿",
+      "net_profit_yoy": "305.01%",
+      "revenue": "25.48亿",
+      "revenue_yoy": "18.62%",
+      "eps": "0.2610",
+      "roe": "4.09%",
+      "net_margin": "7.93%",
+      "debt_ratio": "46.62%",
+      "report_period": "2021-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2020-12-31",
+        "revenue": "31.43亿",
+        "net_profit": "-3402.69万"
+      },
+      {
+        "report_period": "2021-03-31",
+        "revenue": "9.09亿",
+        "net_profit": "5366.16万"
+      },
+      {
+        "report_period": "2021-06-30",
+        "revenue": "17.51亿",
+        "net_profit": "8606.24万"
+      },
+      {
+        "report_period": "2021-09-30",
+        "revenue": "25.48亿",
+        "net_profit": "1.72亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:22"
+}

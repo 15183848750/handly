@@ -1,0 +1,54 @@
+{
+  "code": "600555",
+  "signal": {
+    "code": "600555",
+    "name": "退市海创",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2.41亿",
+      "net_profit_yoy": "-22.38%",
+      "revenue": "888.52万",
+      "revenue_yoy": "8.93%",
+      "eps": "-0.1852",
+      "roe": "-141.28%",
+      "net_margin": "-2715.45%",
+      "debt_ratio": "99.15%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "396.59万",
+        "net_profit": "-2087.58万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "815.71万",
+        "net_profit": "-1.97亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "400.12万",
+        "net_profit": "-2096.95万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "888.52万",
+        "net_profit": "-2.41亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:57"
+}

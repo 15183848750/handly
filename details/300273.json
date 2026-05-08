@@ -1,0 +1,54 @@
+{
+  "code": "300273",
+  "signal": {
+    "code": "300273",
+    "name": "和佳退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2.40亿",
+      "net_profit_yoy": "-26.60%",
+      "revenue": "1.03亿",
+      "revenue_yoy": "-42.11%",
+      "eps": "-0.3000",
+      "roe": "-36.50%",
+      "net_margin": "-233.95%",
+      "debt_ratio": "85.71%",
+      "report_period": "2023-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-09-30",
+        "revenue": "1.90亿",
+        "net_profit": "-3.56亿"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "2.52亿",
+        "net_profit": "-11.50亿"
+      },
+      {
+        "report_period": "2023-03-31",
+        "revenue": "7993.33万",
+        "net_profit": "-8311.26万"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "1.03亿",
+        "net_profit": "-2.40亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:44"
+}

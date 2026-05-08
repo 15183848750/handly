@@ -1,0 +1,54 @@
+{
+  "code": "600145",
+  "signal": {
+    "code": "600145",
+    "name": "退市新亿",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "280.40万",
+      "net_profit_yoy": "1488.35%",
+      "revenue": "2.83亿",
+      "revenue_yoy": "2732.60%",
+      "eps": "0.0051",
+      "roe": "1.55%",
+      "net_margin": "0.99%",
+      "debt_ratio": "51.11%",
+      "report_period": "2021-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2020-12-31",
+        "revenue": "345.87万",
+        "net_profit": "-1.29亿"
+      },
+      {
+        "report_period": "2021-03-31",
+        "revenue": "2424.80万",
+        "net_profit": "1304.15万"
+      },
+      {
+        "report_period": "2021-06-30",
+        "revenue": "1.12亿",
+        "net_profit": "1919.20万"
+      },
+      {
+        "report_period": "2021-09-30",
+        "revenue": "2.83亿",
+        "net_profit": "280.40万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:50"
+}

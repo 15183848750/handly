@@ -1,0 +1,65 @@
+{
+  "code": "000979",
+  "signal": {
+    "code": "000979",
+    "name": "中弘退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-6.15亿",
+      "net_profit_yoy": "3.06%",
+      "revenue": "1377.58万",
+      "revenue_yoy": "4.32%",
+      "eps": "-0.0700",
+      "roe": "False",
+      "net_margin": "-4464.34%",
+      "debt_ratio": "126.14%",
+      "report_period": "2025-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-12-31",
+        "revenue": "8515.45万",
+        "net_profit": "-12.65亿"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1320.57万",
+        "net_profit": "-6.34亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "6413.41万",
+        "net_profit": "-12.87亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1377.58万",
+        "net_profit": "-6.15亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-08 20:56:33",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-25 19:13:34",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:19"
+}

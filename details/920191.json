@@ -1,0 +1,200 @@
+{
+  "code": "920191",
+  "signal": {
+    "code": "920191",
+    "name": "瑞尔竞达",
+    "price": 13.59,
+    "change_pct": 3.35,
+    "pe": 28.31,
+    "pb": 2.37,
+    "turnover": 24.07,
+    "total_mv": 2410803486.0,
+    "change_60d": 76.26,
+    "change_ytd": 76.26
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2128.79万",
+      "net_profit_yoy": "12.68%",
+      "revenue": "1.15亿",
+      "revenue_yoy": "13.14%",
+      "eps": "0.1600",
+      "roe": "3.07%",
+      "net_margin": "18.57%",
+      "debt_ratio": "25.99%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.27亿",
+        "net_profit": "5745.99万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "3.38亿",
+        "net_profit": "7704.90万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "4.78亿",
+        "net_profit": "9263.68万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.15亿",
+        "net_profit": "2128.79万"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2026-04-20",
+      "open": 15.99,
+      "close": 14.88,
+      "high": 16.38,
+      "low": 14.5,
+      "volume": 367705.0,
+      "turnover": 558475960.94
+    },
+    {
+      "date": "2026-04-21",
+      "open": 13.88,
+      "close": 13.18,
+      "high": 14.0,
+      "low": 13.07,
+      "volume": 215378.0,
+      "turnover": 287752193.03
+    },
+    {
+      "date": "2026-04-22",
+      "open": 12.98,
+      "close": 13.19,
+      "high": 13.34,
+      "low": 12.88,
+      "volume": 108050.0,
+      "turnover": 142131670.52
+    },
+    {
+      "date": "2026-04-23",
+      "open": 13.2,
+      "close": 12.63,
+      "high": 13.29,
+      "low": 12.56,
+      "volume": 102216.0,
+      "turnover": 130946399.17
+    },
+    {
+      "date": "2026-04-24",
+      "open": 12.55,
+      "close": 12.68,
+      "high": 13.1,
+      "low": 12.5,
+      "volume": 66468.0,
+      "turnover": 84944279.83
+    },
+    {
+      "date": "2026-04-27",
+      "open": 12.58,
+      "close": 12.48,
+      "high": 12.67,
+      "low": 12.28,
+      "volume": 54994.0,
+      "turnover": 68276008.97
+    },
+    {
+      "date": "2026-04-28",
+      "open": 12.5,
+      "close": 12.64,
+      "high": 12.76,
+      "low": 12.42,
+      "volume": 49685.0,
+      "turnover": 62441088.28
+    },
+    {
+      "date": "2026-04-29",
+      "open": 12.42,
+      "close": 12.7,
+      "high": 12.88,
+      "low": 12.41,
+      "volume": 55304.0,
+      "turnover": 70328004.03
+    },
+    {
+      "date": "2026-04-30",
+      "open": 12.69,
+      "close": 12.91,
+      "high": 13.22,
+      "low": 12.65,
+      "volume": 79087.0,
+      "turnover": 102653040.1
+    },
+    {
+      "date": "2026-05-06",
+      "open": 12.98,
+      "close": 12.85,
+      "high": 13.07,
+      "low": 12.8,
+      "volume": 61806.0,
+      "turnover": 79673648.32
+    },
+    {
+      "date": "2026-05-07",
+      "open": 12.82,
+      "close": 13.15,
+      "high": 13.28,
+      "low": 12.71,
+      "volume": 82639.0,
+      "turnover": 107385240.27
+    },
+    {
+      "date": "2026-05-08",
+      "open": 12.95,
+      "close": 13.5,
+      "high": 13.75,
+      "low": 12.9,
+      "volume": 98390.0,
+      "turnover": 131803612.21
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 10:57:42",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 09:49:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {
+    "pe_percentile": "估值合理",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日强势上涨；年内大幅跑赢",
+    "risk_level": "中风险",
+    "risk_reasons": [
+      "换手率极高"
+    ],
+    "volatility": 2.42,
+    "ai_summary": "瑞尔竞达：当前PE处于估值合理区间，利润增长，营收增长。技术面：近60日强势上涨；年内大幅跑赢。风险等级中风险。"
+  },
+  "update_time": "2026-05-08 14:06:55"
+}

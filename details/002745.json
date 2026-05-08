@@ -1,0 +1,80 @@
+{
+  "code": "002745",
+  "signal": {
+    "code": "002745",
+    "name": "木林森",
+    "price": 9.8,
+    "change_pct": -0.51,
+    "pe": 8.68,
+    "pb": 1.23,
+    "turnover": 3.19,
+    "total_mv": 14544830710.0,
+    "change_60d": -0.91,
+    "change_ytd": 2.4
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4.19亿",
+      "net_profit_yoy": "193.26%",
+      "revenue": "47.20亿",
+      "revenue_yoy": "21.45%",
+      "eps": "0.2800",
+      "roe": "3.57%",
+      "net_margin": "8.83%",
+      "debt_ratio": "49.48%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "79.19亿",
+        "net_profit": "1.54亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "121.78亿",
+        "net_profit": "2.09亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "174.39亿",
+        "net_profit": "-14.77亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "47.20亿",
+        "net_profit": "4.19亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 09:33:39",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 12:05:03",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 13:09:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 09:31:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:56"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "600652",
+  "signal": {
+    "code": "600652",
+    "name": "退市游久",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2021.10万",
+      "net_profit_yoy": "122.46%",
+      "revenue": "6.78亿",
+      "revenue_yoy": "59.58%",
+      "eps": "0.0200",
+      "roe": "2.93%",
+      "net_margin": "2.98%",
+      "debt_ratio": "2.87%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1.48亿",
+        "net_profit": "-9583.87万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "4.25亿",
+        "net_profit": "-8998.04万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.69亿",
+        "net_profit": "1138.08万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "6.78亿",
+        "net_profit": "2021.10万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:40"
+}

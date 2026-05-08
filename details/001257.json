@@ -3,14 +3,14 @@
   "signal": {
     "code": "001257",
     "name": "盛龙股份",
-    "price": 26.01,
-    "change_pct": 5.26,
-    "pe": 31.0,
-    "pb": 6.25,
-    "turnover": 34.79,
-    "total_mv": 47753080750.0,
-    "change_60d": 232.61,
-    "change_ytd": 232.61
+    "price": 26.17,
+    "change_pct": 0.62,
+    "pe": 31.19,
+    "pb": 6.29,
+    "turnover": 18.16,
+    "total_mv": 48046832881.0,
+    "change_60d": 234.65,
+    "change_ytd": 234.65
   },
   "financials": {
     "summary": {
@@ -263,6 +263,15 @@
       "low": 24.75,
       "volume": 476494.0,
       "turnover": 1244574889.23
+    },
+    {
+      "date": "2026-05-08",
+      "open": 26.09,
+      "close": 26.35,
+      "high": 26.77,
+      "low": 25.65,
+      "volume": 329303.0,
+      "turnover": 861229247.89
     }
   ],
   "news": [
@@ -301,8 +310,8 @@
     "risk_reasons": [
       "换手率极高"
     ],
-    "volatility": 3.15,
+    "volatility": 3.0,
     "ai_summary": "盛龙股份：当前PE处于估值合理区间，利润增长，营收下滑。技术面：近60日强势上涨；年内大幅跑赢。风险等级中风险。"
   },
-  "update_time": "2026-05-08 05:18:32"
+  "update_time": "2026-05-08 14:53:09"
 }

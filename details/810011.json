@@ -1,0 +1,138 @@
+{
+  "code": "810011",
+  "signal": {
+    "code": "810011",
+    "name": "优机定转",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": -0.5,
+    "change_ytd": -0.5
+  },
+  "financials": {},
+  "kline": [
+    {
+      "date": "2025-09-09",
+      "open": 100.0,
+      "close": 100.0,
+      "high": 100.0,
+      "low": 100.0,
+      "volume": 835.0,
+      "turnover": 835000.0
+    },
+    {
+      "date": "2025-09-10",
+      "open": 101.0,
+      "close": 101.0,
+      "high": 101.0,
+      "low": 101.0,
+      "volume": 20000.0,
+      "turnover": 20200000.0
+    },
+    {
+      "date": "2025-09-11",
+      "open": 101.0,
+      "close": 101.0,
+      "high": 101.0,
+      "low": 101.0,
+      "volume": 6960.0,
+      "turnover": 7029600.0
+    },
+    {
+      "date": "2025-10-13",
+      "open": 100.0,
+      "close": 100.0,
+      "high": 100.0,
+      "low": 100.0,
+      "volume": 6960.0,
+      "turnover": 6960000.0
+    },
+    {
+      "date": "2025-10-17",
+      "open": 100.0,
+      "close": 100.0,
+      "high": 100.0,
+      "low": 100.0,
+      "volume": 6960.0,
+      "turnover": 6960000.0
+    },
+    {
+      "date": "2025-10-23",
+      "open": 100.0,
+      "close": 100.0,
+      "high": 100.0,
+      "low": 100.0,
+      "volume": 835.0,
+      "turnover": 835200.0
+    },
+    {
+      "date": "2025-10-30",
+      "open": 100.0,
+      "close": 100.0,
+      "high": 100.0,
+      "low": 100.0,
+      "volume": 1392.0,
+      "turnover": 1392000.0
+    },
+    {
+      "date": "2025-10-31",
+      "open": 100.005,
+      "close": 100.005,
+      "high": 100.005,
+      "low": 100.005,
+      "volume": 1392.0,
+      "turnover": 1392069.6
+    },
+    {
+      "date": "2025-11-11",
+      "open": 100.0,
+      "close": 100.0,
+      "high": 100.0,
+      "low": 100.0,
+      "volume": 740.0,
+      "turnover": 740000.0
+    },
+    {
+      "date": "2025-11-27",
+      "open": 100.5,
+      "close": 100.5,
+      "high": 100.5,
+      "low": 100.5,
+      "volume": 2000.0,
+      "turnover": 2010000.0
+    },
+    {
+      "date": "2026-01-28",
+      "open": 100.5,
+      "close": 100.5,
+      "high": 100.5,
+      "low": 100.5,
+      "volume": 696.0,
+      "turnover": 699480.0
+    },
+    {
+      "date": "2026-04-07",
+      "open": 100.0,
+      "close": 100.0,
+      "high": 100.0,
+      "low": 100.0,
+      "volume": 740.0,
+      "turnover": 740000.0
+    }
+  ],
+  "news": [],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "暂无数据",
+    "revenue_trend": "暂无数据",
+    "tech_summary": "近60日弱势整理",
+    "risk_level": "低风险",
+    "risk_reasons": [],
+    "volatility": 0.27,
+    "ai_summary": "优机定转：当前PE处于高估值区间，暂无数据，暂无数据。技术面：近60日弱势整理。风险等级低风险。"
+  },
+  "update_time": "2026-05-08 15:41:13"
+}

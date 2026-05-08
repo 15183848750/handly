@@ -1,0 +1,80 @@
+{
+  "code": "603225",
+  "signal": {
+    "code": "603225",
+    "name": "新凤鸣",
+    "price": 18.13,
+    "change_pct": -0.66,
+    "pe": 20.68,
+    "pb": 1.45,
+    "turnover": 0.79,
+    "total_mv": 30412962231.0,
+    "change_60d": -13.13,
+    "change_ytd": -6.83
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3.68亿",
+      "net_profit_yoy": "20.20%",
+      "revenue": "175.30亿",
+      "revenue_yoy": "20.42%",
+      "eps": "0.2400",
+      "roe": "1.98%",
+      "net_margin": "2.10%",
+      "debt_ratio": "68.57%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "334.91亿",
+        "net_profit": "7.09亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "515.42亿",
+        "net_profit": "8.69亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "715.57亿",
+        "net_profit": "10.18亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "175.30亿",
+        "net_profit": "3.68亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 20:22:36",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 12:07:36",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 17:57:59",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-17 09:46:04",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 15:51:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:29"
+}

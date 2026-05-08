@@ -1,0 +1,552 @@
+{
+  "code": "600112",
+  "signal": {
+    "code": "600112",
+    "name": "*ST天成",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.21亿",
+      "net_profit_yoy": "16.07%",
+      "revenue": "5710.93万",
+      "revenue_yoy": "-36.06%",
+      "eps": "-0.2383",
+      "roe": "False",
+      "net_margin": "-224.85%",
+      "debt_ratio": "146.62%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "2999.91万",
+        "net_profit": "-7066.37万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "8931.49万",
+        "net_profit": "-1.45亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2495.39万",
+        "net_profit": "-5854.38万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "5710.93万",
+        "net_profit": "-1.21亿"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2024-05-06",
+      "open": 1.53,
+      "close": 1.53,
+      "high": 1.53,
+      "low": 1.53,
+      "volume": 19332.0,
+      "turnover": 2957796.0
+    },
+    {
+      "date": "2024-05-07",
+      "open": 1.45,
+      "close": 1.45,
+      "high": 1.45,
+      "low": 1.45,
+      "volume": 8568.0,
+      "turnover": 1242360.0
+    },
+    {
+      "date": "2024-05-08",
+      "open": 1.38,
+      "close": 1.38,
+      "high": 1.38,
+      "low": 1.38,
+      "volume": 101971.0,
+      "turnover": 14071937.0
+    },
+    {
+      "date": "2024-05-09",
+      "open": 1.45,
+      "close": 1.45,
+      "high": 1.45,
+      "low": 1.4,
+      "volume": 204234.0,
+      "turnover": 29501448.0
+    },
+    {
+      "date": "2024-05-10",
+      "open": 1.4,
+      "close": 1.38,
+      "high": 1.49,
+      "low": 1.38,
+      "volume": 173789.0,
+      "turnover": 24178932.0
+    },
+    {
+      "date": "2024-05-13",
+      "open": 1.31,
+      "close": 1.31,
+      "high": 1.36,
+      "low": 1.31,
+      "volume": 107797.0,
+      "turnover": 14189311.0
+    },
+    {
+      "date": "2024-05-14",
+      "open": 1.31,
+      "close": 1.38,
+      "high": 1.38,
+      "low": 1.31,
+      "volume": 66953.0,
+      "turnover": 9202863.0
+    },
+    {
+      "date": "2024-05-15",
+      "open": 1.43,
+      "close": 1.45,
+      "high": 1.45,
+      "low": 1.41,
+      "volume": 124669.0,
+      "turnover": 17988403.0
+    },
+    {
+      "date": "2024-05-16",
+      "open": 1.42,
+      "close": 1.43,
+      "high": 1.45,
+      "low": 1.38,
+      "volume": 120706.0,
+      "turnover": 17048966.0
+    },
+    {
+      "date": "2024-05-17",
+      "open": 1.42,
+      "close": 1.5,
+      "high": 1.5,
+      "low": 1.42,
+      "volume": 89363.0,
+      "turnover": 13245911.0
+    },
+    {
+      "date": "2024-05-20",
+      "open": 1.53,
+      "close": 1.43,
+      "high": 1.53,
+      "low": 1.43,
+      "volume": 138937.0,
+      "turnover": 20416106.0
+    },
+    {
+      "date": "2024-05-21",
+      "open": 1.42,
+      "close": 1.48,
+      "high": 1.5,
+      "low": 1.42,
+      "volume": 103114.0,
+      "turnover": 15342951.0
+    },
+    {
+      "date": "2024-05-22",
+      "open": 1.48,
+      "close": 1.44,
+      "high": 1.49,
+      "low": 1.42,
+      "volume": 73346.0,
+      "turnover": 10551173.0
+    },
+    {
+      "date": "2024-05-23",
+      "open": 1.41,
+      "close": 1.43,
+      "high": 1.48,
+      "low": 1.41,
+      "volume": 68592.0,
+      "turnover": 9868769.0
+    },
+    {
+      "date": "2024-05-24",
+      "open": 1.45,
+      "close": 1.47,
+      "high": 1.5,
+      "low": 1.43,
+      "volume": 91272.0,
+      "turnover": 13354101.0
+    },
+    {
+      "date": "2024-05-27",
+      "open": 1.41,
+      "close": 1.43,
+      "high": 1.46,
+      "low": 1.4,
+      "volume": 85196.0,
+      "turnover": 12021966.0
+    },
+    {
+      "date": "2024-05-28",
+      "open": 1.42,
+      "close": 1.38,
+      "high": 1.47,
+      "low": 1.36,
+      "volume": 49032.0,
+      "turnover": 6899276.0
+    },
+    {
+      "date": "2024-05-29",
+      "open": 1.36,
+      "close": 1.43,
+      "high": 1.43,
+      "low": 1.33,
+      "volume": 48949.0,
+      "turnover": 6719782.0
+    },
+    {
+      "date": "2024-05-30",
+      "open": 1.43,
+      "close": 1.41,
+      "high": 1.45,
+      "low": 1.38,
+      "volume": 42120.0,
+      "turnover": 5929174.0
+    },
+    {
+      "date": "2024-05-31",
+      "open": 1.35,
+      "close": 1.36,
+      "high": 1.41,
+      "low": 1.34,
+      "volume": 85445.0,
+      "turnover": 11663362.0
+    },
+    {
+      "date": "2024-06-03",
+      "open": 1.37,
+      "close": 1.38,
+      "high": 1.42,
+      "low": 1.33,
+      "volume": 77429.0,
+      "turnover": 10738055.0
+    },
+    {
+      "date": "2024-06-04",
+      "open": 1.37,
+      "close": 1.31,
+      "high": 1.38,
+      "low": 1.31,
+      "volume": 75735.0,
+      "turnover": 9974175.0
+    },
+    {
+      "date": "2024-06-05",
+      "open": 1.38,
+      "close": 1.35,
+      "high": 1.38,
+      "low": 1.32,
+      "volume": 64402.0,
+      "turnover": 8752570.0
+    },
+    {
+      "date": "2024-06-06",
+      "open": 1.28,
+      "close": 1.28,
+      "high": 1.35,
+      "low": 1.28,
+      "volume": 72872.0,
+      "turnover": 9396575.0
+    },
+    {
+      "date": "2024-06-07",
+      "open": 1.23,
+      "close": 1.25,
+      "high": 1.28,
+      "low": 1.22,
+      "volume": 79607.0,
+      "turnover": 9767248.0
+    },
+    {
+      "date": "2024-06-11",
+      "open": 1.21,
+      "close": 1.19,
+      "high": 1.22,
+      "low": 1.19,
+      "volume": 47047.0,
+      "turnover": 5624709.0
+    },
+    {
+      "date": "2024-06-12",
+      "open": 1.13,
+      "close": 1.25,
+      "high": 1.25,
+      "low": 1.13,
+      "volume": 124239.0,
+      "turnover": 14840952.0
+    },
+    {
+      "date": "2024-06-13",
+      "open": 1.19,
+      "close": 1.19,
+      "high": 1.22,
+      "low": 1.19,
+      "volume": 69084.0,
+      "turnover": 8275892.0
+    },
+    {
+      "date": "2024-06-14",
+      "open": 1.13,
+      "close": 1.21,
+      "high": 1.23,
+      "low": 1.13,
+      "volume": 65412.0,
+      "turnover": 7716862.0
+    },
+    {
+      "date": "2024-06-17",
+      "open": 1.21,
+      "close": 1.19,
+      "high": 1.22,
+      "low": 1.16,
+      "volume": 45385.0,
+      "turnover": 5395405.0
+    },
+    {
+      "date": "2024-06-18",
+      "open": 1.17,
+      "close": 1.17,
+      "high": 1.21,
+      "low": 1.14,
+      "volume": 55638.0,
+      "turnover": 6517558.0
+    },
+    {
+      "date": "2024-06-19",
+      "open": 1.15,
+      "close": 1.13,
+      "high": 1.17,
+      "low": 1.11,
+      "volume": 73733.0,
+      "turnover": 8383861.0
+    },
+    {
+      "date": "2024-06-20",
+      "open": 1.12,
+      "close": 1.07,
+      "high": 1.12,
+      "low": 1.07,
+      "volume": 88647.0,
+      "turnover": 9523471.0
+    },
+    {
+      "date": "2024-06-21",
+      "open": 1.02,
+      "close": 1.02,
+      "high": 1.04,
+      "low": 1.02,
+      "volume": 80134.0,
+      "turnover": 8186086.0
+    },
+    {
+      "date": "2024-06-24",
+      "open": 0.98,
+      "close": 0.97,
+      "high": 1.07,
+      "low": 0.97,
+      "volume": 116972.0,
+      "turnover": 11851290.0
+    },
+    {
+      "date": "2024-06-25",
+      "open": 0.92,
+      "close": 0.92,
+      "high": 0.96,
+      "low": 0.92,
+      "volume": 68129.0,
+      "turnover": 6287570.0
+    },
+    {
+      "date": "2024-06-26",
+      "open": 0.87,
+      "close": 0.87,
+      "high": 0.9,
+      "low": 0.87,
+      "volume": 42702.0,
+      "turnover": 3721105.0
+    },
+    {
+      "date": "2024-06-27",
+      "open": 0.83,
+      "close": 0.83,
+      "high": 0.83,
+      "low": 0.83,
+      "volume": 12929.0,
+      "turnover": 1073107.0
+    },
+    {
+      "date": "2024-06-28",
+      "open": 0.79,
+      "close": 0.79,
+      "high": 0.86,
+      "low": 0.79,
+      "volume": 252276.0,
+      "turnover": 20103561.0
+    },
+    {
+      "date": "2024-07-01",
+      "open": 0.75,
+      "close": 0.75,
+      "high": 0.77,
+      "low": 0.75,
+      "volume": 98939.0,
+      "turnover": 7424962.0
+    },
+    {
+      "date": "2024-07-02",
+      "open": 0.71,
+      "close": 0.71,
+      "high": 0.73,
+      "low": 0.71,
+      "volume": 59532.0,
+      "turnover": 4233436.0
+    },
+    {
+      "date": "2024-07-03",
+      "open": 0.67,
+      "close": 0.75,
+      "high": 0.75,
+      "low": 0.67,
+      "volume": 206982.0,
+      "turnover": 14111341.0
+    },
+    {
+      "date": "2024-07-04",
+      "open": 0.79,
+      "close": 0.79,
+      "high": 0.79,
+      "low": 0.78,
+      "volume": 189915.0,
+      "turnover": 15002311.0
+    },
+    {
+      "date": "2024-07-05",
+      "open": 0.83,
+      "close": 0.83,
+      "high": 0.83,
+      "low": 0.82,
+      "volume": 91470.0,
+      "turnover": 7586294.0
+    },
+    {
+      "date": "2024-07-08",
+      "open": 0.87,
+      "close": 0.87,
+      "high": 0.87,
+      "low": 0.87,
+      "volume": 12976.0,
+      "turnover": 1128913.0
+    },
+    {
+      "date": "2024-07-09",
+      "open": 0.91,
+      "close": 0.91,
+      "high": 0.91,
+      "low": 0.91,
+      "volume": 8414.0,
+      "turnover": 765696.0
+    },
+    {
+      "date": "2024-07-10",
+      "open": 0.91,
+      "close": 0.96,
+      "high": 0.96,
+      "low": 0.86,
+      "volume": 275423.0,
+      "turnover": 25267288.0
+    },
+    {
+      "date": "2024-07-11",
+      "open": 0.98,
+      "close": 0.91,
+      "high": 1.0,
+      "low": 0.91,
+      "volume": 202643.0,
+      "turnover": 19177272.0
+    },
+    {
+      "date": "2024-07-12",
+      "open": 0.87,
+      "close": 0.94,
+      "high": 0.95,
+      "low": 0.86,
+      "volume": 186503.0,
+      "turnover": 16637946.0
+    },
+    {
+      "date": "2024-07-15",
+      "open": 0.94,
+      "close": 0.89,
+      "high": 0.95,
+      "low": 0.89,
+      "volume": 124849.0,
+      "turnover": 11391958.0
+    },
+    {
+      "date": "2024-07-16",
+      "open": 0.85,
+      "close": 0.85,
+      "high": 0.92,
+      "low": 0.85,
+      "volume": 178853.0,
+      "turnover": 15310947.0
+    },
+    {
+      "date": "2024-07-17",
+      "open": 0.81,
+      "close": 0.81,
+      "high": 0.81,
+      "low": 0.81,
+      "volume": 5220.0,
+      "turnover": 422820.0
+    },
+    {
+      "date": "2024-07-18",
+      "open": 0.77,
+      "close": 0.77,
+      "high": 0.77,
+      "low": 0.77,
+      "volume": 5130.0,
+      "turnover": 395010.0
+    },
+    {
+      "date": "2024-07-19",
+      "open": 0.73,
+      "close": 0.73,
+      "high": 0.73,
+      "low": 0.73,
+      "volume": 6098.0,
+      "turnover": 445154.0
+    }
+  ],
+  "news": [],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收下滑",
+    "tech_summary": "近60日弱势整理",
+    "risk_level": "中风险",
+    "risk_reasons": [
+      "资产负债率较高(146.6%)"
+    ],
+    "volatility": 4.97,
+    "ai_summary": "*ST天成：当前PE处于高估值区间，利润增长，营收下滑。技术面：近60日弱势整理。风险等级中风险。"
+  },
+  "update_time": "2026-05-08 15:43:53"
+}

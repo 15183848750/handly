@@ -1,0 +1,54 @@
+{
+  "code": "000667",
+  "signal": {
+    "code": "000667",
+    "name": "ST美置",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-15.07亿",
+      "net_profit_yoy": "31.26%",
+      "revenue": "6.16亿",
+      "revenue_yoy": "58.02%",
+      "eps": "-0.6109",
+      "roe": "False",
+      "net_margin": "-244.72%",
+      "debt_ratio": "164.99%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "3.43亿",
+        "net_profit": "-1.35亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "3.90亿",
+        "net_profit": "-21.92亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "6004.98万",
+        "net_profit": "-1.24亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "6.16亿",
+        "net_profit": "-15.07亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:00"
+}

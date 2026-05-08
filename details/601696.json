@@ -1,0 +1,80 @@
+{
+  "code": "601696",
+  "signal": {
+    "code": "601696",
+    "name": "中银证券",
+    "price": 12.46,
+    "change_pct": -0.56,
+    "pe": 23.93,
+    "pb": 1.79,
+    "turnover": 0.76,
+    "total_mv": 34613880000.0,
+    "change_60d": -8.45,
+    "change_ytd": -16.88
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3.62亿",
+      "net_profit_yoy": "28.94%",
+      "revenue": "9.21亿",
+      "revenue_yoy": "22.57%",
+      "eps": "0.1300",
+      "roe": "1.89%",
+      "net_margin": "39.25%",
+      "debt_ratio": "83.35%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "15.05亿",
+        "net_profit": "5.65亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "24.38亿",
+        "net_profit": "8.54亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "33.90亿",
+        "net_profit": "10.45亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "9.21亿",
+        "net_profit": "3.62亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 09:42:02",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 10:41:19",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 00:10:56",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 14:55:44",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 09:24:11",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:30"
+}

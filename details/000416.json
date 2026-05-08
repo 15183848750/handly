@@ -1,0 +1,60 @@
+{
+  "code": "000416",
+  "signal": {
+    "code": "000416",
+    "name": "*ST民控",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2575.58万",
+      "net_profit_yoy": "-50.00%",
+      "revenue": "2603.33万",
+      "revenue_yoy": "-1.17%",
+      "eps": "-0.0484",
+      "roe": "-3.67%",
+      "net_margin": "-1689.81%",
+      "debt_ratio": "3.47%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1424.92万",
+        "net_profit": "-522.13万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "2634.27万",
+        "net_profit": "-1717.02万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1284.83万",
+        "net_profit": "-641.69万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "2603.33万",
+        "net_profit": "-2575.58万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-09 22:40:37",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:41"
+}

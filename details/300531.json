@@ -1,0 +1,80 @@
+{
+  "code": "300531",
+  "signal": {
+    "code": "300531",
+    "name": "优博讯",
+    "price": 20.65,
+    "change_pct": -0.63,
+    "pe": 38.37,
+    "pb": 4.61,
+    "turnover": 3.61,
+    "total_mv": 6630280627.0,
+    "change_60d": 18.41,
+    "change_ytd": 14.47
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4320.30万",
+      "net_profit_yoy": "103.77%",
+      "revenue": "4.48亿",
+      "revenue_yoy": "26.93%",
+      "eps": "0.1346",
+      "roe": "3.32%",
+      "net_margin": "9.64%",
+      "debt_ratio": "43.93%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "7.42亿",
+        "net_profit": "4425.33万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "11.76亿",
+        "net_profit": "8447.87万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "15.39亿",
+        "net_profit": "8341.84万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "4.48亿",
+        "net_profit": "4320.30万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 09:32:19",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:36:10",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:21:46",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 23:53:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:36:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:08"
+}

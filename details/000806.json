@@ -1,0 +1,54 @@
+{
+  "code": "000806",
+  "signal": {
+    "code": "000806",
+    "name": "银河退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.19亿",
+      "net_profit_yoy": "-178.29%",
+      "revenue": "2080.24万",
+      "revenue_yoy": "-94.77%",
+      "eps": "-0.1100",
+      "roe": "False",
+      "net_margin": "-573.58%",
+      "debt_ratio": "418.39%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "7.29亿",
+        "net_profit": "-290.48万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "3.98亿",
+        "net_profit": "1.52亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1.95亿",
+        "net_profit": "-1531.88万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "2080.24万",
+        "net_profit": "-1.19亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:37"
+}

@@ -1,0 +1,60 @@
+{
+  "code": "000549",
+  "signal": {
+    "code": "000549",
+    "name": "S湘火炬",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.31亿",
+      "net_profit_yoy": "1161.61%",
+      "revenue": "48.12亿",
+      "revenue_yoy": "103.89%",
+      "eps": "0.1400",
+      "roe": "False",
+      "net_margin": "6.52%",
+      "debt_ratio": "66.44%",
+      "report_period": "2007-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2006-06-30",
+        "revenue": "55.23亿",
+        "net_profit": "1.59亿"
+      },
+      {
+        "report_period": "2006-09-30",
+        "revenue": "82.23亿",
+        "net_profit": "2.18亿"
+      },
+      {
+        "report_period": "2006-12-31",
+        "revenue": "112.22亿",
+        "net_profit": "2.82亿"
+      },
+      {
+        "report_period": "2007-03-31",
+        "revenue": "48.12亿",
+        "net_profit": "1.31亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-11 17:52:15",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:29"
+}

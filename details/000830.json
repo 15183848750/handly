@@ -1,0 +1,80 @@
+{
+  "code": "000830",
+  "signal": {
+    "code": "000830",
+    "name": "鲁西化工",
+    "price": 15.75,
+    "change_pct": -0.51,
+    "pe": 17.12,
+    "pb": 1.55,
+    "turnover": 1.31,
+    "total_mv": 29993024423.0,
+    "change_60d": -19.44,
+    "change_ytd": -4.95
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4.38亿",
+      "net_profit_yoy": "6.07%",
+      "revenue": "71.14亿",
+      "revenue_yoy": "-2.42%",
+      "eps": "0.2300",
+      "roe": "2.29%",
+      "net_margin": "6.16%",
+      "debt_ratio": "45.64%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "147.39亿",
+        "net_profit": "7.63亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "219.18亿",
+        "net_profit": "10.23亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "291.43亿",
+        "net_profit": "9.07亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "71.14亿",
+        "net_profit": "4.38亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:06:17",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 10:03:13",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:41:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 15:10:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:41:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:48"
+}

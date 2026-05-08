@@ -1,0 +1,80 @@
+{
+  "code": "600876",
+  "signal": {
+    "code": "600876",
+    "name": "凯盛新能",
+    "price": 9.4,
+    "change_pct": -0.63,
+    "pe": -4.29,
+    "pb": 2.21,
+    "turnover": 1.18,
+    "total_mv": 6069344652.0,
+    "change_60d": -8.29,
+    "change_ytd": -4.67
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3.53亿",
+      "net_profit_yoy": "-182.33%",
+      "revenue": "6.73亿",
+      "revenue_yoy": "-24.53%",
+      "eps": "-0.5500",
+      "roe": "-12.07%",
+      "net_margin": "-57.54%",
+      "debt_ratio": "76.10%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "16.73亿",
+        "net_profit": "-4.49亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "26.77亿",
+        "net_profit": "-5.96亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "32.44亿",
+        "net_profit": "-9.14亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "6.73亿",
+        "net_profit": "-3.53亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 09:20:44",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 11:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 17:11:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 18:19:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:06"
+}

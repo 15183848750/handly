@@ -1,0 +1,54 @@
+{
+  "code": "600432",
+  "signal": {
+    "code": "600432",
+    "name": "退市吉恩",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1271.73万",
+      "net_profit_yoy": "-1.55%",
+      "revenue": "33.80亿",
+      "revenue_yoy": "22.09%",
+      "eps": "0.0200",
+      "roe": "0.42%",
+      "net_margin": "0.37%",
+      "debt_ratio": "33.31%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-12-31",
+        "revenue": "27.68亿",
+        "net_profit": "1291.80万"
+      },
+      {
+        "report_period": "2025-03-31",
+        "revenue": "6.49亿",
+        "net_profit": "253.35万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "16.81亿",
+        "net_profit": "791.62万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "33.80亿",
+        "net_profit": "1271.73万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:05"
+}

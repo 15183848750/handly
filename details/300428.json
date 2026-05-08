@@ -1,0 +1,80 @@
+{
+  "code": "300428",
+  "signal": {
+    "code": "300428",
+    "name": "立中集团",
+    "price": 21.56,
+    "change_pct": -0.65,
+    "pe": 18.6,
+    "pb": 1.63,
+    "turnover": 1.26,
+    "total_mv": 14781138283.0,
+    "change_60d": -9.83,
+    "change_ytd": -7.67
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.99亿",
+      "net_profit_yoy": "22.67%",
+      "revenue": "84.52亿",
+      "revenue_yoy": "17.66%",
+      "eps": "0.2900",
+      "roe": "2.20%",
+      "net_margin": "2.41%",
+      "debt_ratio": "62.78%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "144.43亿",
+        "net_profit": "4.01亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "229.21亿",
+        "net_profit": "6.25亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "321.24亿",
+        "net_profit": "8.86亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "84.52亿",
+        "net_profit": "1.99亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:52:42",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:51:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:51:09",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 12:32:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 12:37:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:21"
+}

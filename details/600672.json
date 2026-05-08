@@ -1,0 +1,54 @@
+{
+  "code": "600672",
+  "signal": {
+    "code": "600672",
+    "name": "*ST华圣",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-729.66万",
+      "net_profit_yoy": "67.50%",
+      "revenue": "1.02亿",
+      "revenue_yoy": "-28.71%",
+      "eps": "-0.0159",
+      "roe": "-20.10%",
+      "net_margin": "-7.01%",
+      "debt_ratio": "77.96%",
+      "report_period": "2024-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-12-31",
+        "revenue": "3.29亿",
+        "net_profit": "-2951.54万"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "1.42亿",
+        "net_profit": "-2245.17万"
+      },
+      {
+        "report_period": "2023-12-31",
+        "revenue": "2.49亿",
+        "net_profit": "-3850.02万"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1.02亿",
+        "net_profit": "-729.66万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:34"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "002292",
+  "signal": {
+    "code": "002292",
+    "name": "奥飞娱乐",
+    "price": 8.17,
+    "change_pct": -0.61,
+    "pe": 55.2,
+    "pb": 4.06,
+    "turnover": 3.28,
+    "total_mv": 12080976524.0,
+    "change_60d": -12.81,
+    "change_ytd": -7.68
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "5471.79万",
+      "net_profit_yoy": "11.44%",
+      "revenue": "6.54亿",
+      "revenue_yoy": "-0.54%",
+      "eps": "0.0400",
+      "roe": "1.85%",
+      "net_margin": "8.71%",
+      "debt_ratio": "27.56%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "11.98亿",
+        "net_profit": "3700.94万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "18.87亿",
+        "net_profit": "5054.90万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "24.73亿",
+        "net_profit": "7187.48万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "6.54亿",
+        "net_profit": "5471.79万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 08:56:18",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:47:19",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 19:43:41",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 22:18:29",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 11:29:57",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:51"
+}

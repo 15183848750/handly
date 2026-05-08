@@ -1,0 +1,54 @@
+{
+  "code": "000653",
+  "signal": {
+    "code": "000653",
+    "name": "ST九州",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4845.13万",
+      "net_profit_yoy": "-179.38%",
+      "revenue": "0.0000",
+      "revenue_yoy": "False",
+      "eps": "False",
+      "roe": "False",
+      "net_margin": "False",
+      "debt_ratio": "1260.46%",
+      "report_period": "2006-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2005-06-30",
+        "revenue": "False",
+        "net_profit": "-1734.22万"
+      },
+      {
+        "report_period": "2005-09-30",
+        "revenue": "0.0000",
+        "net_profit": "-3099.85万"
+      },
+      {
+        "report_period": "2005-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-8187.67万"
+      },
+      {
+        "report_period": "2006-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-4845.13万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:05"
+}

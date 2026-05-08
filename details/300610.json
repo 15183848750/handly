@@ -1,0 +1,80 @@
+{
+  "code": "300610",
+  "signal": {
+    "code": "300610",
+    "name": "晨化股份",
+    "price": 12.51,
+    "change_pct": -0.48,
+    "pe": 26.0,
+    "pb": 2.27,
+    "turnover": 1.48,
+    "total_mv": 2689749830.0,
+    "change_60d": 2.71,
+    "change_ytd": 7.75
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2585.99万",
+      "net_profit_yoy": "-4.30%",
+      "revenue": "2.64亿",
+      "revenue_yoy": "22.30%",
+      "eps": "0.1200",
+      "roe": "2.21%",
+      "net_margin": "9.80%",
+      "debt_ratio": "27.65%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4.34亿",
+        "net_profit": "5221.04万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "6.53亿",
+        "net_profit": "5281.04万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "8.75亿",
+        "net_profit": "6598.33万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.64亿",
+        "net_profit": "2585.99万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-24 16:38:13",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 18:19:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 17:09:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-17 18:07:59",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-09 19:58:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:28"
+}

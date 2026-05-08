@@ -1,0 +1,80 @@
+{
+  "code": "300528",
+  "signal": {
+    "code": "300528",
+    "name": "幸福蓝海",
+    "price": 15.77,
+    "change_pct": -0.5,
+    "pe": -350.98,
+    "pb": 15.31,
+    "turnover": 1.94,
+    "total_mv": 5876029012.0,
+    "change_60d": -29.25,
+    "change_ytd": -24.15
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-418.54万",
+      "net_profit_yoy": "-105.93%",
+      "revenue": "1.72亿",
+      "revenue_yoy": "-48.22%",
+      "eps": "-0.0112",
+      "roe": "-1.08%",
+      "net_margin": "-2.36%",
+      "debt_ratio": "78.41%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4.13亿",
+        "net_profit": "863.42万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "6.06亿",
+        "net_profit": "-411.81万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "8.32亿",
+        "net_profit": "-1.45亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.72亿",
+        "net_profit": "-418.54万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 09:33:28",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 20:54:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 19:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 15:28:59",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 09:18:40",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:42"
+}

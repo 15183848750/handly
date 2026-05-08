@@ -1,0 +1,80 @@
+{
+  "code": "002103",
+  "signal": {
+    "code": "002103",
+    "name": "广博股份",
+    "price": 8.29,
+    "change_pct": -0.48,
+    "pe": 54.44,
+    "pb": 3.52,
+    "turnover": 1.32,
+    "total_mv": 4429122780.0,
+    "change_60d": -14.27,
+    "change_ytd": -9.1
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2033.78万",
+      "net_profit_yoy": "-32.00%",
+      "revenue": "5.55亿",
+      "revenue_yoy": "14.55%",
+      "eps": "0.0386",
+      "roe": "1.63%",
+      "net_margin": "3.67%",
+      "debt_ratio": "36.66%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "11.71亿",
+        "net_profit": "7613.41万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "18.39亿",
+        "net_profit": "1.25亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "27.46亿",
+        "net_profit": "1.65亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "5.55亿",
+        "net_profit": "2033.78万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-06 15:11:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 16:04:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 13:17:11",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:34:51",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:35:27",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:15"
+}

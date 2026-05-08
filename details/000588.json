@@ -1,0 +1,54 @@
+{
+  "code": "000588",
+  "signal": {
+    "code": "000588",
+    "name": "PT粤金曼",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3866.58万",
+      "net_profit_yoy": "-709.67%",
+      "revenue": "244.12万",
+      "revenue_yoy": "-94.74%",
+      "eps": "-0.1000",
+      "roe": "-8.63%",
+      "net_margin": "-1585.02%",
+      "debt_ratio": "23.65%",
+      "report_period": "2021-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2020-12-31",
+        "revenue": "6371.46万",
+        "net_profit": "-2305.37万"
+      },
+      {
+        "report_period": "2021-03-31",
+        "revenue": "216.39万",
+        "net_profit": "-530.46万"
+      },
+      {
+        "report_period": "2021-06-30",
+        "revenue": "222.17万",
+        "net_profit": "-1778.92万"
+      },
+      {
+        "report_period": "2021-09-30",
+        "revenue": "244.12万",
+        "net_profit": "-3866.58万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:19"
+}

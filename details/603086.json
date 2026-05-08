@@ -1,0 +1,80 @@
+{
+  "code": "603086",
+  "signal": {
+    "code": "603086",
+    "name": "先达股份",
+    "price": 7.29,
+    "change_pct": -0.41,
+    "pe": 36.07,
+    "pb": 1.49,
+    "turnover": 1.04,
+    "total_mv": 3169787812.0,
+    "change_60d": -16.88,
+    "change_ytd": -11.31
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2196.75万",
+      "net_profit_yoy": "1.27%",
+      "revenue": "6.35亿",
+      "revenue_yoy": "16.91%",
+      "eps": "0.0500",
+      "roe": "1.04%",
+      "net_margin": "3.40%",
+      "debt_ratio": "49.41%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "14.23亿",
+        "net_profit": "1.36亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "20.08亿",
+        "net_profit": "1.96亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "23.60亿",
+        "net_profit": "1.37亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "6.35亿",
+        "net_profit": "2196.75万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-22 09:11:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 09:35:39",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 16:32:55",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 14:42:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 14:39:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:15"
+}

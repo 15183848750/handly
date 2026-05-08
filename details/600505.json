@@ -1,0 +1,80 @@
+{
+  "code": "600505",
+  "signal": {
+    "code": "600505",
+    "name": "西昌电力",
+    "price": 13.71,
+    "change_pct": -0.51,
+    "pe": 401.42,
+    "pb": 4.08,
+    "turnover": 2.51,
+    "total_mv": 4998220425.0,
+    "change_60d": -2.77,
+    "change_ytd": 4.9
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "311.29万",
+      "net_profit_yoy": "129.68%",
+      "revenue": "3.72亿",
+      "revenue_yoy": "-3.92%",
+      "eps": "0.0085",
+      "roe": "0.25%",
+      "net_margin": "0.43%",
+      "debt_ratio": "66.03%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "7.27亿",
+        "net_profit": "324.15万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "11.47亿",
+        "net_profit": "1235.94万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "15.11亿",
+        "net_profit": "1191.28万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.72亿",
+        "net_profit": "311.29万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 10:03:45",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 10:18:10",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 18:01:39",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 16:44:50",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 17:57:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:49"
+}

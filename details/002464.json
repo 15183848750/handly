@@ -1,0 +1,60 @@
+{
+  "code": "002464",
+  "signal": {
+    "code": "002464",
+    "name": "众应退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-12.70亿",
+      "net_profit_yoy": "-306.13%",
+      "revenue": "1117.86万",
+      "revenue_yoy": "-92.24%",
+      "eps": "-2.4300",
+      "roe": "False",
+      "net_margin": "-11361.27%",
+      "debt_ratio": "7926.92%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "6958.96万",
+        "net_profit": "-1.06亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1.44亿",
+        "net_profit": "-3.13亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "846.14万",
+        "net_profit": "4411.16万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1117.86万",
+        "net_profit": "-12.70亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2025-12-29 20:34:07",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:40"
+}

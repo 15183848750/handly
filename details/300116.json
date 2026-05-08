@@ -1,0 +1,148 @@
+{
+  "code": "300116",
+  "signal": {
+    "code": "300116",
+    "name": "*ST保力",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.07亿",
+      "net_profit_yoy": "32.59%",
+      "revenue": "5117.71万",
+      "revenue_yoy": "-52.24%",
+      "eps": "-0.0243",
+      "roe": "False",
+      "net_margin": "-220.91%",
+      "debt_ratio": "125.11%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "4940.70万",
+        "net_profit": "-6719.71万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1.07亿",
+        "net_profit": "-1.59亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2706.93万",
+        "net_profit": "-3621.33万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "5117.71万",
+        "net_profit": "-1.07亿"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2024-05-06",
+      "open": 0.42,
+      "close": 0.42,
+      "high": 0.42,
+      "low": 0.42,
+      "volume": 318156.0,
+      "turnover": 13362552.0
+    },
+    {
+      "date": "2024-05-07",
+      "open": 0.34,
+      "close": 0.34,
+      "high": 0.34,
+      "low": 0.34,
+      "volume": 259039.0,
+      "turnover": 8807326.0
+    },
+    {
+      "date": "2024-05-08",
+      "open": 0.27,
+      "close": 0.27,
+      "high": 0.27,
+      "low": 0.27,
+      "volume": 249391.0,
+      "turnover": 6733557.0
+    },
+    {
+      "date": "2024-05-09",
+      "open": 0.22,
+      "close": 0.22,
+      "high": 0.22,
+      "low": 0.22,
+      "volume": 244870.0,
+      "turnover": 5387140.0
+    },
+    {
+      "date": "2024-05-10",
+      "open": 0.18,
+      "close": 0.18,
+      "high": 0.18,
+      "low": 0.18,
+      "volume": 251130.0,
+      "turnover": 4520340.0
+    },
+    {
+      "date": "2024-05-13",
+      "open": 0.14,
+      "close": 0.14,
+      "high": 0.14,
+      "low": 0.14,
+      "volume": 510114.0,
+      "turnover": 7141596.0
+    },
+    {
+      "date": "2024-05-14",
+      "open": 0.11,
+      "close": 0.11,
+      "high": 0.14,
+      "low": 0.11,
+      "volume": 6970900.0,
+      "turnover": 80211429.0
+    },
+    {
+      "date": "2024-05-15",
+      "open": 0.1,
+      "close": 0.09,
+      "high": 0.11,
+      "low": 0.09,
+      "volume": 4107722.0,
+      "turnover": 39674308.0
+    },
+    {
+      "date": "2024-05-16",
+      "open": 0.09,
+      "close": 0.11,
+      "high": 0.11,
+      "low": 0.09,
+      "volume": 4413102.0,
+      "turnover": 46894947.0
+    }
+  ],
+  "news": [],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收下滑",
+    "tech_summary": "近60日弱势整理",
+    "risk_level": "高风险",
+    "risk_reasons": [
+      "资产负债率较高(125.1%)",
+      "波动率大"
+    ],
+    "volatility": 20.05,
+    "ai_summary": "*ST保力：当前PE处于高估值区间，利润增长，营收下滑。技术面：近60日弱势整理。风险等级高风险。"
+  },
+  "update_time": "2026-05-08 15:44:55"
+}

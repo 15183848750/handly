@@ -1,0 +1,54 @@
+{
+  "code": "300156",
+  "signal": {
+    "code": "300156",
+    "name": "神雾退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-9.80亿",
+      "net_profit_yoy": "-296.35%",
+      "revenue": "3812.97万",
+      "revenue_yoy": "-61.02%",
+      "eps": "-0.9700",
+      "roe": "-123.05%",
+      "net_margin": "-2569.40%",
+      "debt_ratio": "94.41%",
+      "report_period": "2019-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2018-12-31",
+        "revenue": "5125.30万",
+        "net_profit": "-14.94亿"
+      },
+      {
+        "report_period": "2019-03-31",
+        "revenue": "1311.46万",
+        "net_profit": "-4764.07万"
+      },
+      {
+        "report_period": "2019-06-30",
+        "revenue": "2562.22万",
+        "net_profit": "-8.78亿"
+      },
+      {
+        "report_period": "2019-09-30",
+        "revenue": "3812.97万",
+        "net_profit": "-9.80亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:52"
+}

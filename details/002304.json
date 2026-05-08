@@ -1,0 +1,80 @@
+{
+  "code": "002304",
+  "signal": {
+    "code": "002304",
+    "name": "洋河股份",
+    "price": 48.37,
+    "change_pct": -0.53,
+    "pe": 7.45,
+    "pb": 1.48,
+    "turnover": 0.29,
+    "total_mv": 72866748229.0,
+    "change_60d": -12.56,
+    "change_ytd": -20.37
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "24.47亿",
+      "net_profit_yoy": "-32.73%",
+      "revenue": "81.86亿",
+      "revenue_yoy": "-26.03%",
+      "eps": "1.6241",
+      "roe": "5.09%",
+      "net_margin": "29.85%",
+      "debt_ratio": "18.17%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "147.96亿",
+        "net_profit": "43.44亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "180.90亿",
+        "net_profit": "39.75亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "192.11亿",
+        "net_profit": "22.06亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "81.86亿",
+        "net_profit": "24.47亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 10:18:19",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:15:17",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-05 18:49:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 23:11:09",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 23:06:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:20"
+}

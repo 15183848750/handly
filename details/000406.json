@@ -1,0 +1,54 @@
+{
+  "code": "000406",
+  "signal": {
+    "code": "000406",
+    "name": "石油大明",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7175.49万",
+      "net_profit_yoy": "78.73%",
+      "revenue": "4.05亿",
+      "revenue_yoy": "12.65%",
+      "eps": "0.2000",
+      "roe": "3.87%",
+      "net_margin": "17.08%",
+      "debt_ratio": "45.08%",
+      "report_period": "2006-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2005-06-30",
+        "revenue": "8.76亿",
+        "net_profit": "9754.52万"
+      },
+      {
+        "report_period": "2005-09-30",
+        "revenue": "12.95亿",
+        "net_profit": "1.98亿"
+      },
+      {
+        "report_period": "2005-12-31",
+        "revenue": "16.67亿",
+        "net_profit": "1.86亿"
+      },
+      {
+        "report_period": "2006-03-31",
+        "revenue": "4.05亿",
+        "net_profit": "7175.49万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:45"
+}

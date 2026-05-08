@@ -1,0 +1,218 @@
+{
+  "code": "603293",
+  "signal": {
+    "code": "603293",
+    "name": "埃泰克",
+    "price": 55.0,
+    "change_pct": 6.2,
+    "pe": 42.43,
+    "pb": 3.38,
+    "turnover": 23.22,
+    "total_mv": 9849986190.0,
+    "change_60d": 64.23,
+    "change_ytd": 64.23
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "5803.85万",
+      "net_profit_yoy": "7.32%",
+      "revenue": "8.12亿",
+      "revenue_yoy": "8.91%",
+      "eps": "0.4300",
+      "roe": "3.81%",
+      "net_margin": "7.15%",
+      "debt_ratio": "58.20%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "15.22亿",
+        "net_profit": "9246.09万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "False",
+        "net_profit": "1.73亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "36.09亿",
+        "net_profit": "2.48亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "8.12亿",
+        "net_profit": "5803.85万"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2026-04-16",
+      "open": 71.0,
+      "close": 71.02,
+      "high": 85.2,
+      "low": 71.0,
+      "volume": 252308.0,
+      "turnover": 1865550408.0
+    },
+    {
+      "date": "2026-04-17",
+      "open": 66.07,
+      "close": 64.71,
+      "high": 68.42,
+      "low": 63.5,
+      "volume": 163548.0,
+      "turnover": 1069931863.0
+    },
+    {
+      "date": "2026-04-20",
+      "open": 63.33,
+      "close": 60.75,
+      "high": 63.33,
+      "low": 60.58,
+      "volume": 130920.0,
+      "turnover": 806878013.0
+    },
+    {
+      "date": "2026-04-21",
+      "open": 59.05,
+      "close": 57.7,
+      "high": 59.45,
+      "low": 57.34,
+      "volume": 105847.0,
+      "turnover": 614723464.0
+    },
+    {
+      "date": "2026-04-22",
+      "open": 57.13,
+      "close": 57.8,
+      "high": 58.57,
+      "low": 56.66,
+      "volume": 76972.0,
+      "turnover": 445037245.0
+    },
+    {
+      "date": "2026-04-23",
+      "open": 57.38,
+      "close": 53.77,
+      "high": 57.43,
+      "low": 53.7,
+      "volume": 99621.0,
+      "turnover": 548778223.0
+    },
+    {
+      "date": "2026-04-24",
+      "open": 53.01,
+      "close": 51.73,
+      "high": 53.5,
+      "low": 51.71,
+      "volume": 61077.0,
+      "turnover": 320236316.0
+    },
+    {
+      "date": "2026-04-27",
+      "open": 51.37,
+      "close": 51.96,
+      "high": 52.31,
+      "low": 51.12,
+      "volume": 37950.0,
+      "turnover": 196459744.0
+    },
+    {
+      "date": "2026-04-28",
+      "open": 51.87,
+      "close": 49.19,
+      "high": 51.87,
+      "low": 49.01,
+      "volume": 63917.0,
+      "turnover": 319387321.0
+    },
+    {
+      "date": "2026-04-29",
+      "open": 48.65,
+      "close": 49.7,
+      "high": 49.91,
+      "low": 48.55,
+      "volume": 38702.0,
+      "turnover": 191791233.0
+    },
+    {
+      "date": "2026-04-30",
+      "open": 49.3,
+      "close": 49.73,
+      "high": 49.87,
+      "low": 48.9,
+      "volume": 40504.0,
+      "turnover": 200224159.0
+    },
+    {
+      "date": "2026-05-06",
+      "open": 49.7,
+      "close": 51.23,
+      "high": 51.55,
+      "low": 49.7,
+      "volume": 53694.0,
+      "turnover": 274217061.0
+    },
+    {
+      "date": "2026-05-07",
+      "open": 51.2,
+      "close": 51.79,
+      "high": 51.83,
+      "low": 50.55,
+      "volume": 47621.0,
+      "turnover": 244426024.0
+    },
+    {
+      "date": "2026-05-08",
+      "open": 51.98,
+      "close": 54.99,
+      "high": 55.53,
+      "low": 51.46,
+      "volume": 82273.0,
+      "turnover": 442575794.0
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 16:57:19",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 09:19:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-16 16:31:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 17:32:33",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:14:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {
+    "pe_percentile": "估值合理",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日强势上涨；年内大幅跑赢",
+    "risk_level": "高风险",
+    "risk_reasons": [
+      "换手率极高"
+    ],
+    "volatility": 3.7,
+    "ai_summary": "埃泰克：当前PE处于估值合理区间，利润增长，营收增长。技术面：近60日强势上涨；年内大幅跑赢。风险等级高风险。"
+  },
+  "update_time": "2026-05-08 13:59:02"
+}

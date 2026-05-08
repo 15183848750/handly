@@ -1,0 +1,80 @@
+{
+  "code": "601388",
+  "signal": {
+    "code": "601388",
+    "name": "怡球资源",
+    "price": 4.07,
+    "change_pct": -0.49,
+    "pe": 37.35,
+    "pb": 1.91,
+    "turnover": 3.45,
+    "total_mv": 8958976047.0,
+    "change_60d": -11.71,
+    "change_ytd": 35.22
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "5996.85万",
+      "net_profit_yoy": "179.68%",
+      "revenue": "18.75亿",
+      "revenue_yoy": "4.51%",
+      "eps": "0.0272",
+      "roe": "1.28%",
+      "net_margin": "3.20%",
+      "debt_ratio": "25.02%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "35.81亿",
+        "net_profit": "2938.97万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "55.95亿",
+        "net_profit": "9750.74万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "75.98亿",
+        "net_profit": "1.70亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "18.75亿",
+        "net_profit": "5996.85万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 12:08:32",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 11:08:09",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 10:18:02",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 09:36:32",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 20:38:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:33"
+}

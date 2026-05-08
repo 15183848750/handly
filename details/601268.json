@@ -1,0 +1,60 @@
+{
+  "code": "601268",
+  "signal": {
+    "code": "601268",
+    "name": "*ST二重",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.27亿",
+      "net_profit_yoy": "14.39%",
+      "revenue": "35.87亿",
+      "revenue_yoy": "3.04%",
+      "eps": "0.0176",
+      "roe": "0.86%",
+      "net_margin": "3.76%",
+      "debt_ratio": "53.99%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "70.73亿",
+        "net_profit": "2.42亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "102.17亿",
+        "net_profit": "4.36亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "138.75亿",
+        "net_profit": "4.64亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "35.87亿",
+        "net_profit": "1.27亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-14 10:27:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:40"
+}

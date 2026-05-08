@@ -1,0 +1,80 @@
+{
+  "code": "601211",
+  "signal": {
+    "code": "601211",
+    "name": "国泰海通",
+    "price": 16.22,
+    "change_pct": -0.43,
+    "pe": 11.19,
+    "pb": 0.88,
+    "turnover": 0.53,
+    "total_mv": 285941176946.0,
+    "change_60d": -18.2,
+    "change_ytd": -21.07
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "63.88亿",
+      "net_profit_yoy": "-47.82%",
+      "revenue": "162.32亿",
+      "revenue_yoy": "58.91%",
+      "eps": "0.3600",
+      "roe": "1.95%",
+      "net_margin": "41.30%",
+      "debt_ratio": "84.45%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "238.72亿",
+        "net_profit": "157.37亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "458.92亿",
+        "net_profit": "220.74亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "631.07亿",
+        "net_profit": "278.09亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "162.32亿",
+        "net_profit": "63.88亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-25 09:46:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 20:32:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 11:11:26",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 17:31:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-03 00:07:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:35"
+}

@@ -1,0 +1,210 @@
+{
+  "code": "000996",
+  "signal": {
+    "code": "000996",
+    "name": "中期退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-6655.34万",
+      "net_profit_yoy": "43.07%",
+      "revenue": "353.65万",
+      "revenue_yoy": "False",
+      "eps": "-0.1900",
+      "roe": "-17.98%",
+      "net_margin": "-1881.89%",
+      "debt_ratio": "30.86%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "0.0000",
+        "net_profit": "294.96万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-1.17亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "0.0000",
+        "net_profit": "44.94万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "353.65万",
+        "net_profit": "-6655.34万"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2024-06-06",
+      "open": 0.33,
+      "close": 0.37,
+      "high": 0.43,
+      "low": 0.32,
+      "volume": 557791.0,
+      "turnover": 19824928.03
+    },
+    {
+      "date": "2024-06-07",
+      "open": 0.36,
+      "close": 0.35,
+      "high": 0.37,
+      "low": 0.33,
+      "volume": 291525.0,
+      "turnover": 10072147.43
+    },
+    {
+      "date": "2024-06-11",
+      "open": 0.34,
+      "close": 0.35,
+      "high": 0.37,
+      "low": 0.34,
+      "volume": 206995.0,
+      "turnover": 7273594.46
+    },
+    {
+      "date": "2024-06-12",
+      "open": 0.36,
+      "close": 0.34,
+      "high": 0.36,
+      "low": 0.34,
+      "volume": 124451.0,
+      "turnover": 4371362.98
+    },
+    {
+      "date": "2024-06-13",
+      "open": 0.35,
+      "close": 0.35,
+      "high": 0.36,
+      "low": 0.34,
+      "volume": 163887.0,
+      "turnover": 5739207.03
+    },
+    {
+      "date": "2024-06-14",
+      "open": 0.34,
+      "close": 0.39,
+      "high": 0.39,
+      "low": 0.34,
+      "volume": 248279.0,
+      "turnover": 9184184.26
+    },
+    {
+      "date": "2024-06-17",
+      "open": 0.4,
+      "close": 0.43,
+      "high": 0.43,
+      "low": 0.38,
+      "volume": 207312.0,
+      "turnover": 8680939.9
+    },
+    {
+      "date": "2024-06-18",
+      "open": 0.43,
+      "close": 0.43,
+      "high": 0.45,
+      "low": 0.4,
+      "volume": 146343.0,
+      "turnover": 6239339.94
+    },
+    {
+      "date": "2024-06-19",
+      "open": 0.42,
+      "close": 0.42,
+      "high": 0.44,
+      "low": 0.41,
+      "volume": 129998.0,
+      "turnover": 5573920.5
+    },
+    {
+      "date": "2024-06-20",
+      "open": 0.41,
+      "close": 0.38,
+      "high": 0.43,
+      "low": 0.38,
+      "volume": 122211.0,
+      "turnover": 4845159.5
+    },
+    {
+      "date": "2024-06-21",
+      "open": 0.37,
+      "close": 0.39,
+      "high": 0.4,
+      "low": 0.36,
+      "volume": 132240.0,
+      "turnover": 5066235.54
+    },
+    {
+      "date": "2024-06-24",
+      "open": 0.4,
+      "close": 0.4,
+      "high": 0.43,
+      "low": 0.4,
+      "volume": 200569.0,
+      "turnover": 8405713.1
+    },
+    {
+      "date": "2024-06-25",
+      "open": 0.39,
+      "close": 0.36,
+      "high": 0.39,
+      "low": 0.36,
+      "volume": 146222.0,
+      "turnover": 5339313.68
+    },
+    {
+      "date": "2024-06-26",
+      "open": 0.36,
+      "close": 0.38,
+      "high": 0.39,
+      "low": 0.35,
+      "volume": 143596.0,
+      "turnover": 5277946.67
+    },
+    {
+      "date": "2024-06-27",
+      "open": 0.38,
+      "close": 0.38,
+      "high": 0.4,
+      "low": 0.36,
+      "volume": 150538.0,
+      "turnover": 5715828.71
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-10 22:18:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-23 09:47:31",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "暂无数据",
+    "tech_summary": "近60日弱势整理",
+    "risk_level": "低风险",
+    "risk_reasons": [],
+    "volatility": 4.68,
+    "ai_summary": "中期退：当前PE处于高估值区间，利润增长，暂无数据。技术面：近60日弱势整理。风险等级低风险。"
+  },
+  "update_time": "2026-05-08 15:46:17"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "688595",
+  "signal": {
+    "code": "688595",
+    "name": "芯海科技",
+    "price": 35.73,
+    "change_pct": -0.42,
+    "pe": -33.01,
+    "pb": 7.95,
+    "turnover": 2.11,
+    "total_mv": 5148461041.0,
+    "change_60d": -10.68,
+    "change_ytd": 8.93
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3898.62万",
+      "net_profit_yoy": "-62.19%",
+      "revenue": "1.77亿",
+      "revenue_yoy": "12.07%",
+      "eps": "-0.2800",
+      "roe": "-5.35%",
+      "net_margin": "-21.17%",
+      "debt_ratio": "51.02%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3.74亿",
+        "net_profit": "-3882.81万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "6.15亿",
+        "net_profit": "-6297.59万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "8.49亿",
+        "net_profit": "-1.05亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.77亿",
+        "net_profit": "-3898.62万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 19:31:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 00:10:56",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 09:45:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:58:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:19"
+}

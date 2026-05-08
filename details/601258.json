@@ -1,0 +1,54 @@
+{
+  "code": "601258",
+  "signal": {
+    "code": "601258",
+    "name": "*ST庞大",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.23亿",
+      "net_profit_yoy": "-35.05%",
+      "revenue": "55.56亿",
+      "revenue_yoy": "-14.96%",
+      "eps": "-0.0100",
+      "roe": "-1.20%",
+      "net_margin": "-2.14%",
+      "debt_ratio": "53.78%",
+      "report_period": "2023-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-06-30",
+        "revenue": "126.33亿",
+        "net_profit": "2404.62万"
+      },
+      {
+        "report_period": "2022-09-30",
+        "revenue": "201.59亿",
+        "net_profit": "-1.56亿"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "260.21亿",
+        "net_profit": "-14.41亿"
+      },
+      {
+        "report_period": "2023-03-31",
+        "revenue": "55.56亿",
+        "net_profit": "-1.23亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:41"
+}

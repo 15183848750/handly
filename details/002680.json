@@ -1,0 +1,54 @@
+{
+  "code": "002680",
+  "signal": {
+    "code": "002680",
+    "name": "长生退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-247.00万",
+      "net_profit_yoy": "95.15%",
+      "revenue": "272.36万",
+      "revenue_yoy": "-71.83%",
+      "eps": "-0.0025",
+      "roe": "-0.90%",
+      "net_margin": "-118.04%",
+      "debt_ratio": "13.61%",
+      "report_period": "2020-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2018-12-31",
+        "revenue": "736.51万",
+        "net_profit": "-32.43亿"
+      },
+      {
+        "report_period": "2019-06-30",
+        "revenue": "966.69万",
+        "net_profit": "-5096.84万"
+      },
+      {
+        "report_period": "2019-12-31",
+        "revenue": "966.69万",
+        "net_profit": "-1032.23万"
+      },
+      {
+        "report_period": "2020-06-30",
+        "revenue": "272.36万",
+        "net_profit": "-247.00万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:22"
+}

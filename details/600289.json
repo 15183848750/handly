@@ -1,0 +1,80 @@
+{
+  "code": "600289",
+  "signal": {
+    "code": "600289",
+    "name": "ST信通",
+    "price": 6.09,
+    "change_pct": -0.65,
+    "pe": -19.27,
+    "pb": 4.27,
+    "turnover": 1.11,
+    "total_mv": 3843107100.0,
+    "change_60d": -8.42,
+    "change_ytd": -8.28
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4984.94万",
+      "net_profit_yoy": "-74.25%",
+      "revenue": "4.59亿",
+      "revenue_yoy": "1003.79%",
+      "eps": "-0.0790",
+      "roe": "-5.39%",
+      "net_margin": "-10.87%",
+      "debt_ratio": "40.82%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "6552.73万",
+        "net_profit": "-9516.07万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "1.93亿",
+        "net_profit": "-1.37亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "3.11亿",
+        "net_profit": "-4.68亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "4.59亿",
+        "net_profit": "-4984.94万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-27 16:57:58",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:40:43",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 12:15:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 15:56:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:26"
+}

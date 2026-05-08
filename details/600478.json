@@ -1,0 +1,80 @@
+{
+  "code": "600478",
+  "signal": {
+    "code": "600478",
+    "name": "科力远",
+    "price": 7.52,
+    "change_pct": -0.53,
+    "pe": 80.8,
+    "pb": 4.27,
+    "turnover": 5.73,
+    "total_mv": 12524867688.0,
+    "change_60d": 7.28,
+    "change_ytd": 9.14
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3875.07万",
+      "net_profit_yoy": "4.88%",
+      "revenue": "9.09亿",
+      "revenue_yoy": "2.50%",
+      "eps": "0.0230",
+      "roe": "1.33%",
+      "net_margin": "4.26%",
+      "debt_ratio": "74.27%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "18.22亿",
+        "net_profit": "5121.87万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "30.86亿",
+        "net_profit": "1.32亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "57.46亿",
+        "net_profit": "1.40亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "9.09亿",
+        "net_profit": "3875.07万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 08:58:27",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 09:04:32",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-25 10:35:28",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-25 10:17:10",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 21:21:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:12"
+}

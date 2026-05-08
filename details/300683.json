@@ -1,0 +1,80 @@
+{
+  "code": "300683",
+  "signal": {
+    "code": "300683",
+    "name": "海特生物",
+    "price": 36.79,
+    "change_pct": -0.59,
+    "pe": -52.24,
+    "pb": 2.25,
+    "turnover": 4.07,
+    "total_mv": 4815604645.0,
+    "change_60d": 21.38,
+    "change_ytd": 32.67
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2304.63万",
+      "net_profit_yoy": "-65.44%",
+      "revenue": "1.59亿",
+      "revenue_yoy": "1.52%",
+      "eps": "-0.1800",
+      "roe": "-1.07%",
+      "net_margin": "-15.05%",
+      "debt_ratio": "15.68%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.75亿",
+        "net_profit": "-3917.99万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "4.22亿",
+        "net_profit": "-1.58亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "5.41亿",
+        "net_profit": "-2.31亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.59亿",
+        "net_profit": "-2304.63万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-24 16:05:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 09:07:45",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 13:46:48",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-02 23:09:55",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 15:48:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:42"
+}

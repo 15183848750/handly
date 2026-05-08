@@ -1,0 +1,80 @@
+{
+  "code": "688135",
+  "signal": {
+    "code": "688135",
+    "name": "利扬芯片",
+    "price": 38.62,
+    "change_pct": -0.46,
+    "pe": 658.35,
+    "pb": 5.68,
+    "turnover": 4.84,
+    "total_mv": 9002474201.0,
+    "change_60d": 0.63,
+    "change_ytd": 39.12
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "341.86万",
+      "net_profit_yoy": "145.07%",
+      "revenue": "1.66亿",
+      "revenue_yoy": "27.87%",
+      "eps": "0.0200",
+      "roe": "0.29%",
+      "net_margin": "2.30%",
+      "debt_ratio": "40.00%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.84亿",
+        "net_profit": "-706.11万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "4.43亿",
+        "net_profit": "75.47万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "6.18亿",
+        "net_profit": "-919.71万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.66亿",
+        "net_profit": "341.86万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 12:13:28",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 17:31:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 12:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 10:59:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:05"
+}

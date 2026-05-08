@@ -1,0 +1,80 @@
+{
+  "code": "920699",
+  "signal": {
+    "code": "920699",
+    "name": "海达尔",
+    "price": 43.72,
+    "change_pct": -0.41,
+    "pe": 49.4,
+    "pb": 5.67,
+    "turnover": 1.52,
+    "total_mv": 1994738116.0,
+    "change_60d": -17.13,
+    "change_ytd": -7.33
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1009.42万",
+      "net_profit_yoy": "-47.49%",
+      "revenue": "6968.80万",
+      "revenue_yoy": "-26.22%",
+      "eps": "0.2200",
+      "roe": "2.91%",
+      "net_margin": "14.48%",
+      "debt_ratio": "33.24%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1.82亿",
+        "net_profit": "3305.87万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "2.84亿",
+        "net_profit": "5216.11万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "3.70亿",
+        "net_profit": "6341.10万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "6968.80万",
+        "net_profit": "1009.42万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 09:08:22",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 10:48:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 10:22:02",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 22:42:18",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:14"
+}

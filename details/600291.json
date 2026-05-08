@@ -1,0 +1,54 @@
+{
+  "code": "600291",
+  "signal": {
+    "code": "600291",
+    "name": "退市西水",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.29亿",
+      "net_profit_yoy": "13.47%",
+      "revenue": "160.92万",
+      "revenue_yoy": "-66.74%",
+      "eps": "0.1176",
+      "roe": "5.52%",
+      "net_margin": "7990.13%",
+      "debt_ratio": "20.19%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "214.33万",
+        "net_profit": "1.25亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "483.85万",
+        "net_profit": "1.13亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "92.17万",
+        "net_profit": "1.32亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "160.92万",
+        "net_profit": "1.29亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:22"
+}

@@ -1,0 +1,138 @@
+{
+  "code": "600823",
+  "signal": {
+    "code": "600823",
+    "name": "*ST世茂",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-9306.24万",
+      "net_profit_yoy": "-277.02%",
+      "revenue": "4.08亿",
+      "revenue_yoy": "-84.43%",
+      "eps": "-0.0300",
+      "roe": "False",
+      "net_margin": "-36.11%",
+      "debt_ratio": "134.26%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "35.91亿",
+        "net_profit": "-6.21亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "42.92亿",
+        "net_profit": "-11.65亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "52.67亿",
+        "net_profit": "-97.62亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "4.08亿",
+        "net_profit": "-9306.24万"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2024-05-06",
+      "open": 0.61,
+      "close": 0.61,
+      "high": 0.61,
+      "low": 0.61,
+      "volume": 9238.0,
+      "turnover": 563518.0
+    },
+    {
+      "date": "2024-05-07",
+      "open": 0.58,
+      "close": 0.58,
+      "high": 0.58,
+      "low": 0.58,
+      "volume": 4847.0,
+      "turnover": 281126.0
+    },
+    {
+      "date": "2024-05-08",
+      "open": 0.55,
+      "close": 0.55,
+      "high": 0.55,
+      "low": 0.55,
+      "volume": 11080.0,
+      "turnover": 609400.0
+    },
+    {
+      "date": "2024-05-09",
+      "open": 0.52,
+      "close": 0.52,
+      "high": 0.52,
+      "low": 0.52,
+      "volume": 14245.0,
+      "turnover": 740740.0
+    },
+    {
+      "date": "2024-05-10",
+      "open": 0.49,
+      "close": 0.49,
+      "high": 0.49,
+      "low": 0.49,
+      "volume": 42435.0,
+      "turnover": 2079315.0
+    },
+    {
+      "date": "2024-05-13",
+      "open": 0.47,
+      "close": 0.47,
+      "high": 0.47,
+      "low": 0.47,
+      "volume": 42401.0,
+      "turnover": 1992847.0
+    },
+    {
+      "date": "2024-05-14",
+      "open": 0.45,
+      "close": 0.45,
+      "high": 0.45,
+      "low": 0.45,
+      "volume": 54691.0,
+      "turnover": 2461095.0
+    },
+    {
+      "date": "2024-05-15",
+      "open": 0.43,
+      "close": 0.43,
+      "high": 0.43,
+      "low": 0.43,
+      "volume": 299723.0,
+      "turnover": 12888089.0
+    }
+  ],
+  "news": [],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润下滑",
+    "revenue_trend": "营收下滑",
+    "tech_summary": "近60日弱势整理",
+    "risk_level": "中风险",
+    "risk_reasons": [
+      "资产负债率较高(134.3%)"
+    ],
+    "volatility": 4.87,
+    "ai_summary": "*ST世茂：当前PE处于高估值区间，利润下滑，营收下滑。技术面：近60日弱势整理。风险等级中风险。"
+  },
+  "update_time": "2026-05-08 15:42:06"
+}

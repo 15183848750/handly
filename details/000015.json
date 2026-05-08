@@ -1,0 +1,65 @@
+{
+  "code": "000015",
+  "signal": {
+    "code": "000015",
+    "name": "PT中浩A",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "294.85万",
+      "net_profit_yoy": "-74.92%",
+      "revenue": "3.00亿",
+      "revenue_yoy": "-46.65%",
+      "eps": "0.0018",
+      "roe": "0.13%",
+      "net_margin": "0.98%",
+      "debt_ratio": "4.49%",
+      "report_period": "2018-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2017-12-31",
+        "revenue": "9.42亿",
+        "net_profit": "2989.09万"
+      },
+      {
+        "report_period": "2018-03-31",
+        "revenue": "1.75亿",
+        "net_profit": "511.82万"
+      },
+      {
+        "report_period": "2018-06-30",
+        "revenue": "2.76亿",
+        "net_profit": "451.30万"
+      },
+      {
+        "report_period": "2018-09-30",
+        "revenue": "3.00亿",
+        "net_profit": "294.85万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 23:50:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-11-09 19:18:59",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:58"
+}

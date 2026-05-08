@@ -1,0 +1,70 @@
+{
+  "code": "002118",
+  "signal": {
+    "code": "002118",
+    "name": "*ST紫鑫",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4.05亿",
+      "net_profit_yoy": "-4.95%",
+      "revenue": "2358.26万",
+      "revenue_yoy": "-26.35%",
+      "eps": "-0.3200",
+      "roe": "-29.66%",
+      "net_margin": "-1716.08%",
+      "debt_ratio": "88.53%",
+      "report_period": "2023-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-09-30",
+        "revenue": "5679.49万",
+        "net_profit": "-5.61亿"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "1.44亿",
+        "net_profit": "-11.89亿"
+      },
+      {
+        "report_period": "2023-03-31",
+        "revenue": "1339.47万",
+        "net_profit": "-2.07亿"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "2358.26万",
+        "net_profit": "-4.05亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-09 14:15:31",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-23 10:33:18",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-12-04 21:02:38",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:04"
+}

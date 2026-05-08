@@ -1,0 +1,54 @@
+{
+  "code": "000024",
+  "signal": {
+    "code": "000024",
+    "name": "招商地产",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "22.19亿",
+      "net_profit_yoy": "-0.97%",
+      "revenue": "239.06亿",
+      "revenue_yoy": "0.64%",
+      "eps": "0.8600",
+      "roe": "6.95%",
+      "net_margin": "10.49%",
+      "debt_ratio": "73.45%",
+      "report_period": "2015-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2014-12-31",
+        "revenue": "433.85亿",
+        "net_profit": "42.64亿"
+      },
+      {
+        "report_period": "2015-03-31",
+        "revenue": "60.05亿",
+        "net_profit": "6.53亿"
+      },
+      {
+        "report_period": "2015-06-30",
+        "revenue": "179.74亿",
+        "net_profit": "21.46亿"
+      },
+      {
+        "report_period": "2015-09-30",
+        "revenue": "239.06亿",
+        "net_profit": "22.19亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:54"
+}

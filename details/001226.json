@@ -1,0 +1,80 @@
+{
+  "code": "001226",
+  "signal": {
+    "code": "001226",
+    "name": "拓山重工",
+    "price": 48.96,
+    "change_pct": -0.41,
+    "pe": 86.93,
+    "pb": 4.92,
+    "turnover": 2.58,
+    "total_mv": 3655681632.0,
+    "change_60d": -5.54,
+    "change_ytd": 10.77
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1051.33万",
+      "net_profit_yoy": "29.64%",
+      "revenue": "2.07亿",
+      "revenue_yoy": "17.07%",
+      "eps": "0.1400",
+      "roe": "1.42%",
+      "net_margin": "5.07%",
+      "debt_ratio": "48.27%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3.24亿",
+        "net_profit": "1242.92万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "4.94亿",
+        "net_profit": "1652.60万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "6.76亿",
+        "net_profit": "2050.96万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.07亿",
+        "net_profit": "1051.33万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 09:03:18",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 16:38:54",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-16 15:53:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-11 11:29:27",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-02 11:59:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:11"
+}

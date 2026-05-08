@@ -1,0 +1,54 @@
+{
+  "code": "000658",
+  "signal": {
+    "code": "000658",
+    "name": "ST海洋",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-842.08万",
+      "net_profit_yoy": "50.50%",
+      "revenue": "40.60万",
+      "revenue_yoy": "-85.74%",
+      "eps": "-0.0536",
+      "roe": "False",
+      "net_margin": "-2073.95%",
+      "debt_ratio": "122.97%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "116.47万",
+        "net_profit": "-302.43万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "284.79万",
+        "net_profit": "-1701.04万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4.17万",
+        "net_profit": "-746.81万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "40.60万",
+        "net_profit": "-842.08万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:04"
+}

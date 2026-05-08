@@ -1,0 +1,80 @@
+{
+  "code": "000660",
+  "signal": {
+    "code": "000660",
+    "name": "*ST南华",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4898.53万",
+      "net_profit_yoy": "2437.41%",
+      "revenue": "84.03万",
+      "revenue_yoy": "-98.07%",
+      "eps": "0.2100",
+      "roe": "43.97%",
+      "net_margin": "5684.73%",
+      "debt_ratio": "25.68%",
+      "report_period": "2021-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2020-12-31",
+        "revenue": "1973.60万",
+        "net_profit": "-2.11亿"
+      },
+      {
+        "report_period": "2021-03-31",
+        "revenue": "105.83万",
+        "net_profit": "-121.42万"
+      },
+      {
+        "report_period": "2021-06-30",
+        "revenue": "81.72万",
+        "net_profit": "4916.75万"
+      },
+      {
+        "report_period": "2021-09-30",
+        "revenue": "84.03万",
+        "net_profit": "4898.53万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-06 20:46:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 11:09:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-17 19:45:22",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-03-31 18:59:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-03-09 11:33:10",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:03"
+}

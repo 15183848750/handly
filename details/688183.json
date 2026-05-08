@@ -1,0 +1,80 @@
+{
+  "code": "688183",
+  "signal": {
+    "code": "688183",
+    "name": "生益电子",
+    "price": 107.54,
+    "change_pct": -0.39,
+    "pe": 50.29,
+    "pb": 14.59,
+    "turnover": 2.6,
+    "total_mv": 89454049160.0,
+    "change_60d": 22.07,
+    "change_ytd": 12.38
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4.45亿",
+      "net_profit_yoy": "122.16%",
+      "revenue": "24.11亿",
+      "revenue_yoy": "52.62%",
+      "eps": "0.5400",
+      "roe": "7.47%",
+      "net_margin": "18.45%",
+      "debt_ratio": "47.52%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "37.69亿",
+        "net_profit": "5.31亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "68.29亿",
+        "net_profit": "11.15亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "94.94亿",
+        "net_profit": "14.73亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "24.11亿",
+        "net_profit": "4.45亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 10:23:44",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 17:31:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 15:46:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:17:59"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "600205",
+  "signal": {
+    "code": "600205",
+    "name": "S山东铝",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "10.40亿",
+      "net_profit_yoy": "19.60%",
+      "revenue": "60.82亿",
+      "revenue_yoy": "27.20%",
+      "eps": "1.5476",
+      "roe": "28.59%",
+      "net_margin": "17.13%",
+      "debt_ratio": "17.23%",
+      "report_period": "2006-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2006-03-31",
+        "revenue": "13.97亿",
+        "net_profit": "2.95亿"
+      },
+      {
+        "report_period": "2006-06-30",
+        "revenue": "30.77亿",
+        "net_profit": "6.47亿"
+      },
+      {
+        "report_period": "2006-09-30",
+        "revenue": "46.37亿",
+        "net_profit": "8.92亿"
+      },
+      {
+        "report_period": "2006-12-31",
+        "revenue": "60.82亿",
+        "net_profit": "10.40亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:42"
+}

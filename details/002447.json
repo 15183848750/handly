@@ -1,0 +1,54 @@
+{
+  "code": "002447",
+  "signal": {
+    "code": "002447",
+    "name": "晨鑫退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1261.38万",
+      "net_profit_yoy": "52.26%",
+      "revenue": "1.89万",
+      "revenue_yoy": "-99.91%",
+      "eps": "-0.0088",
+      "roe": "-68.32%",
+      "net_margin": "-71227.63%",
+      "debt_ratio": "88.59%",
+      "report_period": "2023-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-03-31",
+        "revenue": "1528.77万",
+        "net_profit": "-1204.17万"
+      },
+      {
+        "report_period": "2022-06-30",
+        "revenue": "2083.89万",
+        "net_profit": "-2642.31万"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "2406.98万",
+        "net_profit": "-3.23亿"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "1.89万",
+        "net_profit": "-1261.38万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:42"
+}

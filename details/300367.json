@@ -1,0 +1,54 @@
+{
+  "code": "300367",
+  "signal": {
+    "code": "300367",
+    "name": "网力退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-6082.34万",
+      "net_profit_yoy": "-15.12%",
+      "revenue": "278.27万",
+      "revenue_yoy": "-41.63%",
+      "eps": "-0.0509",
+      "roe": "False",
+      "net_margin": "-2198.35%",
+      "debt_ratio": "970.88%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "566.67万",
+        "net_profit": "-1.40亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "739.40万",
+        "net_profit": "-2.00亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "3588.58万",
+        "net_profit": "-4.29亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "278.27万",
+        "net_profit": "-6082.34万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:30"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "000662",
+  "signal": {
+    "code": "000662",
+    "name": "天夏退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2089.38万",
+      "net_profit_yoy": "-129.78%",
+      "revenue": "883.15万",
+      "revenue_yoy": "-96.83%",
+      "eps": "-0.0191",
+      "roe": "-3.16%",
+      "net_margin": "-236.58%",
+      "debt_ratio": "79.71%",
+      "report_period": "2020-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2019-12-31",
+        "revenue": "1598.56万",
+        "net_profit": "-50.73亿"
+      },
+      {
+        "report_period": "2020-03-31",
+        "revenue": "108.95万",
+        "net_profit": "-7627.84万"
+      },
+      {
+        "report_period": "2020-06-30",
+        "revenue": "476.97万",
+        "net_profit": "-1591.94万"
+      },
+      {
+        "report_period": "2020-09-30",
+        "revenue": "883.15万",
+        "net_profit": "-2089.38万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:02"
+}

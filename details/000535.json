@@ -1,0 +1,75 @@
+{
+  "code": "000535",
+  "signal": {
+    "code": "000535",
+    "name": "*ST猴王",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2.03亿",
+      "net_profit_yoy": "-242.25%",
+      "revenue": "13.01万",
+      "revenue_yoy": "False",
+      "eps": "-0.2400",
+      "roe": "False",
+      "net_margin": "-155967.52%",
+      "debt_ratio": "220.65%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-5928.46万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-5928.46万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-836.91万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "13.01万",
+        "net_profit": "-2.03亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-09 08:21:41",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-24 16:48:02",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-11-27 09:17:58",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-11-25 09:37:57",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:32"
+}

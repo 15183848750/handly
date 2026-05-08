@@ -1,0 +1,80 @@
+{
+  "code": "600511",
+  "signal": {
+    "code": "600511",
+    "name": "国药股份",
+    "price": 28.46,
+    "change_pct": -0.42,
+    "pe": 11.32,
+    "pb": 1.13,
+    "turnover": 0.7,
+    "total_mv": 21473155323.0,
+    "change_60d": -2.1,
+    "change_ytd": -1.01
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4.74亿",
+      "net_profit_yoy": "3.32%",
+      "revenue": "135.55亿",
+      "revenue_yoy": "6.63%",
+      "eps": "0.6286",
+      "roe": "2.52%",
+      "net_margin": "3.63%",
+      "debt_ratio": "42.43%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "256.34亿",
+        "net_profit": "9.49亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "393.81亿",
+        "net_profit": "14.92亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "524.68亿",
+        "net_profit": "19.97亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "135.55亿",
+        "net_profit": "4.74亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 09:46:55",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:11:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 14:12:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 20:34:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:41:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:24"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "002736",
+  "signal": {
+    "code": "002736",
+    "name": "国信证券",
+    "price": 10.74,
+    "change_pct": -0.65,
+    "pe": 13.07,
+    "pb": 1.1,
+    "turnover": 0.22,
+    "total_mv": 109996320464.0,
+    "change_60d": -13.67,
+    "change_ytd": -17.51
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "21.05亿",
+      "net_profit_yoy": "-9.63%",
+      "revenue": "49.21亿",
+      "revenue_yoy": "-4.54%",
+      "eps": "0.1800",
+      "roe": "1.83%",
+      "net_margin": "42.76%",
+      "debt_ratio": "76.33%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "110.75亿",
+        "net_profit": "53.67亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "192.03亿",
+        "net_profit": "91.37亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "241.43亿",
+        "net_profit": "110.73亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "49.21亿",
+        "net_profit": "21.05亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 09:34:10",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 14:17:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 13:20:19",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-03 00:07:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 11:26:11",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:27"
+}

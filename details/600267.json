@@ -1,0 +1,80 @@
+{
+  "code": "600267",
+  "signal": {
+    "code": "600267",
+    "name": "海正药业",
+    "price": 11.56,
+    "change_pct": -0.52,
+    "pe": 9.74,
+    "pb": 1.55,
+    "turnover": 1.43,
+    "total_mv": 13857679426.0,
+    "change_60d": 10.1,
+    "change_ytd": 16.89
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3.56亿",
+      "net_profit_yoy": "83.13%",
+      "revenue": "23.90亿",
+      "revenue_yoy": "-9.17%",
+      "eps": "0.3100",
+      "roe": "4.05%",
+      "net_margin": "15.00%",
+      "debt_ratio": "33.43%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "52.50亿",
+        "net_profit": "2.99亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "79.23亿",
+        "net_profit": "4.61亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "105.50亿",
+        "net_profit": "5.41亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "23.90亿",
+        "net_profit": "3.56亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 09:40:38",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 19:02:29",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-15 12:19:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 22:18:33",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:11"
+}

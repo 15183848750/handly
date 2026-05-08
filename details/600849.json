@@ -1,0 +1,54 @@
+{
+  "code": "600849",
+  "signal": {
+    "code": "600849",
+    "name": "上药转换",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "26.89亿",
+      "net_profit_yoy": "",
+      "revenue": "990.31亿",
+      "revenue_yoy": "",
+      "eps": "",
+      "roe": "",
+      "net_margin": "",
+      "debt_ratio": "",
+      "report_period": "2017-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2016-12-31",
+        "revenue": "1207.65亿",
+        "net_profit": "31.96亿"
+      },
+      {
+        "report_period": "2017-03-31",
+        "revenue": "331.29亿",
+        "net_profit": "9.99亿"
+      },
+      {
+        "report_period": "2017-06-30",
+        "revenue": "657.79亿",
+        "net_profit": "19.25亿"
+      },
+      {
+        "report_period": "2017-09-30",
+        "revenue": "990.31亿",
+        "net_profit": "26.89亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:58"
+}

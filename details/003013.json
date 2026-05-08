@@ -1,0 +1,80 @@
+{
+  "code": "003013",
+  "signal": {
+    "code": "003013",
+    "name": "地铁设计",
+    "price": 13.91,
+    "change_pct": -0.64,
+    "pe": 22.79,
+    "pb": 1.9,
+    "turnover": 0.41,
+    "total_mv": 6409141012.0,
+    "change_60d": -6.71,
+    "change_ytd": -1.83
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7030.14万",
+      "net_profit_yoy": "27.10%",
+      "revenue": "6.36亿",
+      "revenue_yoy": "-2.86%",
+      "eps": "0.1600",
+      "roe": "2.19%",
+      "net_margin": "11.08%",
+      "debt_ratio": "45.78%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "13.17亿",
+        "net_profit": "2.21亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "19.33亿",
+        "net_profit": "3.47亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "25.66亿",
+        "net_profit": "4.66亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "6.36亿",
+        "net_profit": "7030.14万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 09:01:39",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 19:30:28",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 18:17:34",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:07:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-17 18:05:11",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:14"
+}

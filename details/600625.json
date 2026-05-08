@@ -1,0 +1,54 @@
+{
+  "code": "600625",
+  "signal": {
+    "code": "600625",
+    "name": "PT水仙",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-134.60万",
+      "net_profit_yoy": "-54.82%",
+      "revenue": "778.00万",
+      "revenue_yoy": "-56.86%",
+      "eps": "-0.0057",
+      "roe": "False",
+      "net_margin": "-16.68%",
+      "debt_ratio": "110.61%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "541.12万",
+        "net_profit": "-23.65万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1803.49万",
+        "net_profit": "-86.94万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "551.60万",
+        "net_profit": "-55.65万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "778.00万",
+        "net_profit": "-134.60万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:49"
+}

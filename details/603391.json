@@ -1,0 +1,80 @@
+{
+  "code": "603391",
+  "signal": {
+    "code": "603391",
+    "name": "力聚热能",
+    "price": 65.35,
+    "change_pct": -0.47,
+    "pe": 397.08,
+    "pb": 2.62,
+    "turnover": 3.38,
+    "total_mv": 5946850000.0,
+    "change_60d": -6.25,
+    "change_ytd": -0.18
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "374.41万",
+      "net_profit_yoy": "-88.86%",
+      "revenue": "1.16亿",
+      "revenue_yoy": "-46.01%",
+      "eps": "0.0400",
+      "roe": "0.17%",
+      "net_margin": "3.23%",
+      "debt_ratio": "30.72%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4.04亿",
+        "net_profit": "5255.03万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "5.22亿",
+        "net_profit": "5629.61万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "11.38亿",
+        "net_profit": "2.26亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.16亿",
+        "net_profit": "374.41万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 17:16:46",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 09:31:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 13:14:55",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 17:12:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:06"
+}

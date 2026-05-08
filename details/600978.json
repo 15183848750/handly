@@ -1,0 +1,54 @@
+{
+  "code": "600978",
+  "signal": {
+    "code": "600978",
+    "name": "*ST宜生",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-9.82亿",
+      "net_profit_yoy": "39.76%",
+      "revenue": "1.29亿",
+      "revenue_yoy": "-19.01%",
+      "eps": "-0.6600",
+      "roe": "False",
+      "net_margin": "-763.73%",
+      "debt_ratio": "175.12%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "2516.59万",
+        "net_profit": "-4.31亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1.59亿",
+        "net_profit": "-16.31亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3075.13万",
+        "net_profit": "-4.07亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1.29亿",
+        "net_profit": "-9.82亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:46"
+}

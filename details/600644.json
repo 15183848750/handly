@@ -1,0 +1,80 @@
+{
+  "code": "600644",
+  "signal": {
+    "code": "600644",
+    "name": "乐山电力",
+    "price": 11.96,
+    "change_pct": -0.5,
+    "pe": -977.64,
+    "pb": 3.34,
+    "turnover": 4.0,
+    "total_mv": 6916716983.0,
+    "change_60d": 5.19,
+    "change_ytd": 22.67
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-176.87万",
+      "net_profit_yoy": "-46.92%",
+      "revenue": "7.72亿",
+      "revenue_yoy": "-8.22%",
+      "eps": "-0.0031",
+      "roe": "-0.09%",
+      "net_margin": "-0.54%",
+      "debt_ratio": "50.23%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "16.23亿",
+        "net_profit": "790.31万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "23.99亿",
+        "net_profit": "7283.20万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "33.95亿",
+        "net_profit": "2331.76万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "7.72亿",
+        "net_profit": "-176.87万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-25 10:10:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-21 15:33:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-21 14:10:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-17 23:10:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:40"
+}

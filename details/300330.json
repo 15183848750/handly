@@ -1,0 +1,54 @@
+{
+  "code": "300330",
+  "signal": {
+    "code": "300330",
+    "name": "计通退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "163.77万",
+      "net_profit_yoy": "103.80%",
+      "revenue": "2.76亿",
+      "revenue_yoy": "75.38%",
+      "eps": "0.0100",
+      "roe": "0.62%",
+      "net_margin": "0.59%",
+      "debt_ratio": "47.14%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1823.20万",
+        "net_profit": "-1491.38万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1.58亿",
+        "net_profit": "-4312.35万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "6526.98万",
+        "net_profit": "-2134.11万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "2.76亿",
+        "net_profit": "163.77万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:36"
+}

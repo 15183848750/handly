@@ -1,0 +1,80 @@
+{
+  "code": "301198",
+  "signal": {
+    "code": "301198",
+    "name": "喜悦智行",
+    "price": 18.01,
+    "change_pct": -0.61,
+    "pe": -6357.91,
+    "pb": 3.36,
+    "turnover": 2.32,
+    "total_mv": 3043690000.0,
+    "change_60d": 26.3,
+    "change_ytd": 43.39
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-11.97万",
+      "net_profit_yoy": "95.80%",
+      "revenue": "1.02亿",
+      "revenue_yoy": "8.63%",
+      "eps": "-0.0007",
+      "roe": "-0.01%",
+      "net_margin": "-0.12%",
+      "debt_ratio": "18.26%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.13亿",
+        "net_profit": "-675.86万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "3.33亿",
+        "net_profit": "-465.65万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "4.30亿",
+        "net_profit": "-1331.69万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.02亿",
+        "net_profit": "-11.97万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 09:12:53",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 13:07:25",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:21:26",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 09:31:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 22:18:08",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:52"
+}

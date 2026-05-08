@@ -1,0 +1,80 @@
+{
+  "code": "688685",
+  "signal": {
+    "code": "688685",
+    "name": "迈信林",
+    "price": 49.64,
+    "change_pct": -0.56,
+    "pe": 694.75,
+    "pb": 9.1,
+    "turnover": 2.0,
+    "total_mv": 7289716750.0,
+    "change_60d": -6.06,
+    "change_ytd": -10.53
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "262.32万",
+      "net_profit_yoy": "-93.52%",
+      "revenue": "1.22亿",
+      "revenue_yoy": "-35.29%",
+      "eps": "0.0200",
+      "roe": "0.33%",
+      "net_margin": "3.16%",
+      "debt_ratio": "68.36%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.87亿",
+        "net_profit": "4108.07万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "4.46亿",
+        "net_profit": "5634.37万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "4.60亿",
+        "net_profit": "1757.74万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.22亿",
+        "net_profit": "262.32万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 17:37:23",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:41:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 09:18:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 21:22:56",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-17 18:05:50",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:28"
+}

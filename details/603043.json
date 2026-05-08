@@ -1,0 +1,80 @@
+{
+  "code": "603043",
+  "signal": {
+    "code": "603043",
+    "name": "广州酒家",
+    "price": 15.2,
+    "change_pct": -0.65,
+    "pe": 40.97,
+    "pb": 2.17,
+    "turnover": 0.5,
+    "total_mv": 8645316236.0,
+    "change_60d": -15.98,
+    "change_ytd": -13.78
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "5275.39万",
+      "net_profit_yoy": "3.42%",
+      "revenue": "11.39亿",
+      "revenue_yoy": "8.85%",
+      "eps": "0.0928",
+      "roe": "1.33%",
+      "net_margin": "5.94%",
+      "debt_ratio": "37.52%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "19.91亿",
+        "net_profit": "3910.07万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "42.85亿",
+        "net_profit": "4.49亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "53.82亿",
+        "net_profit": "4.88亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "11.39亿",
+        "net_profit": "5275.39万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 11:25:06",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 18:51:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 12:00:11",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-10 15:46:07",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-09 16:33:07",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:28"
+}

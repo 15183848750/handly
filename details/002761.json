@@ -1,0 +1,80 @@
+{
+  "code": "002761",
+  "signal": {
+    "code": "002761",
+    "name": "浙江建投",
+    "price": 8.8,
+    "change_pct": -0.45,
+    "pe": 9.98,
+    "pb": 1.34,
+    "turnover": 1.36,
+    "total_mv": 11658870995.0,
+    "change_60d": 1.97,
+    "change_ytd": 2.68
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.92亿",
+      "net_profit_yoy": "28.87%",
+      "revenue": "189.59亿",
+      "revenue_yoy": "-6.06%",
+      "eps": "0.2239",
+      "roe": "3.47%",
+      "net_margin": "1.59%",
+      "debt_ratio": "90.27%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "401.38亿",
+        "net_profit": "1.67亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "603.97亿",
+        "net_profit": "1.51亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "811.08亿",
+        "net_profit": "2.15亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "189.59亿",
+        "net_profit": "2.92亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:52:50",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 18:20:58",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:07:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-17 21:42:58",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-02 08:57:36",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:55"
+}

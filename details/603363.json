@@ -1,0 +1,80 @@
+{
+  "code": "603363",
+  "signal": {
+    "code": "603363",
+    "name": "傲农生物",
+    "price": 3.26,
+    "change_pct": -0.61,
+    "pe": -159.15,
+    "pb": 2.74,
+    "turnover": 1.52,
+    "total_mv": 8485655553.0,
+    "change_60d": -25.23,
+    "change_ytd": -29.28
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1332.98万",
+      "net_profit_yoy": "-106.11%",
+      "revenue": "22.06亿",
+      "revenue_yoy": "23.71%",
+      "eps": "-0.0100",
+      "roe": "-0.43%",
+      "net_margin": "-1.94%",
+      "debt_ratio": "60.35%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "39.57亿",
+        "net_profit": "3.61亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "63.35亿",
+        "net_profit": "4.14亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "84.75亿",
+        "net_profit": "7762.16万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "22.06亿",
+        "net_profit": "-1332.98万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 09:47:04",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 17:56:25",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 20:31:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 08:26:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 07:50:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:55"
+}

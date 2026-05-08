@@ -1,0 +1,80 @@
+{
+  "code": "601009",
+  "signal": {
+    "code": "601009",
+    "name": "南京银行",
+    "price": 11.33,
+    "change_pct": -0.44,
+    "pe": 5.31,
+    "pb": 0.74,
+    "turnover": 0.19,
+    "total_mv": 140079216886.0,
+    "change_60d": 7.6,
+    "change_ytd": -0.87
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "66.00亿",
+      "net_profit_yoy": "8.05%",
+      "revenue": "161.11亿",
+      "revenue_yoy": "13.54%",
+      "eps": "0.5300",
+      "roe": "3.57%",
+      "net_margin": "41.22%",
+      "debt_ratio": "93.23%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "284.80亿",
+        "net_profit": "126.19亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "419.49亿",
+        "net_profit": "180.05亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "555.42亿",
+        "net_profit": "218.07亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "161.11亿",
+        "net_profit": "66.00亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-06 18:40:47",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 09:14:18",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 09:45:26",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 13:59:39",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:46"
+}

@@ -1,0 +1,65 @@
+{
+  "code": "600669",
+  "signal": {
+    "code": "600669",
+    "name": "*ST鞍成",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-67.78万",
+      "net_profit_yoy": "-1.51%",
+      "revenue": "0.0000",
+      "revenue_yoy": "False",
+      "eps": "-0.0012",
+      "roe": "-3.91%",
+      "net_margin": "False",
+      "debt_ratio": "1.97%",
+      "report_period": "2025-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-119.08万"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-66.78万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-214.28万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-67.78万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2025-12-16 15:09:30",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-12-16 16:29:08",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:36"
+}

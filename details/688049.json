@@ -1,0 +1,80 @@
+{
+  "code": "688049",
+  "signal": {
+    "code": "688049",
+    "name": "炬芯科技",
+    "price": 49.15,
+    "change_pct": -0.45,
+    "pe": 44.2,
+    "pb": 4.11,
+    "turnover": 2.68,
+    "total_mv": 8609489998.0,
+    "change_60d": -11.73,
+    "change_ytd": -6.56
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4870.05万",
+      "net_profit_yoy": "17.49%",
+      "revenue": "2.38亿",
+      "revenue_yoy": "23.74%",
+      "eps": "0.2800",
+      "roe": "2.35%",
+      "net_margin": "20.50%",
+      "debt_ratio": "10.71%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4.49亿",
+        "net_profit": "9137.54万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "7.22亿",
+        "net_profit": "1.52亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "9.22亿",
+        "net_profit": "2.05亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.38亿",
+        "net_profit": "4870.05万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 10:15:55",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 12:56:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:58:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 17:31:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:53"
+}

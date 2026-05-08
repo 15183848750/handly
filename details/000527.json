@@ -1,0 +1,65 @@
+{
+  "code": "000527",
+  "signal": {
+    "code": "000527",
+    "name": "美的电器",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "26.04亿",
+      "net_profit_yoy": "24.69%",
+      "revenue": "462.87亿",
+      "revenue_yoy": "18.72%",
+      "eps": "0.7700",
+      "roe": "11.67%",
+      "net_margin": "6.63%",
+      "debt_ratio": "58.09%",
+      "report_period": "2013-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2012-09-30",
+        "revenue": "538.33亿",
+        "net_profit": "30.00亿"
+      },
+      {
+        "report_period": "2012-12-31",
+        "revenue": "680.71亿",
+        "net_profit": "34.77亿"
+      },
+      {
+        "report_period": "2013-03-31",
+        "revenue": "219.14亿",
+        "net_profit": "10.78亿"
+      },
+      {
+        "report_period": "2013-06-30",
+        "revenue": "462.87亿",
+        "net_profit": "26.04亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-10 18:56:13",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-23 21:53:12",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:33"
+}

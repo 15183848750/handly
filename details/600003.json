@@ -1,0 +1,54 @@
+{
+  "code": "600003",
+  "signal": {
+    "code": "600003",
+    "name": "ST东北高",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.36亿",
+      "net_profit_yoy": "191.78%",
+      "revenue": "7.46亿",
+      "revenue_yoy": "7.71%",
+      "eps": "0.1948",
+      "roe": "6.44%",
+      "net_margin": "32.41%",
+      "debt_ratio": "23.18%",
+      "report_period": "2009-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2009-03-31",
+        "revenue": "1.34亿",
+        "net_profit": "6896.51万"
+      },
+      {
+        "report_period": "2009-06-30",
+        "revenue": "3.41亿",
+        "net_profit": "1.54亿"
+      },
+      {
+        "report_period": "2009-09-30",
+        "revenue": "5.59亿",
+        "net_profit": "2.01亿"
+      },
+      {
+        "report_period": "2009-12-31",
+        "revenue": "7.46亿",
+        "net_profit": "2.36亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:13"
+}

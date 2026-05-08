@@ -1,0 +1,54 @@
+{
+  "code": "000540",
+  "signal": {
+    "code": "000540",
+    "name": "*ST中天",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-16.10亿",
+      "net_profit_yoy": "34.70%",
+      "revenue": "115.41亿",
+      "revenue_yoy": "-3.85%",
+      "eps": "-0.1315",
+      "roe": "False",
+      "net_margin": "-106.07%",
+      "debt_ratio": "121.09%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "93.47亿",
+        "net_profit": "-6.24亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "120.03亿",
+        "net_profit": "-24.66亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "120.04亿",
+        "net_profit": "5.14亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "115.41亿",
+        "net_profit": "-16.10亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:31"
+}

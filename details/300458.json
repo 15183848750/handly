@@ -1,0 +1,80 @@
+{
+  "code": "300458",
+  "signal": {
+    "code": "300458",
+    "name": "全志科技",
+    "price": 36.56,
+    "change_pct": -0.44,
+    "pe": 44.59,
+    "pb": 9.09,
+    "turnover": 3.87,
+    "total_mv": 36213150088.0,
+    "change_60d": -4.32,
+    "change_ytd": 4.88
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.03亿",
+      "net_profit_yoy": "121.77%",
+      "revenue": "9.12亿",
+      "revenue_yoy": "47.12%",
+      "eps": "0.2500",
+      "roe": "6.31%",
+      "net_margin": "22.26%",
+      "debt_ratio": "18.73%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "13.37亿",
+        "net_profit": "1.61亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "21.61亿",
+        "net_profit": "2.78亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "28.38亿",
+        "net_profit": "2.62亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "9.12亿",
+        "net_profit": "2.03亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-22 09:13:04",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 08:56:12",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 13:03:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 15:57:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:47"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "600240",
+  "signal": {
+    "code": "600240",
+    "name": "退市华业",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-5.33亿",
+      "net_profit_yoy": "26.44%",
+      "revenue": "185.67万",
+      "revenue_yoy": "-56.03%",
+      "eps": "-0.3700",
+      "roe": "False",
+      "net_margin": "-28716.46%",
+      "debt_ratio": "868.54%",
+      "report_period": "2025-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-12-31",
+        "revenue": "740.62万",
+        "net_profit": "-14.05亿"
+      },
+      {
+        "report_period": "2025-03-31",
+        "revenue": "21.58万",
+        "net_profit": "-1.81亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "114.57万",
+        "net_profit": "-3.55亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "185.67万",
+        "net_profit": "-5.33亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:37"
+}

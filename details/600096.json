@@ -1,0 +1,80 @@
+{
+  "code": "600096",
+  "signal": {
+    "code": "600096",
+    "name": "云天化",
+    "price": 34.88,
+    "change_pct": -0.63,
+    "pe": 11.16,
+    "pb": 2.44,
+    "turnover": 1.92,
+    "total_mv": 63585916697.0,
+    "change_60d": -8.67,
+    "change_ytd": 4.4
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "14.25亿",
+      "net_profit_yoy": "10.39%",
+      "revenue": "119.81亿",
+      "revenue_yoy": "-8.06%",
+      "eps": "0.7816",
+      "roe": "5.63%",
+      "net_margin": "12.54%",
+      "debt_ratio": "46.67%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "249.92亿",
+        "net_profit": "27.61亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "375.99亿",
+        "net_profit": "47.29亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "484.15亿",
+        "net_profit": "51.56亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "119.81亿",
+        "net_profit": "14.25亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 09:28:53",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 10:00:47",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:41:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:04"
+}

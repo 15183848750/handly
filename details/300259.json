@@ -1,0 +1,80 @@
+{
+  "code": "300259",
+  "signal": {
+    "code": "300259",
+    "name": "新天科技",
+    "price": 4.49,
+    "change_pct": -0.44,
+    "pe": 67.58,
+    "pb": 1.71,
+    "turnover": 0.87,
+    "total_mv": 5252408807.0,
+    "change_60d": -5.67,
+    "change_ytd": 2.28
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1943.15万",
+      "net_profit_yoy": "-28.58%",
+      "revenue": "1.78亿",
+      "revenue_yoy": "25.97%",
+      "eps": "0.0171",
+      "roe": "0.64%",
+      "net_margin": "10.89%",
+      "debt_ratio": "16.77%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4.47亿",
+        "net_profit": "7890.33万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "7.19亿",
+        "net_profit": "1.60亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "10.66亿",
+        "net_profit": "2.51亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.78亿",
+        "net_profit": "1943.15万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 09:04:45",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 13:36:57",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 17:32:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 09:27:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:38"
+}

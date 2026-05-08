@@ -1,0 +1,70 @@
+{
+  "code": "000038",
+  "signal": {
+    "code": "000038",
+    "name": "大通退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.33亿",
+      "net_profit_yoy": "139.68%",
+      "revenue": "16.99亿",
+      "revenue_yoy": "-9.58%",
+      "eps": "0.2541",
+      "roe": "5.76%",
+      "net_margin": "7.05%",
+      "debt_ratio": "14.45%",
+      "report_period": "2022-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2021-12-31",
+        "revenue": "22.59亿",
+        "net_profit": "-6.30亿"
+      },
+      {
+        "report_period": "2022-03-31",
+        "revenue": "2.44亿",
+        "net_profit": "2924.86万"
+      },
+      {
+        "report_period": "2022-06-30",
+        "revenue": "9.75亿",
+        "net_profit": "7936.69万"
+      },
+      {
+        "report_period": "2022-09-30",
+        "revenue": "16.99亿",
+        "net_profit": "1.33亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2025-12-11 20:11:36",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-12-12 00:25:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-11-11 11:31:31",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:52"
+}

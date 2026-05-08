@@ -1,0 +1,54 @@
+{
+  "code": "600752",
+  "signal": {
+    "code": "600752",
+    "name": "*ST哈慈",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-8.33万",
+      "net_profit_yoy": "1.07%",
+      "revenue": "0.0000",
+      "revenue_yoy": "False",
+      "eps": "-0.0002",
+      "roe": "False",
+      "net_margin": "False",
+      "debt_ratio": "1468.25%",
+      "report_period": "2020-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2018-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-226.33万"
+      },
+      {
+        "report_period": "2019-03-31",
+        "revenue": "0.0000",
+        "net_profit": "-8.42万"
+      },
+      {
+        "report_period": "2019-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-251.48万"
+      },
+      {
+        "report_period": "2020-03-31",
+        "revenue": "0.0000",
+        "net_profit": "-8.33万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:20"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "000502",
+  "signal": {
+    "code": "000502",
+    "name": "绿景退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2492.83万",
+      "net_profit_yoy": "45.39%",
+      "revenue": "188.84万",
+      "revenue_yoy": "-92.91%",
+      "eps": "-0.1349",
+      "roe": "-44.75%",
+      "net_margin": "-1733.46%",
+      "debt_ratio": "41.51%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "2576.47万",
+        "net_profit": "-2915.62万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "2664.71万",
+        "net_profit": "-4564.48万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "91.62万",
+        "net_profit": "-1375.10万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "188.84万",
+        "net_profit": "-2492.83万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:39"
+}

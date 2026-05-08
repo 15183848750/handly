@@ -1,0 +1,54 @@
+{
+  "code": "300431",
+  "signal": {
+    "code": "300431",
+    "name": "暴风退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-6.50亿",
+      "net_profit_yoy": "-184.50%",
+      "revenue": "9360.05万",
+      "revenue_yoy": "-90.95%",
+      "eps": "-2.0000",
+      "roe": "False",
+      "net_margin": "-767.06%",
+      "debt_ratio": "282.99%",
+      "report_period": "2019-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2018-12-31",
+        "revenue": "11.27亿",
+        "net_profit": "-10.90亿"
+      },
+      {
+        "report_period": "2019-03-31",
+        "revenue": "7120.51万",
+        "net_profit": "-1749.50万"
+      },
+      {
+        "report_period": "2019-06-30",
+        "revenue": "8359.29万",
+        "net_profit": "-2.64亿"
+      },
+      {
+        "report_period": "2019-09-30",
+        "revenue": "9360.05万",
+        "net_profit": "-6.50亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:24"
+}

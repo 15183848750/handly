@@ -1,0 +1,54 @@
+{
+  "code": "600614",
+  "signal": {
+    "code": "600614",
+    "name": "退市鹏起",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.55亿",
+      "net_profit_yoy": "-149.74%",
+      "revenue": "974.38万",
+      "revenue_yoy": "88.38%",
+      "eps": "-0.0900",
+      "roe": "False",
+      "net_margin": "-1601.25%",
+      "debt_ratio": "419.43%",
+      "report_period": "2024-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-12-31",
+        "revenue": "780.54万",
+        "net_profit": "-6.58亿"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "517.25万",
+        "net_profit": "-6216.92万"
+      },
+      {
+        "report_period": "2023-12-31",
+        "revenue": "4863.51万",
+        "net_profit": "-2.63亿"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "974.38万",
+        "net_profit": "-1.55亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:50"
+}

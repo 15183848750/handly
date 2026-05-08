@@ -1,0 +1,80 @@
+{
+  "code": "601607",
+  "signal": {
+    "code": "601607",
+    "name": "上海医药",
+    "price": 17.06,
+    "change_pct": -0.41,
+    "pe": 11.16,
+    "pb": 0.82,
+    "turnover": 0.22,
+    "total_mv": 63264652462.0,
+    "change_60d": -1.39,
+    "change_ytd": -3.83
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "14.18亿",
+      "net_profit_yoy": "6.35%",
+      "revenue": "752.62亿",
+      "revenue_yoy": "6.36%",
+      "eps": "0.3800",
+      "roe": "1.85%",
+      "net_margin": "2.46%",
+      "debt_ratio": "61.14%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1415.93亿",
+        "net_profit": "44.59亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "2150.72亿",
+        "net_profit": "51.47亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "2835.80亿",
+        "net_profit": "57.25亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "752.62亿",
+        "net_profit": "14.18亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 10:15:42",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:36:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:36:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 22:34:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 18:02:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:12"
+}

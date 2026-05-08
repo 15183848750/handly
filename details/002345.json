@@ -1,0 +1,80 @@
+{
+  "code": "002345",
+  "signal": {
+    "code": "002345",
+    "name": "潮宏基",
+    "price": 10.5,
+    "change_pct": -0.57,
+    "pe": 8.85,
+    "pb": 2.32,
+    "turnover": 2.03,
+    "total_mv": 9329383424.0,
+    "change_60d": -17.9,
+    "change_ytd": -16.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.64亿",
+      "net_profit_yoy": "39.52%",
+      "revenue": "24.98亿",
+      "revenue_yoy": "10.93%",
+      "eps": "0.3000",
+      "roe": "6.77%",
+      "net_margin": "10.59%",
+      "debt_ratio": "44.87%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "41.02亿",
+        "net_profit": "3.31亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "62.37亿",
+        "net_profit": "3.17亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "93.18亿",
+        "net_profit": "4.97亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "24.98亿",
+        "net_profit": "2.64亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 09:01:28",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 09:01:37",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 00:11:05",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 11:17:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 10:07:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:35"
+}

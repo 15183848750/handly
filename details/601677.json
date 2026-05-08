@@ -1,0 +1,80 @@
+{
+  "code": "601677",
+  "signal": {
+    "code": "601677",
+    "name": "明泰铝业",
+    "price": 17.47,
+    "change_pct": -0.63,
+    "pe": 7.74,
+    "pb": 1.1,
+    "turnover": 2.38,
+    "total_mv": 21724357764.0,
+    "change_60d": 4.11,
+    "change_ytd": 18.12
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7.02亿",
+      "net_profit_yoy": "59.68%",
+      "revenue": "97.67亿",
+      "revenue_yoy": "20.22%",
+      "eps": "0.5500",
+      "roe": "3.61%",
+      "net_margin": "7.18%",
+      "debt_ratio": "31.42%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "169.99亿",
+        "net_profit": "9.40亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "258.74亿",
+        "net_profit": "14.04亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "351.35亿",
+        "net_profit": "19.60亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "97.67亿",
+        "net_profit": "7.02亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-06 17:32:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 17:31:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 19:07:04",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 18:53:10",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:05"
+}

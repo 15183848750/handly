@@ -1,0 +1,54 @@
+{
+  "code": "000748",
+  "signal": {
+    "code": "000748",
+    "name": "长城信息",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "9186.86万",
+      "net_profit_yoy": "38.88%",
+      "revenue": "12.26亿",
+      "revenue_yoy": "-6.32%",
+      "eps": "0.1127",
+      "roe": "2.04%",
+      "net_margin": "7.33%",
+      "debt_ratio": "28.52%",
+      "report_period": "2016-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2015-12-31",
+        "revenue": "21.24亿",
+        "net_profit": "1.34亿"
+      },
+      {
+        "report_period": "2016-03-31",
+        "revenue": "3.59亿",
+        "net_profit": "384.15万"
+      },
+      {
+        "report_period": "2016-06-30",
+        "revenue": "8.17亿",
+        "net_profit": "5951.26万"
+      },
+      {
+        "report_period": "2016-09-30",
+        "revenue": "12.26亿",
+        "net_profit": "9186.86万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:48"
+}

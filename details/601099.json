@@ -1,0 +1,80 @@
+{
+  "code": "601099",
+  "signal": {
+    "code": "601099",
+    "name": "太平洋",
+    "price": 3.74,
+    "change_pct": -0.53,
+    "pe": 261.4,
+    "pb": 2.57,
+    "turnover": 1.09,
+    "total_mv": 25493023224.0,
+    "change_60d": -10.95,
+    "change_ytd": -9.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2438.14万",
+      "net_profit_yoy": "-64.11%",
+      "revenue": "2.51亿",
+      "revenue_yoy": "-18.62%",
+      "eps": "0.0040",
+      "roe": "0.25%",
+      "net_margin": "9.72%",
+      "debt_ratio": "50.53%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "6.15亿",
+        "net_profit": "1.21亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "10.37亿",
+        "net_profit": "2.46亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "13.27亿",
+        "net_profit": "2.11亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.51亿",
+        "net_profit": "2438.14万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-24 17:27:06",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 09:51:42",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 15:49:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:03:57",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:07:03",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:21"
+}

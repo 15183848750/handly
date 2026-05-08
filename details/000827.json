@@ -1,0 +1,54 @@
+{
+  "code": "000827",
+  "signal": {
+    "code": "000827",
+    "name": "*ST长兴",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1197.00万",
+      "net_profit_yoy": "66.43%",
+      "revenue": "88.22万",
+      "revenue_yoy": "21.97%",
+      "eps": "-0.1790",
+      "roe": "False",
+      "net_margin": "-1375.41%",
+      "debt_ratio": "101.96%",
+      "report_period": "2006-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2005-06-30",
+        "revenue": "72.33万",
+        "net_profit": "-3565.94万"
+      },
+      {
+        "report_period": "2005-12-31",
+        "revenue": "109.11万",
+        "net_profit": "-4446.18万"
+      },
+      {
+        "report_period": "2006-03-31",
+        "revenue": "88.20万",
+        "net_profit": "-350.46万"
+      },
+      {
+        "report_period": "2006-06-30",
+        "revenue": "88.22万",
+        "net_profit": "-1197.00万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:35"
+}

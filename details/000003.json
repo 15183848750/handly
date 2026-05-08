@@ -1,0 +1,54 @@
+{
+  "code": "000003",
+  "signal": {
+    "code": "000003",
+    "name": "PT金田A",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-75.87万",
+      "net_profit_yoy": "6.48%",
+      "revenue": "532.90万",
+      "revenue_yoy": "-2.61%",
+      "eps": "-0.0019",
+      "roe": "False",
+      "net_margin": "-14.24%",
+      "debt_ratio": "157.00%",
+      "report_period": "2025-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-12-31",
+        "revenue": "1058.17万",
+        "net_profit": "-305.52万"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "547.20万",
+        "net_profit": "-81.12万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1257.07万",
+        "net_profit": "-445.43万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "532.90万",
+        "net_profit": "-75.87万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:48:03"
+}

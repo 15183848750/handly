@@ -1,0 +1,54 @@
+{
+  "code": "600701",
+  "signal": {
+    "code": "600701",
+    "name": "退市工新",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3746.17万",
+      "net_profit_yoy": "30.74%",
+      "revenue": "3.41亿",
+      "revenue_yoy": "-1.66%",
+      "eps": "-0.0100",
+      "roe": "False",
+      "net_margin": "-10.80%",
+      "debt_ratio": "28.21%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1.64亿",
+        "net_profit": "-2083.85万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "3.46亿",
+        "net_profit": "-5408.83万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1.67亿",
+        "net_profit": "-546.96万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "3.41亿",
+        "net_profit": "-3746.17万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:25"
+}

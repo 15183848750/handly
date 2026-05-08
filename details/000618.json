@@ -1,0 +1,54 @@
+{
+  "code": "000618",
+  "signal": {
+    "code": "000618",
+    "name": "吉林化工",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.51亿",
+      "net_profit_yoy": "-106.72%",
+      "revenue": "231.30亿",
+      "revenue_yoy": "14.09%",
+      "eps": "False",
+      "roe": "False",
+      "net_margin": "-0.64%",
+      "debt_ratio": "55.81%",
+      "report_period": "2005-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2004-12-31",
+        "revenue": "279.03亿",
+        "net_profit": "25.74亿"
+      },
+      {
+        "report_period": "2005-03-31",
+        "revenue": "83.17亿",
+        "net_profit": "1.47亿"
+      },
+      {
+        "report_period": "2005-06-30",
+        "revenue": "161.22亿",
+        "net_profit": "1.24亿"
+      },
+      {
+        "report_period": "2005-09-30",
+        "revenue": "231.30亿",
+        "net_profit": "-1.51亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:11"
+}

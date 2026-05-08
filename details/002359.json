@@ -1,0 +1,54 @@
+{
+  "code": "002359",
+  "signal": {
+    "code": "002359",
+    "name": "北讯退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2.10亿",
+      "net_profit_yoy": "2.66%",
+      "revenue": "7297.57万",
+      "revenue_yoy": "20.20%",
+      "eps": "-0.1930",
+      "roe": "-5.15%",
+      "net_margin": "-287.60%",
+      "debt_ratio": "93.19%",
+      "report_period": "2021-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2020-06-30",
+        "revenue": "1.70亿",
+        "net_profit": "-4.30亿"
+      },
+      {
+        "report_period": "2020-09-30",
+        "revenue": "2.57亿",
+        "net_profit": "-6.56亿"
+      },
+      {
+        "report_period": "2020-12-31",
+        "revenue": "3.51亿",
+        "net_profit": "-14.27亿"
+      },
+      {
+        "report_period": "2021-03-31",
+        "revenue": "7297.57万",
+        "net_profit": "-2.10亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:49"
+}

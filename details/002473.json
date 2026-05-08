@@ -1,0 +1,54 @@
+{
+  "code": "002473",
+  "signal": {
+    "code": "002473",
+    "name": "圣莱退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-396.96万",
+      "net_profit_yoy": "69.89%",
+      "revenue": "11.21万",
+      "revenue_yoy": "False",
+      "eps": "-0.0200",
+      "roe": "False",
+      "net_margin": "-3550.76%",
+      "debt_ratio": "391.05%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-887.58万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-1318.59万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "11.21万",
+        "net_profit": "-56.83万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "11.21万",
+        "net_profit": "-396.96万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:39"
+}

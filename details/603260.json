@@ -1,0 +1,80 @@
+{
+  "code": "603260",
+  "signal": {
+    "code": "603260",
+    "name": "合盛硅业",
+    "price": 45.12,
+    "change_pct": -0.64,
+    "pe": 172.42,
+    "pb": 1.81,
+    "turnover": 0.62,
+    "total_mv": 53341177178.0,
+    "change_60d": -9.22,
+    "change_ytd": -14.38
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7734.28万",
+      "net_profit_yoy": "-70.21%",
+      "revenue": "50.06亿",
+      "revenue_yoy": "-4.25%",
+      "eps": "0.0700",
+      "roe": "0.26%",
+      "net_margin": "1.54%",
+      "debt_ratio": "63.52%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "97.75亿",
+        "net_profit": "-3.97亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "152.06亿",
+        "net_profit": "-3.21亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "204.99亿",
+        "net_profit": "-29.91亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "50.06亿",
+        "net_profit": "7734.28万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 17:51:07",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 17:13:45",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-17 11:49:07",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 19:59:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 16:52:55",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:17"
+}

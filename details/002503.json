@@ -1,0 +1,54 @@
+{
+  "code": "002503",
+  "signal": {
+    "code": "002503",
+    "name": "*ST搜特",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4.97亿",
+      "net_profit_yoy": "-37.93%",
+      "revenue": "1082.38万",
+      "revenue_yoy": "-88.96%",
+      "eps": "-0.1600",
+      "roe": "False",
+      "net_margin": "-4771.79%",
+      "debt_ratio": "203.12%",
+      "report_period": "2024-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-03-31",
+        "revenue": "7930.58万",
+        "net_profit": "-1.23亿"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "9804.42万",
+        "net_profit": "-3.60亿"
+      },
+      {
+        "report_period": "2023-12-31",
+        "revenue": "7475.93万",
+        "net_profit": "-10.06亿"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1082.38万",
+        "net_profit": "-4.97亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:34"
+}

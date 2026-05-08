@@ -1,0 +1,54 @@
+{
+  "code": "600068",
+  "signal": {
+    "code": "600068",
+    "name": "葛洲坝",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3.46亿",
+      "net_profit_yoy": "-84.00%",
+      "revenue": "1211.09亿",
+      "revenue_yoy": "-5.28%",
+      "eps": "False",
+      "roe": "False",
+      "net_margin": "1.76%",
+      "debt_ratio": "78.90%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "563.25亿",
+        "net_profit": "1.69亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1278.63亿",
+        "net_profit": "21.60亿"
+      },
+      {
+        "report_period": "2025-03-31",
+        "revenue": "246.52亿",
+        "net_profit": "1.41亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1211.09亿",
+        "net_profit": "3.46亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:09"
+}

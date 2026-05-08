@@ -1,0 +1,80 @@
+{
+  "code": "601128",
+  "signal": {
+    "code": "601128",
+    "name": "常熟银行",
+    "price": 7.14,
+    "change_pct": -0.56,
+    "pe": 4.92,
+    "pb": 0.74,
+    "turnover": 0.95,
+    "total_mv": 23679963489.0,
+    "change_60d": -2.19,
+    "change_ytd": 1.42
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "12.04亿",
+      "net_profit_yoy": "11.10%",
+      "revenue": "31.71亿",
+      "revenue_yoy": "6.74%",
+      "eps": "0.3600",
+      "roe": "3.75%",
+      "net_margin": "40.50%",
+      "debt_ratio": "91.71%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "60.62亿",
+        "net_profit": "19.69亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "90.52亿",
+        "net_profit": "33.57亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "116.19亿",
+        "net_profit": "42.19亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "31.71亿",
+        "net_profit": "12.04亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-24 09:36:45",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 10:51:07",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 11:23:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:15:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:29"
+}

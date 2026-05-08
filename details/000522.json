@@ -1,0 +1,75 @@
+{
+  "code": "000522",
+  "signal": {
+    "code": "000522",
+    "name": "白云山A",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3.49亿",
+      "net_profit_yoy": "33.66%",
+      "revenue": "43.11亿",
+      "revenue_yoy": "13.47%",
+      "eps": "0.7440",
+      "roe": "23.18%",
+      "net_margin": "8.67%",
+      "debt_ratio": "50.48%",
+      "report_period": "2012-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2012-03-31",
+        "revenue": "12.14亿",
+        "net_profit": "9459.54万"
+      },
+      {
+        "report_period": "2012-06-30",
+        "revenue": "23.87亿",
+        "net_profit": "2.18亿"
+      },
+      {
+        "report_period": "2012-09-30",
+        "revenue": "33.97亿",
+        "net_profit": "2.80亿"
+      },
+      {
+        "report_period": "2012-12-31",
+        "revenue": "43.11亿",
+        "net_profit": "3.49亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-10 17:30:23",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-23 21:47:48",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-12-26 09:47:01",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-12-10 09:37:59",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:34"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "002826",
+  "signal": {
+    "code": "002826",
+    "name": "易明医药",
+    "price": 19.16,
+    "change_pct": -0.52,
+    "pe": 46.48,
+    "pb": 4.36,
+    "turnover": 2.81,
+    "total_mv": 3653385690.0,
+    "change_60d": 2.13,
+    "change_ytd": 4.24
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1964.84万",
+      "net_profit_yoy": "4.55%",
+      "revenue": "1.83亿",
+      "revenue_yoy": "22.92%",
+      "eps": "0.1100",
+      "roe": "2.38%",
+      "net_margin": "10.76%",
+      "debt_ratio": "24.04%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3.11亿",
+        "net_profit": "3755.71万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "4.89亿",
+        "net_profit": "8176.33万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "6.36亿",
+        "net_profit": "9258.07万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.83亿",
+        "net_profit": "1964.84万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 08:59:09",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:42:13",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 20:22:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 20:10:40",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 20:29:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:06"
+}

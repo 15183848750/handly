@@ -1,0 +1,54 @@
+{
+  "code": "600634",
+  "signal": {
+    "code": "600634",
+    "name": "退市富控",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.88亿",
+      "net_profit_yoy": "88.31%",
+      "revenue": "176.86万",
+      "revenue_yoy": "-99.26%",
+      "eps": "-0.3300",
+      "roe": "False",
+      "net_margin": "-10635.50%",
+      "debt_ratio": "325.87%",
+      "report_period": "2021-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2020-12-31",
+        "revenue": "2.39亿",
+        "net_profit": "-18.80亿"
+      },
+      {
+        "report_period": "2021-03-31",
+        "revenue": "103.38万",
+        "net_profit": "-1.96亿"
+      },
+      {
+        "report_period": "2021-06-30",
+        "revenue": "124.66万",
+        "net_profit": "-1.15亿"
+      },
+      {
+        "report_period": "2021-09-30",
+        "revenue": "176.86万",
+        "net_profit": "-1.88亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:44"
+}

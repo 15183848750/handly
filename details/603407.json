@@ -1,0 +1,80 @@
+{
+  "code": "603407",
+  "signal": {
+    "code": "603407",
+    "name": "长裕集团",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": 25.34,
+    "pb": 2.74,
+    "turnover": 0.0,
+    "total_mv": 5653150702.0,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "5576.68万",
+      "net_profit_yoy": "7.27%",
+      "revenue": "3.83亿",
+      "revenue_yoy": "-1.37%",
+      "eps": "0.1500",
+      "roe": "3.61%",
+      "net_margin": "14.76%",
+      "debt_ratio": "17.60%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "8.96亿",
+        "net_profit": "1.13亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "False",
+        "net_profit": "1.75亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "17.81亿",
+        "net_profit": "2.49亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.83亿",
+        "net_profit": "5576.68万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:11:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 09:21:30",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 07:53:53",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 08:54:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:29"
+}

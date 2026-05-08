@@ -1,0 +1,20 @@
+{
+  "code": "810013",
+  "signal": {
+    "code": "810013",
+    "name": "万通定转",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": NaN,
+    "change_ytd": NaN
+  },
+  "financials": {},
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:12"
+}

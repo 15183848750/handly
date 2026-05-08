@@ -1,0 +1,54 @@
+{
+  "code": "600695",
+  "signal": {
+    "code": "600695",
+    "name": "退市绿庭",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3999.07万",
+      "net_profit_yoy": "-513.50%",
+      "revenue": "2184.57万",
+      "revenue_yoy": "-28.26%",
+      "eps": "-0.0600",
+      "roe": "-6.94%",
+      "net_margin": "-186.92%",
+      "debt_ratio": "9.40%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "2681.91万",
+        "net_profit": "6210.39万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "3045.17万",
+        "net_profit": "967.12万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1476.11万",
+        "net_profit": "-773.67万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "2184.57万",
+        "net_profit": "-3999.07万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:29"
+}

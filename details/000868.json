@@ -1,0 +1,80 @@
+{
+  "code": "000868",
+  "signal": {
+    "code": "000868",
+    "name": "安凯客车",
+    "price": 4.49,
+    "change_pct": -0.44,
+    "pe": 569.85,
+    "pb": 5.25,
+    "turnover": 0.93,
+    "total_mv": 4218421160.0,
+    "change_60d": -7.61,
+    "change_ytd": -9.84
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "185.07万",
+      "net_profit_yoy": "-57.65%",
+      "revenue": "6.82亿",
+      "revenue_yoy": "3.73%",
+      "eps": "0.0020",
+      "roe": "0.23%",
+      "net_margin": "0.49%",
+      "debt_ratio": "78.87%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "15.92亿",
+        "net_profit": "1839.58万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "24.46亿",
+        "net_profit": "-865.80万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "34.28亿",
+        "net_profit": "-5524.16万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "6.82亿",
+        "net_profit": "185.07万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 09:50:54",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 21:18:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 19:30:20",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-21 16:48:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-10 18:30:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:37"
+}

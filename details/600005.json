@@ -1,0 +1,54 @@
+{
+  "code": "600005",
+  "signal": {
+    "code": "600005",
+    "name": "武钢股份",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.10亿",
+      "net_profit_yoy": "101.47%",
+      "revenue": "613.10亿",
+      "revenue_yoy": "5.09%",
+      "eps": "0.0109",
+      "roe": "False",
+      "net_margin": "0.22%",
+      "debt_ratio": "68.37%",
+      "report_period": "2016-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2016-03-31",
+        "revenue": "128.90亿",
+        "net_profit": "3025.78万"
+      },
+      {
+        "report_period": "2016-06-30",
+        "revenue": "288.50亿",
+        "net_profit": "2.73亿"
+      },
+      {
+        "report_period": "2016-09-30",
+        "revenue": "429.12亿",
+        "net_profit": "3.70亿"
+      },
+      {
+        "report_period": "2016-12-31",
+        "revenue": "613.10亿",
+        "net_profit": "1.10亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:11"
+}

@@ -1,0 +1,60 @@
+{
+  "code": "002770",
+  "signal": {
+    "code": "002770",
+    "name": "科迪退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "8049.88万",
+      "net_profit_yoy": "56.69%",
+      "revenue": "7.39亿",
+      "revenue_yoy": "-5.34%",
+      "eps": "0.0400",
+      "roe": "13.19%",
+      "net_margin": "10.90%",
+      "debt_ratio": "29.84%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "3.57亿",
+        "net_profit": "2446.55万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "7.80亿",
+        "net_profit": "5137.47万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3.80亿",
+        "net_profit": "3030.65万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "7.39亿",
+        "net_profit": "8049.88万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-08 21:22:43",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:12"
+}

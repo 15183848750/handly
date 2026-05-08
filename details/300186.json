@@ -1,0 +1,54 @@
+{
+  "code": "300186",
+  "signal": {
+    "code": "300186",
+    "name": "大华农",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.20亿",
+      "net_profit_yoy": "98.29%",
+      "revenue": "9.80亿",
+      "revenue_yoy": "41.60%",
+      "eps": "0.2200",
+      "roe": "5.63%",
+      "net_margin": "12.93%",
+      "debt_ratio": "9.09%",
+      "report_period": "2015-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2014-12-31",
+        "revenue": "10.18亿",
+        "net_profit": "1.11亿"
+      },
+      {
+        "report_period": "2015-03-31",
+        "revenue": "2.81亿",
+        "net_profit": "4959.70万"
+      },
+      {
+        "report_period": "2015-06-30",
+        "revenue": "5.71亿",
+        "net_profit": "5908.43万"
+      },
+      {
+        "report_period": "2015-09-30",
+        "revenue": "9.80亿",
+        "net_profit": "1.20亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:50"
+}

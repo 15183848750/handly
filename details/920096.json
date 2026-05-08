@@ -1,0 +1,80 @@
+{
+  "code": "920096",
+  "signal": {
+    "code": "920096",
+    "name": "嘉晨智能",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7123.08万",
+      "net_profit_yoy": "24.15%",
+      "revenue": "4.01亿",
+      "revenue_yoy": "5.08%",
+      "eps": "1.4000",
+      "roe": "17.67%",
+      "net_margin": "17.77%",
+      "debt_ratio": "16.35%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-03-31",
+        "revenue": "9260.04万",
+        "net_profit": "1500.55万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1.91亿",
+        "net_profit": "3082.72万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "2.82亿",
+        "net_profit": "4661.46万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "4.01亿",
+        "net_profit": "7123.08万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-06 09:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 09:32:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 09:30:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 07:23:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 07:58:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:05"
+}

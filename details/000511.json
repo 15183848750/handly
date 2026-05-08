@@ -1,0 +1,80 @@
+{
+  "code": "000511",
+  "signal": {
+    "code": "000511",
+    "name": "烯碳退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2.24亿",
+      "net_profit_yoy": "79.61%",
+      "revenue": "610.30万",
+      "revenue_yoy": "1158.36%",
+      "eps": "-0.2000",
+      "roe": "False",
+      "net_margin": "-3703.38%",
+      "debt_ratio": "359.13%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "24.85万",
+        "net_profit": "-1.40亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "48.50万",
+        "net_profit": "-10.99亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "20.75万",
+        "net_profit": "-1.61亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "610.30万",
+        "net_profit": "-2.24亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-15 09:30:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-09 22:24:20",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-03-25 09:30:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-02-12 10:49:05",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-02-13 18:24:18",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:37"
+}

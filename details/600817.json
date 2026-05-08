@@ -1,0 +1,80 @@
+{
+  "code": "600817",
+  "signal": {
+    "code": "600817",
+    "name": "宇通重工",
+    "price": 11.61,
+    "change_pct": -0.43,
+    "pe": 34.7,
+    "pb": 2.38,
+    "turnover": 0.69,
+    "total_mv": 6191663457.0,
+    "change_60d": -6.14,
+    "change_ytd": 2.11
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4461.35万",
+      "net_profit_yoy": "-13.45%",
+      "revenue": "6.51亿",
+      "revenue_yoy": "-7.95%",
+      "eps": "0.0837",
+      "roe": "1.73%",
+      "net_margin": "7.63%",
+      "debt_ratio": "31.55%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "16.60亿",
+        "net_profit": "1.19亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "23.91亿",
+        "net_profit": "1.87亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "34.87亿",
+        "net_profit": "3.09亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "6.51亿",
+        "net_profit": "4461.35万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 20:41:57",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 19:23:26",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 12:46:51",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-02 19:00:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-07 16:35:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:34"
+}

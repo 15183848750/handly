@@ -1,0 +1,80 @@
+{
+  "code": "300105",
+  "signal": {
+    "code": "300105",
+    "name": "龙源技术",
+    "price": 6.91,
+    "change_pct": -0.43,
+    "pe": 73.3,
+    "pb": 1.91,
+    "turnover": 1.23,
+    "total_mv": 3564277642.0,
+    "change_60d": -5.73,
+    "change_ytd": -3.49
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1215.72万",
+      "net_profit_yoy": "-70.56%",
+      "revenue": "1.09亿",
+      "revenue_yoy": "-34.78%",
+      "eps": "0.0236",
+      "roe": "0.65%",
+      "net_margin": "11.16%",
+      "debt_ratio": "28.14%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3.62亿",
+        "net_profit": "2827.96万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "5.21亿",
+        "net_profit": "3765.95万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "9.60亿",
+        "net_profit": "-3567.06万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.09亿",
+        "net_profit": "1215.72万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-24 10:05:40",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:33:29",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:38:30",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:31:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 19:06:02",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:29"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "000918",
+  "signal": {
+    "code": "000918",
+    "name": "*ST嘉凯",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-7.03亿",
+      "net_profit_yoy": "42.38%",
+      "revenue": "2.85亿",
+      "revenue_yoy": "-13.29%",
+      "eps": "-0.3900",
+      "roe": "False",
+      "net_margin": "-262.55%",
+      "debt_ratio": "191.02%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "2.18亿",
+        "net_profit": "-5.41亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "3.29亿",
+        "net_profit": "-12.21亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.28亿",
+        "net_profit": "-3.79亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "2.85亿",
+        "net_profit": "-7.03亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:26"
+}

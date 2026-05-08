@@ -1,0 +1,80 @@
+{
+  "code": "300198",
+  "signal": {
+    "code": "300198",
+    "name": "*ST纳川",
+    "price": 2.48,
+    "change_pct": -0.4,
+    "pe": -17.64,
+    "pb": 5.32,
+    "turnover": 1.11,
+    "total_mv": 2558240379.0,
+    "change_60d": -11.11,
+    "change_ytd": -3.13
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3625.63万",
+      "net_profit_yoy": "15.04%",
+      "revenue": "2303.16万",
+      "revenue_yoy": "38.90%",
+      "eps": "-0.0351",
+      "roe": "-19.97%",
+      "net_margin": "-159.50%",
+      "debt_ratio": "76.25%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3553.78万",
+        "net_profit": "-7666.42万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "5792.99万",
+        "net_profit": "-1.08亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "7571.05万",
+        "net_profit": "-2.75亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2303.16万",
+        "net_profit": "-3625.63万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 10:31:12",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:09:27",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 17:52:09",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-05 17:08:04",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:07"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "833874",
+  "signal": {
+    "code": "833874",
+    "name": "泰祥股份",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 2.55,
+    "change_ytd": 2.55
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "959.69万",
+      "net_profit_yoy": "16.50%",
+      "revenue": "1.09亿",
+      "revenue_yoy": "7.08%",
+      "eps": "0.1000",
+      "roe": "1.48%",
+      "net_margin": "8.78%",
+      "debt_ratio": "27.59%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.19亿",
+        "net_profit": "2530.27万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "3.42亿",
+        "net_profit": "4217.57万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "4.67亿",
+        "net_profit": "5367.02万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.09亿",
+        "net_profit": "959.69万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:07"
+}

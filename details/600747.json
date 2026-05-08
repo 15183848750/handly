@@ -1,0 +1,54 @@
+{
+  "code": "600747",
+  "signal": {
+    "code": "600747",
+    "name": "退市大控",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4706.48万",
+      "net_profit_yoy": "-4.75%",
+      "revenue": "4097.19万",
+      "revenue_yoy": "6.77%",
+      "eps": "-0.0330",
+      "roe": "False",
+      "net_margin": "-118.23%",
+      "debt_ratio": "924.74%",
+      "report_period": "2022-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2021-12-31",
+        "revenue": "5511.06万",
+        "net_profit": "-3.91亿"
+      },
+      {
+        "report_period": "2022-03-31",
+        "revenue": "980.82万",
+        "net_profit": "-1341.17万"
+      },
+      {
+        "report_period": "2022-06-30",
+        "revenue": "2366.04万",
+        "net_profit": "-3417.78万"
+      },
+      {
+        "report_period": "2022-09-30",
+        "revenue": "4097.19万",
+        "net_profit": "-4706.48万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:21"
+}

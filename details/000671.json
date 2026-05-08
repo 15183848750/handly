@@ -1,0 +1,54 @@
+{
+  "code": "000671",
+  "signal": {
+    "code": "000671",
+    "name": "ST阳光城",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-9.29亿",
+      "net_profit_yoy": "18.29%",
+      "revenue": "12.67亿",
+      "revenue_yoy": "88.64%",
+      "eps": "-0.2200",
+      "roe": "False",
+      "net_margin": "-76.72%",
+      "debt_ratio": "124.91%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "39.05亿",
+        "net_profit": "-28.09亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "58.61亿",
+        "net_profit": "-41.15亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "160.32亿",
+        "net_profit": "-171.43亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "12.67亿",
+        "net_profit": "-9.29亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:59"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "000699",
+  "signal": {
+    "code": "000699",
+    "name": "S*ST佳纸",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-81.45万",
+      "net_profit_yoy": "-23.30%",
+      "revenue": "0.0000",
+      "revenue_yoy": "False",
+      "eps": "0.0000",
+      "roe": "False",
+      "net_margin": "False",
+      "debt_ratio": "105.52%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-8.11万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-66.06万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-92.24万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-81.45万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-08 10:23:27",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 13:59:04",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 13:43:28",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 10:38:28",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 15:10:52",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:52"
+}

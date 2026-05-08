@@ -1,0 +1,54 @@
+{
+  "code": "002504",
+  "signal": {
+    "code": "002504",
+    "name": "*ST弘高",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2291.37万",
+      "net_profit_yoy": "48.28%",
+      "revenue": "1928.39万",
+      "revenue_yoy": "-46.43%",
+      "eps": "-0.0223",
+      "roe": "False",
+      "net_margin": "-120.35%",
+      "debt_ratio": "147.09%",
+      "report_period": "2024-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-03-31",
+        "revenue": "2797.09万",
+        "net_profit": "-1457.52万"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "3599.55万",
+        "net_profit": "-4430.56万"
+      },
+      {
+        "report_period": "2023-12-31",
+        "revenue": "4898.42万",
+        "net_profit": "-2.43亿"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1928.39万",
+        "net_profit": "-2291.37万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:33"
+}

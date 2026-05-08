@@ -1,0 +1,54 @@
+{
+  "code": "603435",
+  "signal": {
+    "code": "603435",
+    "name": "嘉德利",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": NaN,
+    "change_ytd": NaN
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.44亿",
+      "net_profit_yoy": "2.35%",
+      "revenue": "7.57亿",
+      "revenue_yoy": "3.18%",
+      "eps": "0.6000",
+      "roe": "19.89%",
+      "net_margin": "32.16%",
+      "debt_ratio": "19.36%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-12-31",
+        "revenue": "7.34亿",
+        "net_profit": "2.38亿"
+      },
+      {
+        "report_period": "2025-03-31",
+        "revenue": "False",
+        "net_profit": "6131.51万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3.67亿",
+        "net_profit": "1.25亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "7.57亿",
+        "net_profit": "2.44亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:28"
+}

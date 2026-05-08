@@ -1,0 +1,80 @@
+{
+  "code": "601908",
+  "signal": {
+    "code": "601908",
+    "name": "京运通",
+    "price": 4.08,
+    "change_pct": -0.49,
+    "pe": -16.44,
+    "pb": 1.33,
+    "turnover": 2.18,
+    "total_mv": 9851579673.0,
+    "change_60d": 6.25,
+    "change_ytd": 4.35
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.50亿",
+      "net_profit_yoy": "-63.89%",
+      "revenue": "4.24亿",
+      "revenue_yoy": "-37.98%",
+      "eps": "-0.0600",
+      "roe": "-2.00%",
+      "net_margin": "-36.19%",
+      "debt_ratio": "55.39%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "15.25亿",
+        "net_profit": "-2.12亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "24.57亿",
+        "net_profit": "-2.27亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "31.13亿",
+        "net_profit": "-14.80亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "4.24亿",
+        "net_profit": "-1.50亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:46:18",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:35:25",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 17:51:13",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 17:53:27",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 20:06:26",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:35"
+}

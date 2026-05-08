@@ -1,0 +1,80 @@
+{
+  "code": "002797",
+  "signal": {
+    "code": "002797",
+    "name": "第一创业",
+    "price": 7.83,
+    "change_pct": -0.51,
+    "pe": 41.71,
+    "pb": 1.86,
+    "turnover": 2.53,
+    "total_mv": 32904792000.0,
+    "change_60d": 12.99,
+    "change_ytd": 13.97
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.97亿",
+      "net_profit_yoy": "67.14%",
+      "revenue": "8.47亿",
+      "revenue_yoy": "28.21%",
+      "eps": "0.0500",
+      "roe": "1.13%",
+      "net_margin": "25.31%",
+      "debt_ratio": "69.65%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "18.32亿",
+        "net_profit": "4.86亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "29.85亿",
+        "net_profit": "7.71亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "36.86亿",
+        "net_profit": "8.41亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "8.47亿",
+        "net_profit": "1.97亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:45:05",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 09:51:51",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:09:08",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 18:39:54",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 16:37:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:51"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "000687",
+  "signal": {
+    "code": "000687",
+    "name": "华讯退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-7729.91万",
+      "net_profit_yoy": "12.98%",
+      "revenue": "88.74万",
+      "revenue_yoy": "-55.43%",
+      "eps": "-0.1000",
+      "roe": "False",
+      "net_margin": "-8711.08%",
+      "debt_ratio": "392.61%",
+      "report_period": "2025-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-12-31",
+        "revenue": "1811.97万",
+        "net_profit": "-2.08亿"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "199.10万",
+        "net_profit": "-8882.41万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "535.03万",
+        "net_profit": "-2.52亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "88.74万",
+        "net_profit": "-7729.91万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:55"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "688303",
+  "signal": {
+    "code": "688303",
+    "name": "大全能源",
+    "price": 22.86,
+    "change_pct": -0.48,
+    "pe": -15.31,
+    "pb": 1.28,
+    "turnover": 0.69,
+    "total_mv": 49039402851.0,
+    "change_60d": -5.73,
+    "change_ytd": -14.77
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-8.01亿",
+      "net_profit_yoy": "-43.51%",
+      "revenue": "1.89亿",
+      "revenue_yoy": "-79.22%",
+      "eps": "-0.3700",
+      "roe": "-2.08%",
+      "net_margin": "-424.75%",
+      "debt_ratio": "7.41%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "14.70亿",
+        "net_profit": "-11.47亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "32.43亿",
+        "net_profit": "-10.73亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "48.39亿",
+        "net_profit": "-11.29亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.89亿",
+        "net_profit": "-8.01亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 17:24:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 21:28:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 21:23:29",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 15:11:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-05 10:24:07",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:17"
+}

@@ -1,0 +1,65 @@
+{
+  "code": "000587",
+  "signal": {
+    "code": "000587",
+    "name": "*ST金洲",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-585.69万",
+      "net_profit_yoy": "85.86%",
+      "revenue": "512.81万",
+      "revenue_yoy": "23.62%",
+      "eps": "0.0000",
+      "roe": "False",
+      "net_margin": "-114.21%",
+      "debt_ratio": "109.91%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-06-30",
+        "revenue": "2158.22万",
+        "net_profit": "-3899.70万"
+      },
+      {
+        "report_period": "2023-12-31",
+        "revenue": "2555.96万",
+        "net_profit": "-8456.03万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "414.84万",
+        "net_profit": "-4143.31万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "512.81万",
+        "net_profit": "-585.69万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 16:54:53",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-13 18:34:25",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:20"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "000046",
+  "signal": {
+    "code": "000046",
+    "name": "*ST泛海",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-24.48亿",
+      "net_profit_yoy": "-8.93%",
+      "revenue": "13.29亿",
+      "revenue_yoy": "-5.62%",
+      "eps": "-0.4710",
+      "roe": "False",
+      "net_margin": "-2937.54%",
+      "debt_ratio": "248.22%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "28.35亿",
+        "net_profit": "-44.47亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "42.71亿",
+        "net_profit": "-67.71亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "56.88亿",
+        "net_profit": "-183.39亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "13.29亿",
+        "net_profit": "-24.48亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:49"
+}

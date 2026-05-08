@@ -1,0 +1,54 @@
+{
+  "code": "300202",
+  "signal": {
+    "code": "300202",
+    "name": "聚龙退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4948.80万",
+      "net_profit_yoy": "42.11%",
+      "revenue": "1.68亿",
+      "revenue_yoy": "-11.32%",
+      "eps": "-0.0901",
+      "roe": "-10.50%",
+      "net_margin": "-30.52%",
+      "debt_ratio": "20.27%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "7455.35万",
+        "net_profit": "-5232.13万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1.89亿",
+        "net_profit": "-8548.32万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "6483.80万",
+        "net_profit": "-2576.59万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1.68亿",
+        "net_profit": "-4948.80万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:49"
+}

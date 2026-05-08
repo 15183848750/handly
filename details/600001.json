@@ -1,0 +1,60 @@
+{
+  "code": "600001",
+  "signal": {
+    "code": "600001",
+    "name": "邯郸钢铁",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.01亿",
+      "net_profit_yoy": "-75.57%",
+      "revenue": "250.25亿",
+      "revenue_yoy": "-16.40%",
+      "eps": "0.0710",
+      "roe": "0.0000%",
+      "net_margin": "0.80%",
+      "debt_ratio": "55.22%",
+      "report_period": "2009-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2008-12-31",
+        "revenue": "372.59亿",
+        "net_profit": "5.99亿"
+      },
+      {
+        "report_period": "2009-03-31",
+        "revenue": "66.83亿",
+        "net_profit": "4322.49万"
+      },
+      {
+        "report_period": "2009-06-30",
+        "revenue": "154.40亿",
+        "net_profit": "6932.80万"
+      },
+      {
+        "report_period": "2009-09-30",
+        "revenue": "250.25亿",
+        "net_profit": "2.01亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 20:37:29",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:15"
+}

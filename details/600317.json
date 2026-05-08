@@ -1,0 +1,54 @@
+{
+  "code": "600317",
+  "signal": {
+    "code": "600317",
+    "name": "营口港",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "9.21亿",
+      "net_profit_yoy": "10.00%",
+      "revenue": "36.10亿",
+      "revenue_yoy": "5.62%",
+      "eps": "0.1422",
+      "roe": "7.27%",
+      "net_margin": "26.42%",
+      "debt_ratio": "2.72%",
+      "report_period": "2020-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2019-12-31",
+        "revenue": "47.68亿",
+        "net_profit": "10.12亿"
+      },
+      {
+        "report_period": "2020-03-31",
+        "revenue": "11.49亿",
+        "net_profit": "2.92亿"
+      },
+      {
+        "report_period": "2020-06-30",
+        "revenue": "24.07亿",
+        "net_profit": "6.19亿"
+      },
+      {
+        "report_period": "2020-09-30",
+        "revenue": "36.10亿",
+        "net_profit": "9.21亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:16"
+}

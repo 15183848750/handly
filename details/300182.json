@@ -1,0 +1,80 @@
+{
+  "code": "300182",
+  "signal": {
+    "code": "300182",
+    "name": "捷成股份",
+    "price": 6.04,
+    "change_pct": -0.49,
+    "pe": 35.63,
+    "pb": 1.89,
+    "turnover": 6.13,
+    "total_mv": 16089506817.0,
+    "change_60d": -0.33,
+    "change_ytd": 9.42
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.13亿",
+      "net_profit_yoy": "-13.90%",
+      "revenue": "5.70亿",
+      "revenue_yoy": "-19.83%",
+      "eps": "0.0426",
+      "roe": "1.32%",
+      "net_margin": "19.81%",
+      "debt_ratio": "25.12%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "13.67亿",
+        "net_profit": "1.45亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "20.52亿",
+        "net_profit": "2.12亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "26.45亿",
+        "net_profit": "1.90亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "5.70亿",
+        "net_profit": "1.13亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-27 11:29:49",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 14:16:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 12:35:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:37"
+}

@@ -1,0 +1,70 @@
+{
+  "code": "000594",
+  "signal": {
+    "code": "000594",
+    "name": "国恒退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-63.98万",
+      "net_profit_yoy": "96.46%",
+      "revenue": "0.0000",
+      "revenue_yoy": "False",
+      "eps": "-0.0004",
+      "roe": "False",
+      "net_margin": "False",
+      "debt_ratio": "7749.37%",
+      "report_period": "2020-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2019-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-1600.99万"
+      },
+      {
+        "report_period": "2019-09-30",
+        "revenue": "0.0000",
+        "net_profit": "-1705.14万"
+      },
+      {
+        "report_period": "2019-12-31",
+        "revenue": "0.0000",
+        "net_profit": "-1807.78万"
+      },
+      {
+        "report_period": "2020-03-31",
+        "revenue": "0.0000",
+        "net_profit": "-63.98万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-21 16:00:48",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-08 20:56:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-22 20:17:06",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:17"
+}

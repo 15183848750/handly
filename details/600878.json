@@ -1,0 +1,54 @@
+{
+  "code": "600878",
+  "signal": {
+    "code": "600878",
+    "name": "*ST北科",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1663.82万",
+      "net_profit_yoy": "349.35%",
+      "revenue": "3.10亿",
+      "revenue_yoy": "134.26%",
+      "eps": "0.0125",
+      "roe": "4.97%",
+      "net_margin": "5.37%",
+      "debt_ratio": "50.95%",
+      "report_period": "2025-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-12-31",
+        "revenue": "3.89亿",
+        "net_profit": "340.78万"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "1.32亿",
+        "net_profit": "370.27万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "5.16亿",
+        "net_profit": "1740.35万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3.10亿",
+        "net_profit": "1663.82万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:53"
+}

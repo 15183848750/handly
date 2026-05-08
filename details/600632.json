@@ -1,0 +1,54 @@
+{
+  "code": "600632",
+  "signal": {
+    "code": "600632",
+    "name": "华联商厦",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2613.34万",
+      "net_profit_yoy": "-48.85%",
+      "revenue": "11.55亿",
+      "revenue_yoy": "4.04%",
+      "eps": "False",
+      "roe": "False",
+      "net_margin": "2.85%",
+      "debt_ratio": "22.27%",
+      "report_period": "2004-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2003-12-31",
+        "revenue": "15.01亿",
+        "net_profit": "8366.60万"
+      },
+      {
+        "report_period": "2004-03-31",
+        "revenue": "4.87亿",
+        "net_profit": "1369.61万"
+      },
+      {
+        "report_period": "2004-06-30",
+        "revenue": "8.19亿",
+        "net_profit": "2407.78万"
+      },
+      {
+        "report_period": "2004-09-30",
+        "revenue": "11.55亿",
+        "net_profit": "2613.34万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:46"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "001300",
+  "signal": {
+    "code": "001300",
+    "name": "三柏硕",
+    "price": 18.67,
+    "change_pct": -0.64,
+    "pe": -176.86,
+    "pb": 4.73,
+    "turnover": 1.13,
+    "total_mv": 4551296314.0,
+    "change_60d": 10.67,
+    "change_ytd": 20.84
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-643.36万",
+      "net_profit_yoy": "-198.58%",
+      "revenue": "1.55亿",
+      "revenue_yoy": "11.73%",
+      "eps": "-0.0265",
+      "roe": "-0.67%",
+      "net_margin": "-4.33%",
+      "debt_ratio": "26.47%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.46亿",
+        "net_profit": "826.74万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "3.51亿",
+        "net_profit": "-460.02万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "4.58亿",
+        "net_profit": "-6950.09万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.55亿",
+        "net_profit": "-643.36万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-27 09:35:16",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:58:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-13 18:34:17",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-15 09:30:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-07 16:35:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:11"
+}

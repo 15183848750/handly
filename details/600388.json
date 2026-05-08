@@ -1,0 +1,80 @@
+{
+  "code": "600388",
+  "signal": {
+    "code": "600388",
+    "name": "龙净环保",
+    "price": 19.1,
+    "change_pct": -0.47,
+    "pe": 24.84,
+    "pb": 2.16,
+    "turnover": 0.68,
+    "total_mv": 24257884196.0,
+    "change_60d": 4.31,
+    "change_ytd": 17.11
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.44亿",
+      "net_profit_yoy": "31.89%",
+      "revenue": "23.74亿",
+      "revenue_yoy": "20.77%",
+      "eps": "0.1900",
+      "roe": "2.20%",
+      "net_margin": "10.32%",
+      "debt_ratio": "60.42%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "46.83亿",
+        "net_profit": "4.45亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "78.58亿",
+        "net_profit": "7.80亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "118.72亿",
+        "net_profit": "11.12亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "23.74亿",
+        "net_profit": "2.44亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-22 09:09:40",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 13:57:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 17:16:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-21 21:36:42",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-21 16:06:56",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:13"
+}

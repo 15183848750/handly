@@ -1,0 +1,199 @@
+{
+  "code": "603133",
+  "signal": {
+    "code": "603133",
+    "name": "退市碳元",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-655.44万",
+      "net_profit_yoy": "86.65%",
+      "revenue": "6032.47万",
+      "revenue_yoy": "-32.84%",
+      "eps": "-0.0313",
+      "roe": "-4.12%",
+      "net_margin": "-11.73%",
+      "debt_ratio": "42.75%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "4222.55万",
+        "net_profit": "-2127.89万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "8981.79万",
+        "net_profit": "-4910.96万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2675.53万",
+        "net_profit": "-496.32万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "6032.47万",
+        "net_profit": "-655.44万"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2024-06-05",
+      "open": 0.99,
+      "close": 0.33,
+      "high": 0.99,
+      "low": 0.25,
+      "volume": 532193.0,
+      "turnover": 17029933.0
+    },
+    {
+      "date": "2024-06-06",
+      "open": 0.3,
+      "close": 0.33,
+      "high": 0.34,
+      "low": 0.3,
+      "volume": 255348.0,
+      "turnover": 8026108.0
+    },
+    {
+      "date": "2024-06-07",
+      "open": 0.32,
+      "close": 0.32,
+      "high": 0.34,
+      "low": 0.3,
+      "volume": 201178.0,
+      "turnover": 6341036.0
+    },
+    {
+      "date": "2024-06-11",
+      "open": 0.32,
+      "close": 0.32,
+      "high": 0.33,
+      "low": 0.31,
+      "volume": 142802.0,
+      "turnover": 4521231.0
+    },
+    {
+      "date": "2024-06-12",
+      "open": 0.32,
+      "close": 0.3,
+      "high": 0.32,
+      "low": 0.3,
+      "volume": 126529.0,
+      "turnover": 3883317.0
+    },
+    {
+      "date": "2024-06-13",
+      "open": 0.3,
+      "close": 0.3,
+      "high": 0.31,
+      "low": 0.29,
+      "volume": 61813.0,
+      "turnover": 1840155.0
+    },
+    {
+      "date": "2024-06-14",
+      "open": 0.3,
+      "close": 0.31,
+      "high": 0.31,
+      "low": 0.29,
+      "volume": 104422.0,
+      "turnover": 3156840.0
+    },
+    {
+      "date": "2024-06-17",
+      "open": 0.31,
+      "close": 0.32,
+      "high": 0.34,
+      "low": 0.3,
+      "volume": 159788.0,
+      "turnover": 5013076.0
+    },
+    {
+      "date": "2024-06-18",
+      "open": 0.32,
+      "close": 0.32,
+      "high": 0.32,
+      "low": 0.3,
+      "volume": 91417.0,
+      "turnover": 2841155.0
+    },
+    {
+      "date": "2024-06-19",
+      "open": 0.31,
+      "close": 0.31,
+      "high": 0.32,
+      "low": 0.3,
+      "volume": 57415.0,
+      "turnover": 1778365.0
+    },
+    {
+      "date": "2024-06-20",
+      "open": 0.31,
+      "close": 0.31,
+      "high": 0.31,
+      "low": 0.3,
+      "volume": 36357.0,
+      "turnover": 1117907.0
+    },
+    {
+      "date": "2024-06-21",
+      "open": 0.31,
+      "close": 0.31,
+      "high": 0.32,
+      "low": 0.3,
+      "volume": 43948.0,
+      "turnover": 1354615.0
+    },
+    {
+      "date": "2024-06-24",
+      "open": 0.31,
+      "close": 0.31,
+      "high": 0.32,
+      "low": 0.3,
+      "volume": 97853.0,
+      "turnover": 3006231.0
+    },
+    {
+      "date": "2024-06-25",
+      "open": 0.3,
+      "close": 0.29,
+      "high": 0.31,
+      "low": 0.28,
+      "volume": 165914.0,
+      "turnover": 4825152.0
+    },
+    {
+      "date": "2024-06-26",
+      "open": 0.29,
+      "close": 0.29,
+      "high": 0.3,
+      "low": 0.27,
+      "volume": 100287.0,
+      "turnover": 2870849.0
+    }
+  ],
+  "news": [],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收下滑",
+    "tech_summary": "近60日弱势整理",
+    "risk_level": "低风险",
+    "risk_reasons": [],
+    "volatility": 1.82,
+    "ai_summary": "退市碳元：当前PE处于高估值区间，利润增长，营收下滑。技术面：近60日弱势整理。风险等级低风险。"
+  },
+  "update_time": "2026-05-08 15:41:32"
+}

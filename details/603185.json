@@ -1,0 +1,80 @@
+{
+  "code": "603185",
+  "signal": {
+    "code": "603185",
+    "name": "弘元绿能",
+    "price": 21.8,
+    "change_pct": -0.5,
+    "pe": -12.8,
+    "pb": 1.26,
+    "turnover": 3.55,
+    "total_mv": 14891074284.0,
+    "change_60d": -21.58,
+    "change_ytd": -28.52
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2.91亿",
+      "net_profit_yoy": "-370.03%",
+      "revenue": "19.39亿",
+      "revenue_yoy": "17.06%",
+      "eps": "-0.4270",
+      "roe": "-2.41%",
+      "net_margin": "-15.01%",
+      "debt_ratio": "56.40%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "32.29亿",
+        "net_profit": "-2.97亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "56.85亿",
+        "net_profit": "2.35亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "74.25亿",
+        "net_profit": "1.87亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "19.39亿",
+        "net_profit": "-2.91亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:32:30",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 16:01:36",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 09:17:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 09:22:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:44"
+}

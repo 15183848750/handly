@@ -1,0 +1,54 @@
+{
+  "code": "600253",
+  "signal": {
+    "code": "600253",
+    "name": "天方药业",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1431.77万",
+      "net_profit_yoy": "29.27%",
+      "revenue": "9.19亿",
+      "revenue_yoy": "10.44%",
+      "eps": "0.0341",
+      "roe": "1.62%",
+      "net_margin": "1.56%",
+      "debt_ratio": "77.34%",
+      "report_period": "2013-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2012-06-30",
+        "revenue": "16.15亿",
+        "net_profit": "1590.10万"
+      },
+      {
+        "report_period": "2012-09-30",
+        "revenue": "24.54亿",
+        "net_profit": "2456.74万"
+      },
+      {
+        "report_period": "2012-12-31",
+        "revenue": "32.36亿",
+        "net_profit": "4192.76万"
+      },
+      {
+        "report_period": "2013-03-31",
+        "revenue": "9.19亿",
+        "net_profit": "1431.77万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:33"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "600709",
+  "signal": {
+    "code": "600709",
+    "name": "ST生态",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3959.84万",
+      "net_profit_yoy": "-281.54%",
+      "revenue": "483.32万",
+      "revenue_yoy": "4.94%",
+      "eps": "-0.0888",
+      "roe": "-85.32%",
+      "net_margin": "-819.30%",
+      "debt_ratio": "57.49%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "190.99万",
+        "net_profit": "-449.66万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "460.58万",
+        "net_profit": "-1037.85万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "183.35万",
+        "net_profit": "-317.73万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "483.32万",
+        "net_profit": "-3959.84万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:23"
+}

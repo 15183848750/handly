@@ -1,0 +1,80 @@
+{
+  "code": "300266",
+  "signal": {
+    "code": "300266",
+    "name": "兴源环境",
+    "price": 2.32,
+    "change_pct": -0.43,
+    "pe": -28.29,
+    "pb": 118.02,
+    "turnover": 0.97,
+    "total_mv": 3604832968.0,
+    "change_60d": -7.57,
+    "change_ytd": -9.73
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3185.97万",
+      "net_profit_yoy": "-23.16%",
+      "revenue": "1.73亿",
+      "revenue_yoy": "4.24%",
+      "eps": "-0.0205",
+      "roe": "-68.64%",
+      "net_margin": "-18.66%",
+      "debt_ratio": "92.63%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4.72亿",
+        "net_profit": "-3493.04万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "7.09亿",
+        "net_profit": "-5688.89万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "9.07亿",
+        "net_profit": "-2.27亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.73亿",
+        "net_profit": "-3185.97万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-27 09:13:07",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 09:21:10",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 11:45:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 10:48:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:32"
+}

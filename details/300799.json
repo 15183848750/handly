@@ -1,0 +1,201 @@
+{
+  "code": "300799",
+  "signal": {
+    "code": "300799",
+    "name": "左江退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "138.76万",
+      "net_profit_yoy": "100.62%",
+      "revenue": "1407.32万",
+      "revenue_yoy": "1.58%",
+      "eps": "0.0100",
+      "roe": "0.94%",
+      "net_margin": "-93.67%",
+      "debt_ratio": "65.47%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "660.56万",
+        "net_profit": "-7384.52万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1385.49万",
+        "net_profit": "-2.24亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "915.24万",
+        "net_profit": "1.37亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1407.32万",
+        "net_profit": "138.76万"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2024-07-08",
+      "open": 2.61,
+      "close": 2.57,
+      "high": 3.03,
+      "low": 2.42,
+      "volume": 160778.0,
+      "turnover": 43201653.0
+    },
+    {
+      "date": "2024-07-09",
+      "open": 2.7,
+      "close": 2.5,
+      "high": 2.82,
+      "low": 2.46,
+      "volume": 82643.0,
+      "turnover": 21628274.0
+    },
+    {
+      "date": "2024-07-10",
+      "open": 2.36,
+      "close": 2.1,
+      "high": 2.38,
+      "low": 2.0,
+      "volume": 101561.0,
+      "turnover": 21729154.0
+    },
+    {
+      "date": "2024-07-11",
+      "open": 2.1,
+      "close": 1.95,
+      "high": 2.11,
+      "low": 1.88,
+      "volume": 79794.0,
+      "turnover": 15697482.0
+    },
+    {
+      "date": "2024-07-12",
+      "open": 1.99,
+      "close": 1.86,
+      "high": 1.99,
+      "low": 1.83,
+      "volume": 51924.0,
+      "turnover": 9799431.0
+    },
+    {
+      "date": "2024-07-15",
+      "open": 1.81,
+      "close": 1.63,
+      "high": 1.9,
+      "low": 1.61,
+      "volume": 77351.0,
+      "turnover": 13364339.0
+    },
+    {
+      "date": "2024-07-16",
+      "open": 1.65,
+      "close": 1.55,
+      "high": 1.68,
+      "low": 1.52,
+      "volume": 59362.0,
+      "turnover": 9348316.0
+    },
+    {
+      "date": "2024-07-17",
+      "open": 1.55,
+      "close": 1.52,
+      "high": 1.6,
+      "low": 1.51,
+      "volume": 38738.0,
+      "turnover": 5982604.0
+    },
+    {
+      "date": "2024-07-18",
+      "open": 1.53,
+      "close": 1.23,
+      "high": 1.54,
+      "low": 1.22,
+      "volume": 112765.0,
+      "turnover": 15008813.0
+    },
+    {
+      "date": "2024-07-19",
+      "open": 1.19,
+      "close": 1.06,
+      "high": 1.25,
+      "low": 1.04,
+      "volume": 83099.0,
+      "turnover": 9321591.0
+    },
+    {
+      "date": "2024-07-22",
+      "open": 1.05,
+      "close": 1.06,
+      "high": 1.12,
+      "low": 1.04,
+      "volume": 52794.0,
+      "turnover": 5692342.0
+    },
+    {
+      "date": "2024-07-23",
+      "open": 1.08,
+      "close": 1.07,
+      "high": 1.1,
+      "low": 1.05,
+      "volume": 40545.0,
+      "turnover": 4347659.0
+    },
+    {
+      "date": "2024-07-24",
+      "open": 1.07,
+      "close": 1.07,
+      "high": 1.08,
+      "low": 1.01,
+      "volume": 48402.0,
+      "turnover": 5078271.0
+    },
+    {
+      "date": "2024-07-25",
+      "open": 1.07,
+      "close": 1.13,
+      "high": 1.26,
+      "low": 1.04,
+      "volume": 73426.0,
+      "turnover": 8421653.0
+    },
+    {
+      "date": "2024-07-26",
+      "open": 1.13,
+      "close": 1.08,
+      "high": 1.2,
+      "low": 1.08,
+      "volume": 73110.0,
+      "turnover": 8256970.0
+    }
+  ],
+  "news": [],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日弱势整理",
+    "risk_level": "中风险",
+    "risk_reasons": [
+      "波动率大"
+    ],
+    "volatility": 6.68,
+    "ai_summary": "左江退：当前PE处于高估值区间，利润增长，营收增长。技术面：近60日弱势整理。风险等级中风险。"
+  },
+  "update_time": "2026-05-08 15:44:18"
+}

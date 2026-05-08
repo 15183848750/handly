@@ -1,0 +1,54 @@
+{
+  "code": "600687",
+  "signal": {
+    "code": "600687",
+    "name": "退市刚泰",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3.63亿",
+      "net_profit_yoy": "22.01%",
+      "revenue": "1988.90万",
+      "revenue_yoy": "-90.07%",
+      "eps": "-0.2440",
+      "roe": "False",
+      "net_margin": "-1825.43%",
+      "debt_ratio": "139.30%",
+      "report_period": "2022-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2021-12-31",
+        "revenue": "2.16亿",
+        "net_profit": "-10.24亿"
+      },
+      {
+        "report_period": "2022-03-31",
+        "revenue": "1284.58万",
+        "net_profit": "-1.18亿"
+      },
+      {
+        "report_period": "2022-06-30",
+        "revenue": "1704.88万",
+        "net_profit": "-2.41亿"
+      },
+      {
+        "report_period": "2022-09-30",
+        "revenue": "1988.90万",
+        "net_profit": "-3.63亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:30"
+}

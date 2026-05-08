@@ -1,0 +1,80 @@
+{
+  "code": "002785",
+  "signal": {
+    "code": "002785",
+    "name": "万里石",
+    "price": 53.28,
+    "change_pct": -0.63,
+    "pe": 5024.11,
+    "pb": 15.18,
+    "turnover": 4.96,
+    "total_mv": 12074297350.0,
+    "change_60d": 22.6,
+    "change_ytd": 50.85
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "60.08万",
+      "net_profit_yoy": "-72.22%",
+      "revenue": "1.98亿",
+      "revenue_yoy": "-12.63%",
+      "eps": "0.0027",
+      "roe": "0.08%",
+      "net_margin": "-1.72%",
+      "debt_ratio": "43.53%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "5.38亿",
+        "net_profit": "423.09万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "8.50亿",
+        "net_profit": "89.96万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "11.08亿",
+        "net_profit": "-8197.93万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.98亿",
+        "net_profit": "60.08万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 17:11:56",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 10:45:30",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 17:30:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 17:59:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:09"
+}

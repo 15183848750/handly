@@ -1,0 +1,80 @@
+{
+  "code": "920252",
+  "signal": {
+    "code": "920252",
+    "name": "天宏锂电",
+    "price": 26.91,
+    "change_pct": -0.52,
+    "pe": 297.52,
+    "pb": 10.4,
+    "turnover": 2.4,
+    "total_mv": 2762329395.0,
+    "change_60d": -11.77,
+    "change_ytd": -10.86
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "232.11万",
+      "net_profit_yoy": "-23.09%",
+      "revenue": "9740.81万",
+      "revenue_yoy": "-4.19%",
+      "eps": "0.0200",
+      "roe": "0.88%",
+      "net_margin": "2.35%",
+      "debt_ratio": "47.27%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.27亿",
+        "net_profit": "545.73万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "2.92亿",
+        "net_profit": "679.65万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "3.99亿",
+        "net_profit": "908.34万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "9740.81万",
+        "net_profit": "232.11万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 09:50:12",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:39:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 19:45:45",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 17:30:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 09:46:43",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:08"
+}

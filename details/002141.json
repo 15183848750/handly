@@ -1,0 +1,80 @@
+{
+  "code": "002141",
+  "signal": {
+    "code": "002141",
+    "name": "贤丰控股",
+    "price": 3.76,
+    "change_pct": -0.53,
+    "pe": 97.64,
+    "pb": 4.81,
+    "turnover": 1.78,
+    "total_mv": 3883838600.0,
+    "change_60d": -4.81,
+    "change_ytd": 0.8
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "994.47万",
+      "net_profit_yoy": "-30.02%",
+      "revenue": "2.02亿",
+      "revenue_yoy": "-31.29%",
+      "eps": "0.0098",
+      "roe": "1.24%",
+      "net_margin": "6.25%",
+      "debt_ratio": "29.91%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "6.13亿",
+        "net_profit": "4018.69万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "9.31亿",
+        "net_profit": "4228.33万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "11.56亿",
+        "net_profit": "1569.72万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.02亿",
+        "net_profit": "994.47万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-22 09:21:55",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 09:07:04",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:18:16",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:03:23",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:18"
+}

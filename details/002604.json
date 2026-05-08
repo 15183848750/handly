@@ -1,0 +1,60 @@
+{
+  "code": "002604",
+  "signal": {
+    "code": "002604",
+    "name": "龙力退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-6400.68万",
+      "net_profit_yoy": "-10.66%",
+      "revenue": "6140.73万",
+      "revenue_yoy": "-30.18%",
+      "eps": "-0.1100",
+      "roe": "False",
+      "net_margin": "-104.23%",
+      "debt_ratio": "1439.73%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "4922.39万",
+        "net_profit": "-2168.49万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "8794.85万",
+        "net_profit": "-5784.06万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3040.26万",
+        "net_profit": "-2919.80万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "6140.73万",
+        "net_profit": "-6400.68万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-12 18:22:42",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:29"
+}

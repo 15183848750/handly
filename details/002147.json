@@ -1,0 +1,54 @@
+{
+  "code": "002147",
+  "signal": {
+    "code": "002147",
+    "name": "新光退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-5348.54万",
+      "net_profit_yoy": "-106.71%",
+      "revenue": "7.44亿",
+      "revenue_yoy": "6.49%",
+      "eps": "-0.0293",
+      "roe": "False",
+      "net_margin": "-7.55%",
+      "debt_ratio": "139.82%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "3.65亿",
+        "net_profit": "-1.81亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "6.98亿",
+        "net_profit": "7.97亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3.88亿",
+        "net_profit": "-1.66亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "7.44亿",
+        "net_profit": "-5348.54万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:02"
+}

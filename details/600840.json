@@ -1,0 +1,54 @@
+{
+  "code": "600840",
+  "signal": {
+    "code": "600840",
+    "name": "新湖创业",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3738.25万",
+      "net_profit_yoy": "-82.76%",
+      "revenue": "1.50亿",
+      "revenue_yoy": "-85.74%",
+      "eps": "0.1200",
+      "roe": "4.49%",
+      "net_margin": "51.61%",
+      "debt_ratio": "37.21%",
+      "report_period": "2009-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2008-09-30",
+        "revenue": "12.65亿",
+        "net_profit": "2.55亿"
+      },
+      {
+        "report_period": "2008-12-31",
+        "revenue": "12.89亿",
+        "net_profit": "2.51亿"
+      },
+      {
+        "report_period": "2009-03-31",
+        "revenue": "6936.58万",
+        "net_profit": "1464.36万"
+      },
+      {
+        "report_period": "2009-06-30",
+        "revenue": "1.50亿",
+        "net_profit": "3738.25万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:01"
+}

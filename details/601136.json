@@ -1,0 +1,80 @@
+{
+  "code": "601136",
+  "signal": {
+    "code": "601136",
+    "name": "首创证券",
+    "price": 16.65,
+    "change_pct": -0.6,
+    "pe": 57.86,
+    "pb": 3.22,
+    "turnover": 0.25,
+    "total_mv": 45510007770.0,
+    "change_60d": -6.88,
+    "change_ytd": -11.39
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.97亿",
+      "net_profit_yoy": "30.19%",
+      "revenue": "5.65亿",
+      "revenue_yoy": "30.80%",
+      "eps": "0.0700",
+      "roe": "1.41%",
+      "net_margin": "34.76%",
+      "debt_ratio": "72.39%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "12.84亿",
+        "net_profit": "4.90亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "20.15亿",
+        "net_profit": "8.04亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "25.28亿",
+        "net_profit": "10.56亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "5.65亿",
+        "net_profit": "1.97亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 11:32:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 18:19:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 17:20:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 19:21:28",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-16 19:09:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:47"
+}

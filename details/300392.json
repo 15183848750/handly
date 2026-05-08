@@ -1,0 +1,54 @@
+{
+  "code": "300392",
+  "signal": {
+    "code": "300392",
+    "name": "腾信退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4321.13万",
+      "net_profit_yoy": "-110.38%",
+      "revenue": "69.45万",
+      "revenue_yoy": "-98.06%",
+      "eps": "-0.1125",
+      "roe": "False",
+      "net_margin": "-7459.61%",
+      "debt_ratio": "200.20%",
+      "report_period": "2023-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-06-30",
+        "revenue": "4329.87万",
+        "net_profit": "-1.36亿"
+      },
+      {
+        "report_period": "2022-09-30",
+        "revenue": "7763.23万",
+        "net_profit": "-1.58亿"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "1.60亿",
+        "net_profit": "-9.63亿"
+      },
+      {
+        "report_period": "2023-03-31",
+        "revenue": "69.45万",
+        "net_profit": "-4321.13万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:25"
+}

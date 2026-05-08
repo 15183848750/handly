@@ -1,0 +1,54 @@
+{
+  "code": "002740",
+  "signal": {
+    "code": "002740",
+    "name": "*ST爱迪",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-6.06亿",
+      "net_profit_yoy": "25.81%",
+      "revenue": "1.43亿",
+      "revenue_yoy": "-39.18%",
+      "eps": "-1.3300",
+      "roe": "False",
+      "net_margin": "-424.43%",
+      "debt_ratio": "410.66%",
+      "report_period": "2024-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-09-30",
+        "revenue": "1.94亿",
+        "net_profit": "-2.12亿"
+      },
+      {
+        "report_period": "2023-12-31",
+        "revenue": "2.35亿",
+        "net_profit": "-8.17亿"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "4518.78万",
+        "net_profit": "-8103.35万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1.43亿",
+        "net_profit": "-6.06亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:15"
+}

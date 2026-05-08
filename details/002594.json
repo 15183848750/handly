@@ -1,0 +1,80 @@
+{
+  "code": "002594",
+  "signal": {
+    "code": "002594",
+    "name": "比亚迪",
+    "price": 100.0,
+    "change_pct": -0.46,
+    "pe": 55.8,
+    "pb": 3.93,
+    "turnover": 0.86,
+    "total_mv": 911719756500.0,
+    "change_60d": 10.02,
+    "change_ytd": 2.33
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "40.85亿",
+      "net_profit_yoy": "-55.38%",
+      "revenue": "1502.25亿",
+      "revenue_yoy": "-11.82%",
+      "eps": "0.4480",
+      "roe": "1.65%",
+      "net_margin": "2.67%",
+      "debt_ratio": "70.94%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3712.81亿",
+        "net_profit": "155.11亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "5662.66亿",
+        "net_profit": "233.33亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "8039.65亿",
+        "net_profit": "326.19亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1502.25亿",
+        "net_profit": "40.85亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 18:47:33",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 13:54:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-05 16:40:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-05 16:48:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 18:19:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:04"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "002957",
+  "signal": {
+    "code": "002957",
+    "name": "科瑞技术",
+    "price": 45.18,
+    "change_pct": -0.62,
+    "pe": 68.33,
+    "pb": 5.73,
+    "turnover": 6.7,
+    "total_mv": 18974807814.0,
+    "change_60d": 98.94,
+    "change_ytd": 108.68
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "6942.10万",
+      "net_profit_yoy": "56.87%",
+      "revenue": "6.18亿",
+      "revenue_yoy": "15.42%",
+      "eps": "0.1653",
+      "roe": "2.12%",
+      "net_margin": "12.27%",
+      "debt_ratio": "45.57%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "11.06亿",
+        "net_profit": "1.23亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "17.61亿",
+        "net_profit": "2.47亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "26.32亿",
+        "net_profit": "2.73亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "6.18亿",
+        "net_profit": "6942.10万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-24 09:23:08",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 10:32:42",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:41:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 20:29:46",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:00"
+}

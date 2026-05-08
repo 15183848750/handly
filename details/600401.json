@@ -1,0 +1,54 @@
+{
+  "code": "600401",
+  "signal": {
+    "code": "600401",
+    "name": "退市海润",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-15.95亿",
+      "net_profit_yoy": "-52.16%",
+      "revenue": "4.64亿",
+      "revenue_yoy": "-40.96%",
+      "eps": "-0.3375",
+      "roe": "False",
+      "net_margin": "-359.24%",
+      "debt_ratio": "202.04%",
+      "report_period": "2019-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2018-12-31",
+        "revenue": "8.78亿",
+        "net_profit": "-37.37亿"
+      },
+      {
+        "report_period": "2019-03-31",
+        "revenue": "1.22亿",
+        "net_profit": "-2.75亿"
+      },
+      {
+        "report_period": "2019-06-30",
+        "revenue": "2.89亿",
+        "net_profit": "-14.07亿"
+      },
+      {
+        "report_period": "2019-09-30",
+        "revenue": "4.64亿",
+        "net_profit": "-15.95亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:08"
+}

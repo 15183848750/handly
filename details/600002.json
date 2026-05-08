@@ -1,0 +1,54 @@
+{
+  "code": "600002",
+  "signal": {
+    "code": "600002",
+    "name": "齐鲁石化",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "18.38亿",
+      "net_profit_yoy": "42.54%",
+      "revenue": "195.17亿",
+      "revenue_yoy": "98.31%",
+      "eps": "0.9400",
+      "roe": "26.64%",
+      "net_margin": "9.42%",
+      "debt_ratio": "26.36%",
+      "report_period": "2005-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2005-03-31",
+        "revenue": "48.10亿",
+        "net_profit": "7.14亿"
+      },
+      {
+        "report_period": "2005-06-30",
+        "revenue": "96.57亿",
+        "net_profit": "12.52亿"
+      },
+      {
+        "report_period": "2005-09-30",
+        "revenue": "145.53亿",
+        "net_profit": "16.93亿"
+      },
+      {
+        "report_period": "2005-12-31",
+        "revenue": "195.17亿",
+        "net_profit": "18.38亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:14"
+}

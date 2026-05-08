@@ -1,0 +1,54 @@
+{
+  "code": "600781",
+  "signal": {
+    "code": "600781",
+    "name": "退市辅仁",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.23亿",
+      "net_profit_yoy": "30.67%",
+      "revenue": "4.62亿",
+      "revenue_yoy": "32.39%",
+      "eps": "-0.2000",
+      "roe": "False",
+      "net_margin": "-28.91%",
+      "debt_ratio": "135.86%",
+      "report_period": "2023-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-06-30",
+        "revenue": "6.90亿",
+        "net_profit": "-4.12亿"
+      },
+      {
+        "report_period": "2022-09-30",
+        "revenue": "11.10亿",
+        "net_profit": "-5.82亿"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "14.69亿",
+        "net_profit": "-28.09亿"
+      },
+      {
+        "report_period": "2023-03-31",
+        "revenue": "4.62亿",
+        "net_profit": "-1.23亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:15"
+}

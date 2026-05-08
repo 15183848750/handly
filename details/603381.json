@@ -1,0 +1,80 @@
+{
+  "code": "603381",
+  "signal": {
+    "code": "603381",
+    "name": "永臻股份",
+    "price": 24.32,
+    "change_pct": -0.53,
+    "pe": 59.21,
+    "pb": 1.73,
+    "turnover": 2.81,
+    "total_mv": 5770073848.0,
+    "change_60d": 11.05,
+    "change_ytd": 22.46
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2436.46万",
+      "net_profit_yoy": "-9.29%",
+      "revenue": "23.91亿",
+      "revenue_yoy": "-7.50%",
+      "eps": "0.1027",
+      "roe": "0.73%",
+      "net_margin": "1.02%",
+      "debt_ratio": "71.77%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "56.97亿",
+        "net_profit": "5163.43万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "90.49亿",
+        "net_profit": "219.06万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "107.19亿",
+        "net_profit": "-2.21亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "23.91亿",
+        "net_profit": "2436.46万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 18:18:53",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 09:34:44",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 09:15:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 19:29:35",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 15:50:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:19"
+}

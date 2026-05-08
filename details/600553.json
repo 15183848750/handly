@@ -1,0 +1,54 @@
+{
+  "code": "600553",
+  "signal": {
+    "code": "600553",
+    "name": "太行水泥",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "8749.51万",
+      "net_profit_yoy": "-5.30%",
+      "revenue": "22.88亿",
+      "revenue_yoy": "59.62%",
+      "eps": "0.2300",
+      "roe": "9.60%",
+      "net_margin": "4.90%",
+      "debt_ratio": "67.22%",
+      "report_period": "2010-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2009-12-31",
+        "revenue": "19.58亿",
+        "net_profit": "7432.42万"
+      },
+      {
+        "report_period": "2010-03-31",
+        "revenue": "3.94亿",
+        "net_profit": "-610.43万"
+      },
+      {
+        "report_period": "2010-06-30",
+        "revenue": "13.16亿",
+        "net_profit": "5110.53万"
+      },
+      {
+        "report_period": "2010-09-30",
+        "revenue": "22.88亿",
+        "net_profit": "8749.51万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:58"
+}

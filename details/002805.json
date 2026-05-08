@@ -1,0 +1,80 @@
+{
+  "code": "002805",
+  "signal": {
+    "code": "002805",
+    "name": "丰元股份",
+    "price": 24.39,
+    "change_pct": -0.53,
+    "pe": 22.2,
+    "pb": 7.3,
+    "turnover": 16.9,
+    "total_mv": 6830724570.0,
+    "change_60d": 52.63,
+    "change_ytd": 37.56
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7693.40万",
+      "net_profit_yoy": "185.59%",
+      "revenue": "13.83亿",
+      "revenue_yoy": "276.52%",
+      "eps": "0.2700",
+      "roe": "8.58%",
+      "net_margin": "5.35%",
+      "debt_ratio": "71.75%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "7.23亿",
+        "net_profit": "-2.43亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "11.72亿",
+        "net_profit": "-3.74亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "23.27亿",
+        "net_profit": "-4.85亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "13.83亿",
+        "net_profit": "7693.40万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 16:27:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 11:08:48",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 09:36:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 17:30:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:13"
+}

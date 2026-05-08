@@ -1,0 +1,80 @@
+{
+  "code": "000018",
+  "signal": {
+    "code": "000018",
+    "name": "神城A退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-35.99万",
+      "net_profit_yoy": "6.05%",
+      "revenue": "0.0000",
+      "revenue_yoy": "-100.00%",
+      "eps": "-0.0002",
+      "roe": "False",
+      "net_margin": "False",
+      "debt_ratio": "1607.33%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1.20万",
+        "net_profit": "-241.87万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "1.20万",
+        "net_profit": "-255.84万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1.20万",
+        "net_profit": "-20.51亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "0.0000",
+        "net_profit": "-35.99万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-03-31 11:15:17",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-03-05 11:33:20",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-02-06 10:25:48",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-02-05 16:06:52",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-02-02 14:12:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:57"
+}

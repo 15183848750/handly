@@ -1,0 +1,54 @@
+{
+  "code": "000569",
+  "signal": {
+    "code": "000569",
+    "name": "长城股份",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.71亿",
+      "net_profit_yoy": "-18115.41%",
+      "revenue": "5.82亿",
+      "revenue_yoy": "-34.27%",
+      "eps": "-0.2300",
+      "roe": "0.0000%",
+      "net_margin": "-29.43%",
+      "debt_ratio": "98.12%",
+      "report_period": "2009-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2008-06-30",
+        "revenue": "18.19亿",
+        "net_profit": "-5743.91万"
+      },
+      {
+        "report_period": "2008-09-30",
+        "revenue": "28.16亿",
+        "net_profit": "-6606.98万"
+      },
+      {
+        "report_period": "2008-12-31",
+        "revenue": "35.68亿",
+        "net_profit": "-3.93亿"
+      },
+      {
+        "report_period": "2009-03-31",
+        "revenue": "5.82亿",
+        "net_profit": "-1.71亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:25"
+}

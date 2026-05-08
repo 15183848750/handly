@@ -1,0 +1,54 @@
+{
+  "code": "002477",
+  "signal": {
+    "code": "002477",
+    "name": "雏鹰退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-9.80亿",
+      "net_profit_yoy": "33.79%",
+      "revenue": "3433.46万",
+      "revenue_yoy": "-73.29%",
+      "eps": "-0.3126",
+      "roe": "False",
+      "net_margin": "-2903.16%",
+      "debt_ratio": "127.33%",
+      "report_period": "2021-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2020-12-31",
+        "revenue": "1.52亿",
+        "net_profit": "-24.24亿"
+      },
+      {
+        "report_period": "2021-03-31",
+        "revenue": "1338.68万",
+        "net_profit": "-1.65亿"
+      },
+      {
+        "report_period": "2021-06-30",
+        "revenue": "2900.55万",
+        "net_profit": "-8.77亿"
+      },
+      {
+        "report_period": "2021-09-30",
+        "revenue": "3433.46万",
+        "net_profit": "-9.80亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:38"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "601368",
+  "signal": {
+    "code": "601368",
+    "name": "绿城水务",
+    "price": 5.03,
+    "change_pct": -0.4,
+    "pe": 43.92,
+    "pb": 0.92,
+    "turnover": 0.57,
+    "total_mv": 4441354577.0,
+    "change_60d": -4.01,
+    "change_ytd": 1.41
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2528.03万",
+      "net_profit_yoy": "1064.83%",
+      "revenue": "5.46亿",
+      "revenue_yoy": "0.88%",
+      "eps": "0.0286",
+      "roe": "0.52%",
+      "net_margin": "4.29%",
+      "debt_ratio": "81.41%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "11.90亿",
+        "net_profit": "2689.40万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "18.82亿",
+        "net_profit": "1.35亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "25.03亿",
+        "net_profit": "9522.47万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "5.46亿",
+        "net_profit": "2528.03万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 11:23:02",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-17 20:06:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-17 17:03:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 11:42:49",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-17 16:31:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:01"
+}

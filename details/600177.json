@@ -1,0 +1,80 @@
+{
+  "code": "600177",
+  "signal": {
+    "code": "600177",
+    "name": "雅戈尔",
+    "price": 7.79,
+    "change_pct": -0.51,
+    "pe": 9.77,
+    "pb": 0.85,
+    "turnover": 0.33,
+    "total_mv": 36016612417.0,
+    "change_60d": 7.15,
+    "change_ytd": 3.59
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "9.22亿",
+      "net_profit_yoy": "14.73%",
+      "revenue": "28.82亿",
+      "revenue_yoy": "3.10%",
+      "eps": "0.2000",
+      "roe": "2.17%",
+      "net_margin": "31.88%",
+      "debt_ratio": "39.45%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "51.11亿",
+        "net_profit": "17.15亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "67.77亿",
+        "net_profit": "23.49亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "115.82亿",
+        "net_profit": "24.47亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "28.82亿",
+        "net_profit": "9.22亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 09:29:45",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:13:13",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:43:35",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:08:36",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 16:38:32",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:46"
+}

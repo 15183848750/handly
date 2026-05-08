@@ -1,0 +1,80 @@
+{
+  "code": "002916",
+  "signal": {
+    "code": "002916",
+    "name": "深南电路",
+    "price": 321.4,
+    "change_pct": -0.65,
+    "pe": 64.37,
+    "pb": 12.1,
+    "turnover": 1.19,
+    "total_mv": 218926943633.0,
+    "change_60d": 37.59,
+    "change_ytd": 38.36
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "8.50亿",
+      "net_profit_yoy": "73.01%",
+      "revenue": "65.96亿",
+      "revenue_yoy": "37.90%",
+      "eps": "1.2800",
+      "roe": "4.83%",
+      "net_margin": "12.91%",
+      "debt_ratio": "47.24%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "104.53亿",
+        "net_profit": "13.60亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "167.54亿",
+        "net_profit": "23.26亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "236.47亿",
+        "net_profit": "32.76亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "65.96亿",
+        "net_profit": "8.50亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-24 09:26:38",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 20:41:08",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 11:23:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 17:59:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:19"
+}

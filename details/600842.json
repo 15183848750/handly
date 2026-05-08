@@ -1,0 +1,54 @@
+{
+  "code": "600842",
+  "signal": {
+    "code": "600842",
+    "name": "中西药业",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3606.28万",
+      "net_profit_yoy": "166.91%",
+      "revenue": "2.83亿",
+      "revenue_yoy": "14.51%",
+      "eps": "0.1673",
+      "roe": "0.0000%",
+      "net_margin": "16.49%",
+      "debt_ratio": "43.09%",
+      "report_period": "2009-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2008-12-31",
+        "revenue": "3.09亿",
+        "net_profit": "1163.91万"
+      },
+      {
+        "report_period": "2009-03-31",
+        "revenue": "9403.41万",
+        "net_profit": "1093.00万"
+      },
+      {
+        "report_period": "2009-06-30",
+        "revenue": "1.89亿",
+        "net_profit": "1919.50万"
+      },
+      {
+        "report_period": "2009-09-30",
+        "revenue": "2.83亿",
+        "net_profit": "3606.28万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:00"
+}

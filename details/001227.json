@@ -1,0 +1,80 @@
+{
+  "code": "001227",
+  "signal": {
+    "code": "001227",
+    "name": "兰州银行",
+    "price": 2.22,
+    "change_pct": -0.45,
+    "pe": 5.94,
+    "pb": 0.41,
+    "turnover": 0.72,
+    "total_mv": 12644447713.0,
+    "change_60d": -2.63,
+    "change_ytd": -2.2
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "5.32亿",
+      "net_profit_yoy": "-4.79%",
+      "revenue": "20.33亿",
+      "revenue_yoy": "-0.20%",
+      "eps": "0.0934",
+      "roe": "1.74%",
+      "net_margin": "26.95%",
+      "debt_ratio": "93.30%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "39.21亿",
+        "net_profit": "9.52亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "59.23亿",
+        "net_profit": "15.04亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "77.95亿",
+        "net_profit": "18.65亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "20.33亿",
+        "net_profit": "5.32亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 09:07:42",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:39:57",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 10:53:48",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-02 02:21:55",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:56"
+}

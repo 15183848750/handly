@@ -1,0 +1,80 @@
+{
+  "code": "300242",
+  "signal": {
+    "code": "300242",
+    "name": "佳云科技",
+    "price": 5.0,
+    "change_pct": -0.6,
+    "pe": -132.41,
+    "pb": 13.09,
+    "turnover": 2.01,
+    "total_mv": 3172776120.0,
+    "change_60d": -17.63,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-599.06万",
+      "net_profit_yoy": "54.07%",
+      "revenue": "2.18亿",
+      "revenue_yoy": "-58.07%",
+      "eps": "-0.0094",
+      "roe": "-2.44%",
+      "net_margin": "-2.93%",
+      "debt_ratio": "32.88%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "11.30亿",
+        "net_profit": "-2941.87万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "16.28亿",
+        "net_profit": "-2960.69万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "18.12亿",
+        "net_profit": "-3597.43万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.18亿",
+        "net_profit": "-599.06万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-24 09:00:03",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 17:11:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 10:00:46",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-10 20:57:27",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-07 21:40:10",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:50"
+}

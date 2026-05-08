@@ -1,0 +1,202 @@
+{
+  "code": "300742",
+  "signal": {
+    "code": "300742",
+    "name": "越博退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.29亿",
+      "net_profit_yoy": "-10.97%",
+      "revenue": "1.80亿",
+      "revenue_yoy": "23.36%",
+      "eps": "-0.9111",
+      "roe": "False",
+      "net_margin": "-77.29%",
+      "debt_ratio": "118.70%",
+      "report_period": "2023-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-12-31",
+        "revenue": "1.42亿",
+        "net_profit": "-2.13亿"
+      },
+      {
+        "report_period": "2023-03-31",
+        "revenue": "6935.44万",
+        "net_profit": "-1916.20万"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "1.21亿",
+        "net_profit": "-8005.39万"
+      },
+      {
+        "report_period": "2023-09-30",
+        "revenue": "1.80亿",
+        "net_profit": "-1.29亿"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2024-07-01",
+      "open": 0.4,
+      "close": 0.34,
+      "high": 0.4,
+      "low": 0.32,
+      "volume": 296720.0,
+      "turnover": 10873384.0
+    },
+    {
+      "date": "2024-07-02",
+      "open": 0.32,
+      "close": 0.29,
+      "high": 0.32,
+      "low": 0.28,
+      "volume": 224308.0,
+      "turnover": 6684349.0
+    },
+    {
+      "date": "2024-07-03",
+      "open": 0.28,
+      "close": 0.27,
+      "high": 0.28,
+      "low": 0.26,
+      "volume": 116243.0,
+      "turnover": 3158078.0
+    },
+    {
+      "date": "2024-07-04",
+      "open": 0.27,
+      "close": 0.28,
+      "high": 0.29,
+      "low": 0.26,
+      "volume": 131766.0,
+      "turnover": 3669074.0
+    },
+    {
+      "date": "2024-07-05",
+      "open": 0.28,
+      "close": 0.26,
+      "high": 0.28,
+      "low": 0.26,
+      "volume": 68272.0,
+      "turnover": 1831711.0
+    },
+    {
+      "date": "2024-07-08",
+      "open": 0.27,
+      "close": 0.25,
+      "high": 0.27,
+      "low": 0.24,
+      "volume": 86697.0,
+      "turnover": 2196978.0
+    },
+    {
+      "date": "2024-07-09",
+      "open": 0.25,
+      "close": 0.24,
+      "high": 0.25,
+      "low": 0.23,
+      "volume": 68090.0,
+      "turnover": 1646687.0
+    },
+    {
+      "date": "2024-07-10",
+      "open": 0.24,
+      "close": 0.22,
+      "high": 0.24,
+      "low": 0.22,
+      "volume": 73759.0,
+      "turnover": 1695397.0
+    },
+    {
+      "date": "2024-07-11",
+      "open": 0.22,
+      "close": 0.21,
+      "high": 0.22,
+      "low": 0.21,
+      "volume": 97682.0,
+      "turnover": 2066861.0
+    },
+    {
+      "date": "2024-07-12",
+      "open": 0.21,
+      "close": 0.2,
+      "high": 0.22,
+      "low": 0.19,
+      "volume": 65252.0,
+      "turnover": 1318786.0
+    },
+    {
+      "date": "2024-07-15",
+      "open": 0.2,
+      "close": 0.19,
+      "high": 0.2,
+      "low": 0.18,
+      "volume": 76566.0,
+      "turnover": 1457855.0
+    },
+    {
+      "date": "2024-07-16",
+      "open": 0.19,
+      "close": 0.19,
+      "high": 0.2,
+      "low": 0.18,
+      "volume": 66452.0,
+      "turnover": 1276547.0
+    },
+    {
+      "date": "2024-07-17",
+      "open": 0.19,
+      "close": 0.18,
+      "high": 0.19,
+      "low": 0.18,
+      "volume": 105009.0,
+      "turnover": 1906820.0
+    },
+    {
+      "date": "2024-07-18",
+      "open": 0.18,
+      "close": 0.19,
+      "high": 0.19,
+      "low": 0.18,
+      "volume": 64745.0,
+      "turnover": 1198170.0
+    },
+    {
+      "date": "2024-07-19",
+      "open": 0.18,
+      "close": 0.18,
+      "high": 0.2,
+      "low": 0.17,
+      "volume": 139140.0,
+      "turnover": 2556882.0
+    }
+  ],
+  "news": [],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润下滑",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日弱势整理",
+    "risk_level": "高风险",
+    "risk_reasons": [
+      "资产负债率较高(118.7%)",
+      "波动率大"
+    ],
+    "volatility": 5.64,
+    "ai_summary": "越博退：当前PE处于高估值区间，利润下滑，营收增长。技术面：近60日弱势整理。风险等级高风险。"
+  },
+  "update_time": "2026-05-08 15:44:20"
+}

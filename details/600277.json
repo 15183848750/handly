@@ -1,0 +1,370 @@
+{
+  "code": "600277",
+  "signal": {
+    "code": "600277",
+    "name": "ST亿利",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-12.92亿",
+      "net_profit_yoy": "-82.15%",
+      "revenue": "39.05亿",
+      "revenue_yoy": "18.43%",
+      "eps": "-0.3600",
+      "roe": "-8.44%",
+      "net_margin": "-44.23%",
+      "debt_ratio": "43.93%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "22.81亿",
+        "net_profit": "-4391.52万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "32.98亿",
+        "net_profit": "-7.09亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "18.53亿",
+        "net_profit": "-1.29亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "39.05亿",
+        "net_profit": "-12.92亿"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2024-05-06",
+      "open": 1.95,
+      "close": 1.95,
+      "high": 1.95,
+      "low": 1.95,
+      "volume": 36833.0,
+      "turnover": 7182435.0
+    },
+    {
+      "date": "2024-05-07",
+      "open": 1.85,
+      "close": 1.85,
+      "high": 1.85,
+      "low": 1.85,
+      "volume": 25432.0,
+      "turnover": 4704920.0
+    },
+    {
+      "date": "2024-05-08",
+      "open": 1.76,
+      "close": 1.76,
+      "high": 1.76,
+      "low": 1.76,
+      "volume": 23956.0,
+      "turnover": 4216256.0
+    },
+    {
+      "date": "2024-05-09",
+      "open": 1.67,
+      "close": 1.67,
+      "high": 1.67,
+      "low": 1.67,
+      "volume": 14447.0,
+      "turnover": 2412649.0
+    },
+    {
+      "date": "2024-05-10",
+      "open": 1.59,
+      "close": 1.59,
+      "high": 1.59,
+      "low": 1.59,
+      "volume": 13840.0,
+      "turnover": 2200560.0
+    },
+    {
+      "date": "2024-05-13",
+      "open": 1.51,
+      "close": 1.51,
+      "high": 1.51,
+      "low": 1.51,
+      "volume": 8848.0,
+      "turnover": 1336048.0
+    },
+    {
+      "date": "2024-05-14",
+      "open": 1.43,
+      "close": 1.43,
+      "high": 1.43,
+      "low": 1.43,
+      "volume": 11674.0,
+      "turnover": 1669382.0
+    },
+    {
+      "date": "2024-05-15",
+      "open": 1.36,
+      "close": 1.36,
+      "high": 1.36,
+      "low": 1.36,
+      "volume": 45298.0,
+      "turnover": 6160528.0
+    },
+    {
+      "date": "2024-05-16",
+      "open": 1.29,
+      "close": 1.29,
+      "high": 1.29,
+      "low": 1.29,
+      "volume": 135590.0,
+      "turnover": 17491110.0
+    },
+    {
+      "date": "2024-05-17",
+      "open": 1.25,
+      "close": 1.23,
+      "high": 1.32,
+      "low": 1.23,
+      "volume": 2770331.0,
+      "turnover": 345230339.0
+    },
+    {
+      "date": "2024-05-20",
+      "open": 1.19,
+      "close": 1.17,
+      "high": 1.2,
+      "low": 1.17,
+      "volume": 886955.0,
+      "turnover": 104625731.0
+    },
+    {
+      "date": "2024-05-21",
+      "open": 1.11,
+      "close": 1.11,
+      "high": 1.11,
+      "low": 1.11,
+      "volume": 113583.0,
+      "turnover": 12607713.0
+    },
+    {
+      "date": "2024-05-22",
+      "open": 1.05,
+      "close": 1.05,
+      "high": 1.05,
+      "low": 1.05,
+      "volume": 83723.0,
+      "turnover": 8790915.0
+    },
+    {
+      "date": "2024-05-23",
+      "open": 1.0,
+      "close": 1.0,
+      "high": 1.0,
+      "low": 1.0,
+      "volume": 76534.0,
+      "turnover": 7653400.0
+    },
+    {
+      "date": "2024-05-24",
+      "open": 0.95,
+      "close": 0.98,
+      "high": 1.05,
+      "low": 0.95,
+      "volume": 2298024.0,
+      "turnover": 224833257.0
+    },
+    {
+      "date": "2024-05-27",
+      "open": 0.93,
+      "close": 0.93,
+      "high": 0.95,
+      "low": 0.93,
+      "volume": 1608194.0,
+      "turnover": 150138061.0
+    },
+    {
+      "date": "2024-05-28",
+      "open": 0.88,
+      "close": 0.88,
+      "high": 0.9,
+      "low": 0.88,
+      "volume": 1629974.0,
+      "turnover": 143707935.0
+    },
+    {
+      "date": "2024-05-29",
+      "open": 0.84,
+      "close": 0.84,
+      "high": 0.86,
+      "low": 0.84,
+      "volume": 874399.0,
+      "turnover": 73571727.0
+    },
+    {
+      "date": "2024-05-30",
+      "open": 0.8,
+      "close": 0.8,
+      "high": 0.8,
+      "low": 0.8,
+      "volume": 106074.0,
+      "turnover": 8485920.0
+    },
+    {
+      "date": "2024-05-31",
+      "open": 0.76,
+      "close": 0.76,
+      "high": 0.76,
+      "low": 0.76,
+      "volume": 129030.0,
+      "turnover": 9806280.0
+    },
+    {
+      "date": "2024-06-03",
+      "open": 0.72,
+      "close": 0.72,
+      "high": 0.72,
+      "low": 0.72,
+      "volume": 57553.0,
+      "turnover": 4143816.0
+    },
+    {
+      "date": "2024-06-04",
+      "open": 0.68,
+      "close": 0.68,
+      "high": 0.68,
+      "low": 0.68,
+      "volume": 63281.0,
+      "turnover": 4303108.0
+    },
+    {
+      "date": "2024-06-05",
+      "open": 0.65,
+      "close": 0.65,
+      "high": 0.66,
+      "low": 0.65,
+      "volume": 1575786.0,
+      "turnover": 102452836.0
+    },
+    {
+      "date": "2024-06-06",
+      "open": 0.62,
+      "close": 0.62,
+      "high": 0.62,
+      "low": 0.62,
+      "volume": 63977.0,
+      "turnover": 3966574.0
+    },
+    {
+      "date": "2024-06-07",
+      "open": 0.59,
+      "close": 0.59,
+      "high": 0.59,
+      "low": 0.59,
+      "volume": 129916.0,
+      "turnover": 7665044.0
+    },
+    {
+      "date": "2024-06-11",
+      "open": 0.56,
+      "close": 0.56,
+      "high": 0.56,
+      "low": 0.56,
+      "volume": 25322.0,
+      "turnover": 1418032.0
+    },
+    {
+      "date": "2024-06-12",
+      "open": 0.53,
+      "close": 0.53,
+      "high": 0.53,
+      "low": 0.53,
+      "volume": 16278.0,
+      "turnover": 862734.0
+    },
+    {
+      "date": "2024-06-13",
+      "open": 0.5,
+      "close": 0.5,
+      "high": 0.5,
+      "low": 0.5,
+      "volume": 28948.0,
+      "turnover": 1447400.0
+    },
+    {
+      "date": "2024-06-14",
+      "open": 0.48,
+      "close": 0.48,
+      "high": 0.48,
+      "low": 0.48,
+      "volume": 36868.0,
+      "turnover": 1769664.0
+    },
+    {
+      "date": "2024-06-17",
+      "open": 0.46,
+      "close": 0.46,
+      "high": 0.46,
+      "low": 0.46,
+      "volume": 21812.0,
+      "turnover": 1003352.0
+    },
+    {
+      "date": "2024-06-18",
+      "open": 0.44,
+      "close": 0.44,
+      "high": 0.44,
+      "low": 0.44,
+      "volume": 38795.0,
+      "turnover": 1706980.0
+    },
+    {
+      "date": "2024-06-19",
+      "open": 0.42,
+      "close": 0.42,
+      "high": 0.42,
+      "low": 0.42,
+      "volume": 124986.0,
+      "turnover": 5249412.0
+    },
+    {
+      "date": "2024-06-20",
+      "open": 0.4,
+      "close": 0.4,
+      "high": 0.4,
+      "low": 0.4,
+      "volume": 442987.0,
+      "turnover": 17719480.0
+    },
+    {
+      "date": "2024-06-21",
+      "open": 0.38,
+      "close": 0.38,
+      "high": 0.39,
+      "low": 0.38,
+      "volume": 2338092.0,
+      "turnover": 88872355.0
+    }
+  ],
+  "news": [],
+  "ai_analysis": {
+    "pe_percentile": "高估值",
+    "profit_trend": "利润下滑",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日弱势整理",
+    "risk_level": "低风险",
+    "risk_reasons": [],
+    "volatility": 4.86,
+    "ai_summary": "ST亿利：当前PE处于高估值区间，利润下滑，营收增长。技术面：近60日弱势整理。风险等级低风险。"
+  },
+  "update_time": "2026-05-08 15:43:26"
+}

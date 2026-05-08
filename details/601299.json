@@ -1,0 +1,54 @@
+{
+  "code": "601299",
+  "signal": {
+    "code": "601299",
+    "name": "中国北车",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "10.08亿",
+      "net_profit_yoy": "14.98%",
+      "revenue": "174.31亿",
+      "revenue_yoy": "18.67%",
+      "eps": "0.0800",
+      "roe": "2.04%",
+      "net_margin": "5.97%",
+      "debt_ratio": "63.44%",
+      "report_period": "2015-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2014-06-30",
+        "revenue": "388.05亿",
+        "net_profit": "23.23亿"
+      },
+      {
+        "report_period": "2014-09-30",
+        "revenue": "641.66亿",
+        "net_profit": "39.58亿"
+      },
+      {
+        "report_period": "2014-12-31",
+        "revenue": "1042.90亿",
+        "net_profit": "54.92亿"
+      },
+      {
+        "report_period": "2015-03-31",
+        "revenue": "174.31亿",
+        "net_profit": "10.08亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:38"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "002684",
+  "signal": {
+    "code": "002684",
+    "name": "猛狮退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-5.42亿",
+      "net_profit_yoy": "-12.54%",
+      "revenue": "34.06亿",
+      "revenue_yoy": "127.54%",
+      "eps": "-0.9600",
+      "roe": "False",
+      "net_margin": "-14.73%",
+      "debt_ratio": "188.50%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "5.96亿",
+        "net_profit": "-2.06亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "14.97亿",
+        "net_profit": "-4.82亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "11.57亿",
+        "net_profit": "-2.11亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "34.06亿",
+        "net_profit": "-5.42亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:21"
+}

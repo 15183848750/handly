@@ -1,0 +1,80 @@
+{
+  "code": "688357",
+  "signal": {
+    "code": "688357",
+    "name": "建龙微纳",
+    "price": 36.19,
+    "change_pct": -0.52,
+    "pe": 55.07,
+    "pb": 2.06,
+    "turnover": 1.27,
+    "total_mv": 3621166876.0,
+    "change_60d": 4.53,
+    "change_ytd": 9.5
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1643.91万",
+      "net_profit_yoy": "-35.31%",
+      "revenue": "1.82亿",
+      "revenue_yoy": "2.32%",
+      "eps": "0.1600",
+      "roe": "0.88%",
+      "net_margin": "9.05%",
+      "debt_ratio": "41.87%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3.78亿",
+        "net_profit": "4867.81万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "5.90亿",
+        "net_profit": "7273.09万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "8.41亿",
+        "net_profit": "9852.36万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.82亿",
+        "net_profit": "1643.91万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-21 09:32:28",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-13 10:25:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-13 09:24:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-03 17:10:11",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-09 09:22:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:07"
+}

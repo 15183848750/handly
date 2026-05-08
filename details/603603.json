@@ -1,0 +1,54 @@
+{
+  "code": "603603",
+  "signal": {
+    "code": "603603",
+    "name": "退市博天",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4436.24万",
+      "net_profit_yoy": "-306.58%",
+      "revenue": "5.49亿",
+      "revenue_yoy": "0.85%",
+      "eps": "-0.0500",
+      "roe": "-2.57%",
+      "net_margin": "-7.37%",
+      "debt_ratio": "69.81%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "2.72亿",
+        "net_profit": "1402.96万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "5.45亿",
+        "net_profit": "2147.42万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.93亿",
+        "net_profit": "2119.31万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "5.49亿",
+        "net_profit": "-4436.24万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:25"
+}

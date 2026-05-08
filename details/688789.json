@@ -1,0 +1,80 @@
+{
+  "code": "688789",
+  "signal": {
+    "code": "688789",
+    "name": "宏华数科",
+    "price": 61.25,
+    "change_pct": -0.44,
+    "pe": 66.42,
+    "pb": 3.05,
+    "turnover": 0.86,
+    "total_mv": 11040686554.0,
+    "change_60d": -20.68,
+    "change_ytd": -24.91
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4155.81万",
+      "net_profit_yoy": "-61.64%",
+      "revenue": "3.68亿",
+      "revenue_yoy": "-23.00%",
+      "eps": "0.2300",
+      "roe": "1.16%",
+      "net_margin": "11.23%",
+      "debt_ratio": "23.21%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "10.38亿",
+        "net_profit": "2.51亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "16.32亿",
+        "net_profit": "3.88亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "23.03亿",
+        "net_profit": "5.28亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.68亿",
+        "net_profit": "4155.81万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-22 09:28:26",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 08:58:15",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:35:05",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 09:30:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:42"
+}

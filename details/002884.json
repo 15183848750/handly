@@ -1,0 +1,80 @@
+{
+  "code": "002884",
+  "signal": {
+    "code": "002884",
+    "name": "凌霄泵业",
+    "price": 18.81,
+    "change_pct": -0.53,
+    "pe": 17.18,
+    "pb": 2.68,
+    "turnover": 0.96,
+    "total_mv": 6728007994.0,
+    "change_60d": 6.09,
+    "change_ytd": 6.33
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "9789.13万",
+      "net_profit_yoy": "-6.13%",
+      "revenue": "4.32亿",
+      "revenue_yoy": "17.95%",
+      "eps": "0.2700",
+      "roe": "3.97%",
+      "net_margin": "22.65%",
+      "debt_ratio": "7.14%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "8.40亿",
+        "net_profit": "2.34亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "12.70亿",
+        "net_profit": "3.51亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "17.22亿",
+        "net_profit": "4.55亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "4.32亿",
+        "net_profit": "9789.13万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 09:13:12",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 09:27:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 09:31:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 11:23:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:14"
+}

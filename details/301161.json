@@ -1,0 +1,80 @@
+{
+  "code": "301161",
+  "signal": {
+    "code": "301161",
+    "name": "唯万密封",
+    "price": 32.57,
+    "change_pct": -0.4,
+    "pe": 33.38,
+    "pb": 4.07,
+    "turnover": 2.31,
+    "total_mv": 3908400000.0,
+    "change_60d": -12.09,
+    "change_ytd": -13.97
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2926.88万",
+      "net_profit_yoy": "18.14%",
+      "revenue": "2.04亿",
+      "revenue_yoy": "12.70%",
+      "eps": "0.2400",
+      "roe": "3.10%",
+      "net_margin": "14.26%",
+      "debt_ratio": "24.39%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3.86亿",
+        "net_profit": "4802.31万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "5.72亿",
+        "net_profit": "6979.10万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "7.69亿",
+        "net_profit": "8703.93万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.04亿",
+        "net_profit": "2926.88万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 09:23:28",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:24:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 22:34:47",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 22:34:47",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 20:10:57",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:05"
+}

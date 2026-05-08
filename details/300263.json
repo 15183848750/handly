@@ -1,0 +1,80 @@
+{
+  "code": "300263",
+  "signal": {
+    "code": "300263",
+    "name": "隆华科技",
+    "price": 11.32,
+    "change_pct": -0.53,
+    "pe": 45.41,
+    "pb": 2.79,
+    "turnover": 3.35,
+    "total_mv": 11716271339.0,
+    "change_60d": 13.2,
+    "change_ytd": 28.05
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "6449.70万",
+      "net_profit_yoy": "43.36%",
+      "revenue": "8.29亿",
+      "revenue_yoy": "29.74%",
+      "eps": "0.0600",
+      "roe": "1.55%",
+      "net_margin": "7.90%",
+      "debt_ratio": "40.94%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "15.15亿",
+        "net_profit": "1.12亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "23.26亿",
+        "net_profit": "1.80亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "30.74亿",
+        "net_profit": "1.90亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "8.29亿",
+        "net_profit": "6449.70万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 09:40:54",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 10:14:03",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 18:18:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 16:20:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 17:09:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:16"
+}

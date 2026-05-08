@@ -1,0 +1,80 @@
+{
+  "code": "301446",
+  "signal": {
+    "code": "301446",
+    "name": "福事特",
+    "price": 42.96,
+    "change_pct": -0.51,
+    "pe": 47.79,
+    "pb": 3.68,
+    "turnover": 4.71,
+    "total_mv": 4467840000.0,
+    "change_60d": -8.22,
+    "change_ytd": 34.42
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2337.13万",
+      "net_profit_yoy": "-4.38%",
+      "revenue": "1.61亿",
+      "revenue_yoy": "53.29%",
+      "eps": "0.2247",
+      "roe": "1.94%",
+      "net_margin": "14.88%",
+      "debt_ratio": "15.77%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.56亿",
+        "net_profit": "4939.25万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "3.89亿",
+        "net_profit": "6648.23万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "5.49亿",
+        "net_profit": "7635.09万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.61亿",
+        "net_profit": "2337.13万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 09:52:03",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 09:10:49",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 20:11:35",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 18:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 09:44:29",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:59"
+}

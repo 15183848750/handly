@@ -1,0 +1,80 @@
+{
+  "code": "600025",
+  "signal": {
+    "code": "600025",
+    "name": "华能水电",
+    "price": 9.59,
+    "change_pct": -0.42,
+    "pe": 28.94,
+    "pb": 2.52,
+    "turnover": 0.12,
+    "total_mv": 178672193925.0,
+    "change_60d": 5.62,
+    "change_ytd": 5.62
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "15.43亿",
+      "net_profit_yoy": "2.32%",
+      "revenue": "57.63亿",
+      "revenue_yoy": "7.02%",
+      "eps": "0.0800",
+      "roe": "2.10%",
+      "net_margin": "30.74%",
+      "debt_ratio": "60.04%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "129.59亿",
+        "net_profit": "46.09亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "206.41亿",
+        "net_profit": "75.39亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "265.95亿",
+        "net_profit": "85.04亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "57.63亿",
+        "net_profit": "15.43亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:01:37",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 10:00:06",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 12:08:26",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 00:39:51",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 17:46:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:26"
+}

@@ -1,0 +1,75 @@
+{
+  "code": "688086",
+  "signal": {
+    "code": "688086",
+    "name": "退市紫晶",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-16.56亿",
+      "net_profit_yoy": "-704.66%",
+      "revenue": "1.77亿",
+      "revenue_yoy": "-61.41%",
+      "eps": "-8.7000",
+      "roe": "False",
+      "net_margin": "-940.86%",
+      "debt_ratio": "129.29%",
+      "report_period": "2022-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-03-31",
+        "revenue": "9221.41万",
+        "net_profit": "-1.00亿"
+      },
+      {
+        "report_period": "2022-06-30",
+        "revenue": "1.40亿",
+        "net_profit": "-1.33亿"
+      },
+      {
+        "report_period": "2022-09-30",
+        "revenue": "1.54亿",
+        "net_profit": "-1.87亿"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "1.77亿",
+        "net_profit": "-16.56亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2025-12-14 16:08:33",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-12-13 21:40:43",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-12-13 09:05:37",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-12-13 15:41:59",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:20"
+}

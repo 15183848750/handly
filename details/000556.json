@@ -1,0 +1,60 @@
+{
+  "code": "000556",
+  "signal": {
+    "code": "000556",
+    "name": "PT南洋",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-207.45万",
+      "net_profit_yoy": "-128.94%",
+      "revenue": "4.63万",
+      "revenue_yoy": "-99.99%",
+      "eps": "-0.0100",
+      "roe": "-0.78%",
+      "net_margin": "-4496.54%",
+      "debt_ratio": "5.23%",
+      "report_period": "2025-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-12-31",
+        "revenue": "13.46亿",
+        "net_profit": "972.11万"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "7.32亿",
+        "net_profit": "716.75万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "2.88亿",
+        "net_profit": "618.62万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4.63万",
+        "net_profit": "-207.45万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-09 09:02:45",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:28"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "000666",
+  "signal": {
+    "code": "000666",
+    "name": "经纬纺机",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "9748.06万",
+      "net_profit_yoy": "-28.32%",
+      "revenue": "25.18亿",
+      "revenue_yoy": "-11.79%",
+      "eps": "0.1384",
+      "roe": "0.98%",
+      "net_margin": "13.57%",
+      "debt_ratio": "36.62%",
+      "report_period": "2023-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-06-30",
+        "revenue": "61.52亿",
+        "net_profit": "2.74亿"
+      },
+      {
+        "report_period": "2022-09-30",
+        "revenue": "89.81亿",
+        "net_profit": "4.00亿"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "118.87亿",
+        "net_profit": "4.54亿"
+      },
+      {
+        "report_period": "2023-03-31",
+        "revenue": "25.18亿",
+        "net_profit": "9748.06万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:01"
+}

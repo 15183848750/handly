@@ -1,0 +1,80 @@
+{
+  "code": "000913",
+  "signal": {
+    "code": "000913",
+    "name": "钱江摩托",
+    "price": 13.37,
+    "change_pct": -0.52,
+    "pe": -45.21,
+    "pb": 1.32,
+    "turnover": 0.64,
+    "total_mv": 7038115070.0,
+    "change_60d": -14.57,
+    "change_ytd": -13.29
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3891.97万",
+      "net_profit_yoy": "-144.89%",
+      "revenue": "10.23亿",
+      "revenue_yoy": "-23.32%",
+      "eps": "-0.0744",
+      "roe": "-0.73%",
+      "net_margin": "-4.10%",
+      "debt_ratio": "45.50%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "30.73亿",
+        "net_profit": "2.69亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "44.26亿",
+        "net_profit": "3.20亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "54.14亿",
+        "net_profit": "9.77亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "10.23亿",
+        "net_profit": "-3891.97万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-08 11:50:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 16:27:18",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 09:21:05",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 13:09:40",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 12:20:48",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:10"
+}

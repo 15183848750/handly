@@ -1,0 +1,80 @@
+{
+  "code": "300953",
+  "signal": {
+    "code": "300953",
+    "name": "震裕科技",
+    "price": 237.51,
+    "change_pct": -0.52,
+    "pe": 36.55,
+    "pb": 8.71,
+    "turnover": 4.9,
+    "total_mv": 41202695890.0,
+    "change_60d": 48.88,
+    "change_ytd": 41.36
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.82亿",
+      "net_profit_yoy": "286.75%",
+      "revenue": "29.69亿",
+      "revenue_yoy": "65.61%",
+      "eps": "1.6500",
+      "roe": "6.15%",
+      "net_margin": "9.48%",
+      "debt_ratio": "65.74%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "40.47亿",
+        "net_profit": "2.11亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "65.93亿",
+        "net_profit": "4.12亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "97.36亿",
+        "net_profit": "5.13亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "29.69亿",
+        "net_profit": "2.82亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 10:11:51",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 16:05:51",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 20:51:54",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 11:27:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 17:32:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:04"
+}

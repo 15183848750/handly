@@ -1,0 +1,54 @@
+{
+  "code": "300064",
+  "signal": {
+    "code": "300064",
+    "name": "金刚退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "381.07万",
+      "net_profit_yoy": "139.17%",
+      "revenue": "1.03亿",
+      "revenue_yoy": "46.63%",
+      "eps": "0.0036",
+      "roe": "0.35%",
+      "net_margin": "3.68%",
+      "debt_ratio": "39.72%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-03-31",
+        "revenue": "7046.73万",
+        "net_profit": "-972.95万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1.71亿",
+        "net_profit": "-2423.67万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "3.65亿",
+        "net_profit": "-4845.03万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.03亿",
+        "net_profit": "381.07万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:02"
+}

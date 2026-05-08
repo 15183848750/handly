@@ -1,0 +1,80 @@
+{
+  "code": "600020",
+  "signal": {
+    "code": "600020",
+    "name": "中原高速",
+    "price": 4.02,
+    "change_pct": -0.5,
+    "pe": 6.15,
+    "pb": 0.76,
+    "turnover": 0.37,
+    "total_mv": 9034434765.0,
+    "change_60d": -1.71,
+    "change_ytd": -5.63
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3.67亿",
+      "net_profit_yoy": "3.16%",
+      "revenue": "14.39亿",
+      "revenue_yoy": "10.74%",
+      "eps": "0.1518",
+      "roe": "2.91%",
+      "net_margin": "25.52%",
+      "debt_ratio": "70.32%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "31.05亿",
+        "net_profit": "6.63亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "48.88亿",
+        "net_profit": "9.61亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "65.99亿",
+        "net_profit": "6.28亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "14.39亿",
+        "net_profit": "3.67亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 09:56:04",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 10:19:25",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 17:25:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 10:34:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:39"
+}

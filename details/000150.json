@@ -1,0 +1,54 @@
+{
+  "code": "000150",
+  "signal": {
+    "code": "000150",
+    "name": "*ST宜康",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-10.40亿",
+      "net_profit_yoy": "-66.16%",
+      "revenue": "4.17亿",
+      "revenue_yoy": "-17.95%",
+      "eps": "-1.1848",
+      "roe": "False",
+      "net_margin": "-251.65%",
+      "debt_ratio": "270.95%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "2.72亿",
+        "net_profit": "-1.96亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "5.08亿",
+        "net_profit": "-6.26亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1.73亿",
+        "net_profit": "-2.75亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "4.17亿",
+        "net_profit": "-10.40亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:47"
+}

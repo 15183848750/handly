@@ -1,0 +1,80 @@
+{
+  "code": "688720",
+  "signal": {
+    "code": "688720",
+    "name": "艾森股份",
+    "price": 82.57,
+    "change_pct": -0.57,
+    "pe": 193.2,
+    "pb": 6.97,
+    "turnover": 4.64,
+    "total_mv": 7277169388.0,
+    "change_60d": 11.48,
+    "change_ytd": 17.32
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "941.65万",
+      "net_profit_yoy": "24.50%",
+      "revenue": "1.62亿",
+      "revenue_yoy": "28.07%",
+      "eps": "0.1000",
+      "roe": "0.91%",
+      "net_margin": "5.95%",
+      "debt_ratio": "24.81%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "2.80亿",
+        "net_profit": "1678.20万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "4.39亿",
+        "net_profit": "3447.61万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "5.93亿",
+        "net_profit": "5123.78万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.62亿",
+        "net_profit": "941.65万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-25 10:04:21",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-25 10:32:50",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:26:18",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 18:35:47",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 18:34:24",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:36"
+}

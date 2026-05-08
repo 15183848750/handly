@@ -1,0 +1,54 @@
+{
+  "code": "600762",
+  "signal": {
+    "code": "600762",
+    "name": "S*ST金荔",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1890.38万",
+      "net_profit_yoy": "54.28%",
+      "revenue": "181.54万",
+      "revenue_yoy": "49.30%",
+      "eps": "-0.1700",
+      "roe": "False",
+      "net_margin": "-1041.30%",
+      "debt_ratio": "175.96%",
+      "report_period": "2007-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2006-12-31",
+        "revenue": "416.59万",
+        "net_profit": "638.37万"
+      },
+      {
+        "report_period": "2007-03-31",
+        "revenue": "61.17万",
+        "net_profit": "10.22万"
+      },
+      {
+        "report_period": "2007-06-30",
+        "revenue": "121.23万",
+        "net_profit": "-1139.43万"
+      },
+      {
+        "report_period": "2007-09-30",
+        "revenue": "181.54万",
+        "net_profit": "-1890.38万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:19"
+}

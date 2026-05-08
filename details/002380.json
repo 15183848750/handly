@@ -1,0 +1,80 @@
+{
+  "code": "002380",
+  "signal": {
+    "code": "002380",
+    "name": "科远智慧",
+    "price": 36.53,
+    "change_pct": -0.46,
+    "pe": 28.74,
+    "pb": 3.6,
+    "turnover": 5.46,
+    "total_mv": 8766894938.0,
+    "change_60d": 24.8,
+    "change_ytd": 34.3
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7624.86万",
+      "net_profit_yoy": "25.19%",
+      "revenue": "4.45亿",
+      "revenue_yoy": "5.72%",
+      "eps": "0.3177",
+      "roe": "3.18%",
+      "net_margin": "17.07%",
+      "debt_ratio": "38.53%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "9.80亿",
+        "net_profit": "1.36亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "13.53亿",
+        "net_profit": "2.17亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "18.67亿",
+        "net_profit": "1.39亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "4.45亿",
+        "net_profit": "7624.86万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-14 19:46:13",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-14 20:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-14 20:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-14 20:14:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-15 09:31:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:00"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "002845",
+  "signal": {
+    "code": "002845",
+    "name": "同兴达",
+    "price": 14.66,
+    "change_pct": -0.48,
+    "pe": -28.19,
+    "pb": 1.96,
+    "turnover": 2.1,
+    "total_mv": 4801907995.0,
+    "change_60d": 0.48,
+    "change_ytd": 4.19
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4257.82万",
+      "net_profit_yoy": "-3.39%",
+      "revenue": "21.92亿",
+      "revenue_yoy": "4.32%",
+      "eps": "-0.1300",
+      "roe": "-1.73%",
+      "net_margin": "-2.18%",
+      "debt_ratio": "72.07%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "47.94亿",
+        "net_profit": "-2900.09万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "76.05亿",
+        "net_profit": "-1538.17万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "99.70亿",
+        "net_profit": "4176.23万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "21.92亿",
+        "net_profit": "-4257.82万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 09:54:45",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-26 16:27:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-22 22:56:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 16:20:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:16"
+}

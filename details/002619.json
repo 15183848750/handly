@@ -1,0 +1,54 @@
+{
+  "code": "002619",
+  "signal": {
+    "code": "002619",
+    "name": "*ST艾格",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-532.79万",
+      "net_profit_yoy": "76.99%",
+      "revenue": "11.72万",
+      "revenue_yoy": "-99.38%",
+      "eps": "-0.0029",
+      "roe": "-0.42%",
+      "net_margin": "-4528.08%",
+      "debt_ratio": "46.47%",
+      "report_period": "2022-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2021-06-30",
+        "revenue": "3586.71万",
+        "net_profit": "-4532.62万"
+      },
+      {
+        "report_period": "2021-09-30",
+        "revenue": "4491.55万",
+        "net_profit": "-7889.63万"
+      },
+      {
+        "report_period": "2021-12-31",
+        "revenue": "1443.47万",
+        "net_profit": "-8.07亿"
+      },
+      {
+        "report_period": "2022-03-31",
+        "revenue": "11.72万",
+        "net_profit": "-532.79万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:25"
+}

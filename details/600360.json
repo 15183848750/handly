@@ -1,0 +1,80 @@
+{
+  "code": "600360",
+  "signal": {
+    "code": "600360",
+    "name": "*ST华微",
+    "price": 10.95,
+    "change_pct": -0.45,
+    "pe": 45.4,
+    "pb": 2.99,
+    "turnover": 2.46,
+    "total_mv": 10515233579.0,
+    "change_60d": 25.86,
+    "change_ytd": 37.56
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "5790.19万",
+      "net_profit_yoy": "5.44%",
+      "revenue": "6.66亿",
+      "revenue_yoy": "3.61%",
+      "eps": "0.0600",
+      "roe": "1.66%",
+      "net_margin": "8.99%",
+      "debt_ratio": "34.04%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "12.47亿",
+        "net_profit": "1.07亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "17.45亿",
+        "net_profit": "1.49亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "22.55亿",
+        "net_profit": "1.73亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "6.66亿",
+        "net_profit": "5790.19万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-20 22:50:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:58:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 23:01:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 22:50:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:58:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:59"
+}

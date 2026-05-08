@@ -1,0 +1,54 @@
+{
+  "code": "600393",
+  "signal": {
+    "code": "600393",
+    "name": "ST粤泰",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-10.79亿",
+      "net_profit_yoy": "28.69%",
+      "revenue": "2.57亿",
+      "revenue_yoy": "-52.53%",
+      "eps": "-0.4300",
+      "roe": "False",
+      "net_margin": "-431.50%",
+      "debt_ratio": "134.30%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "3.66亿",
+        "net_profit": "-9.68亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "5.41亿",
+        "net_profit": "-15.13亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1.29亿",
+        "net_profit": "-4.80亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "2.57亿",
+        "net_profit": "-10.79亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:09"
+}

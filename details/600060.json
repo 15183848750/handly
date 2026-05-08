@@ -1,0 +1,80 @@
+{
+  "code": "600060",
+  "signal": {
+    "code": "600060",
+    "name": "海信视像",
+    "price": 24.97,
+    "change_pct": -0.4,
+    "pe": 13.79,
+    "pb": 1.49,
+    "turnover": 0.63,
+    "total_mv": 32585157182.0,
+    "change_60d": 0.44,
+    "change_ytd": 2.84
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "5.91亿",
+      "net_profit_yoy": "6.71%",
+      "revenue": "137.21亿",
+      "revenue_yoy": "2.58%",
+      "eps": "0.4530",
+      "roe": "2.75%",
+      "net_margin": "4.99%",
+      "debt_ratio": "40.75%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "272.31亿",
+        "net_profit": "10.56亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "428.30亿",
+        "net_profit": "16.29亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "576.79亿",
+        "net_profit": "24.54亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "137.21亿",
+        "net_profit": "5.91亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:19:23",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:15:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 09:15:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 08:51:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 09:30:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:06"
+}

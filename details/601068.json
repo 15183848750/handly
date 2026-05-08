@@ -1,0 +1,80 @@
+{
+  "code": "601068",
+  "signal": {
+    "code": "601068",
+    "name": "中铝国际",
+    "price": 6.15,
+    "change_pct": -0.65,
+    "pe": 60.68,
+    "pb": 5.97,
+    "turnover": 0.44,
+    "total_mv": 18375193042.0,
+    "change_60d": 1.32,
+    "change_ytd": 16.26
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7570.70万",
+      "net_profit_yoy": "15.06%",
+      "revenue": "43.17亿",
+      "revenue_yoy": "-10.14%",
+      "eps": "0.0180",
+      "roe": "1.78%",
+      "net_margin": "2.19%",
+      "debt_ratio": "76.37%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "96.98亿",
+        "net_profit": "1.03亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "152.19亿",
+        "net_profit": "1.19亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "230.60亿",
+        "net_profit": "2.58亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "43.17亿",
+        "net_profit": "7570.70万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:07:24",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 12:10:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 11:34:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 18:18:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 18:18:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:18"
+}

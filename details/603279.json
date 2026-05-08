@@ -1,0 +1,80 @@
+{
+  "code": "603279",
+  "signal": {
+    "code": "603279",
+    "name": "景津装备",
+    "price": 19.07,
+    "change_pct": -0.42,
+    "pe": 22.26,
+    "pb": 2.37,
+    "turnover": 0.85,
+    "total_mv": 10991433110.0,
+    "change_60d": -4.98,
+    "change_ytd": 13.04
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.23亿",
+      "net_profit_yoy": "-26.00%",
+      "revenue": "13.57亿",
+      "revenue_yoy": "-3.51%",
+      "eps": "0.2100",
+      "roe": "2.70%",
+      "net_margin": "9.10%",
+      "debt_ratio": "47.04%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "28.26亿",
+        "net_profit": "3.28亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "42.00亿",
+        "net_profit": "4.35亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "58.18亿",
+        "net_profit": "5.21亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "13.57亿",
+        "net_profit": "1.23亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-24 09:44:11",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-24 13:04:09",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 22:40:04",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 15:50:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 21:26:04",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:21"
+}

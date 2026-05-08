@@ -1,0 +1,80 @@
+{
+  "code": "601121",
+  "signal": {
+    "code": "601121",
+    "name": "宝地矿业",
+    "price": 7.8,
+    "change_pct": -0.51,
+    "pe": 51.93,
+    "pb": 1.75,
+    "turnover": 1.39,
+    "total_mv": 7677093434.0,
+    "change_60d": -6.81,
+    "change_ytd": 5.69
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3695.90万",
+      "net_profit_yoy": "84.41%",
+      "revenue": "2.94亿",
+      "revenue_yoy": "-3.37%",
+      "eps": "0.0420",
+      "roe": "1.13%",
+      "net_margin": "13.99%",
+      "debt_ratio": "43.37%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "7.21亿",
+        "net_profit": "6159.20万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "11.45亿",
+        "net_profit": "1.16亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "16.12亿",
+        "net_profit": "1.40亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.94亿",
+        "net_profit": "3695.90万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-25 10:07:42",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 18:10:09",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 18:07:04",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 18:10:01",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-25 19:10:24",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:54"
+}

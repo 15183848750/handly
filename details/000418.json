@@ -1,0 +1,60 @@
+{
+  "code": "000418",
+  "signal": {
+    "code": "000418",
+    "name": "小天鹅A",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "6.03亿",
+      "net_profit_yoy": "18.05%",
+      "revenue": "73.60亿",
+      "revenue_yoy": "8.04%",
+      "eps": "0.9500",
+      "roe": "7.00%",
+      "net_margin": "9.35%",
+      "debt_ratio": "55.40%",
+      "report_period": "2019-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2018-06-30",
+        "revenue": "120.57亿",
+        "net_profit": "9.02亿"
+      },
+      {
+        "report_period": "2018-09-30",
+        "revenue": "174.17亿",
+        "net_profit": "13.47亿"
+      },
+      {
+        "report_period": "2018-12-31",
+        "revenue": "236.37亿",
+        "net_profit": "18.62亿"
+      },
+      {
+        "report_period": "2019-03-31",
+        "revenue": "73.60亿",
+        "net_profit": "6.03亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-08 20:54:38",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:40"
+}

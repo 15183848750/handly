@@ -1,0 +1,80 @@
+{
+  "code": "600508",
+  "signal": {
+    "code": "600508",
+    "name": "上海能源",
+    "price": 13.51,
+    "change_pct": -0.52,
+    "pe": 32.99,
+    "pb": 0.77,
+    "turnover": 0.77,
+    "total_mv": 9763920180.0,
+    "change_60d": 4.65,
+    "change_ytd": 14.78
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7398.13万",
+      "net_profit_yoy": "-29.28%",
+      "revenue": "19.49亿",
+      "revenue_yoy": "12.26%",
+      "eps": "0.1000",
+      "roe": "0.58%",
+      "net_margin": "3.56%",
+      "debt_ratio": "35.97%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "34.98亿",
+        "net_profit": "2.05亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "56.40亿",
+        "net_profit": "2.55亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "76.77亿",
+        "net_profit": "2.20亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "19.49亿",
+        "net_profit": "7398.13万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 09:35:19",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:41:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 17:43:16",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 22:54:59",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:03"
+}

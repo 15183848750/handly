@@ -1,0 +1,80 @@
+{
+  "code": "600955",
+  "signal": {
+    "code": "600955",
+    "name": "维远股份",
+    "price": 18.52,
+    "change_pct": -0.48,
+    "pe": 35.7,
+    "pb": 1.33,
+    "turnover": 1.11,
+    "total_mv": 10186000000.0,
+    "change_60d": -9.53,
+    "change_ytd": 14.32
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7132.37万",
+      "net_profit_yoy": "143.86%",
+      "revenue": "26.81亿",
+      "revenue_yoy": "11.43%",
+      "eps": "0.1300",
+      "roe": "0.93%",
+      "net_margin": "2.66%",
+      "debt_ratio": "31.62%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "46.01亿",
+        "net_profit": "-1.68亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "67.52亿",
+        "net_profit": "-1.79亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "87.68亿",
+        "net_profit": "-9.92亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "26.81亿",
+        "net_profit": "7132.37万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-25 10:31:31",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 11:40:59",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 17:19:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 16:41:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-18 00:00:20",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:24"
+}

@@ -1,0 +1,80 @@
+{
+  "code": "000623",
+  "signal": {
+    "code": "000623",
+    "name": "吉林敖东",
+    "price": 18.83,
+    "change_pct": -0.42,
+    "pe": 6.5,
+    "pb": 0.72,
+    "turnover": 0.75,
+    "total_mv": 22518710137.0,
+    "change_60d": -7.88,
+    "change_ytd": -3.58
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "8.66亿",
+      "net_profit_yoy": "67.56%",
+      "revenue": "5.14亿",
+      "revenue_yoy": "-17.43%",
+      "eps": "0.7387",
+      "roe": "2.79%",
+      "net_margin": "168.28%",
+      "debt_ratio": "10.08%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "11.26亿",
+        "net_profit": "12.82亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "16.40亿",
+        "net_profit": "22.60亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "23.35亿",
+        "net_profit": "23.95亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "5.14亿",
+        "net_profit": "8.66亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 10:03:03",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 07:52:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 10:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 13:21:02",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 00:06:44",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:23"
+}

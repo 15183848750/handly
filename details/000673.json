@@ -1,0 +1,54 @@
+{
+  "code": "000673",
+  "signal": {
+    "code": "000673",
+    "name": "当代退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3772.69万",
+      "net_profit_yoy": "80.62%",
+      "revenue": "5799.03万",
+      "revenue_yoy": "41.03%",
+      "eps": "-0.0300",
+      "roe": "False",
+      "net_margin": "-66.75%",
+      "debt_ratio": "121.67%",
+      "report_period": "2025-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-12-31",
+        "revenue": "6958.95万",
+        "net_profit": "-1.03亿"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "4111.99万",
+        "net_profit": "-1.95亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "9183.10万",
+        "net_profit": "-2.45亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "5799.03万",
+        "net_profit": "-3772.69万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:57"
+}

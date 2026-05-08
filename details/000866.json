@@ -1,0 +1,70 @@
+{
+  "code": "000866",
+  "signal": {
+    "code": "000866",
+    "name": "扬子石化",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.23亿",
+      "net_profit_yoy": "-90.66%",
+      "revenue": "104.07亿",
+      "revenue_yoy": "7.43%",
+      "eps": "False",
+      "roe": "False",
+      "net_margin": "1.18%",
+      "debt_ratio": "21.91%",
+      "report_period": "2006-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2005-06-30",
+        "revenue": "191.71亿",
+        "net_profit": "23.32亿"
+      },
+      {
+        "report_period": "2005-09-30",
+        "revenue": "291.32亿",
+        "net_profit": "28.85亿"
+      },
+      {
+        "report_period": "2005-12-31",
+        "revenue": "397.76亿",
+        "net_profit": "35.20亿"
+      },
+      {
+        "report_period": "2006-03-31",
+        "revenue": "104.07亿",
+        "net_profit": "1.23亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-10 20:21:12",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-25 14:44:12",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-12-04 09:37:26",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:28"
+}

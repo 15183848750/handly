@@ -1,0 +1,80 @@
+{
+  "code": "688520",
+  "signal": {
+    "code": "688520",
+    "name": "神州细胞",
+    "price": 42.7,
+    "change_pct": -0.4,
+    "pe": -28.58,
+    "pb": 283.57,
+    "turnover": 0.53,
+    "total_mv": 20083334988.0,
+    "change_60d": 2.03,
+    "change_ytd": -1.41
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.76亿",
+      "net_profit_yoy": "-375.51%",
+      "revenue": "3.23亿",
+      "revenue_yoy": "-37.82%",
+      "eps": "-0.4100",
+      "roe": "-434.17%",
+      "net_margin": "-56.09%",
+      "debt_ratio": "81.60%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "9.72亿",
+        "net_profit": "-3377.11万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "13.12亿",
+        "net_profit": "-2.51亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "15.60亿",
+        "net_profit": "-5.65亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.23亿",
+        "net_profit": "-1.76亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-23 13:03:30",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 08:58:44",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 14:30:40",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 18:22:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 10:15:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:02"
+}

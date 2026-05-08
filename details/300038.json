@@ -1,0 +1,54 @@
+{
+  "code": "300038",
+  "signal": {
+    "code": "300038",
+    "name": "数知退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-898.82万",
+      "net_profit_yoy": "95.80%",
+      "revenue": "1.09亿",
+      "revenue_yoy": "-88.22%",
+      "eps": "-0.0077",
+      "roe": "False",
+      "net_margin": "-14.05%",
+      "debt_ratio": "129.55%",
+      "report_period": "2023-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2022-03-31",
+        "revenue": "6.29亿",
+        "net_profit": "-1996.71万"
+      },
+      {
+        "report_period": "2022-06-30",
+        "revenue": "9.29亿",
+        "net_profit": "-2.14亿"
+      },
+      {
+        "report_period": "2022-12-31",
+        "revenue": "13.75亿",
+        "net_profit": "-22.62亿"
+      },
+      {
+        "report_period": "2023-06-30",
+        "revenue": "1.09亿",
+        "net_profit": "-898.82万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:03"
+}

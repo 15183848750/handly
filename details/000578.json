@@ -1,0 +1,54 @@
+{
+  "code": "000578",
+  "signal": {
+    "code": "000578",
+    "name": "盐湖集团",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "14.99亿",
+      "net_profit_yoy": "2.62%",
+      "revenue": "58.97亿",
+      "revenue_yoy": "6.41%",
+      "eps": "0.4888",
+      "roe": "17.85%",
+      "net_margin": "40.17%",
+      "debt_ratio": "51.00%",
+      "report_period": "2010-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2010-03-31",
+        "revenue": "19.97亿",
+        "net_profit": "4.55亿"
+      },
+      {
+        "report_period": "2010-06-30",
+        "revenue": "32.55亿",
+        "net_profit": "9.76亿"
+      },
+      {
+        "report_period": "2010-09-30",
+        "revenue": "47.71亿",
+        "net_profit": "14.36亿"
+      },
+      {
+        "report_period": "2010-12-31",
+        "revenue": "58.97亿",
+        "net_profit": "14.99亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:24"
+}

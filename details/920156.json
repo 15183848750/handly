@@ -1,0 +1,156 @@
+{
+  "code": "920156",
+  "signal": {
+    "code": "920156",
+    "name": "海昌智能",
+    "price": 59.6,
+    "change_pct": 9.26,
+    "pe": 17.81,
+    "pb": 5.16,
+    "turnover": 25.89,
+    "total_mv": 6205552000.0,
+    "change_60d": 184.76,
+    "change_ytd": 184.76
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "8713.00万",
+      "net_profit_yoy": "219.22%",
+      "revenue": "4.32亿",
+      "revenue_yoy": "144.26%",
+      "eps": "1.0900",
+      "roe": "12.32%",
+      "net_margin": "20.15%",
+      "debt_ratio": "55.43%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4.38亿",
+        "net_profit": "6083.37万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "6.81亿",
+        "net_profit": "8879.91万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "10.64亿",
+        "net_profit": "1.54亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "4.32亿",
+        "net_profit": "8713.00万"
+      }
+    ]
+  },
+  "kline": [
+    {
+      "date": "2026-04-27",
+      "open": 44.12,
+      "close": 40.6,
+      "high": 44.59,
+      "low": 38.68,
+      "volume": 198504.0,
+      "turnover": 801258416.07
+    },
+    {
+      "date": "2026-04-28",
+      "open": 40.98,
+      "close": 39.8,
+      "high": 42.38,
+      "low": 38.9,
+      "volume": 103938.0,
+      "turnover": 419075691.22
+    },
+    {
+      "date": "2026-04-29",
+      "open": 39.0,
+      "close": 44.11,
+      "high": 44.42,
+      "low": 38.11,
+      "volume": 104532.0,
+      "turnover": 429460582.3
+    },
+    {
+      "date": "2026-04-30",
+      "open": 47.0,
+      "close": 48.49,
+      "high": 52.58,
+      "low": 46.5,
+      "volume": 102299.0,
+      "turnover": 502024982.78
+    },
+    {
+      "date": "2026-05-06",
+      "open": 48.45,
+      "close": 54.38,
+      "high": 55.77,
+      "low": 47.8,
+      "volume": 87320.0,
+      "turnover": 449059809.18
+    },
+    {
+      "date": "2026-05-07",
+      "open": 53.52,
+      "close": 54.55,
+      "high": 56.5,
+      "low": 52.28,
+      "volume": 66776.0,
+      "turnover": 360992217.53
+    },
+    {
+      "date": "2026-05-08",
+      "open": 56.0,
+      "close": 59.87,
+      "high": 62.88,
+      "low": 55.02,
+      "volume": 56238.0,
+      "turnover": 332220801.34
+    }
+  ],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-07 16:35:26",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:34:44",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 17:36:11",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 16:35:17",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 10:57:37",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {
+    "pe_percentile": "低估值",
+    "profit_trend": "利润增长",
+    "revenue_trend": "营收增长",
+    "tech_summary": "近60日强势上涨；年内大幅跑赢",
+    "risk_level": "高风险",
+    "risk_reasons": [
+      "换手率极高",
+      "波动率大"
+    ],
+    "volatility": 7.49,
+    "ai_summary": "海昌智能：当前PE处于低估值区间，利润增长，营收增长。技术面：近60日强势上涨；年内大幅跑赢。风险等级高风险。"
+  },
+  "update_time": "2026-05-08 13:57:06"
+}

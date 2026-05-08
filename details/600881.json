@@ -1,0 +1,80 @@
+{
+  "code": "600881",
+  "signal": {
+    "code": "600881",
+    "name": "亚泰集团",
+    "price": 1.6,
+    "change_pct": -0.62,
+    "pe": -5.76,
+    "pb": 12.03,
+    "turnover": 1.25,
+    "total_mv": 5171441581.0,
+    "change_60d": -12.57,
+    "change_ytd": -13.98
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2.25亿",
+      "net_profit_yoy": "52.11%",
+      "revenue": "8.95亿",
+      "revenue_yoy": "-12.76%",
+      "eps": "-0.0700",
+      "roe": "-44.33%",
+      "net_margin": "-34.74%",
+      "debt_ratio": "98.79%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "30.37亿",
+        "net_profit": "-8.23亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "47.83亿",
+        "net_profit": "-9.52亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "63.61亿",
+        "net_profit": "-20.40亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "8.95亿",
+        "net_profit": "-2.25亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:00:37",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 10:03:56",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-16 18:14:20",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 17:25:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:16:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:02"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "832317",
+  "signal": {
+    "code": "832317",
+    "name": "观典防务",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2065.40万",
+      "net_profit_yoy": "-24.94%",
+      "revenue": "3616.00万",
+      "revenue_yoy": "174.69%",
+      "eps": "-0.0600",
+      "roe": "-3.38%",
+      "net_margin": "-57.12%",
+      "debt_ratio": "15.68%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "1004.53万",
+        "net_profit": "-5320.59万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "7477.22万",
+        "net_profit": "-7206.44万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1.23亿",
+        "net_profit": "-2.17亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3616.00万",
+        "net_profit": "-2065.40万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:09"
+}

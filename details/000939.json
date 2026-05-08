@@ -1,0 +1,65 @@
+{
+  "code": "000939",
+  "signal": {
+    "code": "000939",
+    "name": "凯迪退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4.25亿",
+      "net_profit_yoy": "62.72%",
+      "revenue": "22.09亿",
+      "revenue_yoy": "100.59%",
+      "eps": "-0.0400",
+      "roe": "-18.76%",
+      "net_margin": "-19.22%",
+      "debt_ratio": "71.58%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "3.89亿",
+        "net_profit": "-3.06亿"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "11.01亿",
+        "net_profit": "-11.39亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "10.32亿",
+        "net_profit": "-8745.98万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "22.09亿",
+        "net_profit": "-4.25亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-10 17:30:12",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-23 16:18:13",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:24"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "002618",
+  "signal": {
+    "code": "002618",
+    "name": "丹邦退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-13.67亿",
+      "net_profit_yoy": "-1680.26%",
+      "revenue": "398.11万",
+      "revenue_yoy": "2.82%",
+      "eps": "-2.5000",
+      "roe": "False",
+      "net_margin": "-34347.25%",
+      "debt_ratio": "172.73%",
+      "report_period": "2025-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-12-31",
+        "revenue": "958.90万",
+        "net_profit": "-3.11亿"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "387.21万",
+        "net_profit": "-7680.93万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "990.67万",
+        "net_profit": "-3.25亿"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "398.11万",
+        "net_profit": "-13.67亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:27"
+}

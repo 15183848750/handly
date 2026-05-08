@@ -1,0 +1,54 @@
+{
+  "code": "600275",
+  "signal": {
+    "code": "600275",
+    "name": "退市昌鱼",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-690.35万",
+      "net_profit_yoy": "20.80%",
+      "revenue": "157.71万",
+      "revenue_yoy": "-15.58%",
+      "eps": "-0.0136",
+      "roe": "False",
+      "net_margin": "-437.72%",
+      "debt_ratio": "235.51%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "97.68万",
+        "net_profit": "-460.22万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "186.82万",
+        "net_profit": "-871.62万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "69.31万",
+        "net_profit": "-390.07万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "157.71万",
+        "net_profit": "-690.35万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:29"
+}

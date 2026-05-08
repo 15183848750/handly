@@ -1,0 +1,80 @@
+{
+  "code": "601878",
+  "signal": {
+    "code": "601878",
+    "name": "浙商证券",
+    "price": 9.81,
+    "change_pct": -0.51,
+    "pe": 14.93,
+    "pb": 1.19,
+    "turnover": 0.45,
+    "total_mv": 44868945029.0,
+    "change_60d": -7.71,
+    "change_ytd": -8.66
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7.51亿",
+      "net_profit_yoy": "35.20%",
+      "revenue": "23.59亿",
+      "revenue_yoy": "40.82%",
+      "eps": "0.1700",
+      "roe": "2.02%",
+      "net_margin": "34.91%",
+      "debt_ratio": "80.48%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "61.07亿",
+        "net_profit": "11.49亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "67.89亿",
+        "net_profit": "18.92亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "88.41亿",
+        "net_profit": "24.12亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "23.59亿",
+        "net_profit": "7.51亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-28 09:28:01",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 16:38:38",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 10:11:17",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 13:20:19",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 22:53:45",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:00"
+}

@@ -1,0 +1,65 @@
+{
+  "code": "300362",
+  "signal": {
+    "code": "300362",
+    "name": "天翔退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-9098.91万",
+      "net_profit_yoy": "-22.46%",
+      "revenue": "1.59亿",
+      "revenue_yoy": "15.76%",
+      "eps": "-0.0586",
+      "roe": "-73.26%",
+      "net_margin": "-57.17%",
+      "debt_ratio": "88.61%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-09-30",
+        "revenue": "8260.40万",
+        "net_profit": "-2691.68万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "1.37亿",
+        "net_profit": "-7430.11万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4952.25万",
+        "net_profit": "-2386.97万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "1.59亿",
+        "net_profit": "-9098.91万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-02-09 12:33:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2025-11-08 09:59:38",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:32"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "688635",
+  "signal": {
+    "code": "688635",
+    "name": "长进光子",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": NaN,
+    "change_ytd": NaN
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1988.65万",
+      "net_profit_yoy": "30.98%",
+      "revenue": "5395.30万",
+      "revenue_yoy": "20.62%",
+      "eps": "0.2800",
+      "roe": "3.12%",
+      "net_margin": "36.86%",
+      "debt_ratio": "28.31%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "False",
+        "net_profit": "3404.92万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "1.79亿",
+        "net_profit": "6472.58万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "2.47亿",
+        "net_profit": "9564.04万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "5395.30万",
+        "net_profit": "1988.65万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:41:14"
+}

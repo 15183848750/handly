@@ -1,0 +1,54 @@
+{
+  "code": "600677",
+  "signal": {
+    "code": "600677",
+    "name": "*ST航通",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "3032.46万",
+      "net_profit_yoy": "214.83%",
+      "revenue": "4.03亿",
+      "revenue_yoy": "153.20%",
+      "eps": "0.0400",
+      "roe": "11.94%",
+      "net_margin": "6.94%",
+      "debt_ratio": "75.38%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4.57亿",
+        "net_profit": "-135.86万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "8.98亿",
+        "net_profit": "-519.09万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "16.86亿",
+        "net_profit": "8.20亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "4.03亿",
+        "net_profit": "3032.46万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:33"
+}

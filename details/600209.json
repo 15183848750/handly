@@ -1,0 +1,54 @@
+{
+  "code": "600209",
+  "signal": {
+    "code": "600209",
+    "name": "退市罗顿",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-2613.58万",
+      "net_profit_yoy": "21.15%",
+      "revenue": "5341.05",
+      "revenue_yoy": "-99.84%",
+      "eps": "-0.0600",
+      "roe": "-49.32%",
+      "net_margin": "-489337.89%",
+      "debt_ratio": "74.53%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "65.88万",
+        "net_profit": "-1210.75万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "328.33万",
+        "net_profit": "-3314.83万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "5243.00",
+        "net_profit": "-1406.59万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "5341.05",
+        "net_profit": "-2613.58万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:41"
+}

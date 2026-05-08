@@ -1,0 +1,80 @@
+{
+  "code": "600835",
+  "signal": {
+    "code": "600835",
+    "name": "上海机电",
+    "price": 24.83,
+    "change_pct": -0.64,
+    "pe": 35.57,
+    "pb": 1.8,
+    "turnover": 0.87,
+    "total_mv": 25394617018.0,
+    "change_60d": -8.55,
+    "change_ytd": -17.26
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.78亿",
+      "net_profit_yoy": "-12.32%",
+      "revenue": "42.59亿",
+      "revenue_yoy": "1.13%",
+      "eps": "0.1700",
+      "roe": "1.27%",
+      "net_margin": "6.90%",
+      "debt_ratio": "48.09%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "94.38亿",
+        "net_profit": "4.91亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "147.09亿",
+        "net_profit": "7.05亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "192.94亿",
+        "net_profit": "7.92亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "42.59亿",
+        "net_profit": "1.78亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-22 09:17:45",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-21 21:36:58",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-21 17:00:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-21 20:16:37",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-09 12:49:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:12"
+}

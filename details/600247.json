@@ -1,0 +1,54 @@
+{
+  "code": "600247",
+  "signal": {
+    "code": "600247",
+    "name": "*ST成城",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-3699.33万",
+      "net_profit_yoy": "-2.44%",
+      "revenue": "534.86万",
+      "revenue_yoy": "-2.27%",
+      "eps": "-0.1100",
+      "roe": "False",
+      "net_margin": "-691.65%",
+      "debt_ratio": "158.80%",
+      "report_period": "2025-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-12-31",
+        "revenue": "False",
+        "net_profit": "False"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "547.30万",
+        "net_profit": "-3611.15万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "False",
+        "net_profit": "False"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "534.86万",
+        "net_profit": "-3699.33万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:43:35"
+}

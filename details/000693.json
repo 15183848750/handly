@@ -1,0 +1,54 @@
+{
+  "code": "000693",
+  "signal": {
+    "code": "000693",
+    "name": "华泽退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1.55亿",
+      "net_profit_yoy": "-34.20%",
+      "revenue": "105.18万",
+      "revenue_yoy": "-99.70%",
+      "eps": "-0.2852",
+      "roe": "False",
+      "net_margin": "-14734.98%",
+      "debt_ratio": "190.82%",
+      "report_period": "2018-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2017-12-31",
+        "revenue": "3.91亿",
+        "net_profit": "-22.88亿"
+      },
+      {
+        "report_period": "2018-03-31",
+        "revenue": "20.86万",
+        "net_profit": "-107.43万"
+      },
+      {
+        "report_period": "2018-06-30",
+        "revenue": "53.32万",
+        "net_profit": "-1.03亿"
+      },
+      {
+        "report_period": "2018-09-30",
+        "revenue": "105.18万",
+        "net_profit": "-1.55亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:53"
+}

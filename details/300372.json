@@ -1,0 +1,54 @@
+{
+  "code": "300372",
+  "signal": {
+    "code": "300372",
+    "name": "欣泰退",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-1751.11万",
+      "net_profit_yoy": "18.19%",
+      "revenue": "162.67万",
+      "revenue_yoy": "-79.89%",
+      "eps": "-0.1021",
+      "roe": "False",
+      "net_margin": "-1087.95%",
+      "debt_ratio": "341.76%",
+      "report_period": "2022-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2021-12-31",
+        "revenue": "1064.55万",
+        "net_profit": "-3572.71万"
+      },
+      {
+        "report_period": "2022-03-31",
+        "revenue": "55.33万",
+        "net_profit": "-635.66万"
+      },
+      {
+        "report_period": "2022-06-30",
+        "revenue": "63.10万",
+        "net_profit": "-1426.20万"
+      },
+      {
+        "report_period": "2022-09-30",
+        "revenue": "162.67万",
+        "net_profit": "-1751.11万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:29"
+}

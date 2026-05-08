@@ -1,0 +1,80 @@
+{
+  "code": "601939",
+  "signal": {
+    "code": "601939",
+    "name": "建设银行",
+    "price": 9.67,
+    "change_pct": -0.41,
+    "pe": 7.33,
+    "pb": 0.71,
+    "turnover": 0.44,
+    "total_mv": 2529675688709.0,
+    "change_60d": 10.89,
+    "change_ytd": 4.2
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "862.91亿",
+      "net_profit_yoy": "3.53%",
+      "revenue": "2112.56亿",
+      "revenue_yoy": "11.15%",
+      "eps": "0.3300",
+      "roe": "2.46%",
+      "net_margin": "41.10%",
+      "debt_ratio": "92.00%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "3942.73亿",
+        "net_profit": "1620.76亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "5737.02亿",
+        "net_profit": "2573.60亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "7610.49亿",
+        "net_profit": "3389.06亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2112.56亿",
+        "net_profit": "862.91亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 09:28:41",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 19:40:59",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:16"
+}

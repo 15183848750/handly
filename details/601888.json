@@ -1,0 +1,80 @@
+{
+  "code": "601888",
+  "signal": {
+    "code": "601888",
+    "name": "中国中免",
+    "price": 62.77,
+    "change_pct": -0.44,
+    "pe": 13.88,
+    "pb": 2.25,
+    "turnover": 0.85,
+    "total_mv": 130423295344.0,
+    "change_60d": -29.76,
+    "change_ytd": -33.62
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "23.48亿",
+      "net_profit_yoy": "21.18%",
+      "revenue": "169.06亿",
+      "revenue_yoy": "0.96%",
+      "eps": "1.1351",
+      "roe": "4.16%",
+      "net_margin": "14.02%",
+      "debt_ratio": "25.54%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "281.51亿",
+        "net_profit": "26.00亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "398.62亿",
+        "net_profit": "30.52亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "536.94亿",
+        "net_profit": "35.86亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "169.06亿",
+        "net_profit": "23.48亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-30 09:41:14",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 20:36:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 19:59:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 23:52:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:36"
+}

@@ -1,0 +1,54 @@
+{
+  "code": "600087",
+  "signal": {
+    "code": "600087",
+    "name": "退市长油",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4.32亿",
+      "net_profit_yoy": "51.73%",
+      "revenue": "15.68亿",
+      "revenue_yoy": "14.19%",
+      "eps": "0.0923",
+      "roe": "3.66%",
+      "net_margin": "27.70%",
+      "debt_ratio": "11.08%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "27.72亿",
+        "net_profit": "5.70亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "42.68亿",
+        "net_profit": "9.47亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "58.20亿",
+        "net_profit": "13.11亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "15.68亿",
+        "net_profit": "4.32亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:44:00"
+}

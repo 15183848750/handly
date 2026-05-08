@@ -1,0 +1,80 @@
+{
+  "code": "002457",
+  "signal": {
+    "code": "002457",
+    "name": "青龙管业",
+    "price": 11.6,
+    "change_pct": -0.51,
+    "pe": -152.51,
+    "pb": 1.52,
+    "turnover": 2.98,
+    "total_mv": 3868446880.0,
+    "change_60d": -7.05,
+    "change_ytd": 6.13
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-634.11万",
+      "net_profit_yoy": "-18.18%",
+      "revenue": "2.52亿",
+      "revenue_yoy": "-10.87%",
+      "eps": "-0.0200",
+      "roe": "-0.25%",
+      "net_margin": "-2.98%",
+      "debt_ratio": "40.58%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "9.33亿",
+        "net_profit": "1347.48万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "15.68亿",
+        "net_profit": "5099.50万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "26.28亿",
+        "net_profit": "1.30亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "2.52亿",
+        "net_profit": "-634.11万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-24 11:28:02",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 09:35:40",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:37:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 19:01:25",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 17:11:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:58"
+}

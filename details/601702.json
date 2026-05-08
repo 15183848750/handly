@@ -1,0 +1,80 @@
+{
+  "code": "601702",
+  "signal": {
+    "code": "601702",
+    "name": "华峰铝业",
+    "price": 19.0,
+    "change_pct": -0.47,
+    "pe": 19.53,
+    "pb": 2.84,
+    "turnover": 0.81,
+    "total_mv": 18972081400.0,
+    "change_60d": -27.87,
+    "change_ytd": -7.18
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.43亿",
+      "net_profit_yoy": "-8.78%",
+      "revenue": "29.77亿",
+      "revenue_yoy": "2.49%",
+      "eps": "0.2400",
+      "roe": "3.71%",
+      "net_margin": "8.16%",
+      "debt_ratio": "34.29%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "59.64亿",
+        "net_profit": "5.70亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "91.09亿",
+        "net_profit": "8.96亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "124.87亿",
+        "net_profit": "12.02亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "29.77亿",
+        "net_profit": "2.43亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-01 09:18:23",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 17:42:42",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 22:55:40",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 15:09:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 09:17:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:09"
+}

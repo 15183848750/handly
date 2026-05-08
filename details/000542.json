@@ -1,0 +1,54 @@
+{
+  "code": "000542",
+  "signal": {
+    "code": "000542",
+    "name": "TCL通讯",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1.89亿",
+      "net_profit_yoy": "3.60%",
+      "revenue": "73.92亿",
+      "revenue_yoy": "21.39%",
+      "eps": "False",
+      "roe": "False",
+      "net_margin": "7.55%",
+      "debt_ratio": "65.04%",
+      "report_period": "2003-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2002-12-31",
+        "revenue": "87.23亿",
+        "net_profit": "2.76亿"
+      },
+      {
+        "report_period": "2003-03-31",
+        "revenue": "29.12亿",
+        "net_profit": "7180.05万"
+      },
+      {
+        "report_period": "2003-06-30",
+        "revenue": "52.58亿",
+        "net_profit": "1.45亿"
+      },
+      {
+        "report_period": "2003-09-30",
+        "revenue": "73.92亿",
+        "net_profit": "1.89亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:47:30"
+}

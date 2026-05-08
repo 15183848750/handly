@@ -1,0 +1,80 @@
+{
+  "code": "603788",
+  "signal": {
+    "code": "603788",
+    "name": "宁波高发",
+    "price": 17.18,
+    "change_pct": -0.41,
+    "pe": 20.42,
+    "pb": 1.76,
+    "turnover": 1.52,
+    "total_mv": 3832257868.0,
+    "change_60d": 5.21,
+    "change_ytd": 5.14
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4692.03万",
+      "net_profit_yoy": "1.50%",
+      "revenue": "3.65亿",
+      "revenue_yoy": "-5.55%",
+      "eps": "0.2100",
+      "roe": "2.18%",
+      "net_margin": "12.77%",
+      "debt_ratio": "17.45%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "7.87亿",
+        "net_profit": "1.04亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "11.50亿",
+        "net_profit": "1.56亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "15.82亿",
+        "net_profit": "2.16亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.65亿",
+        "net_profit": "4692.03万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-29 09:10:10",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-28 16:45:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-01 11:47:17",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 19:02:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 09:34:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:18"
+}

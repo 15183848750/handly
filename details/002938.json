@@ -1,0 +1,80 @@
+{
+  "code": "002938",
+  "signal": {
+    "code": "002938",
+    "name": "鹏鼎控股",
+    "price": 75.35,
+    "change_pct": -0.63,
+    "pe": 94.36,
+    "pb": 5.04,
+    "turnover": 1.19,
+    "total_mv": 174665144056.0,
+    "change_60d": 32.03,
+    "change_ytd": 48.97
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "4.63亿",
+      "net_profit_yoy": "-5.21%",
+      "revenue": "79.86亿",
+      "revenue_yoy": "-1.25%",
+      "eps": "0.2000",
+      "roe": "1.35%",
+      "net_margin": "5.58%",
+      "debt_ratio": "30.36%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "163.75亿",
+        "net_profit": "12.33亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "268.55亿",
+        "net_profit": "24.08亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "391.47亿",
+        "net_profit": "37.38亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "79.86亿",
+        "net_profit": "4.63亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-22 16:27:10",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 17:38:06",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 17:36:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-29 20:34:03",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:21:10"
+}

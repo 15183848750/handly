@@ -1,0 +1,80 @@
+{
+  "code": "002151",
+  "signal": {
+    "code": "002151",
+    "name": "北斗星通",
+    "price": 43.81,
+    "change_pct": -0.54,
+    "pe": 438.66,
+    "pb": 4.92,
+    "turnover": 5.19,
+    "total_mv": 23784927099.0,
+    "change_60d": 0.32,
+    "change_ytd": -3.57
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "1355.54万",
+      "net_profit_yoy": "145.76%",
+      "revenue": "6.15亿",
+      "revenue_yoy": "93.28%",
+      "eps": "0.0250",
+      "roe": "0.28%",
+      "net_margin": "1.39%",
+      "debt_ratio": "18.62%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "8.92亿",
+        "net_profit": "141.80万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "15.07亿",
+        "net_profit": "1810.67万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "22.13亿",
+        "net_profit": "-2.57亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "6.15亿",
+        "net_profit": "1355.54万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-27 09:11:13",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 20:34:51",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-30 16:58:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 17:06:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-20 09:16:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:22"
+}

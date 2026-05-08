@@ -1,0 +1,54 @@
+{
+  "code": "000675",
+  "signal": {
+    "code": "000675",
+    "name": "ST银山",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-4101.44万",
+      "net_profit_yoy": "0.75%",
+      "revenue": "116.98万",
+      "revenue_yoy": "1.05%",
+      "eps": "-0.3600",
+      "roe": "False",
+      "net_margin": "-3511.96%",
+      "debt_ratio": "2187.53%",
+      "report_period": "2025-12-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2024-06-30",
+        "revenue": "59.20万",
+        "net_profit": "-2445.54万"
+      },
+      {
+        "report_period": "2024-12-31",
+        "revenue": "115.76万",
+        "net_profit": "-4132.56万"
+      },
+      {
+        "report_period": "2025-06-30",
+        "revenue": "58.58万",
+        "net_profit": "-1925.65万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "116.98万",
+        "net_profit": "-4101.44万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:56"
+}

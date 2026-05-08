@@ -1,0 +1,80 @@
+{
+  "code": "301121",
+  "signal": {
+    "code": "301121",
+    "name": "紫建电子",
+    "price": 39.09,
+    "change_pct": -0.43,
+    "pe": -221.75,
+    "pb": 2.33,
+    "turnover": 1.72,
+    "total_mv": 3863110568.0,
+    "change_60d": -3.51,
+    "change_ytd": -1.88
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-435.52万",
+      "net_profit_yoy": "-279.13%",
+      "revenue": "3.33亿",
+      "revenue_yoy": "42.63%",
+      "eps": "-0.0400",
+      "roe": "-0.26%",
+      "net_margin": "2.65%",
+      "debt_ratio": "47.29%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "5.48亿",
+        "net_profit": "1147.16万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "9.45亿",
+        "net_profit": "1213.20万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "13.25亿",
+        "net_profit": "724.76万"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "3.33亿",
+        "net_profit": "-435.52万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-27 09:23:35",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 08:56:35",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-26 23:14:52",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-26 23:14:52",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-27 16:20:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:18:33"
+}

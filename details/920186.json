@@ -3,14 +3,14 @@
   "signal": {
     "code": "920186",
     "name": "中科仪",
-    "price": 86.25,
-    "change_pct": 12.01,
-    "pe": 28.13,
-    "pb": 5.64,
-    "turnover": 28.31,
-    "total_mv": 19306122375.0,
-    "change_60d": 432.08,
-    "change_ytd": 432.08
+    "price": 88.68,
+    "change_pct": 2.82,
+    "pe": 28.92,
+    "pb": 5.8,
+    "turnover": 19.16,
+    "total_mv": 19850051388.0,
+    "change_60d": 447.07,
+    "change_ytd": 447.07
   },
   "financials": {
     "summary": {
@@ -83,6 +83,15 @@
       "low": 74.5,
       "volume": 270451.0,
       "turnover": 2179163504.94
+    },
+    {
+      "date": "2026-05-08",
+      "open": 85.0,
+      "close": 86.9,
+      "high": 93.88,
+      "low": 84.02,
+      "volume": 193594.0,
+      "turnover": 1723074991.89
     }
   ],
   "news": [
@@ -121,8 +130,8 @@
     "risk_reasons": [
       "换手率极高"
     ],
-    "volatility": 0,
+    "volatility": 4.92,
     "ai_summary": "中科仪：当前PE处于估值合理区间，利润增长，营收增长。技术面：近60日强势上涨；年内大幅跑赢。风险等级中风险。"
   },
-  "update_time": "2026-05-08 05:10:34"
+  "update_time": "2026-05-08 14:10:53"
 }

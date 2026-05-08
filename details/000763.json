@@ -1,0 +1,60 @@
+{
+  "code": "000763",
+  "signal": {
+    "code": "000763",
+    "name": "锦州石化",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-8.00亿",
+      "net_profit_yoy": "-610.27%",
+      "revenue": "135.34亿",
+      "revenue_yoy": "26.70%",
+      "eps": "False",
+      "roe": "False",
+      "net_margin": "-5.91%",
+      "debt_ratio": "68.55%",
+      "report_period": "2005-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2004-12-31",
+        "revenue": "150.38亿",
+        "net_profit": "2.68亿"
+      },
+      {
+        "report_period": "2005-03-31",
+        "revenue": "45.89亿",
+        "net_profit": "-5532.32万"
+      },
+      {
+        "report_period": "2005-06-30",
+        "revenue": "86.36亿",
+        "net_profit": "-6.18亿"
+      },
+      {
+        "report_period": "2005-09-30",
+        "revenue": "135.34亿",
+        "net_profit": "-8.00亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-13 18:48:10",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:46"
+}

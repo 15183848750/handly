@@ -1,0 +1,54 @@
+{
+  "code": "002699",
+  "signal": {
+    "code": "002699",
+    "name": "*ST美盛",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-6868.05万",
+      "net_profit_yoy": "-223.57%",
+      "revenue": "3.07亿",
+      "revenue_yoy": "-5.70%",
+      "eps": "-0.0755",
+      "roe": "-6.71%",
+      "net_margin": "-22.22%",
+      "debt_ratio": "38.12%",
+      "report_period": "2024-06-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2023-09-30",
+        "revenue": "7.25亿",
+        "net_profit": "4744.60万"
+      },
+      {
+        "report_period": "2023-12-31",
+        "revenue": "9.81亿",
+        "net_profit": "-1.11亿"
+      },
+      {
+        "report_period": "2024-03-31",
+        "revenue": "1.43亿",
+        "net_profit": "-670.34万"
+      },
+      {
+        "report_period": "2024-06-30",
+        "revenue": "3.07亿",
+        "net_profit": "-6868.05万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:45:20"
+}

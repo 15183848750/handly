@@ -1,0 +1,54 @@
+{
+  "code": "600646",
+  "signal": {
+    "code": "600646",
+    "name": "ST国嘉",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "-9.35万",
+      "net_profit_yoy": "-51.19%",
+      "revenue": "0.0000",
+      "revenue_yoy": "False",
+      "eps": "-0.0005",
+      "roe": "-198.43%",
+      "net_margin": "False",
+      "debt_ratio": "798.37%",
+      "report_period": "2016-09-30"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2015-12-31",
+        "revenue": "49.51万",
+        "net_profit": "9.29万"
+      },
+      {
+        "report_period": "2016-03-31",
+        "revenue": "0.0000",
+        "net_profit": "-3.70万"
+      },
+      {
+        "report_period": "2016-06-30",
+        "revenue": "0.0000",
+        "net_profit": "-6.22万"
+      },
+      {
+        "report_period": "2016-09-30",
+        "revenue": "0.0000",
+        "net_profit": "-9.35万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:42:42"
+}

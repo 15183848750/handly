@@ -1,0 +1,65 @@
+{
+  "code": "000916",
+  "signal": {
+    "code": "000916",
+    "name": "华北高速",
+    "price": NaN,
+    "change_pct": NaN,
+    "pe": NaN,
+    "pb": NaN,
+    "turnover": 0.0,
+    "total_mv": NaN,
+    "change_60d": 0.0,
+    "change_ytd": 0.0
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "7778.57万",
+      "net_profit_yoy": "26.15%",
+      "revenue": "2.23亿",
+      "revenue_yoy": "4.38%",
+      "eps": "False",
+      "roe": "False",
+      "net_margin": "36.29%",
+      "debt_ratio": "11.71%",
+      "report_period": "2018-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2017-06-30",
+        "revenue": "4.84亿",
+        "net_profit": "1.74亿"
+      },
+      {
+        "report_period": "2017-09-30",
+        "revenue": "7.59亿",
+        "net_profit": "2.81亿"
+      },
+      {
+        "report_period": "2017-12-31",
+        "revenue": "10.02亿",
+        "net_profit": "3.77亿"
+      },
+      {
+        "report_period": "2018-03-31",
+        "revenue": "2.23亿",
+        "net_profit": "7778.57万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-10 19:25:06",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-01-25 19:18:47",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:46:27"
+}

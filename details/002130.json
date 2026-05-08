@@ -1,0 +1,80 @@
+{
+  "code": "002130",
+  "signal": {
+    "code": "002130",
+    "name": "沃尔核材",
+    "price": 23.65,
+    "change_pct": -0.55,
+    "pe": 35.79,
+    "pb": 3.62,
+    "turnover": 2.54,
+    "total_mv": 33107336111.0,
+    "change_60d": -12.37,
+    "change_ytd": -10.14
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2.31亿",
+      "net_profit_yoy": "-7.63%",
+      "revenue": "20.32亿",
+      "revenue_yoy": "15.52%",
+      "eps": "0.1726",
+      "roe": "2.60%",
+      "net_margin": "11.97%",
+      "debt_ratio": "35.83%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "39.45亿",
+        "net_profit": "5.58亿"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "60.82亿",
+        "net_profit": "8.22亿"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "84.51亿",
+        "net_profit": "11.44亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "20.32亿",
+        "net_profit": "2.31亿"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-05-08 11:46:29",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-08 12:31:41",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-06 16:26:32",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-04 11:41:03",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-05-07 16:40:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:20:24"
+}

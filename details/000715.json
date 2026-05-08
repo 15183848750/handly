@@ -1,0 +1,80 @@
+{
+  "code": "000715",
+  "signal": {
+    "code": "000715",
+    "name": "中兴商业",
+    "price": 5.81,
+    "change_pct": -0.51,
+    "pe": 38.03,
+    "pb": 1.54,
+    "turnover": 3.03,
+    "total_mv": 3139925154.0,
+    "change_60d": -8.5,
+    "change_ytd": -7.63
+  },
+  "financials": {
+    "summary": {
+      "net_profit": "2064.17万",
+      "net_profit_yoy": "1.10%",
+      "revenue": "1.96亿",
+      "revenue_yoy": "-8.10%",
+      "eps": "0.0400",
+      "roe": "1.02%",
+      "net_margin": "10.55%",
+      "debt_ratio": "27.50%",
+      "report_period": "2026-03-31"
+    },
+    "quarterly_trend": [
+      {
+        "report_period": "2025-06-30",
+        "revenue": "4.02亿",
+        "net_profit": "4882.95万"
+      },
+      {
+        "report_period": "2025-09-30",
+        "revenue": "5.62亿",
+        "net_profit": "6841.45万"
+      },
+      {
+        "report_period": "2025-12-31",
+        "revenue": "7.46亿",
+        "net_profit": "1.14亿"
+      },
+      {
+        "report_period": "2026-03-31",
+        "revenue": "1.96亿",
+        "net_profit": "2064.17万"
+      }
+    ]
+  },
+  "kline": [],
+  "news": [
+    {
+      "title": "",
+      "time": "2026-04-25 10:23:30",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-25 11:17:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 15:47:56",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 15:13:00",
+      "source": ""
+    },
+    {
+      "title": "",
+      "time": "2026-04-23 14:09:00",
+      "source": ""
+    }
+  ],
+  "ai_analysis": {},
+  "update_time": "2026-05-08 15:19:50"
+}
