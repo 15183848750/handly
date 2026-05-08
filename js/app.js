@@ -456,6 +456,7 @@
   // === AI 分析 Tab ===
   function renderAITab() {
     var container = document.getElementById('aiCards');
+    if (!container) return;
     var detail = getCacheDetail();
     var ai = detail.ai_analysis || {};
 
@@ -469,59 +470,70 @@
     // AI 摘要
     if (ai.ai_summary) {
       cards.push('<div class="ai-card">' +
-        '<div class="ai-card-title">📊 AI综合摘要</div>' +
-        '<div class="ai-card-body"><p>' + ai.ai_summary + '</p></div>' +
+        '<div class="ai-card-title">AI综合摘要</div>' +
+        '<div class="ai-card-body"><p style="line-height:1.7;margin:0">' + ai.ai_summary + '</p></div>' +
       '</div>');
     }
 
-    // PE 百分位
-    if (ai.pe_percentile !== undefined && ai.pe_percentile !== null) {
-      var pp = +ai.pe_percentile;
-      var ppCls = pp < 30 ? 'ai-positive' : pp < 70 ? 'ai-neutral' : 'ai-negative';
-      var ppLabel = pp < 30 ? '低估值区间' : pp < 70 ? '合理估值区间' : '高估值区间';
+    // PE 估值
+    if (ai.pe_percentile) {
+      var ppText = ai.pe_percentile;
+      var ppCls = ppText.indexOf('低') !== -1 ? 'ai-positive' : ppText.indexOf('高') !== -1 ? 'ai-negative' : 'ai-neutral';
       cards.push('<div class="ai-card">' +
-        '<div class="ai-card-title">📈 PE估值百分位</div>' +
-        '<div class="ai-card-body">' +
-        '<div class="ai-metric-row"><span class="ai-metric-label">当前百分位</span><span class="ai-metric-val ' + ppCls + '">' + pp.toFixed(1) + '%</span></div>' +
-        '<div class="ai-metric-row"><span class="ai-metric-label">估值判断</span><span class="ai-metric-val ' + ppCls + '">' + ppLabel + '</span></div>' +
-        (ai.pe_current ? '<div class="ai-metric-row"><span class="ai-metric-label">当前PE</span><span class="ai-metric-val">' + (+ai.pe_current).toFixed(2) + '</span></div>' : '') +
-        (ai.pe_median ? '<div class="ai-metric-row"><span class="ai-metric-label">历史中位数PE</span><span class="ai-metric-val">' + (+ai.pe_median).toFixed(2) + '</span></div>' : '') +
-        '</div></div>');
+        '<div class="ai-card-title">PE估值</div>' +
+        '<div class="ai-card-body"><p class="' + ppCls + '">' + ppText + '</p></div>' +
+      '</div>');
     }
 
     // 利润趋势
     if (ai.profit_trend) {
-      var ptCls = ai.profit_trend.indexOf('增长') !== -1 || ai.profit_trend.indexOf('正') !== -1 ? 'ai-positive' :
-                  ai.profit_trend.indexOf('下降') !== -1 || ai.profit_trend.indexOf('负') !== -1 ? 'ai-negative' : 'ai-neutral';
+      var ptCls = ai.profit_trend.indexOf('增长') !== -1 ? 'ai-positive' :
+                  ai.profit_trend.indexOf('下滑') !== -1 ? 'ai-negative' : 'ai-neutral';
       cards.push('<div class="ai-card">' +
-        '<div class="ai-card-title">💰 利润趋势</div>' +
+        '<div class="ai-card-title">利润趋势</div>' +
         '<div class="ai-card-body"><p class="' + ptCls + '">' + ai.profit_trend + '</p></div>' +
       '</div>');
     }
 
-    // 风险评估
-    if (ai.risk_assessment) {
-      var raCls = ai.risk_assessment.indexOf('低') !== -1 ? 'ai-positive' :
-                  ai.risk_assessment.indexOf('高') !== -1 ? 'ai-negative' : 'ai-warning';
+    // 营收趋势
+    if (ai.revenue_trend) {
+      var rtCls = ai.revenue_trend.indexOf('增长') !== -1 ? 'ai-positive' :
+                  ai.revenue_trend.indexOf('下滑') !== -1 ? 'ai-negative' : 'ai-neutral';
       cards.push('<div class="ai-card">' +
-        '<div class="ai-card-title">⚠️ 风险评估</div>' +
-        '<div class="ai-card-body"><p class="' + raCls + '">' + ai.risk_assessment + '</p></div>' +
+        '<div class="ai-card-title">营收趋势</div>' +
+        '<div class="ai-card-body"><p class="' + rtCls + '">' + ai.revenue_trend + '</p></div>' +
       '</div>');
     }
 
-    // 其他指标
-    var extraKeys = ['growth_score', 'value_score', 'momentum_score', 'quality_score'];
-    var extraLabels = { 'growth_score': '成长性评分', 'value_score': '价值评分', 'momentum_score': '动量评分', 'quality_score': '质量评分' };
-    var extraItems = [];
-    extraKeys.forEach(function(k) {
-      if (ai[k] !== undefined && ai[k] !== null) {
-        extraItems.push('<div class="ai-metric-row"><span class="ai-metric-label">' + (extraLabels[k] || k) + '</span><span class="ai-metric-val">' + (+ai[k]).toFixed(1) + '</span></div>');
-      }
-    });
-    if (extraItems.length > 0) {
+    // 技术面
+    if (ai.tech_summary) {
       cards.push('<div class="ai-card">' +
-        '<div class="ai-card-title">📋 综合评分</div>' +
-        '<div class="ai-card-body">' + extraItems.join('') + '</div></div>');
+        '<div class="ai-card-title">技术面</div>' +
+        '<div class="ai-card-body"><p style="line-height:1.7;margin:0">' + ai.tech_summary + '</p></div>' +
+      '</div>');
+    }
+
+    // 风险评估
+    if (ai.risk_level) {
+      var rlCls = ai.risk_level.indexOf('低') !== -1 ? 'ai-positive' :
+                  ai.risk_level.indexOf('高') !== -1 ? 'ai-negative' : 'ai-warning';
+      var reasonsHtml = '';
+      if (ai.risk_reasons && ai.risk_reasons.length) {
+        reasonsHtml = '<div style="margin-top:6px;font-size:0.75rem;color:#787b86">' +
+          ai.risk_reasons.map(function(r) { return '· ' + r; }).join('<br>') + '</div>';
+      }
+      cards.push('<div class="ai-card">' +
+        '<div class="ai-card-title">风险评估</div>' +
+        '<div class="ai-card-body"><p class="' + rlCls + '">' + ai.risk_level + '</p>' + reasonsHtml + '</div>' +
+      '</div>');
+    }
+
+    // 波动率
+    if (ai.volatility !== undefined && ai.volatility !== null) {
+      cards.push('<div class="ai-card">' +
+        '<div class="ai-card-title">波动率</div>' +
+        '<div class="ai-card-body"><p>' + (+ai.volatility).toFixed(2) + '%</p></div>' +
+      '</div>');
     }
 
     container.innerHTML = cards.length > 0 ? cards.join('') : '<div class="no-data">暂无AI分析数据</div>';
