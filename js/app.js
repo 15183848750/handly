@@ -172,7 +172,9 @@
 
     // 检查旧版 bundled 数据（兼容）
     if (D.details && D.details[code]) {
+      dlog('getDetailData 命中 D.details 缓存', 'ok');
       detailCache[code] = D.details[code];
+      hideDetailLoading();
       callback(detailCache[code]);
       return;
     }
