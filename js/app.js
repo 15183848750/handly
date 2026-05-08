@@ -185,9 +185,10 @@
         hideDetailLoading();
         callback(data);
       })
-      .catch(function() {
+      .catch(function(err) {
         detailLoading = false;
-        hideDetailLoading();
+        var ov = document.getElementById('detailLoadingOverlay');
+        if (ov) ov.innerHTML = '<div style="color:#ef4444;font-size:0.85rem;text-align:center">加载失败: ' + (err && err.message || '网络错误') + '<br><small>请检查网络或刷新重试</small></div>';
         callback({});
       });
   }
@@ -309,57 +310,50 @@
   // === 财务 Tab ===
   function renderFinanceTab() {
     var grid = document.getElementById('financeGrid');
+    if (!grid) return;
     var detail = getCacheDetail();
-    var fin = detail.financials || {};
+    var fin = (detail.financials && detail.financials.summary) || {};
+    var signal = detail.signal || {};
 
     var items = [
-      { label: 'PE（市盈率）', key: 'pe', unit: '', isPct: false },
-      { label: 'PB（市净率）', key: 'pb', unit: '', isPct: false },
-      { label: 'ROE', key: 'roe', unit: '%', isPct: true },
-      { label: '净利润', key: 'net_profit', unit: '', isMoney: true },
-      { label: '营收', key: 'revenue', unit: '', isMoney: true },
-      { label: '资产负债率', key: 'debt_ratio', unit: '%', isPct: true },
-      { label: 'EPS', key: 'eps', unit: '', isPct: false }
+      { label: 'PE（市盈率）', key: 'pe', source: 'signal' },
+      { label: 'PB（市净率）', key: 'pb', source: 'signal' },
+      { label: 'ROE', key: 'roe', source: 'fin' },
+      { label: '净利润', key: 'net_profit', source: 'fin' },
+      { label: '营收', key: 'revenue', source: 'fin' },
+      { label: '资产负债率', key: 'debt_ratio', source: 'fin' },
+      { label: '每股收益', key: 'eps', source: 'fin' },
+      { label: '净利率', key: 'net_margin', source: 'fin' }
     ];
 
-    if (!fin || Object.keys(fin).length === 0) {
+    if ((!fin || Object.keys(fin).length === 0) && (!signal || Object.keys(signal).length === 0)) {
       grid.innerHTML = '<div class="no-data">暂无财务数据</div>';
       return;
     }
 
     grid.innerHTML = items.map(function(item) {
-      var val = fin[item.key];
-      var prev = fin[item.key + '_prev'];
+      var val = item.source === 'signal' ? signal[item.key] : fin[item.key];
       var displayVal = '-';
-      var trendHTML = '';
-
-      if (val !== undefined && val !== null) {
-        if (item.isMoney) {
-          displayVal = fmtAmt(val);
-        } else if (item.isPct) {
-          displayVal = (+val).toFixed(2) + '%';
+      if (val !== undefined && val !== null && val !== '') {
+        if (item.key === 'net_profit' || item.key === 'revenue') {
+          displayVal = val;
+        } else if (item.key === 'roe' || item.key === 'debt_ratio' || item.key === 'net_margin') {
+          displayVal = (typeof val === 'string' && val.indexOf('%') !== -1) ? val : (+val).toFixed(2) + '%';
         } else {
           displayVal = (+val).toFixed(2);
         }
       }
 
-      if (prev !== undefined && prev !== null && val !== undefined && val !== null && prev !== 0) {
-        var delta = (+val) - (+prev);
-        var isUp = delta > 0;
-        var trendIcon = isUp ? '↑' : '↓';
-        var trendCls = isUp ? 'fin-trend-up' : 'fin-trend-down';
-        var deltaStr = Math.abs(delta).toFixed(2);
-        if (item.isPct) deltaStr = Math.abs(delta).toFixed(2) + 'pp';
-        if (item.isMoney) deltaStr = fmtAmt(Math.abs(delta));
-        trendHTML = '<span class="fin-card-trend ' + trendCls + '">' + trendIcon + deltaStr + '</span>';
-      }
-
       return '<div class="fin-card">' +
         '<div class="fin-card-label">' + item.label + '</div>' +
-        '<div class="fin-card-value">' + displayVal + '</div>' +
-        '<div class="fin-card-detail">' + trendHTML + '</div>' +
+        '<div class="fin-card-value" style="font-size:1.1rem;font-weight:700;color:#d1d4dc">' + displayVal + '</div>' +
       '</div>';
     }).join('');
+
+    // 报告期
+    if (fin.report_period) {
+      grid.innerHTML += '<div class="no-data" style="grid-column:1/-1;font-size:0.75rem">报告期: ' + fin.report_period + '</div>';
+    }
   }
 
   // === K线图 Tab ===
