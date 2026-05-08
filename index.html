@@ -23,7 +23,8 @@
   <div class="tabs-inner">
     <button class="tab active" data-tab="signals">信号选股</button>
     <button class="tab" data-tab="limitup">涨停板</button>
-    <button class="tab" data-tab="all">全市场扫描</button>
+    <button class="tab" data-tab="sectors">板块热度</button>
+    <button class="tab" data-tab="all">综合排名</button>
   </div>
 </nav>
 
@@ -66,6 +67,14 @@
         <tbody></tbody>
       </table>
     </div>
+  </section>
+
+  <!-- 板块热度 Tab -->
+  <section id="tab-sectors" class="tab-content">
+    <div class="section-header">
+      <h2>板块涨停热度</h2>
+    </div>
+    <div class="sector-grid" id="sectorGrid"></div>
   </section>
 
   <!-- 全市场 Tab -->
@@ -146,7 +155,7 @@
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
-<script src="js/data.js?v=4"></script>
-<script src="js/app.js?v=4"></script>
+<script src="js/data.js?v=5"></script>
+<script src="js/app.js?v=5"></script>
 </body>
 </html>

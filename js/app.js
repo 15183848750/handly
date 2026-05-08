@@ -44,7 +44,17 @@
     return ts || '--';
   }
 
-  // ==================== 搜索索引构建 ====================
+  function gradeClass(grade) {
+    if (grade === 'A') return 'grade-a';
+    if (grade === 'B') return 'grade-b';
+    if (grade === 'C') return 'grade-c';
+    return 'grade-d';
+  }
+
+  function gradeLabel(grade) {
+    var map = {A:'优质', B:'良好', C:'一般', D:'差'};
+    return map[grade] || '-';
+  }
   function buildSearchIndex() {
     var map = {};
     // 从 stock_index 读取（如果有）
@@ -788,6 +798,15 @@
     }
     if (signal.pe && signal.pe > 0) metaExtra += '<span>PE: <b>' + signal.pe.toFixed(1) + '</b></span>';
 
+    // 行业标签 + 基本面评级
+    var badgesHTML = '';
+    if (signal.industry) {
+      badgesHTML += '<span class="industry-tag">' + signal.industry + '</span>';
+    }
+    if (signal.fundamental_grade) {
+      badgesHTML += '<span class="grade-tag ' + gradeClass(signal.fundamental_grade) + '">' + gradeLabel(signal.fundamental_grade) + '</span>';
+    }
+
     return '<div class="signal-card ' + cls + '" data-code="' + signal.code + '" data-name="' + signal.name + '">' +
       '<div class="card-head">' +
         '<div>' +
@@ -800,6 +819,7 @@
         '<span class="price">¥' + signal.price.toFixed(2) + '</span>' +
         '<span class="change-pct ' + changeCls + '">' + fmtPct(signal.change_pct) + '</span>' +
       '</div>' +
+      (badgesHTML ? '<div class="badges-row">' + badgesHTML + '</div>' : '') +
       '<div class="meta-row">' + metaExtra + '</div>' +
       reasonsHTML +
       zonesHTML +
@@ -889,8 +909,58 @@
     document.getElementById('topTable').querySelector('tbody').innerHTML =
       topSignals.map(renderTableRow).join('');
 
+    // 板块热度
+    renderSectorGrid();
+
     // 绑定卡片点击事件
     bindCardClicks();
+  }
+
+  function renderSectorGrid() {
+    var sectors = D.sector_heat || [];
+    var limitUp = D.limit_up_list || [];
+    var grid = document.getElementById('sectorGrid');
+    if (!grid || sectors.length === 0) return;
+
+    // 按行业分组涨停股
+    var sectorStocks = {};
+    limitUp.forEach(function(lu) {
+      var ind = lu.industry || '未知';
+      if (!sectorStocks[ind]) sectorStocks[ind] = [];
+      sectorStocks[ind].push(lu);
+    });
+
+    grid.innerHTML = sectors.map(function(sec) {
+      var stocks = sectorStocks[sec.industry] || [];
+      var hotClass = sec.count >= 8 ? 'sector-hot' : sec.count >= 5 ? 'sector-warm' : '';
+      var barWidth = Math.min(100, sec.count * 8);
+
+      var stockList = stocks.slice(0, 8).map(function(s) {
+        return '<span class="sector-stock" data-code="' + s.code + '" data-name="' + s.name + '">' +
+          s.name + '(' + s.code + ')</span>';
+      }).join('');
+
+      return '<div class="sector-card ' + hotClass + '" data-industry="' + sec.industry + '">' +
+        '<div class="sector-head">' +
+          '<span class="sector-name">' + sec.industry + '</span>' +
+          '<span class="sector-count">' + sec.count + '只涨停</span>' +
+        '</div>' +
+        '<div class="sector-bar-wrap">' +
+          '<div class="sector-bar" style="width:' + barWidth + '%"></div>' +
+        '</div>' +
+        '<div class="sector-stocks">' + stockList + '</div>' +
+      '</div>';
+    }).join('');
+
+    // 可点击跳转到涨停板tab
+    grid.querySelectorAll('.sector-stock').forEach(function(el) {
+      el.addEventListener('click', function(e) {
+        e.stopPropagation();
+        var code = el.getAttribute('data-code');
+        var name = el.getAttribute('data-name');
+        openDetail(code, name);
+      });
+    });
   }
 
   function bindCardClicks() {
