@@ -193,12 +193,26 @@
   }
 
   function showDetailLoading() {
-    var panels = document.querySelectorAll('.detail-panel');
-    panels.forEach(function(p) { p.innerHTML = '<div class="no-data">加载中...</div>'; });
+    // 用 overlay 覆盖，不破坏 panel 内部 DOM（render 函数需要子元素引用）
+    var body = document.querySelector('#detailModal .modal-body');
+    var ov = document.getElementById('detailLoadingOverlay');
+    if (!ov) {
+      ov = document.createElement('div');
+      ov.id = 'detailLoadingOverlay';
+      ov.style.cssText = 'position:absolute;top:0;left:0;right:0;bottom:0;' +
+        'display:flex;align-items:center;justify-content:center;' +
+        'background:rgba(18,20,30,0.92);z-index:20;border-radius:0 0 8px 8px;';
+      ov.innerHTML = '<div style="color:#787b86;font-size:0.9rem;">加载中...</div>';
+      body.style.position = 'relative';
+      body.appendChild(ov);
+    }
+    ov.style.display = 'flex';
   }
 
   function hideDetailLoading() {
-    // 清空加载提示，重新渲染当前 tab
+    var ov = document.getElementById('detailLoadingOverlay');
+    if (ov) ov.style.display = 'none';
+    // 渲染当前 tab
     var activeTab = document.querySelector('#detailTabs .modal-tab.active');
     if (activeTab) switchDetailTab(activeTab.getAttribute('data-dtab'));
   }
