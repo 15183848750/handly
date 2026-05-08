@@ -226,6 +226,43 @@ main { max-width: 1200px; margin: 0 auto; padding: 20px; }
   cursor: pointer; transition: all .12s;
 }
 .sector-stock:hover { background: rgba(59,130,246,.15); color: var(--blue); }
+.sector-more-hint {
+  font-size: 0.72rem; color: var(--text-dim); margin-top: 6px;
+  text-align: center; cursor: pointer; padding: 4px;
+  border-top: 1px solid var(--border); transition: color .12s;
+}
+.sector-card:hover .sector-more-hint { color: var(--blue); }
+.sector-card.expanded { border-color: var(--blue); }
+.sector-expand {
+  margin-top: 8px; border-top: 1px solid var(--border); padding-top: 8px;
+  animation: sectorExpandIn .2s ease;
+}
+@keyframes sectorExpandIn {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.sector-expand-header {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 8px; font-size: 0.78rem; color: var(--text-dim);
+}
+.sector-collapse-btn {
+  background: none; border: 1px solid var(--border); border-radius: 4px;
+  color: var(--text-dim); font-size: 0.72rem; padding: 2px 10px;
+  cursor: pointer; transition: all .12s;
+}
+.sector-collapse-btn:hover { color: var(--text); border-color: var(--text-dim); }
+.sector-expand-table {
+  width: 100%; border-collapse: collapse; font-size: 0.78rem;
+}
+.sector-expand-table th {
+  text-align: left; padding: 6px 8px; color: var(--text-dim);
+  border-bottom: 1px solid var(--border); font-size: 0.7rem;
+}
+.sector-expand-table td {
+  padding: 6px 8px; border-bottom: 1px solid rgba(42,45,56,.5);
+}
+.sector-expand-row { cursor: pointer; transition: background .12s; }
+.sector-expand-row:hover { background: var(--card-hover); }
 
 /* === Table === */
 .table-wrap { overflow-x: auto; }

@@ -922,45 +922,127 @@
     var grid = document.getElementById('sectorGrid');
     if (!grid || sectors.length === 0) return;
 
-    // 按行业分组涨停股
-    var sectorStocks = {};
-    limitUp.forEach(function(lu) {
-      var ind = lu.industry || '未知';
-      if (!sectorStocks[ind]) sectorStocks[ind] = [];
-      sectorStocks[ind].push(lu);
-    });
+    // 已展开的板块
+    var expandedSectors = {};
 
-    grid.innerHTML = sectors.map(function(sec) {
-      var stocks = sectorStocks[sec.industry] || [];
-      var hotClass = sec.count >= 8 ? 'sector-hot' : sec.count >= 5 ? 'sector-warm' : '';
-      var barWidth = Math.min(100, sec.count * 8);
+    function renderSectors() {
+      // 按行业分组涨停股
+      var sectorStocks = {};
+      limitUp.forEach(function(lu) {
+        var ind = lu.industry || '未知';
+        if (!sectorStocks[ind]) sectorStocks[ind] = [];
+        sectorStocks[ind].push(lu);
+      });
 
-      var stockList = stocks.slice(0, 8).map(function(s) {
-        return '<span class="sector-stock" data-code="' + s.code + '" data-name="' + s.name + '">' +
-          s.name + '(' + s.code + ')</span>';
+      grid.innerHTML = sectors.map(function(sec) {
+        var stocks = sectorStocks[sec.industry] || [];
+        var hotClass = sec.count >= 8 ? 'sector-hot' : sec.count >= 5 ? 'sector-warm' : '';
+        var barWidth = Math.min(100, sec.count * 8);
+        var isExpanded = expandedSectors[sec.industry];
+
+        // 预览只显示前6只
+        var previewStocks = stocks.slice(0, 6).map(function(s) {
+          return '<span class="sector-stock" data-code="' + s.code + '" data-name="' + s.name + '">' +
+            s.name + '</span>';
+        }).join('');
+
+        // 展开后显示所有股
+        var expandHTML = '';
+        if (isExpanded) {
+          var rows = stocks.map(function(s) {
+            var changeCls = s.change_pct >= 0 ? 'change-up' : 'change-down';
+            var changeStr = (s.change_pct >= 0 ? '+' : '') + (+s.change_pct).toFixed(2) + '%';
+            var boardStr = s.board_count ? s.board_count + '板' : '首板';
+            return '<tr class="sector-expand-row" data-code="' + s.code + '" data-name="' + s.name + '">' +
+              '<td style="font-family:monospace;color:var(--text-dim)">' + s.code + '</td>' +
+              '<td><b>' + s.name + '</b></td>' +
+              '<td>' + (+s.price).toFixed(2) + '</td>' +
+              '<td class="' + changeCls + '">' + changeStr + '</td>' +
+              '<td style="color:var(--strong);font-weight:600">' + boardStr + '</td>' +
+            '</tr>';
+          }).join('');
+
+          expandHTML =
+            '<div class="sector-expand">' +
+              '<div class="sector-expand-header">' +
+                '<span>共 ' + stocks.length + ' 只涨停股</span>' +
+                '<button class="sector-collapse-btn" data-industry="' + sec.industry + '">收起 ▲</button>' +
+              '</div>' +
+              '<table class="sector-expand-table">' +
+                '<thead><tr>' +
+                  '<th>代码</th><th>名称</th><th>现价</th><th>涨幅</th><th>连板</th>' +
+                '</tr></thead>' +
+                '<tbody>' + rows + '</tbody>' +
+              '</table>' +
+            '</div>';
+        }
+
+        var moreHint = '';
+        if (!isExpanded && stocks.length > 6) {
+          moreHint = '<div class="sector-more-hint">点击展开全部 ' + stocks.length + ' 只 →</div>';
+        } else if (!isExpanded && stocks.length <= 6) {
+          moreHint = '<div class="sector-more-hint">点击查看详情</div>';
+        }
+
+        return '<div class="sector-card ' + hotClass + (isExpanded ? ' expanded' : '') +
+          '" data-industry="' + sec.industry + '">' +
+          '<div class="sector-head">' +
+            '<span class="sector-name">' + sec.industry + '</span>' +
+            '<span class="sector-count">' + sec.count + '只涨停</span>' +
+          '</div>' +
+          '<div class="sector-bar-wrap">' +
+            '<div class="sector-bar" style="width:' + barWidth + '%"></div>' +
+          '</div>' +
+          '<div class="sector-stocks">' + previewStocks + '</div>' +
+          moreHint +
+          expandHTML +
+        '</div>';
       }).join('');
 
-      return '<div class="sector-card ' + hotClass + '" data-industry="' + sec.industry + '">' +
-        '<div class="sector-head">' +
-          '<span class="sector-name">' + sec.industry + '</span>' +
-          '<span class="sector-count">' + sec.count + '只涨停</span>' +
-        '</div>' +
-        '<div class="sector-bar-wrap">' +
-          '<div class="sector-bar" style="width:' + barWidth + '%"></div>' +
-        '</div>' +
-        '<div class="sector-stocks">' + stockList + '</div>' +
-      '</div>';
-    }).join('');
+      // 绑定事件
+      bindSectorEvents(sectorStocks);
+    }
 
-    // 可点击跳转到涨停板tab
-    grid.querySelectorAll('.sector-stock').forEach(function(el) {
-      el.addEventListener('click', function(e) {
-        e.stopPropagation();
-        var code = el.getAttribute('data-code');
-        var name = el.getAttribute('data-name');
-        openDetail(code, name);
+    function bindSectorEvents(sectorStocks) {
+      // 板块卡片点击 → 展开/收起
+      grid.querySelectorAll('.sector-card').forEach(function(card) {
+        card.addEventListener('click', function(e) {
+          // 不拦截 stock 和 collapse 按钮的点击
+          if (e.target.closest('.sector-stock') || e.target.closest('.sector-collapse-btn') ||
+              e.target.closest('.sector-expand-row')) return;
+
+          var ind = card.getAttribute('data-industry');
+          if (expandedSectors[ind]) {
+            delete expandedSectors[ind];
+          } else {
+            expandedSectors[ind] = true;
+          }
+          renderSectors();
+        });
       });
-    });
+
+      // 收起按钮
+      grid.querySelectorAll('.sector-collapse-btn').forEach(function(btn) {
+        btn.addEventListener('click', function(e) {
+          e.stopPropagation();
+          var ind = btn.getAttribute('data-industry');
+          delete expandedSectors[ind];
+          renderSectors();
+        });
+      });
+
+      // 股票名点击 → 打开详情
+      grid.querySelectorAll('.sector-stock, .sector-expand-row').forEach(function(el) {
+        el.addEventListener('click', function(e) {
+          e.stopPropagation();
+          var code = el.getAttribute('data-code');
+          var name = el.getAttribute('data-name');
+          openDetail(code, name);
+        });
+      });
+    }
+
+    renderSectors();
   }
 
   function bindCardClicks() {
