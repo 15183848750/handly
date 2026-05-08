@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>Handly 诊断</title>
+<style>
+body{background:#12141e;color:#d1d4dc;font-family:monospace;padding:20px}
+.ok{color:#22c55e}.err{color:#ef4444}.info{color:#f59e0b}
+pre{background:#1a1d27;padding:12px;border-radius:6px;overflow:auto;max-height:400px}
+button{padding:8px 16px;margin:4px;background:#3b82f6;color:#fff;border:none;border-radius:4px;cursor:pointer}
+</style>
+</head>
+<body>
+<h2>Handly 诊断页面</h2>
+<div id="log"></div>
+<button onclick="testFetch('000001')">测试 000001 (平安银行)</button>
+<button onclick="testFetch('600519')">测试 600519 (贵州茅台)</button>
+<button onclick="testFetch('999999')">测试 999999 (不存在)</button>
+<button onclick="testEcharts()">测试 ECharts</button>
+<hr>
+<div id="result"></div>
+
+<script>
+function log(msg, cls) {
+  var d = document.getElementById('log');
+  d.innerHTML += '<div class="' + (cls||'') + '">[' + new Date().toLocaleTimeString() + '] ' + msg + '</div>';
+}
+
+async function testFetch(code) {
+  var url = 'details/' + code + '.json';
+  log('开始 fetch: ' + url, 'info');
+  try {
+    var r = await fetch(url);
+    log('HTTP状态: ' + r.status + ' ' + r.statusText, r.ok ? 'ok' : 'err');
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    var data = await r.json();
+    log('JSON解析成功, keys: ' + Object.keys(data).join(', '), 'ok');
+    log('K线条数: ' + (data.kline ? data.kline.length : 0), 'ok');
+    log('财务: ' + (data.financials && data.financials.summary ? '有' : '无'), 'ok');
+    log('AI分析: ' + (data.ai_analysis && Object.keys(data.ai_analysis).length > 0 ? '有' : '空'), data.ai_analysis && Object.keys(data.ai_analysis).length > 0 ? 'ok' : 'info');
+    document.getElementById('result').innerHTML = '<pre>' + JSON.stringify(data.ai_analysis, null, 2).slice(0, 1000) + '</pre>';
+  } catch(e) {
+    log('失败: ' + e.message, 'err');
+  }
+}
+
+function testEcharts() {
+  log('ECharts 对象: ' + (typeof echarts !== 'undefined' ? '已加载' : '未加载!!!'), typeof echarts !== 'undefined' ? 'ok' : 'err');
+  if (typeof echarts !== 'undefined') {
+    log('ECharts 版本: ' + echarts.version, 'ok');
+  }
+}
+
+// 页面加载时自动测
+log('页面加载完成', 'info');
+log('data.js 对象: ' + (typeof window.SIGNALS_DATA !== 'undefined' ? '已加载(' + (window.SIGNALS_DATA.total_stocks || '?') + '只)' : '未加载!!!'), typeof window.SIGNALS_DATA !== 'undefined' ? 'ok' : 'err');
+setTimeout(testEcharts, 500);
+</script>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<script src="js/data.js"></script>
+</body>
+</html>
