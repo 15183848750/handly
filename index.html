@@ -146,7 +146,30 @@
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
-<script src="js/data.js"></script>
-<script src="js/app.js"></script>
+<script src="js/data.js?v=3"></script>
+<script src="js/app.js?v=3"></script>
+<div id="debugBar" style="position:fixed;bottom:0;left:0;right:0;background:#1a1d27;border-top:1px solid #2a2d38;padding:4px 12px;font-size:0.7rem;font-family:monospace;color:#787b86;z-index:9999;max-height:80px;overflow-y:auto"></div>
+<script>
+// 内联调试 —— 直接内嵌，不受缓存影响
+(function(){
+  var dbg = document.getElementById('debugBar');
+  function dlog(msg){ dbg.innerHTML += '['+new Date().toLocaleTimeString()+'] '+msg+'<br>'; dbg.scrollTop=dbg.scrollHeight; }
+  dlog('app.js?v=3 加载点');
+  var _origOpenDetail = null;
+  var _patchTimer = setInterval(function(){
+    if (typeof openDetail === 'function' && !_origOpenDetail) {
+      _origOpenDetail = openDetail;
+      openDetail = function(code, name) {
+        dlog('openDetail('+code+', '+name+')');
+        _origOpenDetail(code, name);
+      };
+      dlog('openDetail 已挂载调试钩子');
+    }
+    if (typeof getDetailData === 'function') {
+      // Hook getDetailData
+    }
+  }, 200);
+})();
+</script>
 </body>
 </html>

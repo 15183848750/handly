@@ -5,7 +5,15 @@
 (function() {
   'use strict';
 
+  // === DEBUG ===
+  function dlog(msg, cls) {
+    var bar = document.getElementById('debugBar');
+    if (bar) bar.innerHTML += '<span style="color:'+(cls==='ok'?'#22c55e':cls==='err'?'#ef4444':'#f59e0b')+'">['+new Date().toLocaleTimeString()+'] '+msg+'</span><br>';
+    console.log('[Handly]', msg);
+  }
+
   const D = window.SIGNALS_DATA || {};
+  dlog('app.js 初始化, D.total_stocks='+(D.total_stocks||'?'));
 
   // ==================== 工具函数 ====================
   function fmtAmt(val) {
@@ -174,18 +182,21 @@
     detailLoading = true;
     showDetailLoading();
 
+    dlog('getDetailData fetch: details/'+code+'.json', 'info');
     fetch('details/' + code + '.json')
       .then(function(r) {
         if (r.ok) return r.json();
         throw new Error('Not found');
       })
       .then(function(data) {
+        dlog('getDetailData OK: kline='+(data.kline?data.kline.length:0), 'ok');
         detailCache[code] = data;
         detailLoading = false;
         hideDetailLoading();
         callback(data);
       })
       .catch(function(err) {
+        dlog('getDetailData FAIL: '+(err&&err.message||'network'), 'err');
         detailLoading = false;
         var ov = document.getElementById('detailLoadingOverlay');
         if (ov) ov.innerHTML = '<div style="color:#ef4444;font-size:0.85rem;text-align:center">加载失败: ' + (err && err.message || '网络错误') + '<br><small>请检查网络或刷新重试</small></div>';
@@ -194,6 +205,7 @@
   }
 
   function showDetailLoading() {
+    dlog('showDetailLoading');
     // 用 overlay 覆盖，不破坏 panel 内部 DOM（render 函数需要子元素引用）
     var body = document.querySelector('#detailModal .modal-body');
     var ov = document.getElementById('detailLoadingOverlay');
@@ -211,6 +223,7 @@
   }
 
   function hideDetailLoading() {
+    dlog('hideDetailLoading');
     var ov = document.getElementById('detailLoadingOverlay');
     if (ov) ov.style.display = 'none';
     // 渲染当前 tab
@@ -219,6 +232,7 @@
   }
 
   function openDetail(code, name) {
+    dlog('openDetail: '+code+' '+name, 'info');
     currentDetailCode = code;
     var overlay = document.getElementById('detailOverlay');
 
@@ -280,6 +294,7 @@
   }
 
   function switchDetailTab(tabName) {
+    dlog('switchDetailTab: '+tabName);
     document.querySelectorAll('#detailTabs .modal-tab').forEach(function(b) { b.classList.remove('active'); });
     document.querySelectorAll('.detail-panel').forEach(function(p) { p.classList.remove('active'); });
     var tabBtn = document.querySelector('#detailTabs .modal-tab[data-dtab="' + tabName + '"]');
@@ -309,6 +324,7 @@
 
   // === 财务 Tab ===
   function renderFinanceTab() {
+    dlog('renderFinanceTab');
     var grid = document.getElementById('financeGrid');
     if (!grid) return;
     var detail = getCacheDetail();
@@ -358,6 +374,7 @@
 
   // === K线图 Tab ===
   function renderKlineTab() {
+    dlog('renderKlineTab');
     if (klineChart) { klineChart.dispose(); klineChart = null; }
     if (volumeChart) { volumeChart.dispose(); volumeChart = null; }
 
@@ -455,6 +472,7 @@
 
   // === AI 分析 Tab ===
   function renderAITab() {
+    dlog('renderAITab');
     var container = document.getElementById('aiCards');
     if (!container) return;
     var detail = getCacheDetail();
