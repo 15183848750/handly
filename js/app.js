@@ -186,10 +186,15 @@
     showDetailLoading();
     fetch('details/' + code + '.json')
       .then(function(r) {
-        if (r.ok) return r.json();
+        if (r.ok) return r.text();  // 用 text() 避免 NaN 导致 JSON 解析失败
         throw new Error('Not found');
       })
-      .then(function(data) {
+      .then(function(text) {
+        // 清理非法 JSON 值 (NaN/Infinity)
+        var cleaned = text.replace(/: NaN/g, ': null')
+                         .replace(/: Infinity/g, ': null')
+                         .replace(/: -Infinity/g, ': null');
+        var data = JSON.parse(cleaned);
         detailCache[code] = data;
         detailLoading = false;
         hideDetailLoading();
