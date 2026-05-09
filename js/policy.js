@@ -76,7 +76,7 @@
         '<span class="hit-conf ' + confCls + '">' + h.confidence + '可信</span>' +
         '</div>' +
         '<div class="expand-stocks" id="expand-hit-' + i + '" style="display:none">' +
-        renderStockList(stocks) +
+        renderStockList(stocks, h.industry) +
         '</div></div>';
     }
     el.innerHTML = html;
@@ -105,7 +105,7 @@
         '<div class="miss-note">' + escHtml(m.note || '资金尚未反应') + '</div>' +
         '</div>' +
         '<div class="expand-stocks" id="expand-miss-' + i + '" style="display:none">' +
-        renderStockList(stocks) +
+        renderStockList(stocks, m.industry) +
         '</div></div>';
     }
     el.innerHTML = html;
@@ -153,9 +153,13 @@
   }
 
   // ==================== 股票列表渲染 ====================
-  function renderStockList(stocks) {
+  function renderStockList(stocks, industryName) {
     if (!stocks || !stocks.length) {
-      return '<div class="stock-list-empty">暂无相关股票数据（行业缓存未覆盖）</div>';
+      var msg = '暂无相关股票数据';
+      if (industryName) {
+        msg = '「' + escHtml(industryName) + '」周五无涨停股 — 行业缓存未覆盖，等交易日数据更新';
+      }
+      return '<div class="stock-list-empty">' + msg + '</div>';
     }
     var html = '<div class="stock-list">';
     for (var i = 0; i < Math.min(stocks.length, 15); i++) {
