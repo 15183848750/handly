@@ -75,7 +75,7 @@
         '</div>' +
         '<span class="hit-conf ' + confCls + '">' + h.confidence + '可信</span>' +
         '</div>' +
-        '<div class="expand-stocks" id="expand-hit-' + i + '" style="display:none">' +
+        '<div class="expand-stocks" id="expand-hit-' + i + '" style="display:block">' +
         renderStockList(stocks, h.industry) +
         '</div></div>';
     }
@@ -104,7 +104,7 @@
         '</div>' +
         '<div class="miss-note">' + escHtml(m.note || '资金尚未反应') + '</div>' +
         '</div>' +
-        '<div class="expand-stocks" id="expand-miss-' + i + '" style="display:none">' +
+        '<div class="expand-stocks" id="expand-miss-' + i + '" style="display:block">' +
         renderStockList(stocks, m.industry) +
         '</div></div>';
     }
@@ -126,7 +126,7 @@
           escHtml(kw) + ' <small>' + (w[1] || '') + '</small>' +
           (stocks.length ? ' 📊' + stocks.length : '') +
           '</span>';
-        html += '<div class="expand-stocks kw-expand" id="expand-kw-p-' + i + '" style="display:none">' +
+        html += '<div class="expand-stocks kw-expand" id="expand-kw-p-' + i + '" style="display:block">' +
           renderStockList(stocks) + '</div>';
       }
     } else {
@@ -143,7 +143,7 @@
           escHtml(nkw) + ' <small>' + (nw[1] || '') + '</small>' +
           (nstocks.length ? ' 📊' + nstocks.length : '') +
           '</span>';
-        html += '<div class="expand-stocks kw-expand" id="expand-kw-n-' + j + '" style="display:none">' +
+        html += '<div class="expand-stocks kw-expand" id="expand-kw-n-' + j + '" style="display:block">' +
           renderStockList(nstocks) + '</div>';
       }
     } else {
@@ -305,6 +305,10 @@
 
   // ==================== 全部渲染 ====================
   function renderAll() {
+    console.log('[政策研判] 开始渲染, POLICY_DATA:', !!D);
+    console.log('[政策研判] cross_hits:', (cross.cross_hits||[]).length, 'misses:', (cross.misses||[]).length);
+    console.log('[政策研判] indStocks keys:', Object.keys(indStocks).length);
+
     renderCctvSignals();
     renderCrossHits();
     renderCrossMisses();
@@ -312,6 +316,17 @@
     renderPotentialTable();
     renderAISummary();
     setupDelegation();
+
+    // 默认展开第一个有数据的板块
+    setTimeout(function() {
+      var firstHit = document.querySelector('.expand-stocks');
+      if (firstHit) {
+        console.log('[政策研判] 默认展开第一个板块');
+        firstHit.style.display = 'block';
+        var arrow = document.querySelector('.expand-arrow');
+        if (arrow) arrow.textContent = '▼';
+      }
+    }, 100);
   }
 
   function escHtml(s) {
