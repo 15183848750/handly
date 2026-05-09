@@ -312,6 +312,7 @@
       else if (tabName === 'kline') renderKlineTab();
       else if (tabName === 'ai') renderAITab();
       else if (tabName === 'backtest') renderBacktestTab();
+      else if (tabName === 'deep') renderDeepTab();
     });
   }
 
@@ -552,6 +553,106 @@
     }
 
     container.innerHTML = cards.length > 0 ? cards.join('') : '<div class="no-data">暂无AI分析数据</div>';
+  }
+
+  // === 深度研判 Tab ===
+  function renderDeepTab() {
+    var el = document.getElementById('deepAnalysis');
+    if (!el) return;
+    var detail = getCacheDetail();
+    var ai = detail.ai_analysis || {};
+
+    if (!ai || !ai.valuation) {
+      el.innerHTML = '<div class="no-data">暂无深度分析数据（需先运行 deep_analyzer.py 预计算）</div>';
+      return;
+    }
+
+    var val = ai.valuation || {};
+    var pol = ai.policy || {};
+    var kl = ai.kline || {};
+    var risk = ai.risk || {};
+    var target = ai.target || {};
+    var summary = ai.summary || '';
+
+    var gradeColor = {'A':'#22c55e','B':'#3b82f6','C':'#f59e0b','D':'#ef4444'};
+    var g = val.overall_grade || '?';
+    var gc = gradeColor[g] || '#787b86';
+
+    var html = '';
+
+    // 综合评分卡
+    html += '<div class="deep-header">' +
+      '<div class="deep-grade" style="background:' + gc + '">' + g + '</div>' +
+      '<div class="deep-summary">' + escHtml(summary) + '</div>' +
+      '</div>';
+
+    // 估值体检
+    html += '<div class="deep-section">' +
+      '<div class="deep-section-title">📊 估值体检</div>' +
+      '<div class="deep-grid">' +
+      '<div class="deep-item"><span class="deep-label">PE</span><span class="deep-val" style="color:' + (gradeColor[val.pe?val.pe.grade:'?']||'#787b86') + '">' + (val.pe?val.pe.label:'-') + ' (' + (val.pe?val.pe.value:'-') + ')</span></div>' +
+      '<div class="deep-item"><span class="deep-label">PB</span><span class="deep-val" style="color:' + (gradeColor[val.pb?val.pb.grade:'?']||'#787b86') + '">' + (val.pb?val.pb.label:'-') + ' (' + (val.pb?val.pb.value:'-') + ')</span></div>' +
+      '<div class="deep-item"><span class="deep-label">ROE</span><span class="deep-val">' + (val.roe!=null?val.roe.toFixed(1)+'%':'-') + '</span></div>' +
+      '<div class="deep-item"><span class="deep-label">利润增速</span><span class="deep-val">' + (val.net_profit_yoy!=null?val.net_profit_yoy.toFixed(0)+'%':'-') + '</span></div>' +
+      '</div></div>';
+
+    // 政策匹配
+    html += '<div class="deep-section">' +
+      '<div class="deep-section-title">📡 政策匹配</div>';
+    if (pol.score > 0) {
+      html += '<div class="deep-item"><span class="deep-label">强度</span><span class="deep-val" style="color:#22c55e">' + pol.score + '分</span></div>' +
+        '<div class="deep-item"><span class="deep-label">热词</span><span class="deep-val">' + escHtml((pol.keywords||[]).join('、')) + '</span></div>';
+    } else {
+      html += '<div class="deep-note">' + escHtml(pol.note||'无行业数据') + '</div>';
+    }
+    html += '</div>';
+
+    // 技术形态
+    if (kl.trend) {
+      var trendColor = kl.trend.indexOf('多')>=0 ? '#22c55e' : kl.trend.indexOf('空')>=0 ? '#ef4444' : '#f59e0b';
+      html += '<div class="deep-section">' +
+        '<div class="deep-section-title">📈 技术形态</div>' +
+        '<div class="deep-grid">' +
+        '<div class="deep-item"><span class="deep-label">趋势</span><span class="deep-val" style="color:' + trendColor + '">' + escHtml(kl.trend) + '</span></div>' +
+        '<div class="deep-item"><span class="deep-label">MA5</span><span class="deep-val">' + kl.ma5 + '</span></div>' +
+        '<div class="deep-item"><span class="deep-label">MA20</span><span class="deep-val">' + kl.ma20 + '</span></div>' +
+        '<div class="deep-item"><span class="deep-label">量能</span><span class="deep-val">' + escHtml(kl.vol_label||'') + ' (' + (kl.vol_ratio||'') + 'x)</span></div>' +
+        '<div class="deep-item"><span class="deep-label">支撑</span><span class="deep-val" style="color:#22c55e">' + kl.support + '</span></div>' +
+        '<div class="deep-item"><span class="deep-label">阻力</span><span class="deep-val" style="color:#ef4444">' + kl.resistance + '</span></div>' +
+        '<div class="deep-item"><span class="deep-label">距支撑</span><span class="deep-val">' + kl.dist_to_support_pct + '%</span></div>' +
+        '<div class="deep-item"><span class="deep-label">距阻力</span><span class="deep-val">' + kl.dist_to_resistance_pct + '%</span></div>' +
+        '</div></div>';
+    }
+
+    // 目标价位
+    if (target.current) {
+      html += '<div class="deep-section">' +
+        '<div class="deep-section-title">🎯 目标测算</div>' +
+        '<div class="deep-target-bar">' +
+        '<div class="target-row"><span>当前</span><span style="font-weight:700">' + target.current + '</span></div>' +
+        '<div class="target-row"><span>目标(中)</span><span style="color:#3b82f6;font-weight:700">' + target.target_mid + '</span></div>' +
+        '<div class="target-row"><span>目标(高)</span><span style="color:#22c55e;font-weight:700">' + target.target_high + '</span></div>' +
+        '<div class="target-row"><span>止损</span><span style="color:#ef4444">' + target.stop_loss + '</span></div>' +
+        '<div class="target-row"><span>预期涨幅</span><span style="color:#22c55e;font-weight:700">+' + target.upside_pct + '%</span></div>' +
+        '</div></div>';
+    }
+
+    // 风险评级
+    html += '<div class="deep-section">' +
+      '<div class="deep-section-title">⚠️ 风险评级</div>' +
+      '<div class="deep-risk-badge">' + escHtml(risk.overall||'?') + ' (' + (risk.risk_score||0) + '分)</div>';
+    if (risk.items && risk.items.length) {
+      html += '<div class="deep-risk-items">';
+      for (var i = 0; i < risk.items.length; i++) {
+        var r = risk.items[i];
+        var rcls = r.level === 'high' ? 'risk-high' : r.level === 'mid' ? 'risk-mid' : 'risk-low';
+        html += '<div class="deep-risk-item ' + rcls + '">' + escHtml(r.msg) + '</div>';
+      }
+      html += '</div>';
+    }
+    html += '</div>';
+
+    el.innerHTML = html;
   }
 
   // === 回测 Tab ===

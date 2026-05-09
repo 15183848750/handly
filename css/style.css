@@ -453,3 +453,30 @@ footer {
   .finance-grid { grid-template-columns: 1fr; }
   .bt-metrics { grid-template-columns: 1fr 1fr; }
 }
+
+/* === 深度研判 Tab === */
+.deep-header { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }
+.deep-grade {
+  width: 44px; height: 44px; border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.2rem; font-weight: 800; color: #fff;
+}
+.deep-summary { flex: 1; font-size: 0.85rem; line-height: 1.5; color: var(--text-dim); }
+.deep-section {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 12px 14px; margin-bottom: 10px;
+}
+.deep-section-title { font-size: 0.82rem; font-weight: 600; margin-bottom: 8px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }
+.deep-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+.deep-item { display: flex; justify-content: space-between; padding: 4px 0; font-size: 0.8rem; }
+.deep-label { color: var(--text-dim); }
+.deep-val { font-weight: 600; }
+.deep-note { font-size: 0.8rem; color: var(--text-dim); padding: 4px 0; }
+.deep-target-bar { display: flex; flex-direction: column; gap: 6px; }
+.target-row { display: flex; justify-content: space-between; font-size: 0.82rem; padding: 4px 8px; border-radius: 4px; background: rgba(255,255,255,0.02); }
+.deep-risk-badge { font-size: 0.9rem; font-weight: 700; margin-bottom: 8px; }
+.deep-risk-items { display: flex; flex-direction: column; gap: 4px; }
+.deep-risk-item { font-size: 0.78rem; padding: 4px 8px; border-radius: 4px; }
+.risk-high { background: rgba(239,68,68,0.1); color: #ef4444; border-left: 3px solid #ef4444; }
+.risk-mid { background: rgba(245,158,11,0.1); color: #f59e0b; border-left: 3px solid #f59e0b; }
+.risk-low { background: rgba(34,197,94,0.1); color: #22c55e; border-left: 3px solid #22c55e; }
