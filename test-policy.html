@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>政策研判测试</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/policy.css">
+</head>
+<body style="padding:16px">
+
+<h2>政策研判 Tab — 独立测试</h2>
+<hr style="margin:12px 0; border-color:var(--border)">
+
+<!-- 直接放政策研判内容（不做tab切换） -->
+<section class="tab-content active">
+  <div class="section-header">
+    <h2>📡 政策×数据 AI 研判</h2>
+    <span class="badge" id="policyUpdateTime">--</span>
+  </div>
+  <div class="policy-block">
+    <div class="policy-block-title">📺 新闻联播核心信号</div>
+    <div class="cctv-signals" id="cctvSignals"></div>
+  </div>
+  <div class="policy-dashboard">
+    <div class="policy-col policy-col-resonance">
+      <div class="policy-col-title">🔀 政策+资金共振</div>
+      <div id="crossHits"></div>
+    </div>
+    <div class="policy-col policy-col-miss">
+      <div class="policy-col-title">⏳ 政策待兑现</div>
+      <div id="crossMisses"></div>
+    </div>
+    <div class="policy-col policy-col-news">
+      <div class="policy-col-title">📰 财经热词</div>
+      <div id="newsHotwords"></div>
+    </div>
+  </div>
+  <div class="policy-block">
+    <div class="policy-block-title">🎯 政策匹配潜力股</div>
+    <div class="table-wrap">
+      <table class="data-table" id="policyPotentialsTable">
+        <thead><tr><th>代码</th><th>名称</th><th>行业</th><th>评分</th><th>政策强度</th><th>理由</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+  <div class="policy-block">
+    <div class="policy-block-title">💡 AI 研判摘要</div>
+    <div class="ai-summary-content" id="aiSummaryContent"></div>
+  </div>
+</section>
+
+<script src="js/policy_data.js?v=3"></script>
+<script src="js/policy.js?v=5"></script>
+
+</body>
+</html>
