@@ -1,6 +1,6 @@
 /**
- * Handly Stock — 政策研判 Tab
- * 三栏可点击展开相关股票
+ * Handly Stock — 政策研判 Tab v2
+ * 事件委托方式：点击板块/热词展开股票列表
  */
 (function() {
   'use strict';
@@ -50,7 +50,7 @@
     el.innerHTML = html;
   }
 
-  // ==================== 共振板块（可展开） ====================
+  // ==================== 共振板块 ====================
   function renderCrossHits() {
     var el = document.getElementById('crossHits');
     if (!el) return;
@@ -64,13 +64,14 @@
       var h = hits[i];
       var stocks = indStocks[h.industry] || [];
       var confCls = h.confidence === '高' ? 'conf-high' : 'conf-mid';
-      html += '<div class="hit-card" data-expand="hit-' + i + '">' +
-        '<div class="hit-header" onclick="toggleExpand(\'hit-' + i + '\')">' +
+      html += '<div class="hit-card">' +
+        '<div class="hit-header expand-trigger" data-target="hit-' + i + '">' +
         '<div class="hit-name">' + escHtml(h.industry) +
         ' <span class="expand-arrow" id="arrow-hit-' + i + '">▶</span></div>' +
         '<div class="hit-stats">' +
         '<span>政策 ' + h.cctv_strength + '</span>' +
         '<span>涨停 ' + h.market_count + '只</span>' +
+        (stocks.length ? '<span>📊' + stocks.length + '股</span>' : '') +
         '</div>' +
         '<span class="hit-conf ' + confCls + '">' + h.confidence + '可信</span>' +
         '</div>' +
@@ -81,7 +82,7 @@
     el.innerHTML = html;
   }
 
-  // ==================== 政策待兑现（可展开） ====================
+  // ==================== 政策待兑现 ====================
   function renderCrossMisses() {
     var el = document.getElementById('crossMisses');
     if (!el) return;
@@ -94,12 +95,12 @@
     for (var i = 0; i < misses.length; i++) {
       var m = misses[i];
       var stocks = indStocks[m.industry] || [];
-      html += '<div class="miss-card" data-expand="miss-' + i + '">' +
-        '<div class="miss-header" onclick="toggleExpand(\'miss-' + i + '\')">' +
+      html += '<div class="miss-card">' +
+        '<div class="miss-header expand-trigger" data-target="miss-' + i + '">' +
         '<div class="miss-name">' + escHtml(m.industry) +
         ' <span class="expand-arrow" id="arrow-miss-' + i + '">▶</span></div>' +
         '<div class="miss-strength">政策强度 ' + m.cctv_strength +
-        (stocks.length ? ' | 已有 ' + stocks.length + ' 只相关股票' : '') +
+        (stocks.length ? ' | 📊' + stocks.length + '股' : '') +
         '</div>' +
         '<div class="miss-note">' + escHtml(m.note || '资金尚未反应') + '</div>' +
         '</div>' +
@@ -110,19 +111,18 @@
     el.innerHTML = html;
   }
 
-  // ==================== 财经热词（可点击） ====================
+  // ==================== 财经热词 ====================
   function renderNewsHotwords() {
     var el = document.getElementById('newsHotwords');
     if (!el) return;
     var matched = news.matched || [];
-    var html = '<div class="hotword-label">匹配政策</div>';
+    var html = '<div class="hotword-label">匹配政策 <small>(点击查看股票)</small></div>';
     if (matched.length) {
       for (var i = 0; i < matched.length; i++) {
         var w = matched[i];
         var kw = w[0] || w;
         var stocks = findStocksByKeyword(kw);
-        html += '<span class="hotword-tag hotword-policy clickable" ' +
-          'onclick="toggleExpand(\'kw-p-' + i + '\')">' +
+        html += '<span class="hotword-tag hotword-policy expand-trigger" data-target="kw-p-' + i + '">' +
           escHtml(kw) + ' <small>' + (w[1] || '') + '</small>' +
           (stocks.length ? ' 📊' + stocks.length : '') +
           '</span>';
@@ -132,16 +132,14 @@
     } else {
       html += '<span class="hotword-none">--</span>';
     }
-
-    html += '<div class="hotword-label" style="margin-top:12px">新兴词汇</div>';
+    html += '<div class="hotword-label" style="margin-top:12px">新兴词汇 <small>(点击查看)</small></div>';
     var newsWords = news.new_words || [];
     if (newsWords.length) {
       for (var j = 0; j < Math.min(newsWords.length, 10); j++) {
         var nw = newsWords[j];
         var nkw = nw[0] || nw;
         var nstocks = findStocksByKeyword(nkw);
-        html += '<span class="hotword-tag hotword-new clickable" ' +
-          'onclick="toggleExpand(\'kw-n-' + j + '\')">' +
+        html += '<span class="hotword-tag hotword-new expand-trigger" data-target="kw-n-' + j + '">' +
           escHtml(nkw) + ' <small>' + (nw[1] || '') + '</small>' +
           (nstocks.length ? ' 📊' + nstocks.length : '') +
           '</span>';
@@ -164,7 +162,8 @@
       var s = stocks[i];
       var changeCls = s.change_pct >= 0 ? 'up' : 'down';
       var pct = s.change_pct != null ? (s.change_pct > 0 ? '+' : '') + s.change_pct.toFixed(1) + '%' : '-';
-      var extra = s.board_count > 0 ? ' <span class="tag-board">' + s.board_count + '连板</span>' : '';
+      var extra = '';
+      if (s.board_count > 0) extra += ' <span class="tag-board">' + s.board_count + '连板</span>';
       if (s.source === 'potential') extra += ' <span class="tag-potential">潜力</span>';
       if (s.score) extra += ' <span class="tag-score">' + s.score + '分</span>';
       html += '<div class="stock-row clickable-row" data-code="' + escHtml(s.code) + '">' +
@@ -179,10 +178,7 @@
     return html;
   }
 
-  // ==================== 根据关键词找股票 ====================
   function findStocksByKeyword(keyword) {
-    // 从 POLICY_KEYWORDS 映射找相关行业，再找股票
-    // 由于前端没有 POLICY_KEYWORDS，用简化匹配
     var results = [];
     var seen = {};
     for (var ind in indStocks) {
@@ -233,37 +229,74 @@
     var misses = cross.misses || [];
     var opps = cross.opportunities || [];
     var cctvItems = cctv.market_moving_items || [];
-
     var lines = [];
     if (cctvItems.length) {
       lines.push('<p><strong>📺 今日政策头条：</strong>' + escHtml(cctvItems[0].title || '') + '</p>');
-    } else {
-      lines.push('<p><strong>📺 今日政策头条：</strong>无信号</p>');
     }
     if (hits.length) {
       var hitNames = hits.map(function(h) { return h.industry; }).join('、');
       lines.push('<p><strong>🔀 政策+资金共振：</strong>' + hitNames +
-        ' — 这些板块既有新闻联播点名又有市场资金响应，确定性较高。点击板块名可查看相关股票。</p>');
+        ' — 点击板块名展开查看相关股票。</p>');
     }
     if (misses.length) {
       var missNames = misses.slice(0, 4).map(function(m) { return m.industry; }).join('、');
-      lines.push('<p><strong>⏳ 政策待兑现机会：</strong>' + missNames +
-        ' — 新闻联播已点名但市场资金尚未反应，点击查看相关股票，是下周最值得关注的低吸方向。</p>');
+      lines.push('<p><strong>⏳ 政策待兑现：</strong>' + missNames +
+        ' — 政策已点名但资金未反应，点击查看。</p>');
     }
     if (opps.length) {
       lines.push('<p><strong>🎯 建议关注：</strong>' +
         opps.slice(0, 3).map(function(o) { return o.name + '(' + o.code + ')'; }).join('、') +
-        ' — 技术面低位+量能异动+政策催化三重共振。</p>');
+        ' — 技术面+政策面共振。</p>');
     }
-    var newWords = (news.new_words || []).map(function(w) { return w[0] || w; });
-    var riskWords = ['中东', '伊朗', '石油', '霍尔木兹', '特朗普', '关税', '制裁'];
-    var hasRisk = newWords.some(function(w) { return riskWords.indexOf(w) >= 0; });
-    if (hasRisk) {
-      lines.push('<p class="risk-note">⚠️ <strong>风险提示：</strong>财经新闻中出现地缘政治热词（中东/伊朗/海峡），关注周末局势变化，若升级可能带来短期波动。</p>');
-    }
-    lines.push('<p class="disclaimer">以上分析基于新闻联播文本+市场数据自动生成，仅供参考，不构成投资建议。数据更新时间：' +
+    lines.push('<p class="disclaimer">以上分析基于新闻联播文本+市场数据自动生成，仅供参考。数据更新时间：' +
       (D.analysis_time || '--') + '</p>');
     el.innerHTML = lines.join('');
+  }
+
+  // ==================== 事件委托：统一处理展开/折叠 ====================
+  function setupDelegation() {
+    // 在 policy-dashboard 上监听所有点击
+    var dash = document.querySelector('.policy-dashboard');
+    if (!dash) return;
+
+    dash.addEventListener('click', function(e) {
+      var trigger = e.target.closest('.expand-trigger');
+      if (!trigger) return;
+
+      var targetId = trigger.getAttribute('data-target');
+      if (!targetId) return;
+
+      var expandEl = document.getElementById('expand-' + targetId);
+      var arrowEl = document.getElementById('arrow-' + targetId);
+
+      if (!expandEl) return;
+
+      if (expandEl.style.display === 'none') {
+        expandEl.style.display = 'block';
+        if (arrowEl) arrowEl.textContent = '▼';
+      } else {
+        expandEl.style.display = 'none';
+        if (arrowEl) arrowEl.textContent = '▶';
+      }
+    });
+
+    // 热词区域也需要监听（可能在 policy-dashboard 外）
+    var newsEl = document.getElementById('newsHotwords');
+    if (newsEl) {
+      newsEl.addEventListener('click', function(e) {
+        var trigger = e.target.closest('.expand-trigger');
+        if (!trigger) return;
+        var targetId = trigger.getAttribute('data-target');
+        if (!targetId) return;
+        var expandEl = document.getElementById('expand-' + targetId);
+        if (!expandEl) return;
+        if (expandEl.style.display === 'none') {
+          expandEl.style.display = 'block';
+        } else {
+          expandEl.style.display = 'none';
+        }
+      });
+    }
   }
 
   // ==================== 全部渲染 ====================
@@ -274,9 +307,9 @@
     renderNewsHotwords();
     renderPotentialTable();
     renderAISummary();
+    setupDelegation();
   }
 
-  // ==================== 工具 ====================
   function escHtml(s) {
     if (!s) return '';
     return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -288,17 +321,3 @@
     renderAll();
   }
 })();
-
-// ==================== 全局展开/折叠 ====================
-function toggleExpand(id) {
-  var el = document.getElementById('expand-' + id);
-  var arrow = document.getElementById('arrow-' + id);
-  if (!el) return;
-  if (el.style.display === 'none' || !el.style.display) {
-    el.style.display = 'block';
-    if (arrow) arrow.textContent = '▼';
-  } else {
-    el.style.display = 'none';
-    if (arrow) arrow.textContent = '▶';
-  }
-}

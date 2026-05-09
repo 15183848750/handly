@@ -100,6 +100,8 @@
 }
 .miss-header, .hit-header { cursor: pointer; }
 .miss-header:hover, .hit-header:hover { opacity: 0.85; }
+.expand-trigger { cursor: pointer; user-select: none; }
+.expand-trigger:hover { opacity: 0.85; }
 .miss-name { font-weight: 600; font-size: 0.85rem; color: var(--yellow); }
 .miss-strength { font-size: 0.75rem; color: var(--text-dim); }
 .miss-note { font-size: 0.73rem; color: var(--text-dim); margin-top: 2px; }
