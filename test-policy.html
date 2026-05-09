@@ -2,57 +2,144 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>政策研判测试</title>
-<link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" href="css/policy.css">
+<title>政策研判</title>
+<style>
+body { background:#0f1117; color:#d1d4dc; font-family:sans-serif; padding:16px; }
+h2 { margin-bottom:8px; }
+.card { background:#1a1d27; border:1px solid #2a2d38; border-radius:8px; padding:12px 16px; margin-bottom:12px; }
+.title { font-weight:600; margin-bottom:8px; padding-bottom:6px; border-bottom:1px solid #2a2d38; }
+.row { display:flex; gap:12px; flex-wrap:wrap; }
+.col { flex:1; min-width:200px; background:#1a1d27; border:1px solid #2a2d38; border-radius:8px; padding:10px; }
+.col-title { font-size:0.85rem; font-weight:600; margin-bottom:8px; }
+.green { color:#22c55e; } .yellow { color:#f59e0b; } .blue { color:#3b82f6; } .red { color:#ef4444; }
+.item { padding:6px 8px; margin-bottom:4px; border-radius:4px; font-size:0.82rem; }
+.item-green { background:rgba(34,197,94,0.08); border:1px solid rgba(34,197,94,0.2); }
+.item-yellow { background:rgba(245,158,11,0.08); border:1px solid rgba(245,158,11,0.2); }
+.stock-list { margin-top:4px; padding-left:4px; max-height:200px; overflow-y:auto; }
+.stock { font-size:0.75rem; padding:2px 0; border-bottom:1px solid rgba(255,255,255,0.04); }
+.stock span { margin-right:8px; }
+.tag { font-size:0.65rem; padding:1px 4px; border-radius:3px; margin-left:4px; }
+.tag-up { background:rgba(34,197,94,0.2); color:#22c55e; }
+.tag-down { background:rgba(239,68,68,0.2); color:#ef4444; }
+.tag-potential { background:rgba(59,130,246,0.2); color:#3b82f6; }
+table { width:100%; border-collapse:collapse; font-size:0.82rem; }
+th,td { padding:6px 8px; text-align:left; border-bottom:1px solid #2a2d38; }
+th { color:#787b86; font-weight:500; }
+.summary { font-size:0.85rem; line-height:1.7; }
+.summary p { margin-bottom:6px; }
+</style>
 </head>
-<body style="padding:16px">
+<body>
 
-<h2>政策研判 Tab — 独立测试</h2>
-<hr style="margin:12px 0; border-color:var(--border)">
+<h2>📡 政策×数据 AI 研判</h2>
+<div id="app">加载中...</div>
 
-<!-- 直接放政策研判内容（不做tab切换） -->
-<section class="tab-content active">
-  <div class="section-header">
-    <h2>📡 政策×数据 AI 研判</h2>
-    <span class="badge" id="policyUpdateTime">--</span>
-  </div>
-  <div class="policy-block">
-    <div class="policy-block-title">📺 新闻联播核心信号</div>
-    <div class="cctv-signals" id="cctvSignals"></div>
-  </div>
-  <div class="policy-dashboard">
-    <div class="policy-col policy-col-resonance">
-      <div class="policy-col-title">🔀 政策+资金共振</div>
-      <div id="crossHits"></div>
-    </div>
-    <div class="policy-col policy-col-miss">
-      <div class="policy-col-title">⏳ 政策待兑现</div>
-      <div id="crossMisses"></div>
-    </div>
-    <div class="policy-col policy-col-news">
-      <div class="policy-col-title">📰 财经热词</div>
-      <div id="newsHotwords"></div>
-    </div>
-  </div>
-  <div class="policy-block">
-    <div class="policy-block-title">🎯 政策匹配潜力股</div>
-    <div class="table-wrap">
-      <table class="data-table" id="policyPotentialsTable">
-        <thead><tr><th>代码</th><th>名称</th><th>行业</th><th>评分</th><th>政策强度</th><th>理由</th></tr></thead>
-        <tbody></tbody>
-      </table>
-    </div>
-  </div>
-  <div class="policy-block">
-    <div class="policy-block-title">💡 AI 研判摘要</div>
-    <div class="ai-summary-content" id="aiSummaryContent"></div>
-  </div>
-</section>
+<script>
+var D = {"analysis_time": "2026-05-10 05:09", "target_date": "20260509", "cctv_analysis": {"total_items": 12, "market_moving_count": 6, "daily_summary": "重点关注：【新思想引领新征程】加快推进种业振兴 提升种源安全保障能力", "top_signals": [{"keyword": "发布", "category": "政策出台", "strength": 6, "count": 5}, {"keyword": "实施", "category": "政策落地", "strength": 6, "count": 3}, {"keyword": "加快", "category": "政策加速", "strength": 8, "count": 2}, {"keyword": "粮食", "category": "农业", "strength": 6, "count": 2}, {"keyword": "农业", "category": "农业", "strength": 6, "count": 2}, {"keyword": "风险", "category": "风险提示", "strength": -3, "count": 2}, {"keyword": "大力", "category": "政策加码", "strength": 8, "count": 2}, {"keyword": "装备", "category": "军工", "strength": 6, "count": 2}], "industry_signals": {"通信设备": 8, "半导体": 8, "IT服务": 8, "计算机设备": 8, "电机": 8, "通用设备": 8, "专用设备": 8, "自动化设备": 8}, "market_moving_items": [{"title": "【新思想引领新征程】加快推进种业振兴 提升种源安全保障能力", "intensity": 10, "signals": ["两会", "实施", "加快", "粮食", "种业"], "industries": []}, {"title": "李强主持召开国务院常务会议", "intensity": 8, "signals": ["李强主持", "国务院常务会议", "实施", "大力", "算力"], "industries": ["通信设备", "半导体", "IT服务", "计算机设备"]}, {"title": "【“十五五”开好局起好步】奋力开创中国式现代化福建实践新局面 谱写社会主义现代化新疆新篇章", "intensity": 8, "signals": ["发布", "实施", "加快", "大力", "装备"], "industries": []}, {"title": "前4个月我国外贸继续保持两位数增长", "intensity": 7, "signals": ["发布", "进出口", "锂电池", "汽车"], "industries": []}, {"title": "一季度中国造船领跑全球 新接订单量增长近三倍", "intensity": 8, "signals": ["发布", "机器人", "汽车"], "industries": ["电机", "通用设备", "专用设备", "自动化设备"]}, {"title": "国内联播快讯", "intensity": 7, "signals": ["支持", "消费", "家电"], "industries": []}]}, "market_data": {"has_data": true, "update_time": "2026-05-08 04:40:08", "limit_up_count": 100, "strong_buy_count": 84, "buy_count": 15}, "cross_analysis": {"cctv_top_industries": [["通信设备", 8], ["半导体", 8], ["IT服务", 8], ["计算机设备", 8], ["电机", 8], ["通用设备", 8], ["专用设备", 8], ["自动化设备", 8]], "market_top_industries": [["汽车零部", 8], ["元件", 6], ["通信设备", 5], ["电网设备", 5], ["电力", 4], ["通用设备", 4], ["化学原料", 4], ["光学光电", 4], ["专用设备", 4], ["计算机设", 3]], "cross_hits": [{"industry": "通信设备", "cctv_strength": 8, "market_count": 5, "confidence": "中"}, {"industry": "通用设备", "cctv_strength": 8, "market_count": 4, "confidence": "中"}, {"industry": "专用设备", "cctv_strength": 8, "market_count": 4, "confidence": "中"}], "misses": [{"industry": "电机", "cctv_strength": 8, "note": "政策已点名但市场尚未反应，关注下周资金流入"}, {"industry": "自动化设备", "cctv_strength": 8, "note": "政策已点名但市场尚未反应，关注下周资金流入"}, {"industry": "半导体", "cctv_strength": 8, "note": "政策已点名但市场尚未反应，关注下周资金流入"}, {"industry": "IT服务", "cctv_strength": 8, "note": "政策已点名但市场尚未反应，关注下周资金流入"}, {"industry": "计算机设备", "cctv_strength": 8, "note": "政策已点名但市场尚未反应，关注下周资金流入"}], "opportunities": [{"code": "603278", "name": "大业股份", "industry": "通用设备", "score": 95, "reasons": ["政策催化(新质生产力、设备更新)"], "cctv_strength": 8}, {"code": "002194", "name": "武汉凡谷", "industry": "通信设备", "score": 83, "reasons": ["政策催化(信创、算力)", "底部放量横盘"], "cctv_strength": 8}, {"code": "002031", "name": "巨轮智能", "industry": "专用设备", "score": 52, "reasons": ["政策催化(新质生产力、设备更新)"], "cctv_strength": 8}, {"code": "603895", "name": "天永智能", "industry": "专用设备", "score": 42, "reasons": ["政策催化(新质生产力、设备更新)", "PE过高"], "cctv_strength": 8}], "summary": "政策+资金共振：通信设备（政策强度8，涨停5只） | 政策信号未兑现：电机、自动化设备、半导体 | 潜力匹配：4只"}, "news_hotwords": {"matched": [["人工智能", 3], ["算力", 3], ["芯片", 1]], "new_words": [["AI", 9], ["周刊", 5], ["本文", 5], ["霍尔木兹海峡", 3], ["今日热点", 2], ["华尔街", 2], ["特朗普", 2], ["伊朗", 2], ["中东", 2], ["观察", 2]]}};
+</script>
+<script>
+(function() {
+  var cctv = D.cctv_analysis || {};
+  var cross = D.cross_analysis || {};
+  var news = D.news_hotwords || {};
+  var indStocks = D.industry_stocks || {};
 
-<script src="js/policy_data.js?v=3"></script>
-<script src="js/policy.js?v=5"></script>
+  function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;'); }
+  function pct(v) { return v!=null ? (v>0?'+':'')+v.toFixed(1)+'%' : '-'; }
 
+  function stockHTML(s) {
+    var cls = s.change_pct>=0 ? 'tag-up' : 'tag-down';
+    var extra = '';
+    if (s.board_count>0) extra += '<span class="tag tag-up">'+s.board_count+'连板</span>';
+    if (s.source==='potential') extra += '<span class="tag tag-potential">潜力</span>';
+    if (s.score) extra += ' <span style="color:#3b82f6;font-size:0.7rem">'+s.score+'分</span>';
+    return '<div class="stock">'+
+      '<span style="font-family:monospace;color:#787b86">'+esc(s.code)+'</span>'+
+      '<span>'+esc(s.name)+'</span>'+
+      '<span>'+esc(s.price||'-')+'</span>'+
+      '<span class="'+cls.replace('tag-','')+'">'+pct(s.change_pct)+'</span>'+
+      extra+'</div>';
+  }
+
+  function stockList(stocks) {
+    if (!stocks||!stocks.length) return '<div style="color:#787b86;font-size:0.75rem;padding:4px 0">暂无股票数据</div>';
+    var h='<div class="stock-list">';
+    for (var i=0;i<Math.min(stocks.length,10);i++) h+=stockHTML(stocks[i]);
+    h+='</div>';
+    return h;
+  }
+
+  var html = '';
+
+  // 新闻联播
+  html += '<div class="card"><div class="title">📺 新闻联播</div>';
+  html += '<div style="font-size:0.85rem;margin-bottom:8px">'+esc(cctv.daily_summary||'')+' | '+cctv.total_items+'条</div>';
+  var items = cctv.market_moving_items||[];
+  for (var i=0;i<Math.min(items.length,6);i++) {
+    var it=items[i];
+    html += '<div style="font-size:0.78rem;padding:3px 0">['+it.intensity+'分] '+esc(it.title||'')+'</div>';
+  }
+  html += '</div>';
+
+  // 三栏
+  html += '<div class="row">';
+
+  // 共振
+  html += '<div class="col"><div class="col-title green">🔀 政策+资金共振</div>';
+  var hits = cross.cross_hits||[];
+  for (var i=0;i<hits.length;i++) {
+    var h=hits[i];
+    var stocks=indStocks[h.industry]||[];
+    html += '<div class="item item-green"><b>'+esc(h.industry)+'</b> 政策'+h.cctv_strength+' 涨停'+h.market_count+'只 '+h.confidence+'可信';
+    html += stockList(stocks);
+    html += '</div>';
+  }
+  html += '</div>';
+
+  // 待兑现
+  html += '<div class="col"><div class="col-title yellow">⏳ 政策待兑现</div>';
+  var misses = cross.misses||[];
+  for (var i=0;i<misses.length;i++) {
+    var m=misses[i];
+    var stocks=indStocks[m.industry]||[];
+    html += '<div class="item item-yellow"><b>'+esc(m.industry)+'</b> 政策'+m.cctv_strength;
+    html += stockList(stocks);
+    html += '</div>';
+  }
+  html += '</div>';
+
+  // 热词
+  html += '<div class="col"><div class="col-title blue">📰 财经热词</div>';
+  var matched=news.matched||[];
+  for (var i=0;i<matched.length;i++) {
+    html += '<span style="background:rgba(34,197,94,0.2);padding:2px 6px;border-radius:3px;margin:2px;font-size:0.75rem;display:inline-block">'+esc(matched[i][0])+'</span>';
+  }
+  html += '<br><br>';
+  var nw=news.new_words||[];
+  for (var i=0;i<Math.min(nw.length,8);i++) {
+    html += '<span style="background:rgba(139,92,246,0.2);color:#a78bfa;padding:2px 6px;border-radius:3px;margin:2px;font-size:0.75rem;display:inline-block">'+esc(nw[i][0])+'</span>';
+  }
+  html += '</div></div>';
+
+  // 潜力股表
+  html += '<div class="card"><div class="title">🎯 政策匹配潜力股</div>';
+  var opps = cross.opportunities||[];
+  html += '<table><tr><th>代码</th><th>名称</th><th>行业</th><th>评分</th><th>理由</th></tr>';
+  for (var i=0;i<Math.min(opps.length,10);i++) {
+    var o=opps[i];
+    html += '<tr><td>'+esc(o.code)+'</td><td>'+esc(o.name)+'</td><td>'+esc(o.industry||'-')+'</td><td style="color:#22c55e;font-weight:700">'+o.score+'</td><td>'+esc((o.reasons||[]).join(' | '))+'</td></tr>';
+  }
+  html += '</table></div>';
+
+  // AI摘要
+  html += '<div class="card summary">';
+  if (hits.length) html += '<p><b>🔀 共振：</b>'+hits.map(function(h){return h.industry}).join('、')+'</p>';
+  if (misses.length) html += '<p><b>⏳ 待兑现机会：</b>'+misses.slice(0,4).map(function(m){return m.industry}).join('、')+'</p>';
+  if (opps.length) html += '<p><b>🎯 建议关注：</b>'+opps.slice(0,3).map(function(o){return o.name+'('+o.code+')'}).join('、')+'</p>';
+  html += '</div>';
+
+  document.getElementById('app').innerHTML = html;
+})();
+</script>
 </body>
 </html>
